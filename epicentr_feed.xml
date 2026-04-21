@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-20 14:30">
+<yml_catalog date="2026-04-21 06:44">
   <offers>
-    <offer id="33703-L-Black" available="false">
+    <offer id="33703-L-Black" available="true">
       <name lang="ru">Чемодан Snowball 33703 большой 101л черный (33703-L-Black)</name>
       <name lang="ua">Валіза Snowball 33703 велика 101л чорна (33703-L-Black)</name>
       <price>3250</price>
@@ -937,7 +937,7 @@
       <length>30</length>
       <weight>4000</weight>
     </offer>
-    <offer id="33703-M-Black" available="false">
+    <offer id="33703-M-Black" available="true">
       <name lang="ru">Чемодан Snowball 33703 средний 69л черный (33703-M-Black)</name>
       <name lang="ua">Валіза Snowball 33703 середня 69л чорна (33703-M-Black)</name>
       <price>3150</price>
@@ -993,7 +993,7 @@
       <length>24</length>
       <weight>4000</weight>
     </offer>
-    <offer id="33703-M-White" available="false">
+    <offer id="33703-M-White" available="true">
       <name lang="ru">Чемодан Snowball 33703 средний 69л белый (33703-M-White)</name>
       <name lang="ua">Валіза Snowball 33703 середня 69л біла (33703-M-White)</name>
       <price>3150</price>
@@ -1021,7 +1021,7 @@
       <length>24</length>
       <weight>4000</weight>
     </offer>
-    <offer id="33703-M-Champagne" available="false">
+    <offer id="33703-M-Champagne" available="true">
       <name lang="ru">Чемодан Snowball 33703 средний 69л шампань (3703-М-Champagne)</name>
       <name lang="ua">Валіза Snowball 33703 середня 69л шампань (3703-М-Champagne)</name>
       <price>3150</price>
@@ -3090,7 +3090,7 @@
       <length>23</length>
       <weight>3000</weight>
     </offer>
-    <offer id="42203-M-Purple" available="false">
+    <offer id="42203-M-Purple" available="true">
       <name lang="ru">Чемодан Madisson 42203 средний 68л фиолетовый (42203-M-Purple)</name>
       <name lang="ua">Валіза Madisson 42203 середня 68л фіолетова (42203-M-Purple)</name>
       <price>2000</price>
@@ -3165,7 +3165,7 @@
       <length>23</length>
       <weight>3000</weight>
     </offer>
-    <offer id="42203-M-DarkBlue" available="false">
+    <offer id="42203-M-DarkBlue" available="true">
       <name lang="ru">Чемодан Madisson 42203 средний 68л темно-синий (42203-M-DarkBlue)</name>
       <name lang="ua">Валіза Madisson 42203 середня 68л темно-синя (42203-M-DarkBlue)</name>
       <price>2000</price>
@@ -3290,7 +3290,7 @@
       <length>27</length>
       <weight>4000</weight>
     </offer>
-    <offer id="63703-M-Black" available="false">
+    <offer id="63703-M-Black" available="true">
       <name lang="ru">Чемодан Madisson 63703 средний 65л черный (63703-M-Black)</name>
       <name lang="ua">Валіза Madisson 63703 середня 65л чорна (63703-M-Black)</name>
       <price>2100</price>
@@ -3315,7 +3315,7 @@
       <length>27</length>
       <weight>4000</weight>
     </offer>
-    <offer id="63703-L-Milk" available="false">
+    <offer id="63703-L-Milk" available="true">
       <name lang="ru">Чемодан Madisson 63703 большой 100л кремовый (63703-L-Milk)</name>
       <name lang="ua">Валіза Madisson 63703 велика 100л кремова (63703-L-Milk)</name>
       <price>2200</price>
@@ -3340,7 +3340,7 @@
       <length>31</length>
       <weight>5000</weight>
     </offer>
-    <offer id="63703-L-Black" available="false">
+    <offer id="63703-L-Black" available="true">
       <name lang="ru">Чемодан Madisson 63703 большой 100л черный (63703-L-Black)</name>
       <name lang="ua">Валіза Madisson 63703 велика 100л чорна (63703-L-Black)</name>
       <price>2200</price>
@@ -5021,6 +5021,81 @@
       <height>55</height>
       <width>39</width>
       <length>20</length>
+      <weight>3000</weight>
+    </offer>
+    <offer id="63703-L-Champagne" available="true">
+      <name lang="ru">Чемодан Madisson 63703 большой 100л шампань (63703-L-Champagne)</name>
+      <name lang="ua">Валіза Madisson 63703 велика 100л шампань (63703-L-Champagne)</name>
+      <price>2200</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
+      <vendor code="madisson">Madisson</vendor>
+      <description lang="ru">Чемодан Madisson 63703 большой 100л шампань (63703-L-Champagne)</description>
+      <description lang="ua">Валіза Madisson 63703 велика 100л шампань (63703-L-Champagne)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-shampan-63703-l-champagne-25562419345334_+42da65d888.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-shampan-63703-l-champagne-94187527123854_+47bf9ff4d5.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-shampan-63703-l-champagne-74256239519187_+5640232ba1.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-shampan-63703-l-champagne-77659407086887_+0a7540d329.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-shampan-63703-l-champagne-15185930139201_+db09321492.jpg</picture>
+      <param name="Вид" paramcode="2" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="491" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="9" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="7313" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+      <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <height>76</height>
+      <width>50</width>
+      <length>31</length>
+      <weight>5000</weight>
+    </offer>
+    <offer id="63703-M-Champagne" available="true">
+      <name lang="ru">Чемодан Madisson 63703 средний 65л шампань (63703-M-Champagne)</name>
+      <name lang="ua">Валіза Madisson 63703 середня 65л шампань (63703-M-Champagne)</name>
+      <price>2100</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
+      <vendor code="madisson">Madisson</vendor>
+      <description lang="ru">Чемодан Madisson 63703 средний 65л шампань (63703-M-Champagne)</description>
+      <description lang="ua">Валіза Madisson 63703 середня 65л шампань (63703-M-Champagne)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-serednia-65l-shampan-63703-m-champagne-47264362751912_+f7fadc1dd7.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-serednia-65l-shampan-63703-m-champagne-93100543296651_+42c484d38d.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-serednia-65l-shampan-63703-m-champagne-79186355162895_+47dbaa0fe0.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-serednia-65l-shampan-63703-m-champagne-30833518708429_+333bad5df0.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-serednia-65l-shampan-63703-m-champagne-90502182331970_+50be4e29ce.jpg</picture>
+      <param name="Вид" paramcode="2" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="491" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="9" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="7313" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+      <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <height>66</height>
+      <width>44</width>
+      <length>27</length>
+      <weight>4000</weight>
+    </offer>
+    <offer id="63703-S-Champagne" available="true">
+      <name lang="ru">Чемодан Madisson 63703 малый 37л шампань (63703-S-Champagne)</name>
+      <name lang="ua">Валіза Madisson 63703 мала 37л шампань (63703-S-Champagne)</name>
+      <price>1550</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
+      <vendor code="madisson">Madisson</vendor>
+      <description lang="ru">Чемодан Madisson 63703 малый 37л шампань (63703-S-Champagne)</description>
+      <description lang="ua">Валіза Madisson 63703 мала 37л шампань (63703-S-Champagne)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/14/valiza-madisson-63703-mala-37l-shampan-63703-s-champagne-48830732330670_+0f70192808.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/14/valiza-madisson-63703-mala-37l-shampan-63703-s-champagne-91733254469116_+b8a0858aac.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/14/valiza-madisson-63703-mala-37l-shampan-63703-s-champagne-55406396178455_+21306633a2.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/14/valiza-madisson-63703-mala-37l-shampan-63703-s-champagne-28037158945872_+04545df713.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/14/valiza-madisson-63703-mala-37l-shampan-63703-s-champagne-61726922933234_+388001a15c.jpg</picture>
+      <param name="Вид" paramcode="2" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="491" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="9" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="7313" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+      <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
+      <height>55</height>
+      <width>39</width>
+      <length>21</length>
       <weight>3000</weight>
     </offer>
   </offers>
