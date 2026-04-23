@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-23 13:30">
+<yml_catalog date="2026-04-23 13:40">
   <offers>
     <offer id="33703-L-Black" available="true">
       <name lang="ru">Чемодан Snowball 33703 большой 101л черный (33703-L-Black)</name>
@@ -28,7 +28,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">101</param>
       <height>750</height>
-      <param name="110">75</param>
+      <param name="Висота" paramcode="110">75</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>280</length>
@@ -63,7 +63,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">101</param>
       <height>750</height>
-      <param name="110">75</param>
+      <param name="Висота" paramcode="110">75</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>280</length>
@@ -98,7 +98,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">101</param>
       <height>750</height>
-      <param name="110">75</param>
+      <param name="Висота" paramcode="110">75</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>280</length>
@@ -133,7 +133,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">101</param>
       <height>750</height>
-      <param name="110">75</param>
+      <param name="Висота" paramcode="110">75</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>280</length>
@@ -160,7 +160,7 @@
       <param name="Базовий колір" paramcode="7313" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
       <param name="Обʼєм" paramcode="17">104</param>
       <height>740</height>
-      <param name="110">74</param>
+      <param name="Висота" paramcode="110">74</param>
       <width>490</width>
       <param name="Ширина" paramcode="20">49</param>
       <length>310</length>
@@ -187,7 +187,7 @@
       <param name="Базовий колір" paramcode="7313" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
       <param name="Обʼєм" paramcode="17">104</param>
       <height>740</height>
-      <param name="110">74</param>
+      <param name="Висота" paramcode="110">74</param>
       <width>490</width>
       <param name="Ширина" paramcode="20">49</param>
       <length>310</length>
@@ -214,7 +214,7 @@
       <param name="Базовий колір" paramcode="7313" valuecode="59474de51f852">сірий</param>
       <param name="Обʼєм" paramcode="17">104</param>
       <height>740</height>
-      <param name="110">74</param>
+      <param name="Висота" paramcode="110">74</param>
       <width>490</width>
       <param name="Ширина" paramcode="20">49</param>
       <length>310</length>
@@ -241,7 +241,7 @@
       <param name="Базовий колір" paramcode="7313" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
       <param name="Обʼєм" paramcode="17">104</param>
       <height>740</height>
-      <param name="110">74</param>
+      <param name="Висота" paramcode="110">74</param>
       <width>490</width>
       <param name="Ширина" paramcode="20">49</param>
       <length>310</length>
@@ -268,7 +268,7 @@
       <param name="Базовий колір" paramcode="7313" valuecode="bb2cdbcc657af3ddad8c2eed3c72859c">жовтий</param>
       <param name="Обʼєм" paramcode="17">104</param>
       <height>740</height>
-      <param name="110">74</param>
+      <param name="Висота" paramcode="110">74</param>
       <width>490</width>
       <param name="Ширина" paramcode="20">49</param>
       <length>310</length>
@@ -303,7 +303,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">99</param>
       <height>770</height>
-      <param name="110">77</param>
+      <param name="Висота" paramcode="110">77</param>
       <width>480</width>
       <param name="Ширина" paramcode="20">48</param>
       <length>310</length>
@@ -332,7 +332,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">99</param>
       <height>770</height>
-      <param name="110">77</param>
+      <param name="Висота" paramcode="110">77</param>
       <width>480</width>
       <param name="Ширина" paramcode="20">48</param>
       <length>310</length>
@@ -367,7 +367,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">99</param>
       <height>770</height>
-      <param name="110">77</param>
+      <param name="Висота" paramcode="110">77</param>
       <width>480</width>
       <param name="Ширина" paramcode="20">48</param>
       <length>310</length>
@@ -402,7 +402,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">99</param>
       <height>770</height>
-      <param name="110">77</param>
+      <param name="Висота" paramcode="110">77</param>
       <width>480</width>
       <param name="Ширина" paramcode="20">48</param>
       <length>310</length>
@@ -432,7 +432,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">99</param>
       <height>770</height>
-      <param name="110">77</param>
+      <param name="Висота" paramcode="110">77</param>
       <width>480</width>
       <param name="Ширина" paramcode="20">48</param>
       <length>310</length>
@@ -459,7 +459,7 @@
       <param name="Базовий колір" paramcode="7313" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
       <param name="Обʼєм" paramcode="17">109</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>510</width>
       <param name="Ширина" paramcode="20">51</param>
       <length>310</length>
@@ -488,7 +488,7 @@
       <param name="Базовий колір" paramcode="7313" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
       <param name="Обʼєм" paramcode="17">109</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>510</width>
       <param name="Ширина" paramcode="20">51</param>
       <length>310</length>
@@ -522,7 +522,7 @@
       <param name="Базовий колір" paramcode="7313" valuecode="2e96b43de658554c4bcc7b6edae777c2">коричневий</param>
       <param name="Обʼєм" paramcode="17">113</param>
       <height>770</height>
-      <param name="110">77</param>
+      <param name="Висота" paramcode="110">77</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>310</length>
@@ -556,7 +556,7 @@
       <param name="Базовий колір" paramcode="7313" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
       <param name="Обʼєм" paramcode="17">113</param>
       <height>770</height>
-      <param name="110">77</param>
+      <param name="Висота" paramcode="110">77</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>310</length>
@@ -591,7 +591,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">105</param>
       <height>770</height>
-      <param name="110">77</param>
+      <param name="Висота" paramcode="110">77</param>
       <width>510</width>
       <param name="Ширина" paramcode="20">51</param>
       <length>300</length>
@@ -626,7 +626,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">105</param>
       <height>770</height>
-      <param name="110">77</param>
+      <param name="Висота" paramcode="110">77</param>
       <width>510</width>
       <param name="Ширина" paramcode="20">51</param>
       <length>300</length>
@@ -654,7 +654,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>750</height>
-      <param name="110">75</param>
+      <param name="Висота" paramcode="110">75</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>300</length>
@@ -682,7 +682,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>750</height>
-      <param name="110">75</param>
+      <param name="Висота" paramcode="110">75</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>300</length>
@@ -717,7 +717,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>740</height>
-      <param name="110">74</param>
+      <param name="Висота" paramcode="110">74</param>
       <width>490</width>
       <param name="Ширина" paramcode="20">49</param>
       <length>300</length>
@@ -752,7 +752,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>740</height>
-      <param name="110">74</param>
+      <param name="Висота" paramcode="110">74</param>
       <width>490</width>
       <param name="Ширина" paramcode="20">49</param>
       <length>300</length>
@@ -787,7 +787,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>740</height>
-      <param name="110">74</param>
+      <param name="Висота" paramcode="110">74</param>
       <width>490</width>
       <param name="Ширина" paramcode="20">49</param>
       <length>300</length>
@@ -821,7 +821,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>750</height>
-      <param name="110">75</param>
+      <param name="Висота" paramcode="110">75</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>300</length>
@@ -855,7 +855,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>750</height>
-      <param name="110">75</param>
+      <param name="Висота" paramcode="110">75</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>300</length>
@@ -890,7 +890,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">95</param>
       <height>750</height>
-      <param name="110">75</param>
+      <param name="Висота" paramcode="110">75</param>
       <width>480</width>
       <param name="Ширина" paramcode="20">48</param>
       <length>300</length>
@@ -924,7 +924,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">95</param>
       <height>750</height>
-      <param name="110">75</param>
+      <param name="Висота" paramcode="110">75</param>
       <width>480</width>
       <param name="Ширина" paramcode="20">48</param>
       <length>300</length>
@@ -959,7 +959,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">95</param>
       <height>750</height>
-      <param name="110">75</param>
+      <param name="Висота" paramcode="110">75</param>
       <width>480</width>
       <param name="Ширина" paramcode="20">48</param>
       <length>300</length>
@@ -994,7 +994,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>300</length>
@@ -1029,7 +1029,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>300</length>
@@ -1065,7 +1065,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>300</length>
@@ -1100,7 +1100,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>300</length>
@@ -1136,7 +1136,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>300</length>
@@ -1172,7 +1172,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>300</length>
@@ -1207,7 +1207,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">69</param>
       <height>650</height>
-      <param name="110">65</param>
+      <param name="Висота" paramcode="110">65</param>
       <width>450</width>
       <param name="Ширина" paramcode="20">45</param>
       <length>240</length>
@@ -1242,7 +1242,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">69</param>
       <height>650</height>
-      <param name="110">65</param>
+      <param name="Висота" paramcode="110">65</param>
       <width>450</width>
       <param name="Ширина" paramcode="20">45</param>
       <length>240</length>
@@ -1277,7 +1277,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">69</param>
       <height>650</height>
-      <param name="110">65</param>
+      <param name="Висота" paramcode="110">65</param>
       <width>450</width>
       <param name="Ширина" paramcode="20">45</param>
       <length>240</length>
@@ -1312,7 +1312,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">69</param>
       <height>650</height>
-      <param name="110">65</param>
+      <param name="Висота" paramcode="110">65</param>
       <width>450</width>
       <param name="Ширина" paramcode="20">45</param>
       <length>240</length>
@@ -1340,7 +1340,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">68</param>
       <height>650</height>
-      <param name="110">65</param>
+      <param name="Висота" paramcode="110">65</param>
       <width>430</width>
       <param name="Ширина" paramcode="20">43</param>
       <length>260</length>
@@ -1368,7 +1368,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">68</param>
       <height>650</height>
-      <param name="110">65</param>
+      <param name="Висота" paramcode="110">65</param>
       <width>430</width>
       <param name="Ширина" paramcode="20">43</param>
       <length>260</length>
@@ -1396,7 +1396,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">68</param>
       <height>650</height>
-      <param name="110">65</param>
+      <param name="Висота" paramcode="110">65</param>
       <width>430</width>
       <param name="Ширина" paramcode="20">43</param>
       <length>260</length>
@@ -1424,7 +1424,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">68</param>
       <height>650</height>
-      <param name="110">65</param>
+      <param name="Висота" paramcode="110">65</param>
       <width>430</width>
       <param name="Ширина" paramcode="20">43</param>
       <length>260</length>
@@ -1452,7 +1452,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">68</param>
       <height>650</height>
-      <param name="110">65</param>
+      <param name="Висота" paramcode="110">65</param>
       <width>430</width>
       <param name="Ширина" paramcode="20">43</param>
       <length>260</length>
@@ -1487,7 +1487,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">65</param>
       <height>670</height>
-      <param name="110">67</param>
+      <param name="Висота" paramcode="110">67</param>
       <width>430</width>
       <param name="Ширина" paramcode="20">43</param>
       <length>260</length>
@@ -1516,7 +1516,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">65</param>
       <height>670</height>
-      <param name="110">67</param>
+      <param name="Висота" paramcode="110">67</param>
       <width>430</width>
       <param name="Ширина" paramcode="20">43</param>
       <length>260</length>
@@ -1551,7 +1551,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">65</param>
       <height>670</height>
-      <param name="110">67</param>
+      <param name="Висота" paramcode="110">67</param>
       <width>430</width>
       <param name="Ширина" paramcode="20">43</param>
       <length>260</length>
@@ -1586,7 +1586,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">65</param>
       <height>670</height>
-      <param name="110">67</param>
+      <param name="Висота" paramcode="110">67</param>
       <width>430</width>
       <param name="Ширина" paramcode="20">43</param>
       <length>260</length>
@@ -1616,7 +1616,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">65</param>
       <height>670</height>
-      <param name="110">67</param>
+      <param name="Висота" paramcode="110">67</param>
       <width>430</width>
       <param name="Ширина" paramcode="20">43</param>
       <length>260</length>
@@ -1644,7 +1644,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">73</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>450</width>
       <param name="Ширина" paramcode="20">45</param>
       <length>270</length>
@@ -1674,7 +1674,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">73</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>450</width>
       <param name="Ширина" paramcode="20">45</param>
       <length>270</length>
@@ -1709,7 +1709,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">69</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>440</width>
       <param name="Ширина" paramcode="20">44</param>
       <length>280</length>
@@ -1744,7 +1744,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">69</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>440</width>
       <param name="Ширина" paramcode="20">44</param>
       <length>280</length>
@@ -1779,7 +1779,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">65</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>450</width>
       <param name="Ширина" paramcode="20">45</param>
       <length>250</length>
@@ -1814,7 +1814,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">65</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>450</width>
       <param name="Ширина" paramcode="20">45</param>
       <length>250</length>
@@ -1842,7 +1842,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>670</height>
-      <param name="110">67</param>
+      <param name="Висота" paramcode="110">67</param>
       <width>430</width>
       <param name="Ширина" paramcode="20">43</param>
       <length>260</length>
@@ -1870,7 +1870,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>670</height>
-      <param name="110">67</param>
+      <param name="Висота" paramcode="110">67</param>
       <width>430</width>
       <param name="Ширина" paramcode="20">43</param>
       <length>260</length>
@@ -1905,7 +1905,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>650</height>
-      <param name="110">65</param>
+      <param name="Висота" paramcode="110">65</param>
       <width>440</width>
       <param name="Ширина" paramcode="20">44</param>
       <length>250</length>
@@ -1940,7 +1940,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>650</height>
-      <param name="110">65</param>
+      <param name="Висота" paramcode="110">65</param>
       <width>440</width>
       <param name="Ширина" paramcode="20">44</param>
       <length>250</length>
@@ -1975,7 +1975,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>650</height>
-      <param name="110">65</param>
+      <param name="Висота" paramcode="110">65</param>
       <width>440</width>
       <param name="Ширина" paramcode="20">44</param>
       <length>250</length>
@@ -2009,7 +2009,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>650</height>
-      <param name="110">65</param>
+      <param name="Висота" paramcode="110">65</param>
       <width>440</width>
       <param name="Ширина" paramcode="20">44</param>
       <length>250</length>
@@ -2043,7 +2043,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>650</height>
-      <param name="110">65</param>
+      <param name="Висота" paramcode="110">65</param>
       <width>440</width>
       <param name="Ширина" paramcode="20">44</param>
       <length>250</length>
@@ -2078,7 +2078,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>420</width>
       <param name="Ширина" paramcode="20">42</param>
       <length>270</length>
@@ -2112,7 +2112,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>420</width>
       <param name="Ширина" paramcode="20">42</param>
       <length>270</length>
@@ -2147,7 +2147,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>420</width>
       <param name="Ширина" paramcode="20">42</param>
       <length>270</length>
@@ -2182,7 +2182,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>440</width>
       <param name="Ширина" paramcode="20">44</param>
       <length>260</length>
@@ -2217,7 +2217,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>440</width>
       <param name="Ширина" paramcode="20">44</param>
       <length>260</length>
@@ -2252,7 +2252,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>440</width>
       <param name="Ширина" paramcode="20">44</param>
       <length>260</length>
@@ -2287,7 +2287,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>440</width>
       <param name="Ширина" paramcode="20">44</param>
       <length>260</length>
@@ -2322,7 +2322,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>440</width>
       <param name="Ширина" paramcode="20">44</param>
       <length>260</length>
@@ -2357,7 +2357,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">36</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>380</width>
       <param name="Ширина" paramcode="20">38</param>
       <length>200</length>
@@ -2392,7 +2392,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">36</param>
       <height>570</height>
-      <param name="110">57</param>
+      <param name="Висота" paramcode="110">57</param>
       <width>390</width>
       <param name="Ширина" paramcode="20">39</param>
       <length>200</length>
@@ -2427,7 +2427,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">36</param>
       <height>570</height>
-      <param name="110">57</param>
+      <param name="Висота" paramcode="110">57</param>
       <width>390</width>
       <param name="Ширина" paramcode="20">39</param>
       <length>200</length>
@@ -2462,7 +2462,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">36</param>
       <height>570</height>
-      <param name="110">57</param>
+      <param name="Висота" paramcode="110">57</param>
       <width>390</width>
       <param name="Ширина" paramcode="20">39</param>
       <length>200</length>
@@ -2490,7 +2490,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">36</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>360</width>
       <param name="Ширина" paramcode="20">36</param>
       <length>240</length>
@@ -2518,7 +2518,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">36</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>360</width>
       <param name="Ширина" paramcode="20">36</param>
       <length>240</length>
@@ -2546,7 +2546,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">36</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>360</width>
       <param name="Ширина" paramcode="20">36</param>
       <length>240</length>
@@ -2574,7 +2574,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">36</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>360</width>
       <param name="Ширина" paramcode="20">36</param>
       <length>240</length>
@@ -2602,7 +2602,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">36</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>360</width>
       <param name="Ширина" paramcode="20">36</param>
       <length>240</length>
@@ -2638,7 +2638,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>570</height>
-      <param name="110">57</param>
+      <param name="Висота" paramcode="110">57</param>
       <width>380</width>
       <param name="Ширина" paramcode="20">38</param>
       <length>230</length>
@@ -2667,7 +2667,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>570</height>
-      <param name="110">57</param>
+      <param name="Висота" paramcode="110">57</param>
       <width>380</width>
       <param name="Ширина" paramcode="20">38</param>
       <length>230</length>
@@ -2702,7 +2702,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>570</height>
-      <param name="110">57</param>
+      <param name="Висота" paramcode="110">57</param>
       <width>380</width>
       <param name="Ширина" paramcode="20">38</param>
       <length>230</length>
@@ -2738,7 +2738,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>570</height>
-      <param name="110">57</param>
+      <param name="Висота" paramcode="110">57</param>
       <width>380</width>
       <param name="Ширина" paramcode="20">38</param>
       <length>230</length>
@@ -2768,7 +2768,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>570</height>
-      <param name="110">57</param>
+      <param name="Висота" paramcode="110">57</param>
       <width>380</width>
       <param name="Ширина" paramcode="20">38</param>
       <length>230</length>
@@ -2796,7 +2796,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">39</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>390</width>
       <param name="Ширина" paramcode="20">39</param>
       <length>220</length>
@@ -2826,7 +2826,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">39</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>390</width>
       <param name="Ширина" paramcode="20">39</param>
       <length>220</length>
@@ -2861,7 +2861,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">36</param>
       <height>560</height>
-      <param name="110">56</param>
+      <param name="Висота" paramcode="110">56</param>
       <width>390</width>
       <param name="Ширина" paramcode="20">39</param>
       <length>220</length>
@@ -2896,7 +2896,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">36</param>
       <height>560</height>
-      <param name="110">56</param>
+      <param name="Висота" paramcode="110">56</param>
       <width>390</width>
       <param name="Ширина" paramcode="20">39</param>
       <length>220</length>
@@ -2931,7 +2931,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">46</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>380</width>
       <param name="Ширина" paramcode="20">38</param>
       <length>220</length>
@@ -2966,7 +2966,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">46</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>380</width>
       <param name="Ширина" paramcode="20">38</param>
       <length>220</length>
@@ -2995,7 +2995,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>560</height>
-      <param name="110">56</param>
+      <param name="Висота" paramcode="110">56</param>
       <width>370</width>
       <param name="Ширина" paramcode="20">37</param>
       <length>230</length>
@@ -3024,7 +3024,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>560</height>
-      <param name="110">56</param>
+      <param name="Висота" paramcode="110">56</param>
       <width>370</width>
       <param name="Ширина" paramcode="20">37</param>
       <length>230</length>
@@ -3059,7 +3059,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>390</width>
       <param name="Ширина" paramcode="20">39</param>
       <length>210</length>
@@ -3094,7 +3094,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>390</width>
       <param name="Ширина" paramcode="20">39</param>
       <length>210</length>
@@ -3129,7 +3129,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>390</width>
       <param name="Ширина" paramcode="20">39</param>
       <length>210</length>
@@ -3162,7 +3162,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>400</width>
       <param name="Ширина" paramcode="20">40</param>
       <length>210</length>
@@ -3195,7 +3195,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>400</width>
       <param name="Ширина" paramcode="20">40</param>
       <length>210</length>
@@ -3231,7 +3231,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">40</param>
       <height>560</height>
-      <param name="110">56</param>
+      <param name="Висота" paramcode="110">56</param>
       <width>360</width>
       <param name="Ширина" paramcode="20">36</param>
       <length>220</length>
@@ -3266,7 +3266,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">40</param>
       <height>560</height>
-      <param name="110">56</param>
+      <param name="Висота" paramcode="110">56</param>
       <width>360</width>
       <param name="Ширина" paramcode="20">36</param>
       <length>220</length>
@@ -3302,7 +3302,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">40</param>
       <height>560</height>
-      <param name="110">56</param>
+      <param name="Висота" paramcode="110">56</param>
       <width>360</width>
       <param name="Ширина" paramcode="20">36</param>
       <length>220</length>
@@ -3338,7 +3338,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>400</width>
       <param name="Ширина" paramcode="20">40</param>
       <length>220</length>
@@ -3373,7 +3373,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>400</width>
       <param name="Ширина" paramcode="20">40</param>
       <length>220</length>
@@ -3409,7 +3409,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>400</width>
       <param name="Ширина" paramcode="20">40</param>
       <length>220</length>
@@ -3444,7 +3444,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>400</width>
       <param name="Ширина" paramcode="20">40</param>
       <length>220</length>
@@ -3480,7 +3480,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>400</width>
       <param name="Ширина" paramcode="20">40</param>
       <length>220</length>
@@ -3516,7 +3516,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>400</width>
       <param name="Ширина" paramcode="20">40</param>
       <length>220</length>
@@ -3544,7 +3544,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">20</param>
       <height>400</height>
-      <param name="110">40</param>
+      <param name="Висота" paramcode="110">40</param>
       <width>200</width>
       <param name="Ширина" paramcode="20">20</param>
       <length>250</length>
@@ -3572,7 +3572,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">20</param>
       <height>400</height>
-      <param name="110">40</param>
+      <param name="Висота" paramcode="110">40</param>
       <width>200</width>
       <param name="Ширина" paramcode="20">20</param>
       <length>250</length>
@@ -3603,7 +3603,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">15</param>
       <height>300</height>
-      <param name="110">30</param>
+      <param name="Висота" paramcode="110">30</param>
       <width>350</width>
       <param name="Ширина" paramcode="20">35</param>
       <length>180</length>
@@ -3633,7 +3633,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">15</param>
       <height>300</height>
-      <param name="110">30</param>
+      <param name="Висота" paramcode="110">30</param>
       <width>350</width>
       <param name="Ширина" paramcode="20">35</param>
       <length>180</length>
@@ -3666,7 +3666,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">15</param>
       <height>300</height>
-      <param name="110">30</param>
+      <param name="Висота" paramcode="110">30</param>
       <width>350</width>
       <param name="Ширина" paramcode="20">35</param>
       <length>180</length>
@@ -3698,7 +3698,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">15</param>
       <height>300</height>
-      <param name="110">30</param>
+      <param name="Висота" paramcode="110">30</param>
       <width>350</width>
       <param name="Ширина" paramcode="20">35</param>
       <length>180</length>
@@ -3728,7 +3728,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">15</param>
       <height>300</height>
-      <param name="110">30</param>
+      <param name="Висота" paramcode="110">30</param>
       <width>350</width>
       <param name="Ширина" paramcode="20">35</param>
       <length>180</length>
@@ -3758,7 +3758,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">15</param>
       <height>300</height>
-      <param name="110">30</param>
+      <param name="Висота" paramcode="110">30</param>
       <width>350</width>
       <param name="Ширина" paramcode="20">35</param>
       <length>180</length>
@@ -3790,7 +3790,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">15</param>
       <height>280</height>
-      <param name="110">28</param>
+      <param name="Висота" paramcode="110">28</param>
       <width>340</width>
       <param name="Ширина" paramcode="20">34</param>
       <length>190</length>
@@ -3826,7 +3826,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">15</param>
       <height>280</height>
-      <param name="110">28</param>
+      <param name="Висота" paramcode="110">28</param>
       <width>340</width>
       <param name="Ширина" paramcode="20">34</param>
       <length>190</length>
@@ -3859,7 +3859,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">13</param>
       <height>240</height>
-      <param name="110">24</param>
+      <param name="Висота" paramcode="110">24</param>
       <width>300</width>
       <param name="Ширина" paramcode="20">30</param>
       <length>170</length>
@@ -3895,7 +3895,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">13</param>
       <height>240</height>
-      <param name="110">24</param>
+      <param name="Висота" paramcode="110">24</param>
       <width>300</width>
       <param name="Ширина" paramcode="20">30</param>
       <length>170</length>
@@ -3927,7 +3927,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">39</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>380</width>
       <param name="Ширина" paramcode="20">38</param>
       <length>230</length>
@@ -3959,7 +3959,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">68</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>450</width>
       <param name="Ширина" paramcode="20">45</param>
       <length>270</length>
@@ -3990,7 +3990,7 @@
       <param name="Базовий колір" paramcode="7313" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
       <param name="Обʼєм" paramcode="17">103</param>
       <height>750</height>
-      <param name="110">75</param>
+      <param name="Висота" paramcode="110">75</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>310</length>
@@ -4022,7 +4022,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">39</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>380</width>
       <param name="Ширина" paramcode="20">38</param>
       <length>230</length>
@@ -4054,7 +4054,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">68</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>450</width>
       <param name="Ширина" paramcode="20">45</param>
       <length>270</length>
@@ -4085,7 +4085,7 @@
       <param name="Базовий колір" paramcode="7313" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
       <param name="Обʼєм" paramcode="17">103</param>
       <height>750</height>
-      <param name="110">75</param>
+      <param name="Висота" paramcode="110">75</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>310</length>
@@ -4117,7 +4117,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">37</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>390</width>
       <param name="Ширина" paramcode="20">39</param>
       <length>210</length>
@@ -4149,7 +4149,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">37</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>390</width>
       <param name="Ширина" paramcode="20">39</param>
       <length>210</length>
@@ -4181,7 +4181,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">65</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>440</width>
       <param name="Ширина" paramcode="20">44</param>
       <length>270</length>
@@ -4213,7 +4213,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">65</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>440</width>
       <param name="Ширина" paramcode="20">44</param>
       <length>270</length>
@@ -4244,7 +4244,7 @@
       <param name="Базовий колір" paramcode="7313" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
       <param name="Обʼєм" paramcode="17">100</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>310</length>
@@ -4275,7 +4275,7 @@
       <param name="Базовий колір" paramcode="7313" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
       <param name="Обʼєм" paramcode="17">100</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>310</length>
@@ -4307,7 +4307,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">34</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>350</width>
       <param name="Ширина" paramcode="20">35</param>
       <length>200</length>
@@ -4339,7 +4339,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">80</param>
       <height>670</height>
-      <param name="110">67</param>
+      <param name="Висота" paramcode="110">67</param>
       <width>470</width>
       <param name="Ширина" paramcode="20">47</param>
       <length>290</length>
@@ -4371,7 +4371,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">116</param>
       <height>750</height>
-      <param name="110">75</param>
+      <param name="Висота" paramcode="110">75</param>
       <width>520</width>
       <param name="Ширина" paramcode="20">52</param>
       <length>310</length>
@@ -4399,7 +4399,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>750</height>
-      <param name="110">75</param>
+      <param name="Висота" paramcode="110">75</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>300</length>
@@ -4427,7 +4427,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>700</height>
-      <param name="110">70</param>
+      <param name="Висота" paramcode="110">70</param>
       <width>440</width>
       <param name="Ширина" paramcode="20">44</param>
       <length>260</length>
@@ -4455,7 +4455,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>560</height>
-      <param name="110">56</param>
+      <param name="Висота" paramcode="110">56</param>
       <width>380</width>
       <param name="Ширина" paramcode="20">38</param>
       <length>220</length>
@@ -4483,7 +4483,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>300</length>
@@ -4511,7 +4511,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>440</width>
       <param name="Ширина" paramcode="20">44</param>
       <length>260</length>
@@ -4539,7 +4539,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>560</height>
-      <param name="110">56</param>
+      <param name="Висота" paramcode="110">56</param>
       <width>380</width>
       <param name="Ширина" paramcode="20">38</param>
       <length>220</length>
@@ -4572,7 +4572,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">40</param>
       <height>560</height>
-      <param name="110">56</param>
+      <param name="Висота" paramcode="110">56</param>
       <width>380</width>
       <param name="Ширина" paramcode="20">38</param>
       <length>220</length>
@@ -4604,7 +4604,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">71</param>
       <height>640</height>
-      <param name="110">64</param>
+      <param name="Висота" paramcode="110">64</param>
       <width>440</width>
       <param name="Ширина" paramcode="20">44</param>
       <length>270</length>
@@ -4635,7 +4635,7 @@
       <param name="Базовий колір" paramcode="7313" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
       <param name="Обʼєм" paramcode="17">110</param>
       <height>740</height>
-      <param name="110">74</param>
+      <param name="Висота" paramcode="110">74</param>
       <width>510</width>
       <param name="Ширина" paramcode="20">51</param>
       <length>310</length>
@@ -4668,7 +4668,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">40</param>
       <height>560</height>
-      <param name="110">56</param>
+      <param name="Висота" paramcode="110">56</param>
       <width>380</width>
       <param name="Ширина" paramcode="20">38</param>
       <length>220</length>
@@ -4700,7 +4700,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">71</param>
       <height>640</height>
-      <param name="110">64</param>
+      <param name="Висота" paramcode="110">64</param>
       <width>440</width>
       <param name="Ширина" paramcode="20">44</param>
       <length>270</length>
@@ -4731,7 +4731,7 @@
       <param name="Базовий колір" paramcode="7313" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
       <param name="Обʼєм" paramcode="17">110</param>
       <height>740</height>
-      <param name="110">74</param>
+      <param name="Висота" paramcode="110">74</param>
       <width>510</width>
       <param name="Ширина" paramcode="20">51</param>
       <length>310</length>
@@ -4763,7 +4763,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">37</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>390</width>
       <param name="Ширина" paramcode="20">39</param>
       <length>210</length>
@@ -4795,7 +4795,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">65</param>
       <height>650</height>
-      <param name="110">65</param>
+      <param name="Висота" paramcode="110">65</param>
       <width>450</width>
       <param name="Ширина" paramcode="20">45</param>
       <length>260</length>
@@ -4827,7 +4827,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">102</param>
       <height>740</height>
-      <param name="110">74</param>
+      <param name="Висота" paramcode="110">74</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>300</length>
@@ -4857,7 +4857,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">99</param>
       <height>770</height>
-      <param name="110">77</param>
+      <param name="Висота" paramcode="110">77</param>
       <width>480</width>
       <param name="Ширина" paramcode="20">48</param>
       <length>310</length>
@@ -4887,7 +4887,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">65</param>
       <height>670</height>
-      <param name="110">67</param>
+      <param name="Висота" paramcode="110">67</param>
       <width>430</width>
       <param name="Ширина" paramcode="20">43</param>
       <length>260</length>
@@ -4917,7 +4917,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>570</height>
-      <param name="110">57</param>
+      <param name="Висота" paramcode="110">57</param>
       <width>380</width>
       <param name="Ширина" paramcode="20">38</param>
       <length>230</length>
@@ -4951,7 +4951,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">99</param>
       <height>770</height>
-      <param name="110">77</param>
+      <param name="Висота" paramcode="110">77</param>
       <width>480</width>
       <param name="Ширина" paramcode="20">48</param>
       <length>310</length>
@@ -4985,7 +4985,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">65</param>
       <height>670</height>
-      <param name="110">67</param>
+      <param name="Висота" paramcode="110">67</param>
       <width>430</width>
       <param name="Ширина" paramcode="20">43</param>
       <length>260</length>
@@ -5017,7 +5017,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>570</height>
-      <param name="110">57</param>
+      <param name="Висота" paramcode="110">57</param>
       <width>380</width>
       <param name="Ширина" paramcode="20">38</param>
       <length>230</length>
@@ -5040,7 +5040,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">32</param>
       <height>280</height>
-      <param name="110">28</param>
+      <param name="Висота" paramcode="110">28</param>
       <width>460</width>
       <param name="Ширина" paramcode="20">46</param>
       <length>250</length>
@@ -5061,7 +5061,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">32</param>
       <height>280</height>
-      <param name="110">28</param>
+      <param name="Висота" paramcode="110">28</param>
       <width>460</width>
       <param name="Ширина" paramcode="20">46</param>
       <length>250</length>
@@ -5085,7 +5085,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">67</param>
       <height>350</height>
-      <param name="110">35</param>
+      <param name="Висота" paramcode="110">35</param>
       <width>620</width>
       <param name="Ширина" paramcode="20">62</param>
       <length>310</length>
@@ -5113,7 +5113,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>450</width>
       <param name="Ширина" paramcode="20">45</param>
       <length>330</length>
@@ -5141,7 +5141,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>450</width>
       <param name="Ширина" paramcode="20">45</param>
       <length>330</length>
@@ -5169,7 +5169,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>450</width>
       <param name="Ширина" paramcode="20">45</param>
       <length>330</length>
@@ -5197,7 +5197,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>4220</width>
       <param name="Ширина" paramcode="20">422</param>
       <length>280</length>
@@ -5225,7 +5225,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>420</width>
       <param name="Ширина" paramcode="20">42</param>
       <length>280</length>
@@ -5253,7 +5253,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>420</width>
       <param name="Ширина" paramcode="20">42</param>
       <length>280</length>
@@ -5281,7 +5281,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>570</height>
-      <param name="110">57</param>
+      <param name="Висота" paramcode="110">57</param>
       <width>360</width>
       <param name="Ширина" paramcode="20">36</param>
       <length>260</length>
@@ -5309,7 +5309,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>570</height>
-      <param name="110">57</param>
+      <param name="Висота" paramcode="110">57</param>
       <width>360</width>
       <param name="Ширина" paramcode="20">36</param>
       <length>260</length>
@@ -5337,7 +5337,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>570</height>
-      <param name="110">57</param>
+      <param name="Висота" paramcode="110">57</param>
       <width>360</width>
       <param name="Ширина" paramcode="20">36</param>
       <length>260</length>
@@ -5370,7 +5370,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">102</param>
       <height>740</height>
-      <param name="110">74</param>
+      <param name="Висота" paramcode="110">74</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>300</length>
@@ -5403,7 +5403,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">102</param>
       <height>740</height>
-      <param name="110">74</param>
+      <param name="Висота" paramcode="110">74</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>300</length>
@@ -5436,7 +5436,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">102</param>
       <height>740</height>
-      <param name="110">74</param>
+      <param name="Висота" paramcode="110">74</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>300</length>
@@ -5469,7 +5469,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">65</param>
       <height>650</height>
-      <param name="110">65</param>
+      <param name="Висота" paramcode="110">65</param>
       <width>450</width>
       <param name="Ширина" paramcode="20">45</param>
       <length>260</length>
@@ -5502,7 +5502,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">65</param>
       <height>650</height>
-      <param name="110">65</param>
+      <param name="Висота" paramcode="110">65</param>
       <width>450</width>
       <param name="Ширина" paramcode="20">45</param>
       <length>260</length>
@@ -5535,7 +5535,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">65</param>
       <height>650</height>
-      <param name="110">65</param>
+      <param name="Висота" paramcode="110">65</param>
       <width>450</width>
       <param name="Ширина" paramcode="20">45</param>
       <length>260</length>
@@ -5568,7 +5568,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">37</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>390</width>
       <param name="Ширина" paramcode="20">39</param>
       <length>210</length>
@@ -5601,7 +5601,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">37</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>390</width>
       <param name="Ширина" paramcode="20">39</param>
       <length>210</length>
@@ -5634,7 +5634,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">37</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>390</width>
       <param name="Ширина" paramcode="20">39</param>
       <length>210</length>
@@ -5662,7 +5662,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>490</width>
       <param name="Ширина" paramcode="20">49</param>
       <length>290</length>
@@ -5690,7 +5690,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>490</width>
       <param name="Ширина" paramcode="20">49</param>
       <length>290</length>
@@ -5718,7 +5718,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>490</width>
       <param name="Ширина" paramcode="20">49</param>
       <length>290</length>
@@ -5746,7 +5746,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>490</width>
       <param name="Ширина" paramcode="20">49</param>
       <length>290</length>
@@ -5773,7 +5773,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">97</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>490</width>
       <param name="Ширина" paramcode="20">49</param>
       <length>290</length>
@@ -5801,7 +5801,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>430</width>
       <param name="Ширина" paramcode="20">43</param>
       <length>250</length>
@@ -5828,7 +5828,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>430</width>
       <param name="Ширина" paramcode="20">43</param>
       <length>250</length>
@@ -5856,7 +5856,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>430</width>
       <param name="Ширина" paramcode="20">43</param>
       <length>250</length>
@@ -5884,7 +5884,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>430</width>
       <param name="Ширина" paramcode="20">43</param>
       <length>250</length>
@@ -5912,7 +5912,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">63</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>430</width>
       <param name="Ширина" paramcode="20">43</param>
       <length>250</length>
@@ -5940,7 +5940,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>560</height>
-      <param name="110">56</param>
+      <param name="Висота" paramcode="110">56</param>
       <width>370</width>
       <param name="Ширина" paramcode="20">37</param>
       <length>230</length>
@@ -5968,7 +5968,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>560</height>
-      <param name="110">56</param>
+      <param name="Висота" paramcode="110">56</param>
       <width>370</width>
       <param name="Ширина" paramcode="20">37</param>
       <length>230</length>
@@ -5996,7 +5996,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>560</height>
-      <param name="110">56</param>
+      <param name="Висота" paramcode="110">56</param>
       <width>370</width>
       <param name="Ширина" paramcode="20">37</param>
       <length>230</length>
@@ -6024,7 +6024,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>560</height>
-      <param name="110">56</param>
+      <param name="Висота" paramcode="110">56</param>
       <width>370</width>
       <param name="Ширина" paramcode="20">37</param>
       <length>230</length>
@@ -6051,7 +6051,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">38</param>
       <height>560</height>
-      <param name="110">56</param>
+      <param name="Висота" paramcode="110">56</param>
       <width>370</width>
       <param name="Ширина" paramcode="20">37</param>
       <length>230</length>
@@ -6078,7 +6078,7 @@
       <param name="Базовий колір" paramcode="7313" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
       <param name="Обʼєм" paramcode="17">106</param>
       <height>800</height>
-      <param name="110">80</param>
+      <param name="Висота" paramcode="110">80</param>
       <width>490</width>
       <param name="Ширина" paramcode="20">49</param>
       <length>320</length>
@@ -6105,7 +6105,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">62</param>
       <height>690</height>
-      <param name="110">69</param>
+      <param name="Висота" paramcode="110">69</param>
       <width>440</width>
       <param name="Ширина" paramcode="20">44</param>
       <length>250</length>
@@ -6133,7 +6133,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">43</param>
       <height>560</height>
-      <param name="110">56</param>
+      <param name="Висота" paramcode="110">56</param>
       <width>350</width>
       <param name="Ширина" paramcode="20">35</param>
       <length>220</length>
@@ -6167,7 +6167,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">72</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>450</width>
       <param name="Ширина" paramcode="20">45</param>
       <length>260</length>
@@ -6200,7 +6200,7 @@
       <param name="Базовий колір" paramcode="7313" valuecode="59474de51f852">сірий</param>
       <param name="Обʼєм" paramcode="17">105</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>520</width>
       <param name="Ширина" paramcode="20">52</param>
       <length>310</length>
@@ -6235,7 +6235,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">40</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>380</width>
       <param name="Ширина" paramcode="20">38</param>
       <length>220</length>
@@ -6268,7 +6268,7 @@
       <param name="Розмір" paramcode="8427" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Обʼєм" paramcode="17">105</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>510</width>
       <param name="Ширина" paramcode="20">51</param>
       <length>280</length>
@@ -6301,7 +6301,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">65</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>440</width>
       <param name="Ширина" paramcode="20">44</param>
       <length>240</length>
@@ -6334,7 +6334,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">46</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>380</width>
       <param name="Ширина" paramcode="20">38</param>
       <length>220</length>
@@ -6366,7 +6366,7 @@
       <param name="Базовий колір" paramcode="7313" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
       <param name="Обʼєм" paramcode="17">116</param>
       <height>750</height>
-      <param name="110">75</param>
+      <param name="Висота" paramcode="110">75</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>330</length>
@@ -6399,7 +6399,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">71</param>
       <height>670</height>
-      <param name="110">67</param>
+      <param name="Висота" paramcode="110">67</param>
       <width>470</width>
       <param name="Ширина" paramcode="20">47</param>
       <length>270</length>
@@ -6432,7 +6432,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">35</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>390</width>
       <param name="Ширина" paramcode="20">39</param>
       <length>200</length>
@@ -6463,7 +6463,7 @@
       <param name="Базовий колір" paramcode="7313" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
       <param name="Обʼєм" paramcode="17">100</param>
       <height>760</height>
-      <param name="110">76</param>
+      <param name="Висота" paramcode="110">76</param>
       <width>500</width>
       <param name="Ширина" paramcode="20">50</param>
       <length>310</length>
@@ -6495,7 +6495,7 @@
       <param name="Розмір" paramcode="8427" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Обʼєм" paramcode="17">65</param>
       <height>660</height>
-      <param name="110">66</param>
+      <param name="Висота" paramcode="110">66</param>
       <width>440</width>
       <param name="Ширина" paramcode="20">44</param>
       <length>270</length>
@@ -6527,7 +6527,7 @@
       <param name="Розмір" paramcode="8427" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Обʼєм" paramcode="17">37</param>
       <height>550</height>
-      <param name="110">55</param>
+      <param name="Висота" paramcode="110">55</param>
       <width>390</width>
       <param name="Ширина" paramcode="20">39</param>
       <length>210</length>
