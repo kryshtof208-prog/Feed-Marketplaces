@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-30T10:30:06.134Z">
+<yml_catalog date="2026-04-30T15:24:05.350Z">
   <shop>
     <categories>
       <category id="1061" portal_id="2273">Валізи</category>
@@ -11,73 +11,82 @@
       <category id="1089" portal_id="2279">Рюкзаки</category>
     </categories>
     <offers>
-      <offer id="33703-M-Black" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чемодан Snowball 33703 средний 69л черный (33703-M-Black)</name_ru>
-        <name_ua>Валіза Snowball 33703 середня 69л чорна (33703-M-Black)</name_ua>
-        <price>3150</price>
-        <categoryId>1083</categoryId>
-        <vendor>Snowball</vendor>
+      <offer id="44603-L-Champagne" available="true">
+        <quantity_in_stock>10</quantity_in_stock>
+        <name_ru>Чемодан Madisson 44603 большой 99л шампань (44603-L-Champagne)</name_ru>
+        <name_ua>Валіза Madisson 44603 велика 99л шампань (44603-L-Champagne)</name_ua>
+        <price>1950</price>
+        <categoryId>1082</categoryId>
+        <vendor>Madisson</vendor>
         <country>Франція</country>
-        <description_ru>Чемодан Snowball 33703 средний 69л черный (33703-M-Black)</description_ru>
-        <description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 396°, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/49/50527574458402_+ef0d2c8fb6.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/71309083967151_+051134e8b0.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/16361909255010_+dab775d919.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/83351479122743_+08ca34f91c.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/77314756759849_+e3f4751d2f.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/37060604105987_+779e003fdf.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/73550623686831_+d3fd8b24f1.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/13963890529754_+0e11991ebe.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/53939957911818_+4d3c8cc3de.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/27242985114310_+f5bff99da0.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/15915366143651_+dadb1f4216.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/33067400806346_+136eb611e8.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/44898360346732_+a07dfb2935.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/35780252725384_+f6a39d04ad.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/93512592087063_+8ffe66e743.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/82807265715828_+8f8b7f7c9d.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/80228307609978_+f7fbfe5e64.jpg</picture>
-        <param name="Колір">Чорний</param>
+        <description_ru>Чемодан Madisson 44603 большой 99л шампань (44603-L-Champagne)</description_ru>
+        <description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 371°, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/24/30116089916040_+3dcd34392d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/24/26047786558687_+be21ca4781.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/24/22713146434482_+282b6b0ac0.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/24/59087860394539_+a009e30b2e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/24/68401185485182_+ed0d44fbba.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/24/50363790794981_+9abee4a05b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/24/41674248635181_+6aff017138.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/24/13440857871852_+a05b3e891a.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/24/12451245189541_+756812ecb0.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/24/36996683102858_+2d591f28bc.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/24/11510202873188_+d757965047.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/24/66472359507583_+c14df0ab0b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/24/92751512996540_+5e3eb58a8b.jpg</picture>
+        <param name="Колір">Шампань</param>
         <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Об'єм">69 л</param>
+        <param name="Матеріал корпусу">ABS-пластик</param>
+        <param name="Об'єм">99 л</param>
         <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Наявність розширення">Немає</param>
-        <param name="Об'єм">Середні (50 – 89.9 л)</param>
-        <param name="Висота">65 см</param>
-        <param name="Ширина">45 см</param>
-        <param name="Глибина">24 см</param>
+        <param name="Об'єм">Великі (90 - 100 л)</param>
+        <param name="Висота">77 см</param>
+        <param name="Ширина">48 см</param>
+        <param name="Глибина">31 см</param>
         <param name="Вага">4 кг</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="49403-S-Brown" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
-        <name_ru>Чемодан Snowball 49403 малый коричневый (49403-S-Brown)</name_ru>
-        <name_ua>Валіза Snowball 49403 мала коричнева (49403-S-Brown)</name_ua>
-        <price>3800</price>
+      <offer id="33703-S-White" available="true">
+        <quantity_in_stock>10</quantity_in_stock>
+        <name_ru>Чемодан для ручной клади Snowball 33703 малый 36л белый (33703-S-White)</name_ru>
+        <name_ua>Валіза для ручної поклажі Snowball 33703 мала 36л біла (33703-S-White)</name_ua>
+        <price>1900</price>
         <categoryId>1084</categoryId>
         <vendor>Snowball</vendor>
         <country>Франція</country>
-        <description_ru>Чемодан Snowball 49403 малый коричневый (49403-S-Brown)</description_ru>
-        <description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 447°, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/50/56168964014679_+74d0ef28e6.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/27157760089167_+7e657a5644.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/15546059522240_+a5ad95ee27.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/37295814497170_+cc0814d6bd.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/61661118125533_+ad15873928.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/51582286137592_+c0318b0875.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/91256240477668_+b3744d5ffc.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/19213995980069_+15e8f57db1.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/68653999172458_+358731c011.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/60254454579370_+58044ce21b.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/80708870626864_+47b9f36b8e.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/64016238184955_+679899a13a.jpg</picture>
-        <param name="Колір">Коричневий</param>
+        <description_ru>Чемодан для ручной клади Snowball 33703 малый 36л белый (33703-S-White)</description_ru>
+        <description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 434°, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/37/46517154002838_+848a270eef.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/70598474807100_+18b3142b82.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/59271789193972_+0c09e84682.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/61559093604406_+8e41d01f63.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/26211716860803_+5ac025a1dc.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/61346056909715_+8480696feb.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/90431291120638_+89814ff63e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/78784220315998_+f3175312ac.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/29682807813850_+1499e5c2cf.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/21877570610765_+84b532153c.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/79164412035011_+2877e5151a.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/96554009864656_+6468927fb0.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/65042009148890_+84a0805d3c.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/48935395437495_+b68f8c21bf.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/45418360714209_+4d78e8996b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/88478607200420_+8d1e4fe30e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/51131140263334_+5ca6d26c13.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/16821174244132_+d6002fd862.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/21878644454102_+0685ae23fc.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/20689463905153_+29cc61e35e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/83761362558570_+89ca4935a2.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/85998598719909_+06777ff6c3.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/24854356062019_+6f9db3a99f.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/23578910590882_+023be83e7c.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/50516053542502_+73cc7cc762.jpg</picture>
+        <param name="Колір">Білий</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
         <param name="Об'єм">36 л</param>
@@ -86,9 +95,9 @@
         <param name="Вбудований замок">Кодовий</param>
         <param name="Наявність розширення">Немає</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Висота">56 см</param>
+        <param name="Висота">57 см</param>
         <param name="Ширина">39 см</param>
-        <param name="Глибина">22 см</param>
+        <param name="Глибина">20 см</param>
         <param name="Вага">3 кг</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
