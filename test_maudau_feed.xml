@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-30T20:57:49.888Z">
+<yml_catalog date="2026-04-30T21:00:28.262Z">
   <shop>
     <categories>
       <category id="1061" portal_id="2273">Валізи</category>
@@ -31,6 +31,41 @@
         <picture>https://sklad-valiz.com.ua/content/images/6/35931734889923_+6498e55d74.jpg</picture>
         <picture>https://sklad-valiz.com.ua/content/images/6/19592047510451_+3f76f6a376.jpg</picture>
         <param name="Колір">Блакитний</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Об'єм">38 л</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Наявність розширення">Немає</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Висота">55 см</param>
+        <param name="Ширина">39 см</param>
+        <param name="Глибина">21 см</param>
+        <param name="Вага">3 кг</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="CKT01-S-WhitePink" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан Wings COCKATIEL малый розовый (CKT01-S-WhitePink)</name_ru>
+        <name_ua>Валіза Wings COCKATIEL мала рожева (CKT01-S-WhitePink)</name_ua>
+        <price>2450</price>
+        <categoryId>1084</categoryId>
+        <vendor>Wings</vendor>
+        <country>Польща</country>
+        <description_ru>Чемодан Wings COCKATIEL малый розовый (CKT01-S-WhitePink)</description_ru>
+        <description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 454°, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/7/79402553080054_+31b25873e0.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/94668221185476_+9d587bd8e7.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/93789416587592_+3fcfd0fe81.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/73756159424116_+56f84e0d4a.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/11140953710605_+d5cdc6b162.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/17321755709884_+a5145624a7.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/41763515636995_+2f45d9aa46.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/73184688247238_+b2e9d386cd.jpg</picture>
+        <param name="Колір">Рожевий</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
         <param name="Об'єм">38 л</param>
