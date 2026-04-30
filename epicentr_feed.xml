@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-30 00:11">
+<yml_catalog date="2026-04-30 06:11">
   <offers>
     <offer id="33703-L-Black" available="true">
       <name lang="ru">Чемодан Snowball 33703 большой 101л черный (33703-L-Black)</name>
@@ -1762,7 +1762,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="33703-M-Champagne" available="true">
+    <offer id="33703-M-Champagne" available="false">
       <name lang="ru">Чемодан Snowball 33703 средний 69л шампань (3703-М-Champagne)</name>
       <name lang="ua">Валіза Snowball 33703 середня 69л шампань (3703-М-Champagne)</name>
       <price>3150</price>
@@ -5868,7 +5868,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="43803-S-Red" available="false">
+    <offer id="43803-S-Red" available="true">
       <name lang="ru">Чемодан Snowball 43803 малый 34л красный (43803-S-Red)</name>
       <name lang="ua">Валіза Snowball 43803 мала 34л червона (43803-S-Red)</name>
       <price>2150</price>
@@ -8627,7 +8627,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="94103-L-Blue" available="true">
+    <offer id="94103-L-Blue" available="false">
       <name lang="ru">Чемодан Snowball 94103 большой 105л синий (94103-L-Blue)</name>
       <name lang="ua">Валіза Snowball 94103 велика 105л синя (94103-L-Blue)</name>
       <price>5300</price>
@@ -8717,7 +8717,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="94103-S-Blue" available="true">
+    <offer id="94103-S-Blue" available="false">
       <name lang="ru">Чемодан Snowball 94103 малый 46л синий (94103-S-Blue)</name>
       <name lang="ua">Валіза Snowball 94103 мала 46л синя (94103-S-Blue)</name>
       <price>4200</price>
