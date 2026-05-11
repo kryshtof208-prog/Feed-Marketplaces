@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-10T15:15:45.006Z">
+<yml_catalog date="2026-05-11T03:16:14.444Z">
   <shop>
     <categories>
       <category id="1061" portal_id="2273">Валізи</category>
@@ -904,14 +904,13 @@
         <vendor>Wings</vendor>
         <country>Польща</country>
         <description_ru>Чемодан Wings HWF01 большой 97л шампань (HWF01-L-Champagne)</description_ru>
-        <description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 386°, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/39/75766783178076_+64e202fd6c.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/39/74689551629914_+ec425c37a7.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/39/50071511502262_+8dff34789b.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/39/37794224993769_+8f996446e6.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/39/83883802426090_+07fe3e1e7b.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/39/18116234785098_+e1810f6588.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/39/36996356060721_+0e1ee51cfa.png</picture>
+        <description_ua>Розмір L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/39/valiza-wings-hwf01-velyka-97l-shampan-hwf01-l-champagne-51099109044435_+7af0ce0ab3.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/valiza-wings-hwf01-velyka-97l-shampan-hwf01-l-champagne-73071617584888_+000800971d.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/valiza-wings-hwf01-velyka-97l-shampan-hwf01-l-champagne-54443800344889_+7fe2034772.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/valiza-wings-hwf01-velyka-97l-shampan-hwf01-l-champagne-41971658788319_+65fd05ca3e.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/valiza-wings-hwf01-velyka-97l-shampan-hwf01-l-champagne-84183246328951_+a5e0ffb534.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/valiza-wings-hwf01-velyka-97l-shampan-hwf01-l-champagne-67290302501640_+a71b017d0a.png</picture>
         <param name="Колір">Шампань</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -926,7 +925,7 @@
         <param name="Глибина">30 см</param>
         <param name="Вага">4 кг</param>
         <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
+        <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="MUR01-L-Beige" available="false">
@@ -1375,8 +1374,8 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="33703-M-Champagne" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="33703-M-Champagne" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан Snowball 33703 средний 69л шампань (3703-М-Champagne)</name_ru>
         <name_ua>Валіза Snowball 33703 середня 69л шампань (3703-М-Champagne)</name_ua>
         <price>3150</price>
@@ -2156,14 +2155,13 @@
         <vendor>Wings</vendor>
         <country>Польща</country>
         <description_ru>Чемодан Wings HWF01 средний 63л шампань (HWF01-M-Champagne)</description_ru>
-        <description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 422°, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/25/93868923430413_+05e3b093c0.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/25/55083929638766_+ed087a9c92.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/25/68672026974136_+74d6f66699.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/25/84981451802726_+5ebea50576.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/25/73324184609229_+a8ef26fea6.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/25/44085823730738_+5111fd4980.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/25/90865876727075_+0f6e16ccb6.png</picture>
+        <description_ua>Розмір M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360°, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/25/valiza-wings-hwf01-serednia-63l-shampan-hwf01-m-champagne-30080515141934_+fd6b8c416f.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/valiza-wings-hwf01-serednia-63l-shampan-hwf01-m-champagne-41253984510731_+e75cffaaf3.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/valiza-wings-hwf01-serednia-63l-shampan-hwf01-m-champagne-55707817385174_+416c40050a.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/valiza-wings-hwf01-serednia-63l-shampan-hwf01-m-champagne-87154830177311_+6663a9a73d.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/valiza-wings-hwf01-serednia-63l-shampan-hwf01-m-champagne-67012218736228_+3d68805779.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/valiza-wings-hwf01-serednia-63l-shampan-hwf01-m-champagne-57481946922532_+c15eb2d9b4.png</picture>
         <param name="Колір">Шампань</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -2178,7 +2176,7 @@
         <param name="Глибина">25 см</param>
         <param name="Вага">3 кг</param>
         <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
+        <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="MUR01-M-Beige" available="false">
@@ -2466,7 +2464,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-S-Black" available="true">
-        <quantity_in_stock>23</quantity_in_stock>
+        <quantity_in_stock>22</quantity_in_stock>
         <name_ru>Чемодан Snowball 33703 малый 36л черный (33703-S-Black)</name_ru>
         <name_ua>Валіза Snowball 33703 мала 36л чорна (33703-S-Black)</name_ua>
         <price>1710</price>
@@ -2590,7 +2588,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-S-White" available="true">
-        <quantity_in_stock>11</quantity_in_stock>
+        <quantity_in_stock>10</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Snowball 33703 малый 36л белый (33703-S-White)</name_ru>
         <name_ua>Валіза для ручної поклажі Snowball 33703 мала 36л біла (33703-S-White)</name_ua>
         <price>1900</price>
@@ -3167,7 +3165,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="AVC01-S-Black" available="true">
-        <quantity_in_stock>17</quantity_in_stock>
+        <quantity_in_stock>16</quantity_in_stock>
         <name_ru>Чемодан Wings AVC01 малый 38л черный (AVC01-S-Black)</name_ru>
         <name_ua>Валіза Wings AVC01 мала 38л чорна (AVC01-S-Black)</name_ua>
         <price>1163</price>
@@ -3224,7 +3222,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="CKT01-S-LightBlue" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан Wings COCKATIEL малый голубой (CKT01-S-LightBlue)</name_ru>
         <name_ua>Валіза Wings COCKATIEL мала блакитна (CKT01-S-LightBlue)</name_ua>
         <price>2450</price>
@@ -3376,13 +3374,13 @@
         <vendor>Wings</vendor>
         <country>Польща</country>
         <description_ru>Чемодан Wings HWF01 малый 38л шампань (HWF01-S-Champagne)</description_ru>
-        <description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 457°, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/10/43409882416120_+5a94cec59e.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/10/69322233055876_+9176acdb1a.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/10/47490178730409_+e2e966a700.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/10/93282883248944_+8703b9c72e.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/10/19316726240577_+d3715d4da8.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/10/24788187754490_+605f4a4a90.png</picture>
+        <description_ua>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-hwf01-mala-38l-shampan-hwf01-s-champagne-13384452545023_+cbc57ba134.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-hwf01-mala-38l-shampan-hwf01-s-champagne-57478365720492_+949d0bf133.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-hwf01-mala-38l-shampan-hwf01-s-champagne-31394652990229_+99e702641f.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-hwf01-mala-38l-shampan-hwf01-s-champagne-61626236499551_+8066c95829.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-hwf01-mala-38l-shampan-hwf01-s-champagne-67052470345372_+843e3d7163.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-hwf01-mala-38l-shampan-hwf01-s-champagne-54623607527960_+965bd2580e.png</picture>
         <param name="Колір">Шампань</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -3397,7 +3395,7 @@
         <param name="Глибина">21 см</param>
         <param name="Вага">3 кг</param>
         <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
+        <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="MUR01-S-Beige" available="false">
@@ -3726,7 +3724,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="AVC01-BC-Black" available="true">
-        <quantity_in_stock>18</quantity_in_stock>
+        <quantity_in_stock>17</quantity_in_stock>
         <name_ru>Дорожная сумка Wings AVC01 20л черная (AVC01-BC-Black)</name_ru>
         <name_ua>Дорожня сумка Wings AVC01 20л чорна (AVC01-BC-Black)</name_ua>
         <price>870</price>
@@ -3780,7 +3778,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="WN01-BC-Champagne" available="true">
-        <quantity_in_stock>28</quantity_in_stock>
+        <quantity_in_stock>26</quantity_in_stock>
         <name_ru>Кейс для чемоданов Wings WN01 15л шампань (WN01-BC-Champagne)</name_ru>
         <name_ua>Кейс для валіз Wings WN01 15л шампань (WN01-BC-Champagne)</name_ua>
         <price>1250</price>
@@ -4124,7 +4122,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="DPC-Yellow-S" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чехол для чемодана дайвинг DPC-Yellow-S</name_ru>
         <name_ua>Чохол для валізи дайвінг DPC-Yellow-S</name_ua>
         <price>500</price>
@@ -4303,8 +4301,8 @@
         <param name="Ширина">35 см</param>
         <param name="Глибина">18 см</param>
       </offer>
-      <offer id="DPC-Yellow-M" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="DPC-Yellow-M" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чехол для чемодана дайвинг DPC-Yellow-M</name_ru>
         <name_ua>Чохол для валізи дайвінг DPC-Yellow-M</name_ua>
         <price>500</price>
@@ -4392,7 +4390,7 @@
         <param name="Глибина">18 см</param>
       </offer>
       <offer id="DPC-Purple-S" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чехол для чемодана дайвинг DPC-Purple-S</name_ru>
         <name_ua>Чохол для валізи дайвінг DPC-Purple-S</name_ua>
         <price>500</price>
@@ -4646,8 +4644,8 @@
         <param name="Ширина">35 см</param>
         <param name="Глибина">18 см</param>
       </offer>
-      <offer id="NPC-Blue-L" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="NPC-Blue-L" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен синий NPC-Blue-L</name_ru>
         <name_ua>Чохол для валізи неопрен синій NPC-Blue-L</name_ua>
         <price>600</price>
@@ -4939,7 +4937,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="42203-S-Purple" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан Madisson 42203 малый 39 л фиолетовый (42203-S-Purple)</name_ru>
         <name_ua>Валіза Madisson 42203 мала 39 л фіолетова (42203-S-Purple)</name_ua>
         <price>1400</price>
@@ -5003,7 +5001,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="42203-L-Purple" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан Madisson 42203 большой 103л фиолетовый (42203-L-Purple)</name_ru>
         <name_ua>Валіза Madisson 42203 велика 103л фіолетова (42203-L-Purple)</name_ua>
         <price>2150</price>
@@ -5035,7 +5033,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="42203-S-DarkBlue" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан Madisson 42203 малый 39л темно-синий (42203-S-DarkBlue)</name_ru>
         <name_ua>Валіза Madisson 42203 мала 39л темно-синя (42203-S-DarkBlue)</name_ua>
         <price>1400</price>
@@ -5163,7 +5161,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="63703-S-Black" available="true">
-        <quantity_in_stock>14</quantity_in_stock>
+        <quantity_in_stock>13</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 малый 37л черный (63703-S-Black)</name_ru>
         <name_ua>Валіза Madisson 63703 мала 37л чорна (63703-S-Black)</name_ua>
         <price>1730</price>
@@ -5195,7 +5193,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="63703-M-Milk" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 средний 65л кремовый (63703-M-Milk)</name_ru>
         <name_ua>Валіза Madisson 63703 середня 65л кремова (63703-M-Milk)</name_ua>
         <price>2350</price>
@@ -5227,7 +5225,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="63703-M-Black" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 средний 65л черный (63703-M-Black)</name_ru>
         <name_ua>Валіза Madisson 63703 середня 65л чорна (63703-M-Black)</name_ua>
         <price>2350</price>
@@ -5323,7 +5321,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="43803-S-Red" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан Snowball 43803 малый 34л красный (43803-S-Red)</name_ru>
         <name_ua>Валіза Snowball 43803 мала 34л червона (43803-S-Red)</name_ua>
         <price>2150</price>
@@ -5355,7 +5353,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="43803-M-Red" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан Snowball 43803 средний 80л красный (43803-M-Red)</name_ru>
         <name_ua>Валіза Snowball 43803 середня 80л червона (43803-M-Red)</name_ua>
         <price>3000</price>
@@ -5387,7 +5385,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="43803-L-Red" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан Snowball 43803 большой 116л красный (43803-L-Red)</name_ru>
         <name_ua>Валіза Snowball 43803 велика 116л червона (43803-L-Red)</name_ua>
         <price>3150</price>
@@ -5447,7 +5445,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="5398-M-Champagne-ABS" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан Wings 5398 средний 63л шампань (5398-M-Champagne-ABS)</name_ru>
         <name_ua>Валіза Wings 5398 середня 63л шампань (5398-M-Champagne-ABS)</name_ua>
         <price>2300</price>
@@ -5615,7 +5613,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="5398-XS-RoseGold-ABS" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан Wings 5398 мини 28л розовое золото (5398-XS-RoseGold-ABS)</name_ru>
         <name_ua>Валіза Wings 5398 міні 28л рожеве золото (5398-XS-RoseGold-ABS)</name_ua>
         <price>1400</price>
@@ -6353,8 +6351,8 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
       </offer>
-      <offer id="44603-L-White" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="44603-L-White" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Валіза Madisson 44603 велика 99л біла (44603-L-White)</name_ru>
         <name_ua>Валіза Madisson 44603 велика 99л біла (44603-L-White)</name_ua>
         <price>1950</price>
@@ -6708,7 +6706,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="2501-M-Blue" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан Wings 2501 средний 63л синий (2501-M-Blue)</name_ru>
         <name_ua>Валіза Wings 2501 середня 63л синя (2501-M-Blue)</name_ua>
         <price>2900</price>
@@ -6820,7 +6818,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="2501-S-Coffe" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан Wings 2501 малый 38л кофейный (2501-S-Coffe)</name_ru>
         <name_ua>Валіза Wings 2501 мала 38л кавова (2501-S-Coffe)</name_ua>
         <price>1700</price>
@@ -6975,7 +6973,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="53103-M-Champagne" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан Madisson 53103 средний 65л шампань (53103-M-Champagne)</name_ru>
         <name_ua>Валіза Madisson 53103 середня 65л шампань (53103-M-Champagne)</name_ua>
         <price>3050</price>
@@ -7202,8 +7200,8 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="Kaiman-XS-Champagne" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="Kaiman-XS-Champagne" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л шампань (Kaiman-XS-Champagne)</name_ru>
         <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л шампань (Kaiman-XS-Champagne)</name_ua>
         <price>1600</price>
@@ -8250,7 +8248,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="63703-L-Champagne" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 большой 100л шампань (63703-L-Champagne)</name_ru>
         <name_ua>Валіза Madisson 63703 велика 100л шампань (63703-L-Champagne)</name_ua>
         <price>2450</price>
@@ -8281,8 +8279,8 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="63703-M-Champagne" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="63703-M-Champagne" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 средний 65л шампань (63703-M-Champagne)</name_ru>
         <name_ua>Валіза Madisson 63703 середня 65л шампань (63703-M-Champagne)</name_ua>
         <price>2350</price>
