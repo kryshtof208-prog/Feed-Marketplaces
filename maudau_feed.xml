@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-13T03:14:37.193Z">
+<yml_catalog date="2026-05-14T03:14:37.221Z">
   <shop>
     <categories>
       <category id="1061" portal_id="2273">Валізи</category>
@@ -52,8 +52,8 @@
         <categoryId>1082</categoryId>
         <vendor>Snowball</vendor>
         <country>Франція</country>
-        <description_ru>translator Afrikaans Albanian - shqipe Arabic - &amp;lrm; العربية &amp;lrm; Armenian - Հայերէն Azerbaijani - azərbaycanca Basque - euskara Belarusian - беларуская Bengali - ব ল Bulgarian - български Catalan - catal&amp;agrave; Chinese - 中文 简体中文 Chinese - 中文 (繁體中文) Croatian - hrvatski Czech - če&amp;scaron;tina Danish - dansk Dutch - Nederlands English Esperanto - esperanto Estonian - eesti Filipino Finnish - suomi French - fran&amp;ccedil;ais Galician - galego Georgian - ქართული German - Deutsch Greek - &amp;Epsilon;&amp;lambda;&amp;lambda;&amp;eta;&amp;nu;&amp;iota;&amp;kappa;ά Gujarati - ગ જર ત Haitian Creole - krey&amp;ograve;l ayisyen Hebrew - &amp;lrm; עברית &amp;lrm; Hindi - ह न द Hungarian - magyar Icelandic - &amp;iacute;slenska Indonesian - Bahasa Indonesia Irish - Gaeilge Italian - italiano Japanese - 日本語 Kannada - ಕನ ನಡ Korean - 한국어 Latin - Lingua Latina Latvian - latvie&amp;scaron;u Lithuanian - lietuvių Macedonian - македонски Malay - Bahasa Melayu Maltese - Malti Norwegian - norsk Persian - &amp;lrm; فارسی &amp;lrm; Polish - polski Portuguese - portugu&amp;ecirc;s Romanian - rom&amp;acirc;nă Russian - русский Serbian - Српски Slovak - slovenčina Slovenian - sloven&amp;scaron;čina Spanish - espa&amp;ntilde;ol Swahili - Kiswahili Swedish - svenska Tamil - தம ழ Telugu - త ల గ Thai - ไทย Turkish - T&amp;uuml;rk&amp;ccedil;e Ukrainian - українська Urdu - &amp;lrm; اردو &amp;lrm; Vietnamese - Tiếng Việt Welsh - Cymraeg Yiddish - יידיש Double-click Select to translate</description_ru>
-        <description_ua>translator Afrikaans Albanian - shqipe Arabic - &amp;lrm; العربية &amp;lrm; Armenian - Հայերէն Azerbaijani - azərbaycanca Basque - euskara Belarusian - беларуская Bengali - ব ল Bulgarian - български Catalan - catal&amp;agrave; Chinese - 中文 简体中文 Chinese - 中文 (繁體中文) Croatian - hrvatski Czech - če&amp;scaron;tina Danish - dansk Dutch - Nederlands English Esperanto - esperanto Estonian - eesti Filipino Finnish - suomi French - fran&amp;ccedil;ais Galician - galego Georgian - ქართული German - Deutsch Greek - &amp;Epsilon;&amp;lambda;&amp;lambda;&amp;eta;&amp;nu;&amp;iota;&amp;kappa;ά Gujarati - ગ જર ત Haitian Creole - krey&amp;ograve;l ayisyen Hebrew - &amp;lrm; עברית &amp;lrm; Hindi - ह न द Hungarian - magyar Icelandic - &amp;iacute;slenska Indonesian - Bahasa Indonesia Irish - Gaeilge Italian - italiano Japanese - 日本語 Kannada - ಕನ ನಡ Korean - 한국어 Latin - Lingua Latina Latvian - latvie&amp;scaron;u Lithuanian - lietuvių Macedonian - македонски Malay - Bahasa Melayu Maltese - Malti Norwegian - norsk Persian - &amp;lrm; فارسی &amp;lrm; Polish - polski Portuguese - portugu&amp;ecirc;s Romanian - rom&amp;acirc;nă Russian - русский Serbian - Српски Slovak - slovenčina Slovenian - sloven&amp;scaron;čina Spanish - espa&amp;ntilde;ol Swahili - Kiswahili Swedish - svenska Tamil - தம ழ Telugu - త ల గ Thai - ไทย Turkish - T&amp;uuml;rk&amp;ccedil;e Ukrainian - українська Urdu - &amp;lrm; اردو &amp;lrm; Vietnamese - Tiếng Việt Welsh - Cymraeg Yiddish - יידיש Double-click Select to translate Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 361°, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
+        <description_ru>Чемодан Snowball 33703 большой 101л шампань (33703-L-Champagne)</description_ru>
+        <description_ua>Валіза Snowball 33703 велика 101л шампань (33703-L-Champagne)</description_ua>
         <picture>https://sklad-valiz.com.ua/content/images/14/46757306649462_+d15d1dcf66.jpg</picture>
         <picture>https://sklad-valiz.com.ua/content/images/14/35846536659082_+21f2694e5f.jpg</picture>
         <picture>https://sklad-valiz.com.ua/content/images/14/55898545279817_+8a26fd1543.jpg</picture>
@@ -586,7 +586,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="49403-L-White" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Чемодан Snowball 49403 большой белый (49403-L-White)</name_ru>
         <name_ua>Валіза Snowball 49403 велика біла (49403-L-White)</name_ua>
         <price>5300</price>
@@ -752,7 +752,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="CKT01-L-LightBlue" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан Wings COCKATIEL большой голубой (CKT01-L-LightBlue)</name_ru>
         <name_ua>Валіза Wings COCKATIEL велика блакитна (CKT01-L-LightBlue)</name_ua>
         <price>3150</price>
@@ -896,7 +896,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="HWF01-L-Champagne" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан Wings HWF01 большой 97л шампань (HWF01-L-Champagne)</name_ru>
         <name_ua>Валіза Wings HWF01 велика 97л шампань (HWF01-L-Champagne)</name_ua>
         <price>3050</price>
@@ -928,26 +928,23 @@
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="MUR01-L-Beige" available="false">
+      <offer id="MUR01-L-Champagne" available="false">
         <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чемодан Wings MUR01 большой 95л бежевый (MUR01-L-Beige)</name_ru>
-        <name_ua>Валіза Wings MUR01 велика 95л бежева (MUR01-L-Beige)</name_ua>
+        <name_ru>Чемодан Wings MUR01 большой 95л шампань (MUR01-L-Champagne)</name_ru>
+        <name_ua>Валіза Wings MUR01 велика 95л шампань (MUR01-L-Champagne)</name_ua>
         <price>3550</price>
         <categoryId>1082</categoryId>
         <vendor>Wings</vendor>
         <country>Польща</country>
-        <description_ru>Чемодан Wings MUR01 большой 95л бежевый (MUR01-L-Beige)</description_ru>
-        <description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 387°, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/40/80188979647003_+581844bc10.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/40/58032280983826_+a2f2ed75ea.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/40/53733034882844_+8f6873b4e1.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/40/55376494744846_+9d73535cd4.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/40/27458875016649_+63f8cbeca9.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/40/62725369137086_+44fe0cb90b.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/40/30102440791522_+687bc4f7da.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/40/91543313559265_+ea43ef9f4e.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/40/83260924431972_+2311723d8b.jpg</picture>
-        <param name="Колір">Кремовий</param>
+        <description_ru>Чемодан Wings MUR01 большой 95л шампань (MUR01-L-Champagne)</description_ru>
+        <description_ua>Розмір L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-mur01-velyka-95l-bezheva-mur01-l-beige-40318669982498_+224c66f4db.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-mur01-velyka-95l-bezheva-mur01-l-beige-19206479015172_+935c038575.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-mur01-velyka-95l-bezheva-mur01-l-beige-50598320958724_+3187c81e2a.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-mur01-velyka-95l-bezheva-mur01-l-beige-20500302055024_+6153cd0900.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-mur01-velyka-95l-bezheva-mur01-l-beige-41374303756095_+7f44e5af5d.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-mur01-velyka-95l-bezheva-mur01-l-beige-20762900480518_+ae7b8d20bc.png</picture>
+        <param name="Колір">Шампань</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
         <param name="Об'єм">95 л</param>
@@ -961,7 +958,7 @@
         <param name="Глибина">30 см</param>
         <param name="Вага">4 кг</param>
         <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
+        <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="MUR01-L-Black" available="false">
@@ -973,14 +970,13 @@
         <vendor>Wings</vendor>
         <country>Польща</country>
         <description_ru>Чемодан Wings MUR01 большой 95л черный (MUR01-L-Black)</description_ru>
-        <description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 388°, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/41/38926164615231_+dd1fb4ff3d.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/41/61513860761804_+b5ad1fd34c.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/41/67785359092384_+7e65a377ce.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/41/19423878129399_+77ccd60edd.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/41/79992289652341_+7eb38393a7.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/41/89061427110122_+1b7a1223f7.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/41/97736240229668_+520de7a7da.jpg</picture>
+        <description_ua>Розмір L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/41/valiza-wings-mur01-velyka-95l-chorna-mur01-l-black-78691890126838_+ce6f389675.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/41/valiza-wings-mur01-velyka-95l-chorna-mur01-l-black-28721100320649_+fa3c79b514.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/41/valiza-wings-mur01-velyka-95l-chorna-mur01-l-black-75769629817705_+55bfab3dbe.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/41/valiza-wings-mur01-velyka-95l-chorna-mur01-l-black-46695801417146_+eae9c778cf.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/41/valiza-wings-mur01-velyka-95l-chorna-mur01-l-black-75102892838765_+e5736194a6.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/41/valiza-wings-mur01-velyka-95l-chorna-mur01-l-black-70917354176761_+0b8cd6e2c4.png</picture>
         <param name="Колір">Черный</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -995,7 +991,7 @@
         <param name="Глибина">30 см</param>
         <param name="Вага">4 кг</param>
         <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
+        <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="MUR01-L-TitanBlue" available="true">
@@ -1007,15 +1003,13 @@
         <vendor>Wings</vendor>
         <country>Польща</country>
         <description_ru>Чемодан Wings MUR01 большой 95л синий (MUR01-L-TitanBlue)</description_ru>
-        <description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 389°, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/42/65945524355246_+8f143578d4.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/42/73491844523196_+001b025ad9.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/42/38744925351559_+9411975d57.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/42/93459494660421_+f1086d998e.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/42/46315515712728_+03215ebbea.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/42/18065610172790_+8c456088e7.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/42/35451540544006_+452bfb81ec.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/42/85713009212299_+759c4c0e4d.jpg</picture>
+        <description_ua>Розмір L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/42/valiza-wings-mur01-velyka-95l-synia-mur01-l-titanblue-34955675208175_+981c4511d0.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/42/valiza-wings-mur01-velyka-95l-synia-mur01-l-titanblue-20087569641130_+eed6ded21b.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/42/valiza-wings-mur01-velyka-95l-synia-mur01-l-titanblue-55695603078569_+5b77413ff9.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/42/valiza-wings-mur01-velyka-95l-synia-mur01-l-titanblue-30400746540616_+1fea396d69.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/42/valiza-wings-mur01-velyka-95l-synia-mur01-l-titanblue-52591682847978_+211a074214.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/42/valiza-wings-mur01-velyka-95l-synia-mur01-l-titanblue-43531528939666_+41565dcc2f.png</picture>
         <param name="Колір">Синий</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -1030,11 +1024,11 @@
         <param name="Глибина">30 см</param>
         <param name="Вага">4 кг</param>
         <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
+        <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="WN01-L-Champagne" available="true">
-        <quantity_in_stock>9</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Чемодан Wings WN01 большой 97л шампань (WN01-L-Champagne)</name_ru>
         <name_ua>Валіза Wings WN01 велика 97л шампань (WN01-L-Champagne)</name_ua>
         <price>2750</price>
@@ -1834,8 +1828,8 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="49403-M-White" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="49403-M-White" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан Snowball 49403 средний белый (49403-M-White)</name_ru>
         <name_ua>Валіза Snowball 49403 середня біла (49403-M-White)</name_ua>
         <price>4950</price>
@@ -2179,26 +2173,23 @@
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="MUR01-M-Beige" available="false">
+      <offer id="MUR01-M-Champagne" available="false">
         <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чемодан Wings MUR01 средний 64л бежевый (MUR01-M-Beige)</name_ru>
-        <name_ua>Валіза Wings MUR01 середня 64л бежева (MUR01-M-Beige)</name_ua>
+        <name_ru>Чемодан Wings MUR01 средний 64л шампань (MUR01-M-Champagne)</name_ru>
+        <name_ua>Валіза Wings MUR01 середня 64л шампань (MUR01-M-Champagne)</name_ua>
         <price>3400</price>
         <categoryId>1083</categoryId>
         <vendor>Wings</vendor>
         <country>Польща</country>
-        <description_ru>Чемодан Wings MUR01 средний 64л бежевый (MUR01-M-Beige)</description_ru>
-        <description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 423 , що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/26/19354985122632_+9a3eaa1cad.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/26/59675872920415_+af63f8f493.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/26/35539271398755_+f9084b8a84.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/26/42825494829219_+8920270941.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/26/91661856718937_+872ec1450a.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/26/26549024079572_+bccdcacd93.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/26/79377756385230_+3a5c0d8c36.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/26/64956657335585_+c6120d9f1f.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/26/68160935105411_+5917695ef7.jpg</picture>
-        <param name="Колір">Кремовий</param>
+        <description_ru>Чемодан Wings MUR01 средний 64л шампань (MUR01-M-Champagne)</description_ru>
+        <description_ua>Розмір M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360°, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/26/valiza-wings-mur01-serednia-64l-bezheva-mur01-m-beige-83389964683675_+1c5a1c1235.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/26/valiza-wings-mur01-serednia-64l-bezheva-mur01-m-beige-16971633665200_+510ae98f59.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/26/valiza-wings-mur01-serednia-64l-bezheva-mur01-m-beige-47654950693118_+1b88f85aee.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/26/valiza-wings-mur01-serednia-64l-bezheva-mur01-m-beige-20961177083498_+2a8e8c5b5a.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/26/valiza-wings-mur01-serednia-64l-bezheva-mur01-m-beige-72751831516458_+7047046209.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/26/valiza-wings-mur01-serednia-64l-bezheva-mur01-m-beige-84293205988226_+7ac1686ea2.png</picture>
+        <param name="Колір">Шампань</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
         <param name="Об'єм">63 л</param>
@@ -2212,7 +2203,7 @@
         <param name="Глибина">27 см</param>
         <param name="Вага">3 кг</param>
         <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
+        <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="MUR01-M-Black" available="false">
@@ -2224,14 +2215,13 @@
         <vendor>Wings</vendor>
         <country>Польща</country>
         <description_ru>Чемодан Wings MUR01 средний 64л черный (MUR01-M-Black)</description_ru>
-        <description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 424 , що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/27/48407513997102_+3692b58a0f.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/27/21994288628293_+4a9099f2e5.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/27/24594668373520_+d2118efdac.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/27/64465404053675_+57f3dbc5fb.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/27/59031546475828_+8e8e371360.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/27/96980218276300_+468eb51815.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/27/37744130180793_+51c93462be.jpg</picture>
+        <description_ua>Розмір M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360°, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18-20 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/27/valiza-wings-mur01-serednia-64l-chorna-mur01-m-black-83485393062496_+044830df51.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/27/valiza-wings-mur01-serednia-64l-chorna-mur01-m-black-41325714982202_+ac061c24f1.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/27/valiza-wings-mur01-serednia-64l-chorna-mur01-m-black-21226762839348_+c019e9d229.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/27/valiza-wings-mur01-serednia-64l-chorna-mur01-m-black-61693976134532_+830355b662.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/27/valiza-wings-mur01-serednia-64l-chorna-mur01-m-black-56690421794771_+2079b1cdb6.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/27/valiza-wings-mur01-serednia-64l-chorna-mur01-m-black-22656414624221_+a9513a1399.png</picture>
         <param name="Колір">Черный</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -2246,7 +2236,7 @@
         <param name="Глибина">27 см</param>
         <param name="Вага">3 кг</param>
         <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
+        <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="MUR01-M-TitanBlue" available="false">
@@ -2258,15 +2248,13 @@
         <vendor>Wings</vendor>
         <country>Польща</country>
         <description_ru>Чемодан Wings MUR01 средний 64л синий (MUR01-M-TitanBlue)</description_ru>
-        <description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 425 , що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/28/83036027751785_+8afc42f1a0.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/28/12938386072882_+4d6fdef0d5.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/28/69415041342863_+a2442b66f8.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/28/85192185285782_+82b4596be6.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/28/12133263870769_+9ff0804eac.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/28/68780889220614_+e7c4cb6253.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/28/79721109281576_+642791c83a.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/28/84727912593977_+8ebe732f78.jpg</picture>
+        <description_ua>Розмір M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360°, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18-20 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/28/valiza-wings-mur01-serednia-64l-synia-mur01-m-titanblue-52526307224400_+a19e7d570d.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/28/valiza-wings-mur01-serednia-64l-synia-mur01-m-titanblue-26620351425009_+20724599f0.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/28/valiza-wings-mur01-serednia-64l-synia-mur01-m-titanblue-67405256908398_+83c039a33b.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/28/valiza-wings-mur01-serednia-64l-synia-mur01-m-titanblue-89136291666232_+7e5752b3db.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/28/valiza-wings-mur01-serednia-64l-synia-mur01-m-titanblue-76146843276322_+9152729ee8.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/28/valiza-wings-mur01-serednia-64l-synia-mur01-m-titanblue-68848293243451_+3a3da48cad.png</picture>
         <param name="Колір">Синий</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -2281,7 +2269,7 @@
         <param name="Глибина">27 см</param>
         <param name="Вага">3 кг</param>
         <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
+        <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="WN01-M-Champagne" available="false">
@@ -2724,7 +2712,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="43303-S-RoseGold" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан Madisson 43303 малый 36л розовое золото (43303-S-RoseGold)</name_ru>
         <name_ua>Валіза Madisson 43303 мала 36л рожеве золото (43303-S-RoseGold)</name_ua>
         <price>1400</price>
@@ -3396,27 +3384,24 @@
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="MUR01-S-Beige" available="false">
+      <offer id="MUR01-S-Champagne" available="false">
         <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чемодан Wings MUR01 малый 40л бежевый (MUR01-S-Beige)</name_ru>
-        <name_ua>Валіза Wings MUR01 мала 40л бежева (MUR01-S-Beige)</name_ua>
-        <price>2210</price>
+        <name_ru>Чемодан Wings MUR01 малый 40л шампань (MUR01-S-Champagne)</name_ru>
+        <name_ua>Валіза Wings MUR01 мала 40л шампань (MUR01-S-Champagne)</name_ua>
+        <price>2340</price>
         <old_price>2600</old_price>
         <categoryId>1084</categoryId>
         <vendor>Wings</vendor>
         <country>Польща</country>
-        <description_ru>Чемодан Wings MUR01 малый 40л бежевый (MUR01-S-Beige)</description_ru>
-        <description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 458°, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/11/93247573583066_+aa378aa3db.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/11/58869944097472_+7d89dd4668.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/11/49237688099672_+d5ffa22e07.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/11/71973852359820_+7f107d1db6.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/11/66230862608666_+e21975a628.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/11/83549564698790_+3ca099bd09.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/11/33006398903668_+3e8f627afb.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/11/44089590616667_+705bc93f1a.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/11/57992664400664_+296233e69a.jpg</picture>
-        <param name="Колір">Кремовий</param>
+        <description_ru>Чемодан Wings MUR01 малый 40л шампань (MUR01-S-Champagne)</description_ru>
+        <description_ua>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/11/valiza-wings-mur01-mala-40l-bezheva-mur01-s-beige-63120085949047_+f6c91e6203.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/11/valiza-wings-mur01-mala-40l-bezheva-mur01-s-beige-51910618719602_+8ebd802ca1.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/11/valiza-wings-mur01-mala-40l-bezheva-mur01-s-beige-53737085014095_+1f81408cf7.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/11/valiza-wings-mur01-mala-40l-bezheva-mur01-s-beige-92086251941658_+6348a0a843.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/11/valiza-wings-mur01-mala-40l-bezheva-mur01-s-beige-93513345778821_+018a082e84.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/11/valiza-wings-mur01-mala-40l-bezheva-mur01-s-beige-54659328542116_+267b65f89f.png</picture>
+        <param name="Колір">Шампань</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
         <param name="Об'єм">40 л</param>
@@ -3430,7 +3415,7 @@
         <param name="Глибина">22 см</param>
         <param name="Вага">2 кг</param>
         <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
+        <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="MUR01-S-Black" available="true">
@@ -3443,14 +3428,13 @@
         <vendor>Wings</vendor>
         <country>Польща</country>
         <description_ru>Чемодан Wings MUR01 малый 40л черный (MUR01-S-Black)</description_ru>
-        <description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 459°, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/12/62911489396209_+f5708cfccb.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/12/34315061180803_+ac2b298598.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/12/25015502847307_+b155a3c876.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/12/25594005111756_+4e7e230692.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/12/21351646004770_+80b4a07c47.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/12/33925321337605_+416bdc22e6.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/12/32617617721749_+083bdd371f.jpg</picture>
+        <description_ua>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-mur01-mala-40l-chorna-mur01-s-black-13377887321968_+8d03df8fda.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-mur01-mala-40l-chorna-mur01-s-black-29247883182248_+643e4540b9.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-mur01-mala-40l-chorna-mur01-s-black-61354116931708_+05f52c28f7.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-mur01-mala-40l-chorna-mur01-s-black-14014681971940_+b6342abe6c.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-mur01-mala-40l-chorna-mur01-s-black-79060445177457_+22b2f8e7c9.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-mur01-mala-40l-chorna-mur01-s-black-40176138150796_+8744747bd1.png</picture>
         <param name="Колір">Черный</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -3465,7 +3449,7 @@
         <param name="Глибина">22 см</param>
         <param name="Вага">2 кг</param>
         <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
+        <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="MUR01-S-TitanBlue" available="true">
@@ -3478,15 +3462,13 @@
         <vendor>Wings</vendor>
         <country>Польща</country>
         <description_ru>Чемодан Wings MUR01 малый 40л синий (MUR01-S-TitanBlue)</description_ru>
-        <description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 460°, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/13/17642990334342_+196b1c591e.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/13/18469081463605_+269918f45a.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/13/79340604098140_+d36380151d.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/13/99307613032630_+37926b9525.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/13/96343148706228_+896d3b69c1.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/13/76337405909792_+951ff008b8.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/13/19267576981121_+bca2083880.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/13/30156919692540_+94ed6c0c86.jpg</picture>
+        <description_ua>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-mur01-mala-40l-synia-mur01-s-titanblue-24055143093559_+401b1010d4.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-mur01-mala-40l-synia-mur01-s-titanblue-91181031535003_+bfdf3ec2ba.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-mur01-mala-40l-synia-mur01-s-titanblue-48588036181224_+759cc879d9.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-mur01-mala-40l-synia-mur01-s-titanblue-49818976694070_+bfb502c345.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-mur01-mala-40l-synia-mur01-s-titanblue-39837357135429_+b896bb0126.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-mur01-mala-40l-synia-mur01-s-titanblue-86012897406533_+26c998dbf5.png</picture>
         <param name="Колір">Синий</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -3501,7 +3483,7 @@
         <param name="Глибина">22 см</param>
         <param name="Вага">2 кг</param>
         <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
+        <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="WN01-S-Champagne" available="true">
@@ -3837,7 +3819,7 @@
         <param name="Корпус">Жорсткий</param>
       </offer>
       <offer id="WN01-BC-Creme" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Кейс для чемоданов Wings WN01-BC 15л кремовый (WN01-BC-Creme)</name_ru>
         <name_ua>Кейс для валіз Wings WN01-BC 15л кремовий (WN01-BC-Creme)</name_ua>
         <price>690</price>
@@ -3900,7 +3882,7 @@
         <param name="Корпус">Жорсткий</param>
       </offer>
       <offer id="WN01-BC-RoseGold" available="true">
-        <quantity_in_stock>30</quantity_in_stock>
+        <quantity_in_stock>29</quantity_in_stock>
         <name_ru>Кейс для чемоданов Wings WN01-BC 15л розовое золото (WN01-BC-RoseGold)</name_ru>
         <name_ua>Кейс для валіз Wings WN01-BC 15л рожеве золото (WN01-BC-RoseGold)</name_ua>
         <price>875</price>
@@ -4195,7 +4177,7 @@
         <param name="Глибина">21 см</param>
       </offer>
       <offer id="VPC-XS-Prozoryi" available="true">
-        <quantity_in_stock>13</quantity_in_stock>
+        <quantity_in_stock>12</quantity_in_stock>
         <name_ru>Чехол для чемодана винил VPC-Prozoryi-XS</name_ru>
         <name_ua>Чохол для валізи вініл VPC-Prozoryi-XS</name_ua>
         <price>390</price>
@@ -4314,8 +4296,8 @@
         <param name="Ширина">40 см</param>
         <param name="Глибина">20 см</param>
       </offer>
-      <offer id="DPC-Blue-L" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+      <offer id="DPC-Blue-L" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чехол для чемодана дайвинг DPC-Blue-L</name_ru>
         <name_ua>Чохол для валізи дайвінг DPC-Blue-L</name_ua>
         <price>500</price>
@@ -4478,7 +4460,7 @@
         <param name="Глибина">18 см</param>
       </offer>
       <offer id="NPC-M-Burgundy" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен NPC-Burgundy-M</name_ru>
         <name_ua>Чохол для валізи неопрен NPC-Burgundy-M</name_ua>
         <price>600</price>
@@ -4792,7 +4774,7 @@
         <param name="Тип">Органайзер</param>
       </offer>
       <offer id="TP01-Grey" available="true">
-        <quantity_in_stock>14</quantity_in_stock>
+        <quantity_in_stock>13</quantity_in_stock>
         <name_ru>Подушка для путешествий TP01-Grey</name_ru>
         <name_ua>Подушка для подорожей TP01-Grey</name_ua>
         <price>340</price>
@@ -4998,8 +4980,8 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="42203-L-Purple" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="42203-L-Purple" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан Madisson 42203 большой 103л фиолетовый (42203-L-Purple)</name_ru>
         <name_ua>Валіза Madisson 42203 велика 103л фіолетова (42203-L-Purple)</name_ua>
         <price>2150</price>
@@ -5127,7 +5109,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="63703-S-Milk" available="true">
-        <quantity_in_stock>10</quantity_in_stock>
+        <quantity_in_stock>9</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 малый 37л кремовый (63703-S-Milk)</name_ru>
         <name_ua>Валіза Madisson 63703 мала 37л кремова (63703-S-Milk)</name_ua>
         <price>1850</price>
@@ -5159,7 +5141,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="63703-S-Black" available="true">
-        <quantity_in_stock>13</quantity_in_stock>
+        <quantity_in_stock>10</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 малый 37л черный (63703-S-Black)</name_ru>
         <name_ua>Валіза Madisson 63703 мала 37л чорна (63703-S-Black)</name_ua>
         <price>1850</price>
@@ -5191,7 +5173,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="63703-M-Milk" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 средний 65л кремовый (63703-M-Milk)</name_ru>
         <name_ua>Валіза Madisson 63703 середня 65л кремова (63703-M-Milk)</name_ua>
         <price>2550</price>
@@ -5222,8 +5204,8 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="63703-M-Black" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+      <offer id="63703-M-Black" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 средний 65л черный (63703-M-Black)</name_ru>
         <name_ua>Валіза Madisson 63703 середня 65л чорна (63703-M-Black)</name_ua>
         <price>2550</price>
@@ -5255,7 +5237,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="63703-L-Milk" available="true">
-        <quantity_in_stock>9</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 большой 100л кремовый (63703-L-Milk)</name_ru>
         <name_ua>Валіза Madisson 63703 велика 100л кремова (63703-L-Milk)</name_ua>
         <price>2650</price>
@@ -5287,7 +5269,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="63703-L-Black" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 большой 100л черный (63703-L-Black)</name_ru>
         <name_ua>Валіза Madisson 63703 велика 100л чорна (63703-L-Black)</name_ua>
         <price>2650</price>
@@ -6731,8 +6713,8 @@
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="2501-M-Coffe" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
+      <offer id="2501-M-Coffe" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан Wings 2501 средний 63л кофейный (2501-M-Coffe)</name_ru>
         <name_ua>Валіза Wings 2501 середня 63л кавова (2501-M-Coffe)</name_ua>
         <price>2900</price>
@@ -7953,13 +7935,12 @@
         <country>Франція</country>
         <description_ru>Чемодан Airtex 647 средний 72л серый (647-M-Gray)</description_ru>
         <description_ua>Розмір M - це втілення статусу та функціональності для подорожей тривалістю від 5 до 10 днів. Головною перевагою моделі є вбудована система розширення, що дозволяє миттєво збільшити об&amp;rsquo;єм для додаткових речей або покупок. Корпус виготовлено з високомолекулярного поліпропілену преміумкласу, який поєднує неймовірну гнучкість із феноменальною стійкістю до ударів. Валіза оснащена ексклюзивною безшумною колісною системою з амортизацією, що забезпечує ідеальну плавність ходу на 360°. Для безкомпромісної безпеки передбачено інтегрований у корпус кодовий замок із функцією TSA. Внутрішній простір оздоблено розкішним текстилем і доповнено продуманою системою органайзерів для бездоганного порядку. Ергономічна телескопічна ручка з авіаційного алюмінію має кілька рівнів фіксації для максимального комфорту під час руху. Це ідеальний вибір для тих, хто звик отримувати найкраще в кожній деталі своєї подорожі. Вага завантаження становить 18-20 кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-58938535405061_+2ce90b7466.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-82294646494184_+c9ffc00807.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-75300269901156_+5a6aa6005f.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-80556083485168_+7caf160c29.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-95963481162492_+bf9407f01d.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-24104949065917_+93d99dfe38.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-90742509562234_+c151389b34.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-24355595109878_+991e2bff72.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-78443971856380_+f635cfc5b6.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-67295861425089_+772709bd15.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-57823361100384_+23e3bed936.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-21900980740738_+dcc71503f9.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-34946746739108_+724cdc13f7.png</picture>
         <param name="Колір">Серый</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -7974,7 +7955,7 @@
         <param name="Глибина">26 см</param>
         <param name="Вага">4 кг</param>
         <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
+        <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="647-L-Gray" available="true">
@@ -7987,13 +7968,12 @@
         <country>Франція</country>
         <description_ru>Чемодан Airtex 647 большой 105л серый (647-L-Gray)</description_ru>
         <description_ua>Розмір L - це втілення максимальної місткості та статусного дизайну для тривалих подорожей від 10 днів або великих сімейних поїздок. Головною особливістю моделі є інтегрована система розширення, яка дозволяє значно збільшити корисний об&amp;rsquo;єм для додаткових речей або подарунків. Корпус виготовлено з високомолекулярного поліпропілену преміумкласу, що гарантує феноменальну міцність і гнучкість під екстремальним тиском у багажному відсіку. Валіза оснащена посиленою безшумною колісною системою з амортизацією, яка забезпечує легке й плавне керування навіть при максимальному завантаженні. Для безкомпромісного захисту вмісту передбачено вбудований у корпус кодовий замок із функцією TSA. Внутрішній простір оздоблено розкішним зносостійким текстилем із продуманою системою перегородок та еластичних фіксаторів для ідеального порядку. Ергономічна телескопічна ручка з авіаційного алюмінію має кілька рівнів фіксації, підлаштовуючись під ваш зріст для максимального комфорту. Це ідеальний вибір для тих, хто подорожує масштабно, не відмовляючи собі в комфорті та естетиці. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-65830899837359_+6227f8f87f.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-59916457327853_+e63f9c202f.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-15398391027309_+4fea22f2ee.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-35370262733858_+464503affb.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-29473764296657_+a90bbd679d.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-60070182769588_+2eca906560.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-61693981310321_+d68cc91b5e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-36760552615592_+8fab902688.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-58994402044167_+16a4439a20.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-78373195904354_+d6b47cf0ef.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-93389416716243_+acd18c33cf.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-12634377054396_+8449df40f2.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-83148307654906_+e7758e9091.png</picture>
         <param name="Колір">Серый</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -8002,13 +7982,13 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Наявність розширення">Є</param>
-        <param name="Об'єм">Гігантські (більше 100 л)</param>
+        <param name="Об'єм">Великі (90 - 100 л)</param>
         <param name="Висота">76 см</param>
         <param name="Ширина">52 см</param>
         <param name="Глибина">31 см</param>
         <param name="Вага">5 кг</param>
         <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
+        <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="647-S-Gray" available="true">
@@ -8021,14 +8001,12 @@
         <country>Франція</country>
         <description_ru>Чемодан Airtex 647 малый 40л серый (647-S-Gray)</description_ru>
         <description_ua>Розмір S - це еталон мобільності та інтелектуального дизайну, створений спеціально для коротких поїздок на 3&amp;ndash;5 днів. Головною особливістю моделі є фронтальне відділення для ноутбука з системою захисних кишень, що забезпечує миттєвий доступ до гаджетів під час проходження контролю в аеропорту. Корпус оснащено інтегрованим USB-портом, який дозволяє заряджати ваші пристрої прямо в дорозі, не відкриваючи валізу. Завдяки системі додаткового розширення ви легко адаптуєте об&amp;rsquo;єм під свої потреби, зберігаючи при цьому компактність ручної поклажі. Високотехнологічний поліпропілен преміумкласу гарантує корпусу неймовірну міцність і гнучкість, надійно захищаючи електроніку від будь-яких ударів. Безшумна колісна система з амортизацією забезпечує ідеальну маневреність у вузьких проходах літаків та на терміналах вокзалів. Для безкомпромісної безпеки передбачено вбудований кодовий замок із функцією TSA, що фіксує всі відділення одночасно. Внутрішній простір оздоблено люксовим текстилем із продуманою системою фіксаторів та органайзерів для ділових аксесуарів. Ідеальний компаньйон для успішних подорожей. Вага завантаження 12-15 кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-18688796693055_+6d450b9b49.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-24724823963627_+a460f50a46.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-82002463983402_+2facbeee3a.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-79642132607378_+b1d28c22a9.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-83926845942295_+25615743ca.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-68205679830382_+6b87757309.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-57737528829826_+c7c3782a53.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-84513245425641_+0122223de8.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-25533178360299_+ede997fdb4.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-98805507645975_+5ac89fdb4d.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-37623658648383_+e4599d2e84.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-84034934570085_+6b896fe89a.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-52946741050451_+a094af9e0b.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-68732736506977_+1f7c8935ff.png</picture>
         <param name="Колір">Серый</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -8043,7 +8021,7 @@
         <param name="Глибина">22 см</param>
         <param name="Вага">3 кг</param>
         <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
+        <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="94103-L-Blue" available="true">
@@ -8245,8 +8223,8 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="63703-L-Champagne" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="63703-L-Champagne" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 большой 100л шампань (63703-L-Champagne)</name_ru>
         <name_ua>Валіза Madisson 63703 велика 100л шампань (63703-L-Champagne)</name_ua>
         <price>2650</price>
