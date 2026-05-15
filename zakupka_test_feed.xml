@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-05-15 08:52">
+<yml_catalog date="2026-05-15 09:16">
 <shop>
 <name>SKLAD VALIZ</name>
 <company>SKLAD VALIZ</company>
@@ -39,14 +39,9 @@
 <param name="Колір">чорний</param>
 <param name="Тип">чемодан</param>
 <param name="Матеріал">поліпропілен</param>
-<param name="Об `єм">101</param>
 <param name="Статево-вікова категорія">унісекс</param>
 <param name="Замок">кодовий замок</param>
 <param name="Розмір">великий (90 - 100 л)</param>
-<param name="Висота, см">75</param>
-<param name="Ширина, см">50</param>
-<param name="Глибина, см">28</param>
-<param name="Вага, кг">5</param>
 <param name="Корпус">м&apos;який</param>
 </offer>
 </offers>
