@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-05-15 16:09">
+<yml_catalog date="2026-05-15 16:18">
 <shop>
 <name>SKLAD VALIZ</name>
 <company>SKLAD VALIZ</company>
@@ -38,6 +38,7 @@
 <param name="Цвет">Кремовий</param>
 <param name="Тип">чемодан</param>
 <param name="Материал">полипропилен</param>
+<param name="Объём, л">37</param>
 <param name="Половозрастная категория">унисекс</param>
 <param name="Замок">кодовый замок</param>
 <param name="Размер">маленький (до 50 л)</param>
@@ -68,6 +69,7 @@
 <param name="Цвет">Кремовий</param>
 <param name="Тип">чемодан</param>
 <param name="Материал">полипропилен</param>
+<param name="Объём, л">65</param>
 <param name="Половозрастная категория">унисекс</param>
 <param name="Замок">кодовый замок</param>
 <param name="Размер">средний (51 – 89 л)</param>
@@ -98,6 +100,7 @@
 <param name="Цвет">Кремовий</param>
 <param name="Тип">чемодан</param>
 <param name="Материал">полипропилен</param>
+<param name="Объём, л">100</param>
 <param name="Половозрастная категория">унисекс</param>
 <param name="Замок">кодовый замок</param>
 <param name="Размер">гигант (Более 100)</param>
