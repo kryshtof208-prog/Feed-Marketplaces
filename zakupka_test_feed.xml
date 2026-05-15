@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-05-15 09:31">
+<yml_catalog date="2026-05-15 14:19">
 <shop>
 <name>SKLAD VALIZ</name>
 <company>SKLAD VALIZ</company>
@@ -47,7 +47,7 @@
 <param name="Матеріал">поліпропілен</param>
 <param name="Статево-вікова категорія">унісекс</param>
 <param name="Замок">кодовий замок</param>
-<param name="Розмір">гігант (понад 100 л)</param>
+<param name="Розмір">гігант (понад 100 л) см</param>
 <param name="Корпус">жорсткий</param>
 </offer>
 <offer id="548" available="false">
@@ -78,7 +78,7 @@
 <param name="Матеріал">поліпропілен</param>
 <param name="Статево-вікова категорія">унісекс</param>
 <param name="Замок">кодовий замок</param>
-<param name="Розмір">середній (51 - 89 л)</param>
+<param name="Розмір">середній (51 - 89 л) см</param>
 <param name="Корпус">м&apos;який</param>
 </offer>
 <offer id="583" available="true">
