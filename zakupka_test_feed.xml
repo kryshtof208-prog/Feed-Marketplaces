@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-05-15 16:51">
+<yml_catalog date="2026-05-15 16:56">
 <shop>
 <name>SKLAD VALIZ</name>
 <company>SKLAD VALIZ</company>
@@ -43,6 +43,8 @@
 <param name="Замок">кодовый замок</param>
 <param name="Размер" unit="см">маленький (до 50 л)</param>
 <param name="Корпус">жесткий</param>
+<dimensions>21/55/39</dimensions>
+<weight>3</weight>
 </offer>
 <offer id="709" available="true" portalid="10855">
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-63703-serednia-65l-kremova-63703-m-milk/</url>
@@ -74,6 +76,8 @@
 <param name="Замок">кодовый замок</param>
 <param name="Размер" unit="см">средний (51-89 л)</param>
 <param name="Корпус">жесткий</param>
+<dimensions>27/66/44</dimensions>
+<weight>4</weight>
 </offer>
 <offer id="711" available="true" portalid="10855">
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-63703-velyka-100l-kremova-63703-l-milk/</url>
@@ -105,6 +109,8 @@
 <param name="Замок">кодовый замок</param>
 <param name="Размер" unit="см">гигант (Более 100)</param>
 <param name="Корпус">жесткий</param>
+<dimensions>31/76/50</dimensions>
+<weight>5</weight>
 </offer>
 </offers>
 </shop>
