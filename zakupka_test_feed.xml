@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-05-15 16:18">
+<yml_catalog date="2026-05-15 16:51">
 <shop>
 <name>SKLAD VALIZ</name>
 <company>SKLAD VALIZ</company>
@@ -41,7 +41,7 @@
 <param name="Объём, л">37</param>
 <param name="Половозрастная категория">унисекс</param>
 <param name="Замок">кодовый замок</param>
-<param name="Размер">маленький (до 50 л)</param>
+<param name="Размер" unit="см">маленький (до 50 л)</param>
 <param name="Корпус">жесткий</param>
 </offer>
 <offer id="709" available="true" portalid="10855">
@@ -72,7 +72,7 @@
 <param name="Объём, л">65</param>
 <param name="Половозрастная категория">унисекс</param>
 <param name="Замок">кодовый замок</param>
-<param name="Размер">средний (51 – 89 л)</param>
+<param name="Размер" unit="см">средний (51-89 л)</param>
 <param name="Корпус">жесткий</param>
 </offer>
 <offer id="711" available="true" portalid="10855">
@@ -103,7 +103,7 @@
 <param name="Объём, л">100</param>
 <param name="Половозрастная категория">унисекс</param>
 <param name="Замок">кодовый замок</param>
-<param name="Размер">гигант (Более 100)</param>
+<param name="Размер" unit="см">гигант (Более 100)</param>
 <param name="Корпус">жесткий</param>
 </offer>
 </offers>
