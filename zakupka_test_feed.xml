@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-05-15 08:52">
+<shop>
+<name>SKLAD VALIZ</name>
+<company>SKLAD VALIZ</company>
+<url>https://sklad-valiz.com.ua</url>
+<platform>Zakupka.com</platform>
+<agency>Google Apps Script</agency>
+<email>info@sklad-valiz.com.ua</email>
+<categories>
+<category id="5030">Рюкзаки міські</category>
+<category id="10855">Дорожні сумки, валізи</category>
+</categories>
+<offers>
+<offer id="512" available="true">
+<url>https://sklad-valiz.com.ua/ru/valiza-snowball-33703-velyka-101l-chorna-33703-l-black/</url>
+<price>3150</price>
+<currencyId>UAH</currencyId>
+<categoryId>10855</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/13/valiza-snowball-33703-velyka-101l-chorna-33703-l-black-60518312359839_+b5787a78a2.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/13/valiza-snowball-33703-velyka-101l-chorna-33703-l-black-44209330533655_+d7bdbde378.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/13/valiza-snowball-33703-velyka-101l-chorna-33703-l-black-43516560047573_+533b5726aa.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/13/valiza-snowball-33703-velyka-101l-chorna-33703-l-black-37168747394128_+563d6009d9.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/13/valiza-snowball-33703-velyka-101l-chorna-33703-l-black-29016496984427_+ba56026121.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/13/valiza-snowball-33703-velyka-101l-chorna-33703-l-black-66060771167441_+692718eb4a.png</picture>
+<name>Чемодан Snowball 33703 большой 101л черный (33703-L-Black)</name>
+<name_ua>Валіза Snowball 33703 велика 101л чорна (33703-L-Black)</name_ua>
+<vendorCode>33703-L-Black</vendorCode>
+<vendor>Snowball</vendor>
+<country_of_origin>Франція</country_of_origin>
+<description><![CDATA[<p>    </p>]]></description>
+<description_ua><![CDATA[<p>Розмір L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22&ndash;25кг.</p>]]></description_ua>
+<param name="Принт">без принта</param>
+<param name="Стан">Новий</param>
+<param name="Кількість відділень">2</param>
+<param name="Особливості кольору">інше</param>
+<param name="Особливості">висувна ручка</param>
+<param name="Колір">чорний</param>
+<param name="Тип">чемодан</param>
+<param name="Матеріал">поліпропілен</param>
+<param name="Об `єм">101</param>
+<param name="Статево-вікова категорія">унісекс</param>
+<param name="Замок">кодовий замок</param>
+<param name="Розмір">великий (90 - 100 л)</param>
+<param name="Висота, см">75</param>
+<param name="Ширина, см">50</param>
+<param name="Глибина, см">28</param>
+<param name="Вага, кг">5</param>
+<param name="Корпус">м&apos;який</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
