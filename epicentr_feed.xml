@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-17 00:11">
+<yml_catalog date="2026-05-17 06:11">
   <offers>
     <offer id="33703-L-Black" available="true">
       <name lang="ru">Чемодан Snowball 33703 большой 101л черный (33703-L-Black)</name>
@@ -5304,94 +5304,6 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="42203-S-Purple" available="true">
-      <name lang="ru">Чемодан Madisson 42203 малый 39 л фиолетовый (42203-S-Purple)</name>
-      <name lang="ua">Валіза Madisson 42203 мала 39 л фіолетова (42203-S-Purple)</name>
-      <price>1450</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
-      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Madisson 42203 малый 39 л фиолетовый (42203-S-Purple)</description>
-      <description lang="ua">Валіза Madisson 42203 мала 39 л фіолетова (42203-S-Purple)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/2/valiza-madisson-42203-mala-39-l-fioletova-42203-s-purple-71114671472203_+9ba1f68e3e.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/2/valiza-madisson-42203-mala-39-l-fioletova-42203-s-purple-75071554790391_+f94cb8620b.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/2/valiza-madisson-42203-mala-39-l-fioletova-42203-s-purple-88375283482389_+07c52ce9db.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/2/valiza-madisson-42203-mala-39-l-fioletova-42203-s-purple-70780411354791_+119a677ef8.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/2/valiza-madisson-42203-mala-39-l-fioletova-42203-s-purple-49615347480432_+4b88853a81.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
-      <param name="Колір виробника" paramcode="78" valuecode="ct2lhsxt">фіолетовий</param>
-      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
-      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <param name="Об'єм" paramcode="104">39</param>
-      <height>550</height>
-      <param name="Висота" paramcode="110">55</param>
-      <width>380</width>
-      <param name="Ширина" paramcode="111">38</param>
-      <length>230</length>
-      <param name="Глибина" paramcode="112">23</param>
-      <weight>3000</weight>
-      <param name="Вага" paramcode="150">3</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
-    <offer id="42203-S-DarkBlue" available="true">
-      <name lang="ru">Чемодан Madisson 42203 малый 39л темно-синий (42203-S-DarkBlue)</name>
-      <name lang="ua">Валіза Madisson 42203 мала 39л темно-синя (42203-S-DarkBlue)</name>
-      <price>1450</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
-      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Madisson 42203 малый 39л темно-синий (42203-S-DarkBlue)</description>
-      <description lang="ua">Валіза Madisson 42203 мала 39л темно-синя (42203-S-DarkBlue)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/5/valiza-madisson-42203-mala-39l-temno-synia-42203-s-darkblue-44564577406831_+aa8d9d2988.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/5/valiza-madisson-42203-mala-39l-temno-synia-42203-s-darkblue-16862188723460_+dca6be7a1e.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/5/valiza-madisson-42203-mala-39l-temno-synia-42203-s-darkblue-48598863080011_+5d9b63dd59.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/5/valiza-madisson-42203-mala-39l-temno-synia-42203-s-darkblue-38631480651347_+dcf485aa03.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/5/valiza-madisson-42203-mala-39l-temno-synia-42203-s-darkblue-32667236622085_+4ec341f557.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
-      <param name="Колір виробника" paramcode="78" valuecode="ct2lhsxt">фіолетовий</param>
-      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
-      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <param name="Об'єм" paramcode="104">39</param>
-      <height>550</height>
-      <param name="Висота" paramcode="110">55</param>
-      <width>380</width>
-      <param name="Ширина" paramcode="111">38</param>
-      <length>230</length>
-      <param name="Глибина" paramcode="112">23</param>
-      <weight>3000</weight>
-      <param name="Вага" paramcode="150">3</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
     <offer id="42203-M-Purple" available="true">
       <name lang="ru">Чемодан Madisson 42203 средний 68л фиолетовый (42203-M-Purple)</name>
       <name lang="ua">Валіза Madisson 42203 середня 68л фіолетова (42203-M-Purple)</name>
@@ -5404,11 +5316,57 @@
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
       <description lang="ru">Чемодан Madisson 42203 средний 68л фиолетовый (42203-M-Purple)</description>
       <description lang="ua">Валіза Madisson 42203 середня 68л фіолетова (42203-M-Purple)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-madisson-42203-serednia-68l-fioletova-42203-m-purple-68168841165138_+6ee856d4a0.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-madisson-42203-serednia-68l-fioletova-42203-m-purple-78440275851768_+bdc48d837b.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-madisson-42203-serednia-68l-fioletova-42203-m-purple-87555137781237_+24b6af096e.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-madisson-42203-serednia-68l-fioletova-42203-m-purple-21163219014532_+9e78be4865.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-madisson-42203-serednia-68l-fioletova-42203-m-purple-90283789768220_+5cb3c7684b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-madisson-42203-serednia-68l-fioletova-42203-m-purple-23141585150921_+03371ba768.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-madisson-42203-serednia-68l-fioletova-42203-m-purple-84045772175421_+8e0b49ae0c.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-madisson-42203-serednia-68l-fioletova-42203-m-purple-31468426553203_+26bdd680b1.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-madisson-42203-serednia-68l-fioletova-42203-m-purple-76813154984097_+405da12199.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-madisson-42203-serednia-68l-fioletova-42203-m-purple-55632597662069_+172e35a414.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-madisson-42203-serednia-68l-fioletova-42203-m-purple-68750071793427_+3921e95045.png</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ct2lhsxt">фіолетовий</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">68</param>
+      <height>660</height>
+      <param name="Висота" paramcode="110">66</param>
+      <width>450</width>
+      <param name="Ширина" paramcode="111">45</param>
+      <length>270</length>
+      <param name="Глибина" paramcode="112">27</param>
+      <weight>4000</weight>
+      <param name="Вага" paramcode="150">4</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="42203-M-DarkBlue" available="true">
+      <name lang="ru">Чемодан Madisson 42203 средний 68л темно-синий (42203-M-DarkBlue)</name>
+      <name lang="ua">Валіза Madisson 42203 середня 68л темно-синя (42203-M-DarkBlue)</name>
+      <price>2100</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
+      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан Madisson 42203 средний 68л темно-синий (42203-M-DarkBlue)</description>
+      <description lang="ua">Валіза Madisson 42203 середня 68л темно-синя (42203-M-DarkBlue)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/6/valiza-madisson-42203-serednia-68l-temno-synia-42203-m-darkblue-41514427284058_+d420d75688.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/6/valiza-madisson-42203-serednia-68l-temno-synia-42203-m-darkblue-56117746142763_+573b8dca51.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/6/valiza-madisson-42203-serednia-68l-temno-synia-42203-m-darkblue-25800036435033_+0831e9c0a8.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/6/valiza-madisson-42203-serednia-68l-temno-synia-42203-m-darkblue-45319831989359_+b89b93b872.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/6/valiza-madisson-42203-serednia-68l-temno-synia-42203-m-darkblue-24411855707517_+4e60112b8c.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/6/valiza-madisson-42203-serednia-68l-temno-synia-42203-m-darkblue-17827669934044_+ed27c5f004.png</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -5448,11 +5406,12 @@
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
       <description lang="ru">Чемодан Madisson 42203 большой 103л фиолетовый (42203-L-Purple)</description>
       <description lang="ua">Валіза Madisson 42203 велика 103л фіолетова (42203-L-Purple)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-madisson-42203-velyka-103l-fioletova-42203-l-purple-46241224322689_+ea5d1bbcd9.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-madisson-42203-velyka-103l-fioletova-42203-l-purple-67959272668040_+08eed86e33.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-madisson-42203-velyka-103l-fioletova-42203-l-purple-70385788685622_+2a28d354f2.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-madisson-42203-velyka-103l-fioletova-42203-l-purple-71110138129058_+7ef41bafc0.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-madisson-42203-velyka-103l-fioletova-42203-l-purple-35011030236875_+d99b2b73f4.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-madisson-42203-velyka-103l-fioletova-42203-l-purple-97203932969013_+bd55cff2a6.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-madisson-42203-velyka-103l-fioletova-42203-l-purple-43888625103238_+8517a3d233.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-madisson-42203-velyka-103l-fioletova-42203-l-purple-20093387761823_+44845443fe.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-madisson-42203-velyka-103l-fioletova-42203-l-purple-37644262760328_+ecff28baee.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-madisson-42203-velyka-103l-fioletova-42203-l-purple-43930585872980_+27e0968cc0.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-madisson-42203-velyka-103l-fioletova-42203-l-purple-42470457331863_+297b425f90.png</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -5480,50 +5439,6 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="42203-M-DarkBlue" available="true">
-      <name lang="ru">Чемодан Madisson 42203 средний 68л темно-синий (42203-M-DarkBlue)</name>
-      <name lang="ua">Валіза Madisson 42203 середня 68л темно-синя (42203-M-DarkBlue)</name>
-      <price>2100</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
-      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Madisson 42203 средний 68л темно-синий (42203-M-DarkBlue)</description>
-      <description lang="ua">Валіза Madisson 42203 середня 68л темно-синя (42203-M-DarkBlue)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/6/valiza-madisson-42203-serednia-68l-temno-synia-42203-m-darkblue-72919969649636_+bd2eb4a944.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/6/valiza-madisson-42203-serednia-68l-temno-synia-42203-m-darkblue-48621096417740_+7cf7b5e77a.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/6/valiza-madisson-42203-serednia-68l-temno-synia-42203-m-darkblue-70292843737417_+ea71710655.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/6/valiza-madisson-42203-serednia-68l-temno-synia-42203-m-darkblue-84089742963089_+ac232e89ed.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/6/valiza-madisson-42203-serednia-68l-temno-synia-42203-m-darkblue-42923548631100_+0c63d4cb69.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
-      <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
-      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
-      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <param name="Об'єм" paramcode="104">68</param>
-      <height>660</height>
-      <param name="Висота" paramcode="110">66</param>
-      <width>450</width>
-      <param name="Ширина" paramcode="111">45</param>
-      <length>270</length>
-      <param name="Глибина" paramcode="112">27</param>
-      <weight>4000</weight>
-      <param name="Вага" paramcode="150">4</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
     <offer id="42203-L-DarkBlue" available="true">
       <name lang="ru">Чемодан Madisson 42203 большой 103л темно-синий (42203-L-DarkBlue)</name>
       <name lang="ua">Валіза Madisson 42203 велика 103л темно-синя (42203-L-DarkBlue)</name>
@@ -5536,16 +5451,17 @@
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
       <description lang="ru">Чемодан Madisson 42203 большой 103л темно-синий (42203-L-DarkBlue)</description>
       <description lang="ua">Валіза Madisson 42203 велика 103л темно-синя (42203-L-DarkBlue)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/7/valiza-madisson-42203-velyka-103l-temno-synia-42203-l-darkblue-41942869310618_+0aa73afe1b.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/7/valiza-madisson-42203-velyka-103l-temno-synia-42203-l-darkblue-22249258713771_+d003021578.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/7/valiza-madisson-42203-velyka-103l-temno-synia-42203-l-darkblue-27361846574947_+1dbef1f3e1.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/7/valiza-madisson-42203-velyka-103l-temno-synia-42203-l-darkblue-92964596114988_+95a977d15e.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/7/valiza-madisson-42203-velyka-103l-temno-synia-42203-l-darkblue-82524398008333_+409b9fcc4d.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/7/valiza-madisson-42203-velyka-103l-temno-synia-42203-l-darkblue-56760915091669_+0d1828da70.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/7/valiza-madisson-42203-velyka-103l-temno-synia-42203-l-darkblue-49562213619418_+a5ad4a695d.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/7/valiza-madisson-42203-velyka-103l-temno-synia-42203-l-darkblue-25930173867941_+454378a261.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/7/valiza-madisson-42203-velyka-103l-temno-synia-42203-l-darkblue-54236197067463_+6f97846ff3.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/7/valiza-madisson-42203-velyka-103l-temno-synia-42203-l-darkblue-37097962612478_+d227fd1de1.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/7/valiza-madisson-42203-velyka-103l-temno-synia-42203-l-darkblue-61705377365743_+2637b97665.png</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
-      <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ct2lhsxt">фіолетовий</param>
       <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
       <param name="Об'єм" paramcode="104">103</param>
@@ -5557,6 +5473,51 @@
       <param name="Глибина" paramcode="112">31</param>
       <weight>5000</weight>
       <param name="Вага" paramcode="150">5</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="63703-S-Champagne" available="false">
+      <name lang="ru">Чемодан Madisson 63703 малый 37л шампань (63703-S-Champagne)</name>
+      <name lang="ua">Валіза Madisson 63703 мала 37л шампань (63703-S-Champagne)</name>
+      <price>1850</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
+      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан Madisson 63703 малый 37л шампань (63703-S-Champagne)</description>
+      <description lang="ua">Валіза Madisson 63703 мала 37л шампань (63703-S-Champagne)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/14/valiza-madisson-63703-mala-37l-shampan-63703-s-champagne-61104985497626_+57c9702863.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/14/valiza-madisson-63703-mala-37l-shampan-63703-s-champagne-79098533651624_+bbb9ea0f00.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/14/valiza-madisson-63703-mala-37l-shampan-63703-s-champagne-44304740551400_+654ec8f80a.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/14/valiza-madisson-63703-mala-37l-shampan-63703-s-champagne-43209113626292_+7d0bc07d3d.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/14/valiza-madisson-63703-mala-37l-shampan-63703-s-champagne-46948045080880_+8fdbcc88b3.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/14/valiza-madisson-63703-mala-37l-shampan-63703-s-champagne-42105997594229_+770e858005.png</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">37</param>
+      <height>550</height>
+      <param name="Висота" paramcode="110">55</param>
+      <width>390</width>
+      <param name="Ширина" paramcode="111">39</param>
+      <length>210</length>
+      <param name="Глибина" paramcode="112">21</param>
+      <weight>3000</weight>
+      <param name="Вага" paramcode="150">3</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -5580,16 +5541,17 @@
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
       <description lang="ru">Чемодан Madisson 63703 малый 37л кремовый (63703-S-Milk)</description>
       <description lang="ua">Валіза Madisson 63703 мала 37л кремова (63703-S-Milk)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-madisson-63703-mala-37l-kremova-63703-s-milk-43242334109696_+b33c455967.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-madisson-63703-mala-37l-kremova-63703-s-milk-23937160818246_+6a29770495.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-madisson-63703-mala-37l-kremova-63703-s-milk-15754992287412_+beb0f63daf.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-madisson-63703-mala-37l-kremova-63703-s-milk-87209537301968_+2f06a23c3d.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-madisson-63703-mala-37l-kremova-63703-s-milk-76133237666302_+4e979078e1.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-madisson-63703-mala-37l-kremova-63703-s-milk-18099388222147_+8616aad481.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-madisson-63703-mala-37l-kremova-63703-s-milk-17771879688021_+d6df33bdfc.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-madisson-63703-mala-37l-kremova-63703-s-milk-42542248186053_+826a93019f.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-madisson-63703-mala-37l-kremova-63703-s-milk-12952808928106_+7894e46d31.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-madisson-63703-mala-37l-kremova-63703-s-milk-31132824540091_+5e1f2a6c55.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-madisson-63703-mala-37l-kremova-63703-s-milk-84434598630206_+31ec4b3d4b.png</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
-      <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
       <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
       <param name="Об'єм" paramcode="104">37</param>
@@ -5624,11 +5586,12 @@
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
       <description lang="ru">Чемодан Madisson 63703 малый 37л черный (63703-S-Black)</description>
       <description lang="ua">Валіза Madisson 63703 мала 37л чорна (63703-S-Black)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-madisson-63703-mala-37l-chorna-63703-s-black-37367556615082_+52bcc2daad.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-madisson-63703-mala-37l-chorna-63703-s-black-70465375598520_+78b088624f.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-madisson-63703-mala-37l-chorna-63703-s-black-60252851296264_+73437f387d.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-madisson-63703-mala-37l-chorna-63703-s-black-62441333266035_+0dde56ad32.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-madisson-63703-mala-37l-chorna-63703-s-black-54878917694504_+edef726411.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-madisson-63703-mala-37l-chorna-63703-s-black-40721343776981_+32c26fe3c2.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-madisson-63703-mala-37l-chorna-63703-s-black-50043938483091_+9d9f08c3db.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-madisson-63703-mala-37l-chorna-63703-s-black-12436148876835_+d76b9e0ca7.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-madisson-63703-mala-37l-chorna-63703-s-black-48219407177003_+515c299ea2.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-madisson-63703-mala-37l-chorna-63703-s-black-68552345028900_+16df68dc9b.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-madisson-63703-mala-37l-chorna-63703-s-black-72251415130364_+18d6b236c6.png</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -5656,6 +5619,51 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
+    <offer id="63703-M-Champagne" available="false">
+      <name lang="ru">Чемодан Madisson 63703 средний 65л шампань (63703-M-Champagne)</name>
+      <name lang="ua">Валіза Madisson 63703 середня 65л шампань (63703-M-Champagne)</name>
+      <price>2550</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
+      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан Madisson 63703 средний 65л шампань (63703-M-Champagne)</description>
+      <description lang="ua">Валіза Madisson 63703 середня 65л шампань (63703-M-Champagne)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-serednia-65l-shampan-63703-m-champagne-77173447768376_+0f2b4745dc.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-serednia-65l-shampan-63703-m-champagne-60148386914511_+c1958c3f54.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-serednia-65l-shampan-63703-m-champagne-95258016517617_+68db7256fa.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-serednia-65l-shampan-63703-m-champagne-97354037923365_+3ae6be1e3c.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-serednia-65l-shampan-63703-m-champagne-48465953005098_+adc479208f.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-serednia-65l-shampan-63703-m-champagne-42238448974257_+3c7ee6dbeb.png</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">65</param>
+      <height>660</height>
+      <param name="Висота" paramcode="110">66</param>
+      <width>440</width>
+      <param name="Ширина" paramcode="111">44</param>
+      <length>270</length>
+      <param name="Глибина" paramcode="112">27</param>
+      <weight>4000</weight>
+      <param name="Вага" paramcode="150">4</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
     <offer id="63703-M-Milk" available="true">
       <name lang="ru">Чемодан Madisson 63703 средний 65л кремовый (63703-M-Milk)</name>
       <name lang="ua">Валіза Madisson 63703 середня 65л кремова (63703-M-Milk)</name>
@@ -5668,16 +5676,17 @@
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
       <description lang="ru">Чемодан Madisson 63703 средний 65л кремовый (63703-M-Milk)</description>
       <description lang="ua">Валіза Madisson 63703 середня 65л кремова (63703-M-Milk)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-madisson-63703-serednia-65l-kremova-63703-m-milk-33544318961700_+d19bef09bb.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-madisson-63703-serednia-65l-kremova-63703-m-milk-27452836010000_+276ebc8cac.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-madisson-63703-serednia-65l-kremova-63703-m-milk-14270828369265_+2dc3d4628a.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-madisson-63703-serednia-65l-kremova-63703-m-milk-16516762644396_+2cbaebe677.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-madisson-63703-serednia-65l-kremova-63703-m-milk-29528748507078_+d3ceefcdbf.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-madisson-63703-serednia-65l-kremova-63703-m-milk-99226699003699_+47d069ce6b.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-madisson-63703-serednia-65l-kremova-63703-m-milk-48880206878464_+a6600b4f87.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-madisson-63703-serednia-65l-kremova-63703-m-milk-18845305910192_+c1fde0895a.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-madisson-63703-serednia-65l-kremova-63703-m-milk-65748213440291_+a775c0961a.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-madisson-63703-serednia-65l-kremova-63703-m-milk-97781568154005_+cb01c8b736.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-madisson-63703-serednia-65l-kremova-63703-m-milk-81325123779432_+03dd847589.png</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
-      <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
       <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
       <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
       <param name="Об'єм" paramcode="104">65</param>
@@ -5712,11 +5721,12 @@
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
       <description lang="ru">Чемодан Madisson 63703 средний 65л черный (63703-M-Black)</description>
       <description lang="ua">Валіза Madisson 63703 середня 65л чорна (63703-M-Black)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/11/valiza-madisson-63703-serednia-65l-chorna-63703-m-black-54357981045398_+a3fbe63771.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/11/valiza-madisson-63703-serednia-65l-chorna-63703-m-black-58693138978151_+92629e123b.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/11/valiza-madisson-63703-serednia-65l-chorna-63703-m-black-92005260722343_+0ba2d79d1e.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/11/valiza-madisson-63703-serednia-65l-chorna-63703-m-black-37304049429525_+07705b8def.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/11/valiza-madisson-63703-serednia-65l-chorna-63703-m-black-81243684241122_+088fc2811b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/11/valiza-madisson-63703-serednia-65l-chorna-63703-m-black-22270169143455_+72ddc2c943.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/11/valiza-madisson-63703-serednia-65l-chorna-63703-m-black-71854323622409_+e920d587a7.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/11/valiza-madisson-63703-serednia-65l-chorna-63703-m-black-51713678609932_+7a11ae5893.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/11/valiza-madisson-63703-serednia-65l-chorna-63703-m-black-85895428963239_+cc72c6bf12.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/11/valiza-madisson-63703-serednia-65l-chorna-63703-m-black-88779903828970_+c3c8569157.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/11/valiza-madisson-63703-serednia-65l-chorna-63703-m-black-75597427461507_+90f1c1d7ff.png</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -5744,6 +5754,51 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
+    <offer id="63703-L-Champagne" available="false">
+      <name lang="ru">Чемодан Madisson 63703 большой 100л шампань (63703-L-Champagne)</name>
+      <name lang="ua">Валіза Madisson 63703 велика 100л шампань (63703-L-Champagne)</name>
+      <price>2650</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
+      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан Madisson 63703 большой 100л шампань (63703-L-Champagne)</description>
+      <description lang="ua">Валіза Madisson 63703 велика 100л шампань (63703-L-Champagne)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-shampan-63703-l-champagne-90243552064210_+8812b70ff7.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-shampan-63703-l-champagne-55258600786762_+ae91b9a836.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-shampan-63703-l-champagne-35811148818231_+d8b4399c72.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-shampan-63703-l-champagne-32810800156996_+1d461b4ff6.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-shampan-63703-l-champagne-15786496909135_+537024eebf.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-shampan-63703-l-champagne-68539477683123_+6fc9ea322b.png</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">100</param>
+      <height>760</height>
+      <param name="Висота" paramcode="110">76</param>
+      <width>500</width>
+      <param name="Ширина" paramcode="111">50</param>
+      <length>310</length>
+      <param name="Глибина" paramcode="112">31</param>
+      <weight>5000</weight>
+      <param name="Вага" paramcode="150">5</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
     <offer id="63703-L-Milk" available="true">
       <name lang="ru">Чемодан Madisson 63703 большой 100л кремовый (63703-L-Milk)</name>
       <name lang="ua">Валіза Madisson 63703 велика 100л кремова (63703-L-Milk)</name>
@@ -5756,16 +5811,17 @@
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
       <description lang="ru">Чемодан Madisson 63703 большой 100л кремовый (63703-L-Milk)</description>
       <description lang="ua">Валіза Madisson 63703 велика 100л кремова (63703-L-Milk)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-kremova-63703-l-milk-26810253939513_+8b27193184.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-kremova-63703-l-milk-14275834194943_+ec7b143d28.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-kremova-63703-l-milk-23477544048042_+706a722f1c.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-kremova-63703-l-milk-96150030626817_+7155e11db6.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-kremova-63703-l-milk-64110664190459_+d5e79d031e.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-kremova-63703-l-milk-64196288350782_+45ed2b16f9.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-kremova-63703-l-milk-40433105446266_+58a2e37c03.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-kremova-63703-l-milk-86522261691490_+d20906cd5c.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-kremova-63703-l-milk-61344044472226_+86b42e95d8.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-kremova-63703-l-milk-83732458058715_+283b4a1d67.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-kremova-63703-l-milk-65253554562160_+a033d9a81a.png</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
-      <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
       <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
       <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
       <param name="Об'єм" paramcode="104">100</param>
@@ -5800,11 +5856,12 @@
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
       <description lang="ru">Чемодан Madisson 63703 большой 100л черный (63703-L-Black)</description>
       <description lang="ua">Валіза Madisson 63703 велика 100л чорна (63703-L-Black)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-velyka-100l-chorna-63703-l-black-26993091215657_+e0c2121a33.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-velyka-100l-chorna-63703-l-black-57883596280030_+53fc9d25d7.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-velyka-100l-chorna-63703-l-black-27741053432744_+6e001300a5.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-velyka-100l-chorna-63703-l-black-98874683385368_+e3921ca877.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-velyka-100l-chorna-63703-l-black-64272558238040_+aca41afff7.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-velyka-100l-chorna-63703-l-black-65740137929227_+45989ac313.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-velyka-100l-chorna-63703-l-black-86322304449043_+b1da728910.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-velyka-100l-chorna-63703-l-black-27327001147119_+583e430111.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-velyka-100l-chorna-63703-l-black-75941729867367_+fb34ec7d3b.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-velyka-100l-chorna-63703-l-black-15963620594795_+6ed5b22797.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-velyka-100l-chorna-63703-l-black-61214815034937_+3b9ebfe633.png</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -7733,7 +7790,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="160-L-Silver" available="true">
+    <offer id="160-L-Silver" available="false">
       <name lang="ru">Чемодан Wings 160 большой 97л серебряный (160-L-Silver)</name>
       <name lang="ua">Валіза Wings 160 велика 97л срібна (160-L-Silver)</name>
       <price>1850</price>
@@ -8859,125 +8916,83 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="63703-L-Champagne" available="false">
-      <name lang="ru">Чемодан Madisson 63703 большой 100л шампань (63703-L-Champagne)</name>
-      <name lang="ua">Валіза Madisson 63703 велика 100л шампань (63703-L-Champagne)</name>
-      <price>2650</price>
+    <offer id="42203-S-Purple" available="true">
+      <name lang="ru">Чемодан Madisson 42203 малый 39л фиолетовый (42203-S-Purple)</name>
+      <name lang="ua">Валіза Madisson 42203 мала 39л фіолетова (42203-S-Purple)</name>
+      <price>1450</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
       <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
       <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Madisson 63703 большой 100л шампань (63703-L-Champagne)</description>
-      <description lang="ua">Валіза Madisson 63703 велика 100л шампань (63703-L-Champagne)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-shampan-63703-l-champagne-25562419345334_+42da65d888.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-shampan-63703-l-champagne-94187527123854_+47bf9ff4d5.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-shampan-63703-l-champagne-74256239519187_+5640232ba1.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-shampan-63703-l-champagne-77659407086887_+0a7540d329.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-madisson-63703-velyka-100l-shampan-63703-l-champagne-15185930139201_+db09321492.jpg</picture>
+      <description lang="ru">Чемодан Madisson 42203 малый 39л фиолетовый (42203-S-Purple)</description>
+      <description lang="ua">Валіза Madisson 42203 мала 39л фіолетова (42203-S-Purple)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/26/valiza-madisson-42203-mala-39l-fioletova-42203-s-purple-69458752274574_+6c895721ad.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/26/valiza-madisson-42203-mala-39l-fioletova-42203-s-purple-18011150422076_+71402c3bd6.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/26/valiza-madisson-42203-mala-39l-fioletova-42203-s-purple-82336128400706_+26745a56ed.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/26/valiza-madisson-42203-mala-39l-fioletova-42203-s-purple-74848069967074_+fec726cdfb.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/26/valiza-madisson-42203-mala-39l-fioletova-42203-s-purple-48991574808428_+fbdd15dec1.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/26/valiza-madisson-42203-mala-39l-fioletova-42203-s-purple-14482346684271_+adb1616790.png</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
-      <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
-      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
-      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <param name="Об'єм" paramcode="104">100</param>
-      <height>760</height>
-      <param name="Висота" paramcode="110">76</param>
-      <width>500</width>
-      <param name="Ширина" paramcode="111">50</param>
-      <length>310</length>
-      <param name="Глибина" paramcode="112">31</param>
-      <weight>5000</weight>
-      <param name="Вага" paramcode="150">5</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
-    <offer id="63703-M-Champagne" available="false">
-      <name lang="ru">Чемодан Madisson 63703 средний 65л шампань (63703-M-Champagne)</name>
-      <name lang="ua">Валіза Madisson 63703 середня 65л шампань (63703-M-Champagne)</name>
-      <price>2550</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
-      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Madisson 63703 средний 65л шампань (63703-M-Champagne)</description>
-      <description lang="ua">Валіза Madisson 63703 середня 65л шампань (63703-M-Champagne)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-serednia-65l-shampan-63703-m-champagne-47264362751912_+f7fadc1dd7.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-serednia-65l-shampan-63703-m-champagne-93100543296651_+42c484d38d.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-serednia-65l-shampan-63703-m-champagne-79186355162895_+47dbaa0fe0.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-serednia-65l-shampan-63703-m-champagne-30833518708429_+333bad5df0.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-madisson-63703-serednia-65l-shampan-63703-m-champagne-90502182331970_+50be4e29ce.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
-      <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
-      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
-      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <param name="Об'єм" paramcode="104">65</param>
-      <height>660</height>
-      <param name="Висота" paramcode="110">66</param>
-      <width>440</width>
-      <param name="Ширина" paramcode="111">44</param>
-      <length>270</length>
-      <param name="Глибина" paramcode="112">27</param>
-      <weight>4000</weight>
-      <param name="Вага" paramcode="150">4</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
-    <offer id="63703-S-Champagne" available="true">
-      <name lang="ru">Чемодан Madisson 63703 малый 37л шампань (63703-S-Champagne)</name>
-      <name lang="ua">Валіза Madisson 63703 мала 37л шампань (63703-S-Champagne)</name>
-      <price>1850</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
-      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Madisson 63703 малый 37л шампань (63703-S-Champagne)</description>
-      <description lang="ua">Валіза Madisson 63703 мала 37л шампань (63703-S-Champagne)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/14/valiza-madisson-63703-mala-37l-shampan-63703-s-champagne-48830732330670_+0f70192808.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/14/valiza-madisson-63703-mala-37l-shampan-63703-s-champagne-91733254469116_+b8a0858aac.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/14/valiza-madisson-63703-mala-37l-shampan-63703-s-champagne-55406396178455_+21306633a2.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/14/valiza-madisson-63703-mala-37l-shampan-63703-s-champagne-28037158945872_+04545df713.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/14/valiza-madisson-63703-mala-37l-shampan-63703-s-champagne-61726922933234_+388001a15c.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
-      <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ct2lhsxt">фіолетовий</param>
       <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <param name="Об'єм" paramcode="104">37</param>
+      <param name="Об'єм" paramcode="104">39</param>
       <height>550</height>
       <param name="Висота" paramcode="110">55</param>
-      <width>390</width>
-      <param name="Ширина" paramcode="111">39</param>
-      <length>210</length>
-      <param name="Глибина" paramcode="112">21</param>
+      <width>380</width>
+      <param name="Ширина" paramcode="111">38</param>
+      <length>230</length>
+      <param name="Глибина" paramcode="112">23</param>
+      <weight>3000</weight>
+      <param name="Вага" paramcode="150">3</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="42203-S-DarkBlue" available="true">
+      <name lang="ru">Чемодан Madisson 42203 малый 39л темно-синий (42203-S-DarkBlue)</name>
+      <name lang="ua">Валіза Madisson 42203 мала 39л темно-синя (42203-S-DarkBlue)</name>
+      <price>1450</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
+      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан Madisson 42203 малый 39л темно-синий (42203-S-DarkBlue)</description>
+      <description lang="ua">Валіза Madisson 42203 мала 39л темно-синя (42203-S-DarkBlue)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-madisson-42203-mala-39l-temno-synia-42203-s-darkblue-51042180178122_+c5b1d11a1d.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-madisson-42203-mala-39l-temno-synia-42203-s-darkblue-58183587606959_+8464e5fc75.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-madisson-42203-mala-39l-temno-synia-42203-s-darkblue-19270353470297_+d386336876.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-madisson-42203-mala-39l-temno-synia-42203-s-darkblue-93459337981523_+bc632ee028.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-madisson-42203-mala-39l-temno-synia-42203-s-darkblue-31501207508419_+d21855832d.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-madisson-42203-mala-39l-temno-synia-42203-s-darkblue-69015543685257_+f44636b689.png</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ct2lhsxt">фіолетовий</param>
+      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">39</param>
+      <height>550</height>
+      <param name="Висота" paramcode="110">55</param>
+      <width>380</width>
+      <param name="Ширина" paramcode="111">38</param>
+      <length>230</length>
+      <param name="Глибина" paramcode="112">23</param>
       <weight>3000</weight>
       <param name="Вага" paramcode="150">3</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
