@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-21 18:11">
+<yml_catalog date="2026-05-22 06:11">
   <offers>
     <offer id="33703-L-Black" available="true">
       <name lang="ru">Чемодан Snowball 33703 большой 101л черный (33703-L-Black)</name>
@@ -8248,7 +8248,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="160-S-White" available="true">
+    <offer id="160-S-White" available="false">
       <name lang="ru">Чемодан Wings 160 малый 38л белый (160-S-White)</name>
       <name lang="ua">Валіза Wings 160 мала 38л біла (160-S-White)</name>
       <price>1200</price>
@@ -8881,6 +8881,184 @@
       <param name="Ширина" paramcode="111">39</param>
       <length>200</length>
       <param name="Глибина" paramcode="112">20</param>
+      <weight>3000</weight>
+      <param name="Вага" paramcode="150">3</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="49103-S-White" available="true">
+      <name lang="ru">Чемодан Snowball 49103 малый 39л белый (49103-S-White)</name>
+      <name lang="ua">Валіза Snowball 49103 мала 39л біла (49103-S-White)</name>
+      <price>3600</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан Snowball 49103 малый 39л белый (49103-S-White)</description>
+      <description lang="ua">Валіза Snowball 49103 мала 39л біла (49103-S-White)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/15/valiza-snowball-49103-mala-39l-bila-49103-s-white-24058914829528_+b888c51baa.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/15/valiza-snowball-49103-mala-39l-bila-49103-s-white-34844050428837_+6dabc71927.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/15/valiza-snowball-49103-mala-39l-bila-49103-s-white-84793217803072_+6b00118aa2.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/15/valiza-snowball-49103-mala-39l-bila-49103-s-white-79353541990044_+02422d76be.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/15/valiza-snowball-49103-mala-39l-bila-49103-s-white-87105265811838_+dba243a7fe.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/15/valiza-snowball-49103-mala-39l-bila-49103-s-white-41899853141008_+4adb11d6fb.png</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">39</param>
+      <height>550</height>
+      <param name="Висота" paramcode="110">55</param>
+      <width>390</width>
+      <param name="Ширина" paramcode="111">39</param>
+      <length>200</length>
+      <param name="Глибина" paramcode="112">20</param>
+      <weight>3000</weight>
+      <param name="Вага" paramcode="150">3</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="49103-M-White" available="false">
+      <name lang="ru">Чемодан Snowball 49103 средний 69л белый (49103-M-White)</name>
+      <name lang="ua">Валіза Snowball 49103 середня 69л біла (49103-M-White)</name>
+      <price>4950</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан Snowball 49103 средний 69л белый (49103-M-White)</description>
+      <description lang="ua">Валіза Snowball 49103 середня 69л біла (49103-M-White)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-49103-serednia-69l-bila-49103-m-white-47626605144721_+b223a5b1fe.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-49103-serednia-69l-bila-49103-m-white-96364171537695_+9aebfca245.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-49103-serednia-69l-bila-49103-m-white-23861659777087_+65e82fbb9f.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-49103-serednia-69l-bila-49103-m-white-77562280691515_+ff980080fc.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-49103-serednia-69l-bila-49103-m-white-53311839128284_+707329113a.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-49103-serednia-69l-bila-49103-m-white-26525335790990_+35dc8c4083.png</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">69</param>
+      <height>650</height>
+      <param name="Висота" paramcode="110">65</param>
+      <width>460</width>
+      <param name="Ширина" paramcode="111">46</param>
+      <length>280</length>
+      <param name="Глибина" paramcode="112">28</param>
+      <weight>4000</weight>
+      <param name="Вага" paramcode="150">4</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="49103-L-White" available="true">
+      <name lang="ru">Чемодан Snowball 49103 большой 112л белый (49103-L-White)</name>
+      <name lang="ua">Валіза Snowball 49103 велика 112л біла (49103-L-White)</name>
+      <price>5100</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан Snowball 49103 большой 112л белый (49103-L-White)</description>
+      <description lang="ua">Валіза Snowball 49103 велика 112л біла (49103-L-White)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-41157494692946_+98e14dc8aa.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-51183346908748_+6b2a7ca4d3.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-35575092317636_+04afcd0247.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-88337652533069_+dfcf16d87a.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-76295205426709_+2fa0c49102.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-92450410622205_+3abe7767c7.png</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">112</param>
+      <height>750</height>
+      <param name="Висота" paramcode="110">75</param>
+      <width>510</width>
+      <param name="Ширина" paramcode="111">51</param>
+      <length>320</length>
+      <param name="Глибина" paramcode="112">32</param>
+      <weight>5000</weight>
+      <param name="Вага" paramcode="150">5</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="GDW01-M-Burgundy" available="true">
+      <name lang="ru">Чемодан Wings GDW01 средний 63л бордовый (GDW01-M-Burgundy)</name>
+      <name lang="ua">Валіза Wings GDW01 середня 63л бордова (GDW01-M-Burgundy)</name>
+      <price>2100</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
+      <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан Wings GDW01 средний 63л бордовый (GDW01-M-Burgundy)</description>
+      <description lang="ua">Валіза Wings GDW01 середня 63л бордова (GDW01-M-Burgundy)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/19/valiza-wings-gdw01-serednia-63l-bordova-gdw01-m-burgundy-62340605104061_+fbde58cb87.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/19/valiza-wings-gdw01-serednia-63l-bordova-gdw01-m-burgundy-61057890244939_+23d8c28c3d.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/19/valiza-wings-gdw01-serednia-63l-bordova-gdw01-m-burgundy-22963131958876_+f8e86e0372.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/19/valiza-wings-gdw01-serednia-63l-bordova-gdw01-m-burgundy-72991468827588_+dc9a04d906.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/19/valiza-wings-gdw01-serednia-63l-bordova-gdw01-m-burgundy-38600995369784_+640355cf39.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/19/valiza-wings-gdw01-serednia-63l-bordova-gdw01-m-burgundy-23834467817060_+8c7e87e8af.png</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">63</param>
+      <height>650</height>
+      <param name="Висота" paramcode="110">65</param>
+      <width>440</width>
+      <param name="Ширина" paramcode="111">44</param>
+      <length>260</length>
+      <param name="Глибина" paramcode="112">26</param>
       <weight>3000</weight>
       <param name="Вага" paramcode="150">3</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
