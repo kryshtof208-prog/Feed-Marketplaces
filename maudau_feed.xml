@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-25T03:14:37.154Z">
+<yml_catalog date="2026-05-25T09:14:37.290Z">
   <shop>
     <categories>
       <category id="1061" portal_id="2273">Валізи</category>
@@ -519,7 +519,7 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="49403-L-Brown" available="false">
+      <offer id="49403-L-Red" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан Snowball 49403 большой 113л коричневый (49403-L-Brown)</name_ru>
         <name_ua>Валіза Snowball 49403 велика 113л коричнева (49403-L-Brown)</name_ua>
@@ -552,7 +552,7 @@
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="49403-L-White" available="true">
+      <offer id="49403-L-Red" available="true">
         <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан Snowball 49403 большой 113л белый (49403-L-White)</name_ru>
         <name_ua>Валіза Snowball 49403 велика 113л біла (49403-L-White)</name_ua>
@@ -1713,7 +1713,7 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="49403-M-Brown" available="false">
+      <offer id="49403-M-Red" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан Snowball 49403 средний 69л коричневый (49403-M-Brown)</name_ru>
         <name_ua>Валіза Snowball 49403 середня 69л коричнева (49403-M-Brown)</name_ua>
@@ -1746,7 +1746,7 @@
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="49403-M-White" available="false">
+      <offer id="49403-M-Red" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан Snowball 49403 средний 69л белый (49403-M-White)</name_ru>
         <name_ua>Валіза Snowball 49403 середня 69л біла (49403-M-White)</name_ua>
@@ -2871,7 +2871,7 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="49403-S-Brown" available="true">
+      <offer id="49403-S-Red" available="true">
         <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан Snowball 49403 малый 36л коричневый (49403-S-Brown)</name_ru>
         <name_ua>Валіза Snowball 49403 мала 36л коричнева (49403-S-Brown)</name_ua>
@@ -2905,7 +2905,7 @@
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="49403-S-White" available="true">
+      <offer id="49403-S-Red" available="true">
         <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Чемодан Snowball 49403 малый 36л белый (49403-S-White)</name_ru>
         <name_ua>Валіза Snowball 49403 мала 36л біла (49403-S-White)</name_ua>
@@ -3898,7 +3898,7 @@
         <param name="Корпус">Жорсткий</param>
       </offer>
       <offer id="0508-BC-Champagne-S" available="true">
-        <quantity_in_stock>27</quantity_in_stock>
+        <quantity_in_stock>26</quantity_in_stock>
         <name_ru>Кейс для чемоданов Carbon 0508-BC малый 13л шампань (0508-BC-Champagne-S)</name_ru>
         <name_ua>Кейс для валіз Carbon 0508-BC малий 13л шампань (0508-BC-Champagne-S)</name_ua>
         <price>488</price>
@@ -3932,31 +3932,33 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
       </offer>
-      <offer id="Kaiman-XS-Grey" available="false">
+      <offer id="Kaiman-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л серый (Kaiman-XS-Grey)</name_ru>
         <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л сіра (Kaiman-XS-Grey)</name_ua>
         <price>1600</price>
-        <old_price>1760</old_price>
         <categoryId>1088</categoryId>
         <vendor>Kaiman</vendor>
-        <country>Україна</country>
+        <country>Китай</country>
         <description_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л серый (Kaiman-XS-Grey)</description_ru>
-        <description_ua>Валіза має колеса, що знімаються Висота без коліщат, см 40 см</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-41779206531210_+472ffc1f94.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-69186879228982_+afff711ea9.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-30221913979704_+7b7aec83dc.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-38936354280289_+c46211b4d0.jpeg</picture>
+        <description_ua>Розмір XS - ідеальний вибір для коротких поїздок на 1&amp;ndash;2 дні, бізнес-візитів або як перша власна валіза для дитини. Завдяки своїм гранично компактним габаритам, ця модель спеціально розроблена під найсуворіші параметри безкоштовної ручної поклажі лоукостерів, що гарантує вам спокій під час посадки та відсутність жодних доплат за багаж. Головною перевагою моделі є знімні колеса. Ця конструктивна особливість дозволяє миттєво адаптувати розмір валізи під вимоги авіаліній, щоб вона без зусиль проходила в контрольний калібратор або розміщувалася під сидінням літака. Корпус із поєднання ABS-пластику та полікарбонату забезпечує витривалість конструкції при екстремально малій вазі. Полікарбонатне покриття додає стійкості до зовнішніх пошкоджень, а продумана внутрішня організація з фіксаторами дозволяє надійно закріпити одяг, змінне взуття, документи та електроніку. Вага завантаження становить 5&amp;ndash;7 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-16241479231839_+d494835d52.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-96625072079058_+1c945fa09c.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-77767902636288_+0dc308033c.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-68963661382654_+ac9fe98bcb.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-44386821679257_+2d8530b555.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-51986756645781_+40a58028cb.png</picture>
         <param name="Колір">Серый</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">ABS-пластик</param>
+        <param name="Об'єм">24 л</param>
         <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Наявність розширення">Немає</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Висота">50 см</param>
-        <param name="Ширина">35 см</param>
+        <param name="Висота">40 см</param>
+        <param name="Ширина">30 см</param>
         <param name="Глибина">20 см</param>
         <param name="Вага">2 кг</param>
         <param name="Тип закриття">На блискавці</param>
@@ -5431,7 +5433,7 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="Kaiman-XS-White" available="true">
+      <offer id="Kaiman-XS-Black" available="true">
         <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л белый (Kaiman-XS-White)</name_ru>
         <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л біла (Kaiman-XS-White)</name_ua>
@@ -5441,9 +5443,12 @@
         <country>Китай</country>
         <description_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л белый (Kaiman-XS-White)</description_ru>
         <description_ua>Розмір XS - ідеальний вибір для коротких поїздок на 1&amp;ndash;2 дні, бізнес-візитів або як перша власна валіза для дитини. Завдяки своїм гранично компактним габаритам, ця модель спеціально розроблена під найсуворіші параметри безкоштовної ручної поклажі лоукостерів, що гарантує вам спокій під час посадки та відсутність жодних доплат за багаж. Головною перевагою моделі є знімні колеса. Ця конструктивна особливість дозволяє миттєво адаптувати розмір валізи під вимоги авіаліній, щоб вона без зусиль проходила в контрольний калібратор або розміщувалася під сидінням літака. Корпус із поєднання ABS-пластику та полікарбонату забезпечує витривалість конструкції при екстремально малій вазі. Полікарбонатне покриття додає стійкості до зовнішніх пошкоджень, а продумана внутрішня організація з фіксаторами дозволяє надійно закріпити одяг, змінне взуття, документи та електроніку. Вага завантаження становить 5&amp;ndash;7 кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/25/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-bila-kaiman-xs-white-55800191023487_+8eecb0a7e6.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/25/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-bila-kaiman-xs-white-90548136551465_+8b9e597c55.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/25/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-bila-kaiman-xs-white-93150240333223_+ebeb1f73d4.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-bila-kaiman-xs-white-82206150542163_+0aaf5d34a6.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-bila-kaiman-xs-white-41802679172501_+484f7413d5.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-bila-kaiman-xs-white-37230916231755_+7367fa2bd0.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-bila-kaiman-xs-white-59155314032852_+bc55bec66e.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-bila-kaiman-xs-white-14843037491193_+83a3c80466.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-bila-kaiman-xs-white-64949442692189_+687a716da1.png</picture>
         <param name="Колір">Белый</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">ABS-пластик</param>
@@ -5751,8 +5756,8 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="Kaiman-XS-Yellow" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+      <offer id="Kaiman-XS-Black" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л желтый (Kaiman-XS-Yellow)</name_ru>
         <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л жовта (Kaiman-XS-Yellow)</name_ua>
         <price>1600</price>
@@ -5761,7 +5766,12 @@
         <country>Китай</country>
         <description_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л желтый (Kaiman-XS-Yellow)</description_ru>
         <description_ua>Розмір XS - ідеальний вибір для коротких поїздок на 1&amp;ndash;2 дні, бізнес-візитів або як перша власна валіза для дитини. Завдяки своїм гранично компактним габаритам, ця модель спеціально розроблена під найсуворіші параметри безкоштовної ручної поклажі лоукостерів, що гарантує вам спокій під час посадки та відсутність жодних доплат за багаж. Головною перевагою моделі є знімні колеса. Ця конструктивна особливість дозволяє миттєво адаптувати розмір валізи під вимоги авіаліній, щоб вона без зусиль проходила в контрольний калібратор або розміщувалася під сидінням літака. Корпус із поєднання ABS-пластику та полікарбонату забезпечує витривалість конструкції при екстремально малій вазі. Полікарбонатне покриття додає стійкості до зовнішніх пошкоджень, а продумана внутрішня організація з фіксаторами дозволяє надійно закріпити одяг, змінне взуття, документи та електроніку. Вага завантаження становить 5&amp;ndash;7 кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/35/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-zhovta-kaiman-xs-yellow-57039545277899_+eb5c704609.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-zhovta-kaiman-xs-yellow-33255268133122_+66e8faebb1.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-zhovta-kaiman-xs-yellow-30495136892180_+f8af029c4c.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-zhovta-kaiman-xs-yellow-50631691929857_+2a0ee7bcd0.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-zhovta-kaiman-xs-yellow-78115051757535_+c6a48c80f8.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-zhovta-kaiman-xs-yellow-63818845399042_+1f9bdad060.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-zhovta-kaiman-xs-yellow-40948013551782_+b269a7df52.png</picture>
         <param name="Колір">Жёлтый</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">ABS-пластик</param>
@@ -5779,7 +5789,7 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="Kaiman-XS-Fuchsia" available="true">
+      <offer id="Kaiman-XS-Black" available="true">
         <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л фуксия (Kaiman-XS-Fuchsia)</name_ru>
         <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л фуксія (Kaiman-XS-Fuchsia)</name_ua>
@@ -6999,7 +7009,7 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="Kaiman-XS-Champagne" available="false">
+      <offer id="Kaiman-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л шампань (Kaiman-XS-Champagne)</name_ru>
         <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л шампань (Kaiman-XS-Champagne)</name_ua>
@@ -7009,9 +7019,12 @@
         <country>Китай</country>
         <description_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л шампань (Kaiman-XS-Champagne)</description_ru>
         <description_ua>Розмір XS - ідеальний вибір для коротких поїздок на 1&amp;ndash;2 дні, бізнес-візитів або як перша власна валіза для дитини. Завдяки своїм гранично компактним габаритам, ця модель спеціально розроблена під найсуворіші параметри безкоштовної ручної поклажі лоукостерів, що гарантує вам спокій під час посадки та відсутність жодних доплат за багаж. Головною перевагою моделі є знімні колеса. Ця конструктивна особливість дозволяє миттєво адаптувати розмір валізи під вимоги авіаліній, щоб вона без зусиль проходила в контрольний калібратор або розміщувалася під сидінням літака. Корпус із поєднання ABS-пластику та полікарбонату забезпечує витривалість конструкції при екстремально малій вазі. Полікарбонатне покриття додає стійкості до зовнішніх пошкоджень, а продумана внутрішня організація з фіксаторами дозволяє надійно закріпити одяг, змінне взуття, документи та електроніку. Вага завантаження становить 5&amp;ndash;7 кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/27/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-shampan-kaiman-xs-champagne-14640862319489_+770d5e7618.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/27/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-shampan-kaiman-xs-champagne-52177228642072_+61648cdfdd.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/27/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-shampan-kaiman-xs-champagne-49518226045291_+c94c42d6a4.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/27/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-shampan-kaiman-xs-champagne-86828092391286_+1ef51c1ed4.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/27/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-shampan-kaiman-xs-champagne-52670253572747_+f01249fe4b.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/27/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-shampan-kaiman-xs-champagne-51117398532189_+b6de058044.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/27/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-shampan-kaiman-xs-champagne-90235556965685_+448b9eae62.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/27/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-shampan-kaiman-xs-champagne-38036628788838_+488ae33428.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/27/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-shampan-kaiman-xs-champagne-38546725118726_+a7965ba11b.png</picture>
         <param name="Колір">Шампань</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">ABS-пластик</param>
@@ -7029,7 +7042,7 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="Kaiman-XS-Light-blue" available="false">
+      <offer id="Kaiman-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л светло-голубой (Kaiman-XS-Light-blue)</name_ru>
         <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л світло-блакитний (Kaiman-XS-Light-blue)</name_ua>
@@ -7039,9 +7052,12 @@
         <country>Китай</country>
         <description_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л светло-голубой (Kaiman-XS-Light-blue)</description_ru>
         <description_ua>Розмір XS - ідеальний вибір для коротких поїздок на 1&amp;ndash;2 дні, бізнес-візитів або як перша власна валіза для дитини. Завдяки своїм гранично компактним габаритам, ця модель спеціально розроблена під найсуворіші параметри безкоштовної ручної поклажі лоукостерів, що гарантує вам спокій під час посадки та відсутність жодних доплат за багаж. Головною перевагою моделі є знімні колеса. Ця конструктивна особливість дозволяє миттєво адаптувати розмір валізи під вимоги авіаліній, щоб вона без зусиль проходила в контрольний калібратор або розміщувалася під сидінням літака. Корпус із поєднання ABS-пластику та полікарбонату забезпечує витривалість конструкції при екстремально малій вазі. Полікарбонатне покриття додає стійкості до зовнішніх пошкоджень, а продумана внутрішня організація з фіксаторами дозволяє надійно закріпити одяг, змінне взуття, документи та електроніку. Вага завантаження становить 5&amp;ndash;7 кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/28/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-svitlo-blakytnyi-kaiman-xs-light-blue-24238275060398_+e7d3f50fd5.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/28/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-svitlo-blakytnyi-kaiman-xs-light-blue-70324415892387_+4e3f243691.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/28/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-svitlo-blakytnyi-kaiman-xs-light-blue-59994964898018_+a6dfaba8fb.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/28/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-svitlo-blakytnyi-kaiman-xs-light-blue-46714409942572_+cafb8947b5.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/28/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-svitlo-blakytnyi-kaiman-xs-light-blue-46136935227738_+13425e53c2.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/28/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-svitlo-blakytnyi-kaiman-xs-light-blue-36768655347225_+b69c011409.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/28/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-svitlo-blakytnyi-kaiman-xs-light-blue-62349642808116_+388bf01b45.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/28/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-svitlo-blakytnyi-kaiman-xs-light-blue-94294244799326_+939526dc1d.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/28/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-svitlo-blakytnyi-kaiman-xs-light-blue-52591822442776_+4ee6cf74e1.png</picture>
         <param name="Колір">Голубой</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">ABS-пластик</param>
@@ -7059,7 +7075,7 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="Kaiman-XS-Purple" available="false">
+      <offer id="Kaiman-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л фиолетовый (Kaiman-XS-Purple)</name_ru>
         <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л фіолетовий (Kaiman-XS-Purple)</name_ua>
@@ -7069,8 +7085,12 @@
         <country>Китай</country>
         <description_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л фиолетовый (Kaiman-XS-Purple)</description_ru>
         <description_ua>Розмір XS - ідеальний вибір для коротких поїздок на 1&amp;ndash;2 дні, бізнес-візитів або як перша власна валіза для дитини. Завдяки своїм гранично компактним габаритам, ця модель спеціально розроблена під найсуворіші параметри безкоштовної ручної поклажі лоукостерів, що гарантує вам спокій під час посадки та відсутність жодних доплат за багаж. Головною перевагою моделі є знімні колеса. Ця конструктивна особливість дозволяє миттєво адаптувати розмір валізи під вимоги авіаліній, щоб вона без зусиль проходила в контрольний калібратор або розміщувалася під сидінням літака. Корпус із поєднання ABS-пластику та полікарбонату забезпечує витривалість конструкції при екстремально малій вазі. Полікарбонатне покриття додає стійкості до зовнішніх пошкоджень, а продумана внутрішня організація з фіксаторами дозволяє надійно закріпити одяг, змінне взуття, документи та електроніку. Вага завантаження становить 5&amp;ndash;7 кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-fioletovyi-kaiman-xs-purple-49329699656296_+6b862c29c4.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-fioletovyi-kaiman-xs-purple-54174490320905_+3b018b82c3.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-fioletovyi-kaiman-xs-purple-35360218469749_+12bdaf2fd6.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-fioletovyi-kaiman-xs-purple-54913306694566_+14e184ea74.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-fioletovyi-kaiman-xs-purple-44988134676407_+24b694feeb.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-fioletovyi-kaiman-xs-purple-66210897362964_+de12c1142e.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-fioletovyi-kaiman-xs-purple-42224516352293_+54c1a3b631.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-fioletovyi-kaiman-xs-purple-68089821305935_+c4ef3b3bde.png</picture>
         <param name="Колір">Сиреневый</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">ABS-пластик</param>
@@ -8076,7 +8096,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="63703-M-Champagne" available="true">
-        <quantity_in_stock>13</quantity_in_stock>
+        <quantity_in_stock>12</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 средний 65л шампань (63703-M-Champagne)</name_ru>
         <name_ua>Валіза Madisson 63703 середня 65л шампань (63703-M-Champagne)</name_ua>
         <price>2550</price>
@@ -8497,7 +8517,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="42203-S-Purple" available="true">
-        <quantity_in_stock>14</quantity_in_stock>
+        <quantity_in_stock>13</quantity_in_stock>
         <name_ru>Чемодан Madisson 42203 малый 39л фиолетовый (42203-S-Purple)</name_ru>
         <name_ua>Валіза Madisson 42203 мала 39л фіолетова (42203-S-Purple)</name_ua>
         <price>1450</price>
@@ -9199,50 +9219,6 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="SK190-3-Champange" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Набор чемоданов SweetKeys 190 3в1 шампань (SK190-3-Champange)</name_ru>
-        <name_ua>Набір валіз SweetKeys 190 3в1 шампань (SK190-3-Champange)</name_ua>
-        <price>8475</price>
-        <categoryId>1092</categoryId>
-        <country>Китай</country>
-        <description_ru>Набор чемоданов SweetKeys 190 3в1 шампань (SK190-3-Champange)</description_ru>
-        <description_ua>Набір дорожніх валіз з полікарбонату є ідеальним комплексним рішенням для подорожей будь-якого масштабу. Комплект включає три оптимальні розміри - компактну ручну поклажу S, а також місткі багажні моделі M та L. Завдяки такій різноманітності набір легко закриває потреби як однієї людини у коротких відрядженнях, так і великої родини під час відпустки тривалістю понад два тижні. Корпуси валіз виготовлені повністю з полікарбонату, що забезпечує унікальну гнучкість та стійкість до тріщин. Надійне транспортування та маневреність забезпечує посилена система чотирьох коліс, що плавно обертаються на 360 градусів. Для захисту речей передбачено інтегрований кодовий замок, а продумане внутрішнє зонування з еластичними фіксаторами допомагає акуратно розкласти техніку та одяг. Додатковою перевагою набору є можливість компактно складати всі валізи одна в одну, для економії домашнього простору під час зберігання.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/1/nabir-valiz-sweetkeys-190-3v1-shampan-sk190-3-champange-67170670591674_+d01f914b70.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/1/nabir-valiz-sweetkeys-190-3v1-shampan-sk190-3-champange-30457021033435_+aa25e2cfac.png</picture>
-        <param name="Колір">Шампань</param>
-        <param name="Тип">Набори валіз</param>
-        <param name="Матеріал корпусу">Полікарбонат</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Наявність розширення">Є</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="SK190-3-Grafite" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Набор чемоданов SweetKeys 190 3в1 графитовый (SK190-3-Grafite)</name_ru>
-        <name_ua>Набір валіз SweetKeys 190 3в1 графітовий (SK190-3-Grafite)</name_ua>
-        <price>8475</price>
-        <categoryId>1092</categoryId>
-        <country>Китай</country>
-        <description_ru>Набор чемоданов SweetKeys 190 3в1 графитовый (SK190-3-Grafite)</description_ru>
-        <description_ua>Набір дорожніх валіз з полікарбонату є ідеальним комплексним рішенням для подорожей будь-якого масштабу. Комплект включає три оптимальні розміри - компактну ручну поклажу S, а також місткі багажні моделі M та L. Завдяки такій різноманітності набір легко закриває потреби як однієї людини у коротких відрядженнях, так і великої родини під час відпустки тривалістю понад два тижні. Корпуси валіз виготовлені повністю з полікарбонату, що забезпечує унікальну гнучкість та стійкість до тріщин. Надійне транспортування та маневреність забезпечує посилена система чотирьох коліс, що плавно обертаються на 360 градусів. Для захисту речей передбачено інтегрований кодовий замок, а продумане внутрішнє зонування з еластичними фіксаторами допомагає акуратно розкласти техніку та одяг. Додатковою перевагою набору є можливість компактно складати всі валізи одна в одну, для економії домашнього простору під час зберігання.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-sweetkeys-190-3v1-hrafitovyi-sk190-3-grafite-51604768659489_+c99ea5a6ec.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-sweetkeys-190-3v1-hrafitovyi-sk190-3-grafite-20717451064206_+20de0769d7.png</picture>
-        <param name="Колір">Серый</param>
-        <param name="Тип">Набори валіз</param>
-        <param name="Матеріал корпусу">Полікарбонат</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Наявність розширення">Є</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
       <offer id="PP5-L-Red" available="true">
         <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан RGL PP5 большой 110л красный (PP5-L-Red)</name_ru>
@@ -9375,6 +9351,12 @@
         <country>Франція</country>
         <description_ru>Чемодан Snowball 20303 большой 108л красный (20303-L-Red)</description_ru>
         <description_ua>Розмір L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22&amp;ndash;25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-snowball-20303-velyka-108l-chervona-20303-l-red-33913004380427_+afa4fd9c3d.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-snowball-20303-velyka-108l-chervona-20303-l-red-60150307509380_+75b30fc3bf.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-snowball-20303-velyka-108l-chervona-20303-l-red-21287157741658_+cd429ee3c3.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-snowball-20303-velyka-108l-chervona-20303-l-red-20870186177044_+f1b1fe534e.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-snowball-20303-velyka-108l-chervona-20303-l-red-86465940187478_+94d47a9dc9.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-snowball-20303-velyka-108l-chervona-20303-l-red-70022713712406_+3f37a75fbd.png</picture>
         <param name="Колір">Красный</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -9402,6 +9384,12 @@
         <country>Франція</country>
         <description_ru>Чемодан Snowball 20303 средний 71л красный (20303-M-Red)</description_ru>
         <description_ua>Розмір M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360°, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-snowball-20303-serednia-71l-chervona-20303-m-red-50578196752943_+56665a5452.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-snowball-20303-serednia-71l-chervona-20303-m-red-93810685180965_+7e2002064f.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-snowball-20303-serednia-71l-chervona-20303-m-red-42752354283947_+8711b72a3c.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-snowball-20303-serednia-71l-chervona-20303-m-red-53547422387016_+ab28ea3cab.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-snowball-20303-serednia-71l-chervona-20303-m-red-37170829512883_+a407682d58.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-snowball-20303-serednia-71l-chervona-20303-m-red-49020702553418_+37253b7b0c.png</picture>
         <param name="Колір">Красный</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -9429,6 +9417,12 @@
         <country>Франція</country>
         <description_ru>Чемодан Snowball 20303 малый 35л красный (20303-S-Red)</description_ru>
         <description_ua>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-snowball-20303-mala-35l-chervona-20303-s-red-95696854957012_+1c747aae69.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-snowball-20303-mala-35l-chervona-20303-s-red-54451729815419_+6bd08ebdfe.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-snowball-20303-mala-35l-chervona-20303-s-red-72137143962319_+397ddf6ae8.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-snowball-20303-mala-35l-chervona-20303-s-red-55305195052848_+0a69b913e4.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-snowball-20303-mala-35l-chervona-20303-s-red-44637531394964_+8d17cb3a34.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-snowball-20303-mala-35l-chervona-20303-s-red-96031144542631_+3b3ab714f1.png</picture>
         <param name="Колір">Красный</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -9456,6 +9450,8 @@
         <country>Франція</country>
         <description_ru>Набор чемоданов Snowball 20303 3в1 красный (20303-3-Red)</description_ru>
         <description_ua>Набір дорожніх валіз від французького бренду є преміальним та надзвичайно надійним комплектом для будь-яких подорожей. Набір складається з трьох класичних розмірів: великого (L), середнього (M) та маленького (S). Така продумана комплектація дозволяє легко закрити потреби як однієї особи під час коротких відряджень, так і великої родини під час капітальної відпустки терміном понад два тижні. Маленька модель ідеально підходить для ручної поклажі в літак, тоді як середній та великий варіанти мають вбудоване розширення об&amp;#39;єму та створені для здачі в багаж. Корпуси валіз виготовлені з поліпропілену, тому вони мають унікальну гнучкість, міцність і гарантовано не розіб&amp;#39;ються від сильних ударів. Плавне та безшумне пересування забезпечують чотири подвійні поліуретанові колеса з радіусом обертання на 360 градусів. Для максимальної безпеки мандрівок передбачено зламостійку блискавку із захистом від вологи та інтегрований кодовий замок TSA з функцією митного огляду. По завершенню поїздки всі три вироби можна компактно скласти один в один, що суттєво заощаджує домашній простір при зберіганні.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/10/nabir-valiz-snowball-20303-3v1-chervonyi-20303-3-red-58668251473201_+0e4ad1debc.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/nabir-valiz-snowball-20303-3v1-chervonyi-20303-3-red-98848680798412_+2fb68bb15d.png</picture>
         <param name="Колір">Красный</param>
         <param name="Тип">Набори валіз</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -9477,6 +9473,12 @@
         <country>Франція</country>
         <description_ru>Чемодан Snowball 49403 большой 113л красный (49403-L-Red)</description_ru>
         <description_ua>Розмір L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/11/valiza-snowball-49403-velyka-113l-chervona-49403-l-red-83229579019612_+6d8cd19cd0.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/11/valiza-snowball-49403-velyka-113l-chervona-49403-l-red-43643553488238_+5b144c2e59.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/11/valiza-snowball-49403-velyka-113l-chervona-49403-l-red-68634732181212_+d222b90d9d.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/11/valiza-snowball-49403-velyka-113l-chervona-49403-l-red-14407537334626_+be27523cbe.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/11/valiza-snowball-49403-velyka-113l-chervona-49403-l-red-25073272131063_+151a74b861.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/11/valiza-snowball-49403-velyka-113l-chervona-49403-l-red-61813828389032_+d558b33317.png</picture>
         <param name="Колір">Красный</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -9504,6 +9506,12 @@
         <country>Франція</country>
         <description_ru>Чемодан Snowball 49403 средний 69л красный (49403-M-Red)</description_ru>
         <description_ua>Універсальна валіза середнього розміру M із функцією додаткового розширення є ідеальним вибором для поїздок тривалістю від 5 до 10 днів. Вона призначена для здачі в багажне відділення та забезпечує оптимальний баланс між місткістю і маневреністю, а додаткова блискавка дозволяє миттєво збільшити корисний об&amp;#39;єм для сувенірів чи додаткових речей. Корпус із високоякісного поліпропілену гарантує максимальну міцність і гнучкість, завдяки чому валіза не тріскається від навантажень і зберігає форму, навіть якщо вона заповнена не повністю. Модель оснащена надійними колесами, що обертаються на 360 градусів для легкого керування. Вбудований кодовий замок надійно захищає вміст під час транзиту, а продуманий внутрішній простір із перегородками та еластичними фіксаторами допомагає підтримувати ідеальний порядок усередині. Вага завантаження становить 18-20 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/12/valiza-snowball-49403-serednia-69l-chervona-49403-m-red-62497865922535_+47d0e465a6.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/12/valiza-snowball-49403-serednia-69l-chervona-49403-m-red-64154046847723_+4d17b9be58.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/12/valiza-snowball-49403-serednia-69l-chervona-49403-m-red-88169069943116_+3ecf10ab80.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/12/valiza-snowball-49403-serednia-69l-chervona-49403-m-red-40824456720809_+8437408215.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/12/valiza-snowball-49403-serednia-69l-chervona-49403-m-red-28067821807525_+ca5d70c5dc.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/12/valiza-snowball-49403-serednia-69l-chervona-49403-m-red-79677953098399_+bdb35acaac.png</picture>
         <param name="Колір">Красный</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -9531,6 +9539,12 @@
         <country>Франція</country>
         <description_ru>Чемодан Snowball 49403 малый 36л красный (49403-S-Red)</description_ru>
         <description_ua>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/13/valiza-snowball-49403-mala-36l-chervona-49403-s-red-41513110056245_+9f9d248231.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/13/valiza-snowball-49403-mala-36l-chervona-49403-s-red-57878599383093_+1254f79cd4.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/13/valiza-snowball-49403-mala-36l-chervona-49403-s-red-51996276031301_+37ff85842a.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/13/valiza-snowball-49403-mala-36l-chervona-49403-s-red-31849137814280_+7046e506c2.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/13/valiza-snowball-49403-mala-36l-chervona-49403-s-red-90632849271708_+f0f52dfe12.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/13/valiza-snowball-49403-mala-36l-chervona-49403-s-red-56668568947203_+c919920acd.png</picture>
         <param name="Колір">Красный</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -9558,6 +9572,12 @@
         <country>Франція</country>
         <description_ru>Набор чемоданов Snowball 49403 3в1 красный (49403-3-Red)</description_ru>
         <description_ua>Набір дорожніх валіз від французького бренду є преміальним та надзвичайно надійним комплектом для будь-яких подорожей. Набір складається з трьох класичних розмірів: великого (L), середнього (M) та маленького (S). Така продумана комплектація дозволяє легко закрити потреби як однієї особи під час коротких відряджень, так і великої родини під час капітальної відпустки терміном понад два тижні. Маленька модель ідеально підходить для ручної поклажі в літак, тоді як середній та великий варіанти мають вбудоване розширення об&amp;#39;єму та створені для здачі в багаж. Корпуси валіз виготовлені з поліпропілену, тому вони мають унікальну гнучкість, міцність і гарантовано не розіб&amp;#39;ються від сильних ударів. Плавне та безшумне пересування забезпечують чотири подвійні поліуретанові колеса з радіусом обертання на 360 градусів. Для максимальної безпеки мандрівок передбачено зламостійку блискавку із захистом від вологи та інтегрований кодовий замок TSA з функцією митного огляду. По завершенню поїздки всі три вироби можна компактно скласти один в один, що суттєво заощаджує домашній простір при зберіганні.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/14/nabir-valiz-snowball-49403-3v1-chervonyi-49403-3-red-25949386245518_+2d089bfb4f.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/14/nabir-valiz-snowball-49403-3v1-chervonyi-49403-3-red-78087218646870_+e14a3fa152.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/14/nabir-valiz-snowball-49403-3v1-chervonyi-49403-3-red-48674525137275_+fd47461463.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/14/nabir-valiz-snowball-49403-3v1-chervonyi-49403-3-red-58810359539569_+e7db5092b6.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/14/nabir-valiz-snowball-49403-3v1-chervonyi-49403-3-red-94317071023609_+f4f4d16e42.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/14/nabir-valiz-snowball-49403-3v1-chervonyi-49403-3-red-28551889714613_+010b23fab0.png</picture>
         <param name="Колір">Красный</param>
         <param name="Тип">Набори валіз</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -9569,7 +9589,7 @@
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="Kaiman-XS-Beige" available="true">
+      <offer id="Kaiman-XS-Black" available="true">
         <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л бежевый (Kaiman-XS-Beige)</name_ru>
         <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л бежева (Kaiman-XS-Beige)</name_ua>
@@ -9602,7 +9622,7 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="Kaiman-XS-Mint" available="true">
+      <offer id="Kaiman-XS-Black" available="true">
         <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л мятный (Kaiman-XS-Mint)</name_ru>
         <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л м'ятна (Kaiman-XS-Mint)</name_ua>
@@ -9744,13 +9764,17 @@
         <country>Китай</country>
         <description_ru>Детский чемодан YUA2 мини 25л голубой (YUA2-XS-Can-Kara)</description_ru>
         <description_ua>Дитяча валіза на колесах створена для того, щоб перші самостійні подорожі вашої дитини були максимально комфортними та веселими. Завдяки оптимальним габаритам цей аксесуар розрахований на індивідуальне використання малюком під час коротких поїздок або вікендів тривалістю до 3&amp;ndash;5 днів. Такі компактні розміри дозволяють легко брати валізу в салон літака як безкоштовну ручну поклажу, а також зручно розміщувати під сидінням в автобусі чи потязі. Корпус виробу виготовлений із міцного та водночас легкого пластику, який надійно захищає дитячі речі, витримує удари та легко очищується звичайною вологою серветкою. Чотири колеса з радіусом обертання на 360 градусів у поєднанні з телескопічною ручкою дозволяють дитині котити багаж самостійно й абсолютно без зусиль. Всередині передбачено просторе відділення з еластичними фіксуючими ременями, які допомагають акуратно утримувати одяг, іграшки та книги на своїх місцях. Яскравий та ергономічний дизайн не лише дарує позитивні емоції, а й допомагає легко тримати улюблену річ малюка в полі зору серед натовпу.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/22/dytiacha-valiza-yua2-mini-25l-blakytna-yua2-xs-can-kara-81021405906190_+03b5f00008.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/22/dytiacha-valiza-yua2-mini-25l-blakytna-yua2-xs-can-kara-93563087107277_+198e75a5ba.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/22/dytiacha-valiza-yua2-mini-25l-blakytna-yua2-xs-can-kara-59344611220050_+e2e45b6abb.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/22/dytiacha-valiza-yua2-mini-25l-blakytna-yua2-xs-can-kara-35613937681537_+03734eaf8e.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/22/dytiacha-valiza-yua2-mini-25l-blakytna-yua2-xs-can-kara-43286238287309_+06a65cdd52.png</picture>
         <param name="Колір">Голубой</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">ABS-пластик</param>
         <param name="Об'єм">25 л</param>
         <param name="Стать">Для детей</param>
         <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
         <param name="Наявність розширення">Немає</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
         <param name="Висота">45 см</param>
@@ -9770,6 +9794,12 @@
         <country>Китай</country>
         <description_ru>Детский чемодан D01 мини 29л желтый (D01-XS-Sailor)</description_ru>
         <description_ua>Дитяча валіза створена для того, щоб дарувати малюкам радість та комфорт під час перших самостійних подорожей. Завдяки надкомпактним габаритам модель ідеально підходить для коротких поїздок, сімейних вікендів або екскурсій тривалістю від 1 до 3 днів. Цей аксесуар розрахований суто на індивідуальне використання дитиною і за рахунок своєї компактності чудово проходить як ручна поклажа у більшості авіакомпаній, поїздів чи автобусів. Корпус виготовлений із комбінації полікарбонату та ABS-пластику, що забезпечує високу ударостійкість, гнучкість та надійний захист речей вагою до 10 кг. Чотири подвійні прорезинені колеса з радіусом обертання 360 градусів та зручна висувна ручка з кількома положеннями фіксації дозволяють дитині котити свій багаж плавно і абсолютно без зусиль. Яскравий унікальний принт із морською тематикою не лише виділяється серед іншого багажу, а й піднімає дитині настрій у дорозі.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/23/dytiacha-valiza-d01-mini-29l-zhovta-d01-xs-sailor-12588605332230_+861297dcd6.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/23/dytiacha-valiza-d01-mini-29l-zhovta-d01-xs-sailor-41983923871228_+a9cc1ed8dd.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/23/dytiacha-valiza-d01-mini-29l-zhovta-d01-xs-sailor-91262377550604_+3e099c1dd2.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/23/dytiacha-valiza-d01-mini-29l-zhovta-d01-xs-sailor-57156782153988_+1035bf5b71.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/23/dytiacha-valiza-d01-mini-29l-zhovta-d01-xs-sailor-58268036843425_+8149a2e07e.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/23/dytiacha-valiza-d01-mini-29l-zhovta-d01-xs-sailor-30596141792588_+5910f22005.png</picture>
         <param name="Колір">Жёлтый</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">ABS-пластик</param>
@@ -9783,6 +9813,58 @@
         <param name="Ширина">37 см</param>
         <param name="Глибина">24 см</param>
         <param name="Вага">2 кг</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="SK190-3-Champange" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Набор чемоданов SweetKeys 190 3в1 шампань (SK190-3-Champange)</name_ru>
+        <name_ua>Набір валіз SweetKeys 190 3в1 шампань (SK190-3-Champange)</name_ua>
+        <price>8475</price>
+        <categoryId>1092</categoryId>
+        <country>Китай</country>
+        <description_ru>Набор чемоданов SweetKeys 190 3в1 шампань (SK190-3-Champange)</description_ru>
+        <description_ua>Набір дорожніх валіз з полікарбонату є ідеальним комплексним рішенням для подорожей будь-якого масштабу. Комплект включає три оптимальні розміри - компактну ручну поклажу S, а також місткі багажні моделі M та L. Завдяки такій різноманітності набір легко закриває потреби як однієї людини у коротких відрядженнях, так і великої родини під час відпустки тривалістю понад два тижні. Корпуси валіз виготовлені повністю з полікарбонату, що забезпечує унікальну гнучкість та стійкість до тріщин. Надійне транспортування та маневреність забезпечує посилена система чотирьох коліс, що плавно обертаються на 360 градусів. Для захисту речей передбачено інтегрований кодовий замок, а продумане внутрішнє зонування з еластичними фіксаторами допомагає акуратно розкласти техніку та одяг. Додатковою перевагою набору є можливість компактно складати всі валізи одна в одну, для економії домашнього простору під час зберігання.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/24/nabir-valiz-sweetkeys-190-3v1-shampan-sk190-3-champange-39893844454383_+3a2afc3bb2.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/24/nabir-valiz-sweetkeys-190-3v1-shampan-sk190-3-champange-83596902667917_+184c58fadf.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/24/nabir-valiz-sweetkeys-190-3v1-shampan-sk190-3-champange-47294899855907_+ced7a31500.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/24/nabir-valiz-sweetkeys-190-3v1-shampan-sk190-3-champange-45062327324325_+3a3aa39cf1.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/24/nabir-valiz-sweetkeys-190-3v1-shampan-sk190-3-champange-15727574484042_+bc9d644741.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/24/nabir-valiz-sweetkeys-190-3v1-shampan-sk190-3-champange-67076547314452_+a0e9a2aa9a.png</picture>
+        <param name="Колір">Шампань</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Полікарбонат</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Наявність розширення">Є</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="SK190-3-Grafite" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Набор чемоданов SweetKeys 190 3в1 графитовый (SK190-3-Grafite)</name_ru>
+        <name_ua>Набір валіз SweetKeys 190 3в1 графітовий (SK190-3-Grafite)</name_ua>
+        <price>8475</price>
+        <categoryId>1092</categoryId>
+        <country>Китай</country>
+        <description_ru>Набор чемоданов SweetKeys 190 3в1 графитовый (SK190-3-Grafite)</description_ru>
+        <description_ua>Набір дорожніх валіз з полікарбонату є ідеальним комплексним рішенням для подорожей будь-якого масштабу. Комплект включає три оптимальні розміри - компактну ручну поклажу S, а також місткі багажні моделі M та L. Завдяки такій різноманітності набір легко закриває потреби як однієї людини у коротких відрядженнях, так і великої родини під час відпустки тривалістю понад два тижні. Корпуси валіз виготовлені повністю з полікарбонату, що забезпечує унікальну гнучкість та стійкість до тріщин. Надійне транспортування та маневреність забезпечує посилена система чотирьох коліс, що плавно обертаються на 360 градусів. Для захисту речей передбачено інтегрований кодовий замок, а продумане внутрішнє зонування з еластичними фіксаторами допомагає акуратно розкласти техніку та одяг. Додатковою перевагою набору є можливість компактно складати всі валізи одна в одну, для економії домашнього простору під час зберігання.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/25/nabir-valiz-sweetkeys-190-3v1-hrafitovyi-sk190-3-grafite-98656751889373_+2e01287efa.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/nabir-valiz-sweetkeys-190-3v1-hrafitovyi-sk190-3-grafite-39223010465693_+fd5b1afb5a.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/nabir-valiz-sweetkeys-190-3v1-hrafitovyi-sk190-3-grafite-88043120854929_+5ebcae732a.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/nabir-valiz-sweetkeys-190-3v1-hrafitovyi-sk190-3-grafite-20545044451968_+e423148255.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/nabir-valiz-sweetkeys-190-3v1-hrafitovyi-sk190-3-grafite-95436460133735_+3adcd40b90.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/nabir-valiz-sweetkeys-190-3v1-hrafitovyi-sk190-3-grafite-40760596079167_+e1cb1712e5.png</picture>
+        <param name="Колір">Серый</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Полікарбонат</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Наявність розширення">Є</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
