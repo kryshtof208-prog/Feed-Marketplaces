@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-25 18:11">
+<yml_catalog date="2026-05-26 06:11">
   <offers>
     <offer id="33703-L-Black" available="true">
       <name lang="ru">Чемодан Snowball 33703 большой 101л черный (33703-L-Black)</name>
@@ -5767,7 +5767,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="5398-M-Champagne-ABS" available="true">
+    <offer id="5398-M-Champagne-ABS" available="false">
       <name lang="ru">Чемодан Wings 5398 средний 63л шампань (5398-M-Champagne-ABS)</name>
       <name lang="ua">Валіза Wings 5398 середня 63л шампань (5398-M-Champagne-ABS)</name>
       <price>2300</price>
@@ -7696,7 +7696,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="160-M-Silver" available="true">
+    <offer id="160-M-Silver" available="false">
       <name lang="ru">Чемодан Wings 160 средний 63л серебряный (160-M-Silver)</name>
       <name lang="ua">Валіза Wings 160 середня 63л срібна (160-M-Silver)</name>
       <price>1800</price>
@@ -9111,7 +9111,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="2011-M-Black" available="true">
+    <offer id="2011-M-Black" available="false">
       <name lang="ru">Чемодан Wings 2011 средний 63л черный (2011-M-Black)</name>
       <name lang="ua">Валіза Wings 2011 середня 63л чорна (2011-M-Black)</name>
       <price>2800</price>
@@ -9261,7 +9261,6 @@
       <picture>https://sklad-valiz.com.ua/content/images/45/valiza-sweetkeys-190-velyka-100l-shampan-sk190-l-champange-52178614544426_+13df3168d5.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/45/valiza-sweetkeys-190-velyka-100l-shampan-sk190-l-champange-68633138650088_+d6a9834493.png</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de512534">полікарбонат</param>
       <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
       <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
@@ -9293,8 +9292,8 @@
       <price>3700</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
-      <description lang="ru">Чемодан SweetKeys 190 большой 100л графитовый (SK190-L-Grafite)</description>
-      <description lang="ua">Валіза SweetKeys 190 велика 100л графітова (SK190-L-Grafite)</description>
+      <description lang="ru">Чемодан SweetKeys 190 большой 100л шампань (SK190-L-Champange)</description>
+      <description lang="ua">Валіза SweetKeys 190 велика 100л шампань (SK190-L-Champange)</description>
       <picture>https://sklad-valiz.com.ua/content/images/46/valiza-sweetkeys-190-velyka-100l-hrafitova-sk190-l-grafite-41109409363657_+05cd1b443e.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/46/valiza-sweetkeys-190-velyka-100l-hrafitova-sk190-l-grafite-18655984025088_+45554ce796.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/46/valiza-sweetkeys-190-velyka-100l-hrafitova-sk190-l-grafite-87145748351362_+26ccfc6f43.png</picture>
@@ -9302,7 +9301,6 @@
       <picture>https://sklad-valiz.com.ua/content/images/46/valiza-sweetkeys-190-velyka-100l-hrafitova-sk190-l-grafite-23883667183764_+87ba71bd93.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/46/valiza-sweetkeys-190-velyka-100l-hrafitova-sk190-l-grafite-39207871605032_+0787d57c0e.png</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de512534">полікарбонат</param>
       <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
       <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
@@ -9343,7 +9341,6 @@
       <picture>https://sklad-valiz.com.ua/content/images/47/valiza-sweetkeys-190-serednia-65l-hrafitova-sk190-m-grafite-99022045168195_+04096d30e6.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/47/valiza-sweetkeys-190-serednia-65l-hrafitova-sk190-m-grafite-54452253449107_+3f14d0f764.png</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de512534">полікарбонат</param>
       <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
       <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
@@ -9375,8 +9372,8 @@
       <price>3650</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
-      <description lang="ru">Чемодан SweetKeys 190 средний 65л шампань (SK190-M-Champange)</description>
-      <description lang="ua">Валіза SweetKeys 190 середня 65л шампань (SK190-M-Champange)</description>
+      <description lang="ru">Чемодан SweetKeys 190 средний 65л графитовый (SK190-M-Grafite)</description>
+      <description lang="ua">Валіза SweetKeys 190 середня 65л графітова (SK190-M-Grafite)</description>
       <picture>https://sklad-valiz.com.ua/content/images/48/valiza-sweetkeys-190-serednia-65l-shampan-sk190-m-champange-52534244424385_+a6e40df301.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/48/valiza-sweetkeys-190-serednia-65l-shampan-sk190-m-champange-39501227616262_+b18fb55c1b.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/48/valiza-sweetkeys-190-serednia-65l-shampan-sk190-m-champange-36658475036691_+f954164ece.png</picture>
@@ -9384,7 +9381,6 @@
       <picture>https://sklad-valiz.com.ua/content/images/48/valiza-sweetkeys-190-serednia-65l-shampan-sk190-m-champange-21022672416632_+ab31e1700d.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/48/valiza-sweetkeys-190-serednia-65l-shampan-sk190-m-champange-70067223439426_+de13c81f0a.png</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de512534">полікарбонат</param>
       <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
       <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
@@ -9410,7 +9406,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="SK190-S-Champange" available="false">
+    <offer id="SK190-S-Champange" available="true">
       <name lang="ru">Чемодан SweetKeys 190 малый 43л шампань (SK190-S-Champange)</name>
       <name lang="ua">Валіза SweetKeys 190 мала 43л шампань (SK190-S-Champange)</name>
       <price>2650</price>
@@ -9425,7 +9421,6 @@
       <picture>https://sklad-valiz.com.ua/content/images/49/valiza-sweetkeys-190-mala-43l-shampan-sk190-s-champange-43364324209594_+5fe784879c.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/49/valiza-sweetkeys-190-mala-43l-shampan-sk190-s-champange-34067739246948_+1977f8f1a9.png</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de512534">полікарбонат</param>
       <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
       <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
@@ -9451,14 +9446,14 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="SK190-S-Grafite" available="false">
+    <offer id="SK190-S-Grafite" available="true">
       <name lang="ru">Чемодан SweetKeys 190 малый 43л графитовый (SK190-S-Grafite)</name>
       <name lang="ua">Валіза SweetKeys 190 мала 43л графітова (SK190-S-Grafite)</name>
       <price>2650</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
-      <description lang="ru">Чемодан SweetKeys 190 малый 43л графитовый (SK190-S-Grafite)</description>
-      <description lang="ua">Валіза SweetKeys 190 мала 43л графітова (SK190-S-Grafite)</description>
+      <description lang="ru">Чемодан SweetKeys 190 малый 43л шампань (SK190-S-Champange)</description>
+      <description lang="ua">Валіза SweetKeys 190 мала 43л шампань (SK190-S-Champange)</description>
       <picture>https://sklad-valiz.com.ua/content/images/50/valiza-sweetkeys-190-mala-43l-hrafitova-sk190-s-grafite-56924847153588_+b4917a0418.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/50/valiza-sweetkeys-190-mala-43l-hrafitova-sk190-s-grafite-12520849776064_+94a63823b9.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/50/valiza-sweetkeys-190-mala-43l-hrafitova-sk190-s-grafite-76100311020807_+b6d8acf7b3.png</picture>
@@ -9466,7 +9461,6 @@
       <picture>https://sklad-valiz.com.ua/content/images/50/valiza-sweetkeys-190-mala-43l-hrafitova-sk190-s-grafite-49946798016795_+f45dee54cf.png</picture>
       <picture>https://sklad-valiz.com.ua/content/images/50/valiza-sweetkeys-190-mala-43l-hrafitova-sk190-s-grafite-45366720231338_+f68be193a0.png</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de512534">полікарбонат</param>
       <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
       <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
@@ -9705,7 +9699,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="20303-S-Red" available="false">
+    <offer id="20303-S-Red" available="true">
       <name lang="ru">Чемодан Snowball 20303 малый 35л красный (20303-S-Red)</name>
       <name lang="ua">Валіза Snowball 20303 мала 35л червона (20303-S-Red)</name>
       <price>3050</price>
@@ -10112,7 +10106,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="49403-S-Red" available="false">
+    <offer id="49403-S-Red" available="true">
       <name lang="ru">Чемодан Snowball 49403 малый 36л красный (49403-S-Red)</name>
       <name lang="ua">Валіза Snowball 49403 мала 36л червона (49403-S-Red)</name>
       <price>3060</price>
