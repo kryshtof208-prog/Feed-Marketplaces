@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <price>
-<date>2026-05-27T12:54:52.983Z</date>
+<date>2026-05-27T13:10:50.473Z</date>
 <firmName>SKLAD VALIZ</firmName>
 <categories>
 <category>
@@ -31,9 +31,12 @@
 <name>Валіза Snowball 33703 велика 101л чорна (33703-L-Black)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-33703-velyka-101l-chorna-33703-l-black/</url>
 <code>33703-L-Black</code>
+<group_id>33703</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3150</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">чорний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -72,9 +75,12 @@
 <name>Валіза Snowball 33703 велика 101л шампань (33703-L-Champagne)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-33703-velyka-101l-shampan-33703-l-champagne/</url>
 <code>33703-L-Champagne</code>
+<group_id>33703</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3150</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -113,9 +119,12 @@
 <name>Валіза Snowball 33703 велика 101л біла (33703-L-White)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-33703-velyka-101l-bila-33703-l-white/</url>
 <code>33703-L-White</code>
+<group_id>33703</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3150</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">білий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -154,9 +163,12 @@
 <name>Валіза Madisson 44603 велика 99л шампань (44603-L-Champagne)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-44603-velyka-99l-shampan-44603-l-champagne/</url>
 <code>44603-L-Champagne</code>
+<group_id>44603</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1950</priceRUAH>
-<stock>8</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS пластик</param>
@@ -195,9 +207,12 @@
 <name>Валіза Snowball 49203 велика темно-синя (49203-L-DarkBlue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-49203-velyka-temno-synia-49203-l-darkblue/</url>
 <code>49203-L-DarkBlue</code>
+<group_id>49203</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>4800</priceRUAH>
-<stock>7</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -234,9 +249,12 @@
 <name>Валіза Snowball 49403 велика 113л біла (49403-L-White)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-49403-velyka-bila-49403-l-white/</url>
 <code>49403-L-Red</code>
+<group_id>49403</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>5300</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">білий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -275,9 +293,12 @@
 <name>Валіза Snowball 94103 велика 105л срібна (94103-L-Silver)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-94103-velyka-105l-sribna-94103-l-silver/</url>
 <code>94103-L-Silver</code>
+<group_id>94103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>5800</priceRUAH>
-<stock>7</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сріблястий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -316,9 +337,12 @@
 <name>Валіза Wings COCKATIEL велика блакитна (CKT01-L-LightBlue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-cockatiel-velyka-blakytna-ckt01-l-lightblue/</url>
 <code>CKT01-L-LightBlue</code>
+<group_id>CKT01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3150</priceRUAH>
-<stock>6</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">блакитний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -357,9 +381,12 @@
 <name>Валіза Wings COCKATIEL велика фіалкова (CKT01-L-WhitePurple)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-cockatiel-velyka-fialkova-ckt01-l-whitepurple/</url>
 <code>CKT01-L-WhitePurple</code>
+<group_id>CKT01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3150</priceRUAH>
-<stock>6</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">фіолетовий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -398,9 +425,12 @@
 <name>Валіза Wings HWF01 велика 97л шампань (HWF01-L-Champagne)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-hwf01-velyka-97l-shampan-hwf01-l-champagne/</url>
 <code>HWF01-L-Champagne</code>
+<group_id>HWF01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3050</priceRUAH>
-<stock>3</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -439,9 +469,12 @@
 <name>Валіза Wings MUR01 велика 95л синя (MUR01-L-TitanBlue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-mur01-velyka-95l-synia-mur01-l-titanblue/</url>
 <code>MUR01-L-TitanBlue</code>
+<group_id>MUR01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3550</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -480,9 +513,12 @@
 <name>Валіза Wings WN01 велика 97л шампань (WN01-L-Champagne)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-wn01-velyka-97l-shampan-wn01-l-champagne/</url>
 <code>WN01-L-Champagne</code>
+<group_id>WN01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2750</priceRUAH>
-<stock>9</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -521,9 +557,12 @@
 <name>Валіза Wings WN01 велика 97л шампань (WN01-L-Champagne-ABS)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-wn01-velyka-97l-shampan-wn01-l-champagne-abs/</url>
 <code>WN01-L-Champagne-ABS</code>
+<group_id>WN01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2750</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -562,9 +601,12 @@
 <name>Валіза Wings WN01 велика 108л кремова (WN01-L-Creme-ABS)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-wn01-velyka-108l-kremova-wn01-l-creme-abs/</url>
 <code>WN01-L-Creme-ABS</code>
+<group_id>WN01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2750</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -603,9 +645,12 @@
 <name>Валіза Wings WN01 велика 97л рожеве золото (WN01-L-RoseGold-ABS)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-wn01-velyka-97l-rozheve-zoloto-wn01-l-rosegold-abs/</url>
 <code>WN01-L-RoseGold-ABS</code>
+<group_id>WN01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2750</priceRUAH>
-<stock>10</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">рожевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -644,9 +689,12 @@
 <name>Валіза Snowball 33703 середня 69л шампань (33703-М-Champagne)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-33703-serednia-69l-shampan-33703-m-champagne/</url>
 <code>33703-M-Champagne</code>
+<group_id>33703</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3100</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -685,9 +733,12 @@
 <name>Валіза Madisson 44603 середня 65л шампань (44603-M-Champagne)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-44603-serednia-65l-shampan-44603-m-champagne/</url>
 <code>44603-M-Champagne</code>
+<group_id>44603</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1850</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS пластик</param>
@@ -726,9 +777,12 @@
 <name>Валіза Snowball 49203 середня темно-синя (49203-M-DarkBlue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-49203-serednia-temno-synia-49203-m-darkblue/</url>
 <code>49203-M-DarkBlue</code>
+<group_id>49203</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>4600</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -765,9 +819,12 @@
 <name>Валіза Snowball 94103 середня 65л срібна (94103-M-Silver)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-94103-serednia-65l-sribna-94103-m-silver/</url>
 <code>94103-M-Silver</code>
+<group_id>94103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>5300</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сріблястий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -806,9 +863,12 @@
 <name>Валіза Snowball 33703 мала 36л чорна (33703-S-Black)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-33703-mala-36l-chorna-33703-s-black/</url>
 <code>33703-S-Black</code>
+<group_id>33703</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2300</priceRUAH>
-<stock>23</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">чорний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -847,9 +907,12 @@
 <name>Валіза Snowball 33703 мала 36л біла (33703-S-White)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-33703-mala-36l-bila-33703-s-white/</url>
 <code>33703-S-Black</code>
+<group_id>33703</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2300</priceRUAH>
-<stock>8</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">білий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -888,9 +951,12 @@
 <name>Валіза Madisson 43303 мала 36л жовта (43303-S-Yellow)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-43303-mala-36l-zhovta-43303-s-yellow/</url>
 <code>43303-S-Yellow</code>
+<group_id>43303</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1400</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">жовтий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS пластик</param>
@@ -925,9 +991,12 @@
 <name>Валіза Madisson 44603 мала 38л шампань (44603-S-Champagne)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-44603-mala-38l-shampan-44603-s-champagne/</url>
 <code>44603-S-Champagne</code>
+<group_id>44603</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1300</priceRUAH>
-<stock>10</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS пластик</param>
@@ -966,9 +1035,12 @@
 <name>Валіза Snowball 49203 мала темно-синя (49203-S-DarkBlue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-49203-mala-temno-synia-49203-s-darkblue/</url>
 <code>49203-S-DarkBlue</code>
+<group_id>49203</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3200</priceRUAH>
-<stock>9</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -1005,9 +1077,12 @@
 <name>Валіза Snowball 49403 мала 36л коричнева (49403-S-Brown)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-49403-mala-korychneva-49403-s-brown/</url>
 <code>49403-S-Red</code>
+<group_id>49403</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3060</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">коричневий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -1046,9 +1121,12 @@
 <name>Валіза Snowball 49403 мала 36л біла (49403-S-White)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-49403-mala-bila-49403-s-white/</url>
 <code>49403-S-Red</code>
+<group_id>49403</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3060</priceRUAH>
-<stock>8</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">білий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -1087,9 +1165,12 @@
 <name>Валіза Snowball 94103 мала 46л срібна (94103-S-Silver)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-94103-mala-46l-sribna-94103-s-silver/</url>
 <code>94103-S-Silver</code>
+<group_id>94103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>4200</priceRUAH>
-<stock>7</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сріблястий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -1128,9 +1209,12 @@
 <name>Валіза Wings AVC01 мала 38л чорна (AVC01-S-Black)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-avc01-mala-38l-chorna-avc01-s-black/</url>
 <code>AVC01-S-Black</code>
+<group_id>AVC01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1163</priceRUAH>
-<stock>14</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">чорний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліестер</param>
@@ -1165,9 +1249,12 @@
 <name>Валіза Wings COCKATIEL мала блакитна (CKT01-S-LightBlue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-cockatiel-mala-blakytna-ckt01-s-lightblue/</url>
 <code>CKT01-S-LightBlue</code>
+<group_id>CKT01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2450</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">блакитний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -1206,9 +1293,12 @@
 <name>Валіза Wings COCKATIEL мала фіалкова (CKT01-S-WhitePurple)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-cockatiel-mala-fialkova-ckt01-s-whitepurple/</url>
 <code>CKT01-S-WhitePurple</code>
+<group_id>CKT01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2450</priceRUAH>
-<stock>6</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">фіолетовий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -1247,9 +1337,12 @@
 <name>Валіза Wings HWF01 мала 38л шампань (HWF01-S-Champagne)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-hwf01-mala-38l-shampan-hwf01-s-champagne/</url>
 <code>HWF01-S-Champagne</code>
+<group_id>HWF01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1980</priceRUAH>
-<stock>9</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -1288,9 +1381,12 @@
 <name>Валіза Wings MUR01 мала 40л шампань (MUR01-S-Champagne)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-mur01-mala-40l-shampan-mur01-s-champagne/</url>
 <code>MUR01-S-Champagne</code>
+<group_id>MUR01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2340</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -1329,9 +1425,12 @@
 <name>Валіза Wings MUR01 мала 40л чорна (MUR01-S-Black)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-mur01-mala-40l-chorna-mur01-s-black/</url>
 <code>MUR01-S-Black</code>
+<group_id>MUR01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2080</priceRUAH>
-<stock>5</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">чорний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -1370,9 +1469,12 @@
 <name>Валіза Wings MUR01 мала 40л синя (MUR01-S-TitanBlue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-mur01-mala-40l-synia-mur01-s-titanblue/</url>
 <code>MUR01-S-TitanBlue</code>
+<group_id>MUR01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2080</priceRUAH>
-<stock>5</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -1411,9 +1513,12 @@
 <name>Валіза Wings WN01 мала 38л шампань (WN01-S-Champagne)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-wn01-s-38l-shampan-wn01-s-champagne/</url>
 <code>WN01-S-Champagne</code>
+<group_id>WN01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2050</priceRUAH>
-<stock>19</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -1452,9 +1557,12 @@
 <name>Валіза Wings WN01 мала 38л шампань (WN01-S-Champagne-ABS)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-wn01-mala-38l-shampan-wn01-s-champagne-abs/</url>
 <code>WN01-S-Champagne-ABS</code>
+<group_id>WN01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2050</priceRUAH>
-<stock>10</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -1493,9 +1601,12 @@
 <name>Валіза Wings WN01 мала 38л кремова (WN01-S-Creme)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-wn01-mala-38l-kremova-wn01-s-creme/</url>
 <code>WN01-S-Creme</code>
+<group_id>WN01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2050</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -1534,9 +1645,12 @@
 <name>Валіза Wings WN01 мала 33л кремова (WN01-S-Creme-ABS)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-wn01-mala-33l-kremova-wn01-s-creme-abs/</url>
 <code>WN01-S-Creme-ABS</code>
+<group_id>WN01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2050</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -1575,9 +1689,12 @@
 <name>Валіза Wings WN01 мала 38л рожеве золото (WN01-S-RoseGold)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-wn01-mala-38l-rozheve-zoloto-wn01-s-rosegold/</url>
 <code>WN01-S-RoseGold</code>
+<group_id>WN01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2050</priceRUAH>
-<stock>3</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">рожевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -1616,9 +1733,12 @@
 <name>Валіза Wings WN01 мала 38л рожеве золото (WN01-S-RoseGold-ABS)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-wn01-mala-38l-rozheve-zoloto-wn01-s-rosegold-abs/</url>
 <code>WN01-S-RoseGold-ABS</code>
+<group_id>WN01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2050</priceRUAH>
-<stock>13</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">рожевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -1657,9 +1777,12 @@
 <name>Дорожня сумка Wings AVC01 20л чорна (AVC01-BC-Black)</name>
 <url>https://sklad-valiz.com.ua/ru/dorozhnia-sumka-wings-avc01-20l-chorna-avc01-bc-black/</url>
 <code>AVC01-BC-Black</code>
+<group_id>AVC01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>870</priceRUAH>
-<stock>15</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">чорний</param>
 <param name="Тип">Дорожня сумка</param>
 <param name="Матеріал">Поліестер</param>
@@ -1692,9 +1815,12 @@
 <name>Дорожня сумка Wings AVC01 20л жовта (AVC01-BC-Grey)</name>
 <url>https://sklad-valiz.com.ua/ru/dorozhnia-sumka-wings-avc01-20l-zhovta-avc01-bc-grey/</url>
 <code>AVC01-BC-Grey</code>
+<group_id>AVC01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>870</priceRUAH>
-<stock>3</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сірий</param>
 <param name="Тип">Дорожня сумка</param>
 <param name="Матеріал">Поліестер</param>
@@ -1727,9 +1853,12 @@
 <name>Кейс для валіз Wings WN01 15л шампань (WN01-BC-Champagne)</name>
 <url>https://sklad-valiz.com.ua/ru/keis-dlia-valiz-wings-wn01-bc-15l-shampan-wn01-bc-champagne/</url>
 <code>WN01-BC-Champagne</code>
+<group_id>WN01</group_id>
 <categoryId>23863</categoryId>
 <priceRUAH>1250</priceRUAH>
-<stock>24</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -1768,9 +1897,12 @@
 <name>Кейс для валіз Wings WN01-BC 15л шампань (WN01-BC-Champagne-ABS)</name>
 <url>https://sklad-valiz.com.ua/ru/keis-dlia-valiz-wings-wn01-bc-15l-shampan-wn01-bc-champagne-abs/</url>
 <code>WN01-BC-Champagne-ABS</code>
+<group_id>WN01</group_id>
 <categoryId>23863</categoryId>
 <priceRUAH>1250</priceRUAH>
-<stock>8</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -1807,9 +1939,12 @@
 <name>Кейс для валіз Wings WN01-BC 15л кремовий (WN01-BC-Creme)</name>
 <url>https://sklad-valiz.com.ua/ru/keis-dlia-valiz-wings-wn01-bc-15l-kremovyi-wn01-bc-creme/</url>
 <code>WN01-BC-Creme</code>
+<group_id>WN01</group_id>
 <categoryId>23863</categoryId>
 <priceRUAH>690</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -1848,9 +1983,12 @@
 <name>Кейс для валіз Wings WN01-BC 15л кремовий (WN01-BC-Creme-ABS)</name>
 <url>https://sklad-valiz.com.ua/ru/keis-dlia-valiz-wings-wn01-bc-15l-kremovyi-wn01-bc-creme-abs/</url>
 <code>WN01-BC-Creme-ABS</code>
+<group_id>WN01</group_id>
 <categoryId>23863</categoryId>
 <priceRUAH>1250</priceRUAH>
-<stock>5</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -1889,9 +2027,12 @@
 <name>Кейс для валіз Wings WN01-BC 15л рожеве золото (WN01-BC-RoseGold)</name>
 <url>https://sklad-valiz.com.ua/ru/keis-dlia-valiz-wings-wn01-bc-15l-rozheve-zoloto-wn01-bc-rosegold/</url>
 <code>WN01-BC-RoseGold</code>
+<group_id>WN01</group_id>
 <categoryId>23863</categoryId>
 <priceRUAH>875</priceRUAH>
-<stock>28</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">рожевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -1927,9 +2068,12 @@
 <name>Кейс для валіз Wings WN01-BC 15л рожеве золото (WN01-BC-RoseGold-ABS)</name>
 <url>https://sklad-valiz.com.ua/ru/keis-dlia-valiz-wings-wn01-bc-15l-rozheve-zoloto-wn01-bc-rosegold-abs/</url>
 <code>WN01-BC-RoseGold-ABS</code>
+<group_id>WN01</group_id>
 <categoryId>23863</categoryId>
 <priceRUAH>1250</priceRUAH>
-<stock>14</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">рожевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -1965,9 +2109,12 @@
 <name>Кейс для валіз Carbon 0508-BC малий 13л шампань (0508-BC-Champagne-S)</name>
 <url>https://sklad-valiz.com.ua/ru/keis-dlia-valiz-carbon-0508-bc-malyi-13l-shampan-0508-bc-champagne-s/</url>
 <code>0508-BC-Champagne-S</code>
+<group_id>0508</group_id>
 <categoryId>23863</categoryId>
 <priceRUAH>488</priceRUAH>
-<stock>26</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS пластик</param>
@@ -2006,9 +2153,12 @@
 <name>Чохол для валізи дайвінг DPC-Yellow-S</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-daivinh-dpc-yellow-s/</url>
 <code>DPC-Yellow-S</code>
+<group_id>DPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>500</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">ручна поклажа</param>
 <param name="Висота, см">45</param>
@@ -2031,9 +2181,12 @@
 <name>Чохол для валізи вініл VPC-Prozoryi-L</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-vinil-vpc-prozoryi-l/</url>
 <code>VPC-L-Prozoryi</code>
+<group_id>VPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>400</priceRUAH>
-<stock>3</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">великий</param>
 <param name="Висота, см">65</param>
@@ -2056,9 +2209,12 @@
 <name>Чохол для валізи вініл VPC-Prozoryi-S</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-vinil-vpc-prozoryi-s/</url>
 <code>VPC-S-Prozoryi</code>
+<group_id>VPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>400</priceRUAH>
-<stock>11</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">ручна поклажа</param>
 <param name="Висота, см">53</param>
@@ -2081,9 +2237,12 @@
 <name>Чохол для валізи вініл VPC-Prozoryi-XS</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-vinil-vpc-prozoryi-xs/</url>
 <code>VPC-XS-Prozoryi</code>
+<group_id>VPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>390</priceRUAH>
-<stock>6</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">дрібна ручна поклажа</param>
 <param name="Висота, см">48</param>
@@ -2106,9 +2265,12 @@
 <name>Чохол для валізи неопрен NPC-Black-S</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-neopren-npc-black-s/</url>
 <code>NPC-S-Black</code>
+<group_id>NPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>600</priceRUAH>
-<stock>11</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">ручна поклажа</param>
 <param name="Висота, см">45</param>
@@ -2131,9 +2293,12 @@
 <name>Чохол для валізи неопрен NPC-Jeans-S</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-neopren-npc-jeans-s/</url>
 <code>NPC-S-Jeans</code>
+<group_id>NPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>600</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">ручна поклажа</param>
 <param name="Висота, см">45</param>
@@ -2156,9 +2321,12 @@
 <name>Чохол для валізи дайвінг DPC-Blue-L</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-daivinh-dpc-blue-l/</url>
 <code>DPC-Blue-L</code>
+<group_id>DPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>500</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">великий</param>
 <param name="Висота, см">65</param>
@@ -2181,9 +2349,12 @@
 <name>Чохол для валізи дайвінг DPC-Blue-M</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-daivinh-dpc-blue-m/</url>
 <code>DPC-Blue-M</code>
+<group_id>DPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>500</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">середній</param>
 <param name="Висота, см">55</param>
@@ -2206,9 +2377,12 @@
 <name>Чохол для валізи дайвінг DPC-Blue-S</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-daivinh-dpc-blue-s/</url>
 <code>DPC-Blue-S</code>
+<group_id>DPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>500</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">ручна поклажа</param>
 <param name="Висота, см">45</param>
@@ -2231,9 +2405,12 @@
 <name>Чохол для валізи дайвінг DPC-Purple-S</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-daivinh-dpc-purple-s/</url>
 <code>DPC-Purple-S</code>
+<group_id>DPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>500</priceRUAH>
-<stock>7</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">ручна поклажа</param>
 <param name="Висота, см">45</param>
@@ -2256,9 +2433,12 @@
 <name>Чохол для валізи дайвінг EPC-Black-M</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-daivinh-epc-black-m/</url>
 <code>EPC-M-Black</code>
+<group_id>EPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>500</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">середній</param>
 <param name="Висота, см">55</param>
@@ -2281,9 +2461,12 @@
 <name>Чохол для валізи неопрен NPC-Black-XS</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-neopren-npc-black-xs/</url>
 <code>NPC-XS-Black</code>
+<group_id>NPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>550</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">дрібна ручна поклажа</param>
 <param name="Висота, см">43</param>
@@ -2306,9 +2489,12 @@
 <name>Чохол для валізи неопрен NPC-Burgundy-S</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-neopren-npc-burgundy-s/</url>
 <code>NPC-S-Burgundy</code>
+<group_id>NPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>600</priceRUAH>
-<stock>7</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">ручна поклажа</param>
 <param name="Висота, см">45</param>
@@ -2331,9 +2517,12 @@
 <name>Чохол для валізи неопрен NPC-Burgundy-M</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-neopren-npc-burgundy-m/</url>
 <code>NPC-M-Burgundy</code>
+<group_id>NPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>600</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">середній</param>
 <param name="Висота, см">55</param>
@@ -2356,9 +2545,12 @@
 <name>Чохол для валізи неопрен NPC-Burgundy-L</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-neopren-npc-burgundy-l/</url>
 <code>NPC-L-Burgundy</code>
+<group_id>NPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>600</priceRUAH>
-<stock>10</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">великий</param>
 <param name="Висота, см">65</param>
@@ -2381,9 +2573,12 @@
 <name>Чохол для валізи дайвінг салатовий DPC-Green-M</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-daivinh-salatovyi-dpc-green-m/</url>
 <code>DPC-Green-M</code>
+<group_id>DPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>500</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">середній</param>
 <param name="Висота, см">55</param>
@@ -2406,9 +2601,12 @@
 <name>Чохол для валізи дайвінг електрик DPC-Elektryk-M</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-daivinh-elektryk-dpc-elektryk-m/</url>
 <code>DPC-Elektryk-M</code>
+<group_id>DPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>500</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">середній</param>
 <param name="Висота, см">55</param>
@@ -2431,9 +2629,12 @@
 <name>Чохол для валізи неопрен синій NPC-Blue-M</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-neopren-synii-npc-blue-m/</url>
 <code>NPC-Blue-M</code>
+<group_id>NPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>600</priceRUAH>
-<stock>7</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">середній</param>
 <param name="Висота, см">55</param>
@@ -2456,9 +2657,12 @@
 <name>Чохол для валізи неопрен синій NPC-Blue-S</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-neopren-synii-npc-blue-s/</url>
 <code>NPC-Blue-S</code>
+<group_id>NPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>600</priceRUAH>
-<stock>6</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">ручна поклажа</param>
 <param name="Висота, см">45</param>
@@ -2481,9 +2685,12 @@
 <name>Чохол для валізи неопрен синій NPC-Blue-L</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-neopren-synii-npc-blue-l/</url>
 <code>NPC-Blue-L</code>
+<group_id>NPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>600</priceRUAH>
-<stock>8</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">великий</param>
 <param name="Висота, см">65</param>
@@ -2506,9 +2713,12 @@
 <name>Чохол для валізи дайвінг електрик DPC-Elektryk-S</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-daivinh-elektryk-dpc-elektryk-s/</url>
 <code>DPC-Elektryk-S</code>
+<group_id>DPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>500</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">ручна поклажа</param>
 <param name="Висота, см">45</param>
@@ -2531,9 +2741,12 @@
 <name>Чохол для валізи дайвінг салатовий DPC-Green-L</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-daivinh-salatovyi-dpc-green-l/</url>
 <code>DPC-Green-L</code>
+<group_id>DPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>500</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">великий</param>
 <param name="Висота, см">65</param>
@@ -2556,9 +2769,12 @@
 <name>Чохол для валізи дайвінг салатовий DPC-Green-S</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-daivinh-salatovyi-dpc-green-s/</url>
 <code>DPC-Green-S</code>
+<group_id>DPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>500</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">ручна поклажа</param>
 <param name="Висота, см">45</param>
@@ -2581,9 +2797,12 @@
 <name>Чохол для валізи дайвінг шоколадний DPC-Brown-S</name>
 <url>https://sklad-valiz.com.ua/ru/chokhol-dlia-valizy-daivinh-shokoladnyi-dpc-brown-s/</url>
 <code>DPC-Brown-S</code>
+<group_id>DPC</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>500</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Чехол</param>
 <param name="Розмір">ручна поклажа</param>
 <param name="Висота, см">45</param>
@@ -2606,9 +2825,12 @@
 <name>Органайзер для взуття PC001BLUE</name>
 <url>https://sklad-valiz.com.ua/ru/orhanaizer-dlia-vzuttia-pc001blue/</url>
 <code>PC001BLUE</code>
+<group_id>PC001BLUE</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>10</priceRUAH>
-<stock>41</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Органайзер</param>
 <description><![CDATA[Органайзер для взуття PC001BLUE
 Тип: Органайзер]]></description>
@@ -2625,9 +2847,12 @@
 <name>Подушка для подорожей TP01-Grey</name>
 <url>https://sklad-valiz.com.ua/ru/podushka-dlia-podorozhei-tp01-grey/</url>
 <code>TP01-Grey</code>
+<group_id>TP01</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>340</priceRUAH>
-<stock>17</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Подушка</param>
 <param name="Висота, см">9</param>
 <param name="Ширина, см">30</param>
@@ -2645,9 +2870,12 @@
 <name>Подушка для подорожей TP01-Burgundy</name>
 <url>https://sklad-valiz.com.ua/ru/podushka-dlia-podorozhei-tp01-burgundy/</url>
 <code>TP01-Burgundy</code>
+<group_id>TP01</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>340</priceRUAH>
-<stock>17</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Подушка</param>
 <param name="Висота, см">9</param>
 <param name="Ширина, см">30</param>
@@ -2665,9 +2893,12 @@
 <name>Подушка-рогалик для подорожей рожева OI01-Pink</name>
 <url>https://sklad-valiz.com.ua/ru/podushka-rohalyk-dlia-podorozhei-rozheva-oi01-pink/</url>
 <code>OI01-Pink</code>
+<group_id>OI01</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>500</priceRUAH>
-<stock>11</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Подушка</param>
 <param name="Висота, см">9</param>
 <param name="Ширина, см">30</param>
@@ -2685,9 +2916,12 @@
 <name>Подушка-рогалик для подорожей сіра OI01-Grey</name>
 <url>https://sklad-valiz.com.ua/ru/podushka-rohalyk-dlia-podorozhei-sira-oi01-grey/</url>
 <code>OI01-Grey</code>
+<group_id>OI01</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>500</priceRUAH>
-<stock>19</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Подушка</param>
 <param name="Висота, см">9</param>
 <param name="Ширина, см">30</param>
@@ -2705,9 +2939,12 @@
 <name>Комплект органайзерів рожевий ORG7-Pink</name>
 <url>https://sklad-valiz.com.ua/ru/komplekt-orhanaizeriv-rozhevyi-org7-pink/</url>
 <code>ORG7-Pink</code>
+<group_id>ORG7</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>570</priceRUAH>
-<stock>20</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Органайзер</param>
 <description><![CDATA[translator Afrikaans Albanian - shqipe Arabic - &amp;lrm; العربية &amp;lrm; Armenian - Հայերէն Azerbaijani - azərbaycanca Basque - euskara Belarusian - беларуская Bengali - ব ল Bulgarian - български Catalan - catal&amp;agrave; Chinese - 中文 简体中文 Chinese - 中文 (繁體中文) Croatian - hrvatski Czech - če&amp;scaron;tina Danish - dansk Dutch - Nederlands English Esperanto - esperanto Estonian - eesti Filipino Finnish - suomi French - fran&amp;ccedil;ais Galician - galego Georgian - ქართული German - Deutsch Greek - &amp;Epsilon;&amp;lambda;&amp;lambda;&amp;eta;&amp;nu;&amp;iota;&amp;kappa;ά Gujarati - ગ જર ત Haitian Creole - krey&amp;ograve;l ayisyen Hebrew - &amp;lrm; עברית &amp;lrm; Hindi - ह न द Hungarian - magyar Icelandic - &amp;iacute;slenska Indonesian - Bahasa Indonesia Irish - Gaeilge Italian - italiano Japanese - 日本語 Kannada - ಕನ ನಡ Korean - 한국어 Latin - Lingua Latina Latvian - latvie&amp;scaron;u Lithuanian - lietuvių Macedonian - македонски Malay - Bahasa Melayu Maltese - Malti Norwegian - norsk Persian - &amp;lrm; فارسی &amp;lrm; Polish - polski Portuguese - portugu&amp;ecirc;s Romanian - rom&amp;acirc;nă Russian - русский Serbian - Српски Slovak - slovenčina Slovenian - sloven&amp;scaron;čina Spanish - espa&amp;ntilde;ol Swahili - Kiswahili Swedish - svenska Tamil - தம ழ Telugu - త ల గ Thai - ไทย Turkish - T&amp;uuml;rk&amp;ccedil;e Ukrainian - українська Urdu - &amp;lrm; اردو &amp;lrm; Vietnamese - Tiếng Việt Welsh - Cymraeg Yiddish - יידיש Double-click Select to translate
 Тип: Органайзер]]></description>
@@ -2721,9 +2958,12 @@
 <name>Комплект органайзерів бірюзовий ORG7-LightGreen</name>
 <url>https://sklad-valiz.com.ua/ru/komplekt-orhanaizeriv-biriuzovyi-org7-lightgreen/</url>
 <code>ORG7-LightGreen</code>
+<group_id>ORG7</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>570</priceRUAH>
-<stock>3</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Органайзер</param>
 <description><![CDATA[translator Afrikaans Albanian - shqipe Arabic - &amp;lrm; العربية &amp;lrm; Armenian - Հայերէն Azerbaijani - azərbaycanca Basque - euskara Belarusian - беларуская Bengali - ব ল Bulgarian - български Catalan - catal&amp;agrave; Chinese - 中文 简体中文 Chinese - 中文 (繁體中文) Croatian - hrvatski Czech - če&amp;scaron;tina Danish - dansk Dutch - Nederlands English Esperanto - esperanto Estonian - eesti Filipino Finnish - suomi French - fran&amp;ccedil;ais Galician - galego Georgian - ქართული German - Deutsch Greek - &amp;Epsilon;&amp;lambda;&amp;lambda;&amp;eta;&amp;nu;&amp;iota;&amp;kappa;ά Gujarati - ગ જર ત Haitian Creole - krey&amp;ograve;l ayisyen Hebrew - &amp;lrm; עברית &amp;lrm; Hindi - ह न द Hungarian - magyar Icelandic - &amp;iacute;slenska Indonesian - Bahasa Indonesia Irish - Gaeilge Italian - italiano Japanese - 日本語 Kannada - ಕನ ನಡ Korean - 한국어 Latin - Lingua Latina Latvian - latvie&amp;scaron;u Lithuanian - lietuvių Macedonian - македонски Malay - Bahasa Melayu Maltese - Malti Norwegian - norsk Persian - &amp;lrm; فارسی &amp;lrm; Polish - polski Portuguese - portugu&amp;ecirc;s Romanian - rom&amp;acirc;nă Russian - русский Serbian - Српски Slovak - slovenčina Slovenian - sloven&amp;scaron;čina Spanish - espa&amp;ntilde;ol Swahili - Kiswahili Swedish - svenska Tamil - தம ழ Telugu - త ల గ Thai - ไทย Turkish - T&amp;uuml;rk&amp;ccedil;e Ukrainian - українська Urdu - &amp;lrm; اردو &amp;lrm; Vietnamese - Tiếng Việt Welsh - Cymraeg Yiddish - יידיש Double-click Select to translate
 Тип: Органайзер]]></description>
@@ -2737,9 +2977,12 @@
 <name>Комплект органайзерів бежевий ORG7-Beige</name>
 <url>https://sklad-valiz.com.ua/ru/komplekt-orhanaizeriv-bezhevyi-org7-beige/</url>
 <code>ORG7-Beige</code>
+<group_id>ORG7</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>570</priceRUAH>
-<stock>6</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Тип">Органайзер</param>
 <description><![CDATA[translator Afrikaans Albanian - shqipe Arabic - &amp;lrm; العربية &amp;lrm; Armenian - Հայերէն Azerbaijani - azərbaycanca Basque - euskara Belarusian - беларуская Bengali - ব ল Bulgarian - български Catalan - catal&amp;agrave; Chinese - 中文 简体中文 Chinese - 中文 (繁體中文) Croatian - hrvatski Czech - če&amp;scaron;tina Danish - dansk Dutch - Nederlands English Esperanto - esperanto Estonian - eesti Filipino Finnish - suomi French - fran&amp;ccedil;ais Galician - galego Georgian - ქართული German - Deutsch Greek - &amp;Epsilon;&amp;lambda;&amp;lambda;&amp;eta;&amp;nu;&amp;iota;&amp;kappa;ά Gujarati - ગ જર ત Haitian Creole - krey&amp;ograve;l ayisyen Hebrew - &amp;lrm; עברית &amp;lrm; Hindi - ह न द Hungarian - magyar Icelandic - &amp;iacute;slenska Indonesian - Bahasa Indonesia Irish - Gaeilge Italian - italiano Japanese - 日本語 Kannada - ಕನ ನಡ Korean - 한국어 Latin - Lingua Latina Latvian - latvie&amp;scaron;u Lithuanian - lietuvių Macedonian - македонски Malay - Bahasa Melayu Maltese - Malti Norwegian - norsk Persian - &amp;lrm; فارسی &amp;lrm; Polish - polski Portuguese - portugu&amp;ecirc;s Romanian - rom&amp;acirc;nă Russian - русский Serbian - Српски Slovak - slovenčina Slovenian - sloven&amp;scaron;čina Spanish - espa&amp;ntilde;ol Swahili - Kiswahili Swedish - svenska Tamil - தம ழ Telugu - త ల గ Thai - ไทย Turkish - T&amp;uuml;rk&amp;ccedil;e Ukrainian - українська Urdu - &amp;lrm; اردو &amp;lrm; Vietnamese - Tiếng Việt Welsh - Cymraeg Yiddish - יידיש Double-click Select to translate
 Тип: Органайзер]]></description>
@@ -2753,9 +2996,12 @@
 <name>Валіза Madisson 42203 середня 68л фіолетова (42203-M-Purple)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-42203-serednia-68l-fioletova-42203-m-purple/</url>
 <code>42203-M-Purple</code>
+<group_id>42203</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2100</priceRUAH>
-<stock>10</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">фіолетовий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -2794,9 +3040,12 @@
 <name>Валіза Madisson 42203 велика 103л фіолетова (42203-L-Purple)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-42203-velyka-103l-fioletova-42203-l-purple/</url>
 <code>42203-L-Purple</code>
+<group_id>42203</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2150</priceRUAH>
-<stock>9</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">фіолетовий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -2835,9 +3084,12 @@
 <name>Валіза Madisson 42203 середня 68л темно-синя (42203-M-DarkBlue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-42203-serednia-68l-temno-synia-42203-m-darkblue/</url>
 <code>42203-M-DarkBlue</code>
+<group_id>42203</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2100</priceRUAH>
-<stock>3</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -2876,9 +3128,12 @@
 <name>Валіза Madisson 42203 велика 103л темно-синя (42203-L-DarkBlue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-42203-velyka-103l-temno-synia-42203-l-darkblue/</url>
 <code>42203-L-DarkBlue</code>
+<group_id>42203</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2150</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -2917,9 +3172,12 @@
 <name>Валіза Madisson 63703 мала 37л кремова (63703-S-Milk)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-63703-mala-37l-kremova-63703-s-milk/</url>
 <code>63703-S-Milk</code>
+<group_id>63703</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1850</priceRUAH>
-<stock>23</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -2958,9 +3216,12 @@
 <name>Валіза Madisson 63703 мала 37л чорна (63703-S-Black)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-63703-mala-37l-chorna-63703-s-black/</url>
 <code>63703-S-Black</code>
+<group_id>63703</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1850</priceRUAH>
-<stock>3</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">чорний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -2999,9 +3260,12 @@
 <name>Валіза Madisson 63703 середня 65л кремова (63703-M-Milk)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-63703-serednia-65l-kremova-63703-m-milk/</url>
 <code>63703-M-Milk</code>
+<group_id>63703</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2550</priceRUAH>
-<stock>16</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -3040,9 +3304,12 @@
 <name>Валіза Madisson 63703 велика 100л кремова (63703-L-Milk)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-63703-velyka-100l-kremova-63703-l-milk/</url>
 <code>63703-L-Milk</code>
+<group_id>63703</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2650</priceRUAH>
-<stock>26</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -3081,9 +3348,12 @@
 <name>Валіза Snowball 43803 мала 34л червона (43803-S-Red)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-43803-mala-34l-chervona-43803-s-red/</url>
 <code>43803-S-Red</code>
+<group_id>43803</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2900</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">червоний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -3122,9 +3392,12 @@
 <name>Валіза Snowball 43803 середня 80л червона (43803-M-Red)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-43803-serednia-80l-chervona-43803-m-red/</url>
 <code>43803-M-Red</code>
+<group_id>43803</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3800</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">червоний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -3163,9 +3436,12 @@
 <name>Валіза Snowball 43803 велика 116л червона (43803-L-Red)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-43803-velyka-116l-chervona-43803-l-red/</url>
 <code>43803-L-Red</code>
+<group_id>43803</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3900</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">червоний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -3204,9 +3480,12 @@
 <name>Валіза Wings 5398 велика 97л шампань (5398-L-Champagne-ABS)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-5398-velyka-97l-shampan-5398-l-champagne-abs/</url>
 <code>5398-L-Champagne-ABS</code>
+<group_id>5398</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2350</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -3241,9 +3520,12 @@
 <name>Валіза Wings 5398 мала 38л шампань (5398-S-Champagne-ABS)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-5398-mala-38l-shampan-5398-s-champagne-abs/</url>
 <code>5398-S-Champagne-ABS</code>
+<group_id>5398</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1650</priceRUAH>
-<stock>6</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -3278,9 +3560,12 @@
 <name>Валіза Wings 5398 міні 28л шампань (5398-XS-Champagne-ABS)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-5398-mini-28l-shampan-5398-xs-champagne-abs/</url>
 <code>5398-XS-Champagne-ABS</code>
+<group_id>5398</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1300</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -3315,9 +3600,12 @@
 <name>Валіза Wings 5398 велика 97л рожеве золото (5398-L-RoseGold-ABS)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-5398-velyka-97l-rozheve-zoloto-5398-l-rosegold-abs/</url>
 <code>5398-L-RoseGold-ABS</code>
+<group_id>5398</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2350</priceRUAH>
-<stock>7</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">рожевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -3352,9 +3640,12 @@
 <name>Валіза Wings 5398 середня 63л рожеве золото (5398-M-RoseGold-ABS)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-5398-serednia-63l-rozheve-zoloto-5398-m-rosegold-abs/</url>
 <code>5398-M-RoseGold-ABS</code>
+<group_id>5398</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2300</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">рожевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -3389,9 +3680,12 @@
 <name>Валіза Wings 5398 мала 38л рожеве золото (5398-S-RoseGold-ABS)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-5398-mala-38l-rozheve-zoloto-5398-s-rosegold-abs/</url>
 <code>5398-S-RoseGold-ABS</code>
+<group_id>5398</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1650</priceRUAH>
-<stock>6</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">рожевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -3426,9 +3720,12 @@
 <name>Валіза Wings 5398 міні 28л рожеве золото (5398-XS-RoseGold-ABS)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-5398-mini-28l-rozheve-zoloto-5398-xs-rosegold-abs/</url>
 <code>5398-XS-RoseGold-ABS</code>
+<group_id>5398</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1300</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">рожевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -3463,9 +3760,12 @@
 <name>Валіза для лоукосту Wizzair Kaiman міні 24л біла (Kaiman-XS-White)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-bila-kaiman-xs-white/</url>
 <code>Kaiman-XS-Black</code>
+<group_id>Kaiman</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1600</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">білий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -3504,9 +3804,12 @@
 <name>Валіза Airtex 642 мала 40л шампань (642-S-Champagne)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-airtex-642-mala-shampan-642-s-champagne/</url>
 <code>642-S-Champagne</code>
+<group_id>642</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>4300</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -3545,9 +3848,12 @@
 <name>Валіза Airtex 642 середня 71л шампань (642-M-Champagne)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-airtex-642-serednia-71l-shampan-642-m-champagne/</url>
 <code>642-M-Champagne</code>
+<group_id>642</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>5200</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -3586,9 +3892,12 @@
 <name>Валіза Airtex 642 велика 110л шампань (642-L-Champagne)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-airtex-642-velyka-110l-shampan-642-l-champagne/</url>
 <code>642-L-Champagne</code>
+<group_id>642</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>6350</priceRUAH>
-<stock>3</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -3627,9 +3936,12 @@
 <name>Валіза Airtex 642 мала 40л темно-синя (642-S-Dark-blue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-airtex-642-mala-40l-temno-synia-642-s-dark-blue/</url>
 <code>642-S-Dark-blue</code>
+<group_id>642</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>4300</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -3668,9 +3980,12 @@
 <name>Валіза Airtex 642 велика 110л темно-синя (642-L-Dark-blue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-airtex-642-velyka-110l-temno-synia-642-l-dark-blue/</url>
 <code>642-L-Dark-blue</code>
+<group_id>642</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>6350</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -3709,9 +4024,12 @@
 <name>Валіза Madisson 53103 мала 37л синя (53103-S-Blue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-53103-mala-37l-synia-53103-s-blue/</url>
 <code>53103-S-Blue</code>
+<group_id>53103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2550</priceRUAH>
-<stock>5</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -3750,9 +4068,12 @@
 <name>Валіза Madisson 53103 середня 65л синя (53103-M-Blue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-53103-serednia-65l-synia-53103-m-blue/</url>
 <code>53103-M-Blue</code>
+<group_id>53103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3400</priceRUAH>
-<stock>5</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -3791,9 +4112,12 @@
 <name>Валіза Madisson 53103 велика 102л синя (53103-L-Blue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-53103-velyka-102l-synia-53103-l-blue/</url>
 <code>53103-L-Blue</code>
+<group_id>53103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3500</priceRUAH>
-<stock>5</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -3832,9 +4156,12 @@
 <name>Валіза для лоукосту Wizzair Kaiman міні 24л фуксія (Kaiman-XS-Fuchsia)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-fuksiia-kaiman-xs-fuchsia/</url>
 <code>Kaiman-XS-Black</code>
+<group_id>Kaiman</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1600</priceRUAH>
-<stock>3</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">рожевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -3873,9 +4200,12 @@
 <name>Рюкзак для ручної поклажі HIMAWARI 17л чорний (HIMAWARI-XS-Black)</name>
 <url>https://sklad-valiz.com.ua/ru/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black/</url>
 <code>HIMAWARI-XS-Black</code>
+<group_id>HIMAWARI</group_id>
 <categoryId>24059</categoryId>
 <priceRUAH>1495</priceRUAH>
-<stock>3</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">чорний</param>
 <param name="Тип">Рюкзак</param>
 <param name="Матеріал">Нейлон</param>
@@ -3914,9 +4244,12 @@
 <name>Рюкзак для ручної поклажі HIMAWARI 17л сіро-мʼятний (HIMAWARI-XS-Gray-mint)</name>
 <url>https://sklad-valiz.com.ua/ru/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint/</url>
 <code>HIMAWARI-XS-Gray-mint</code>
+<group_id>HIMAWARI</group_id>
 <categoryId>24059</categoryId>
 <priceRUAH>1495</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сірий</param>
 <param name="Тип">Рюкзак</param>
 <param name="Матеріал">Нейлон</param>
@@ -3955,9 +4288,12 @@
 <name>Рюкзак для ручної поклажі HIMAWARI 17л бежевий (HIMAWARI-XS-Beige)</name>
 <url>https://sklad-valiz.com.ua/ru/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-bezhevyi-himawari-xs-beige/</url>
 <code>HIMAWARI-XS-Beige</code>
+<group_id>HIMAWARI</group_id>
 <categoryId>24059</categoryId>
 <priceRUAH>1495</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Рюкзак</param>
 <param name="Матеріал">Нейлон</param>
@@ -3994,9 +4330,12 @@
 <name>Рюкзак для ручної поклажі 402520 20л хакі (402520-XS-Khaki)</name>
 <url>https://sklad-valiz.com.ua/ru/riukzak-dlia-ruchnoi-poklazhi-402520-20l-khaki-402520-xs-khaki/</url>
 <code>402520-XS-Khaki</code>
+<group_id>402520</group_id>
 <categoryId>24059</categoryId>
 <priceRUAH>2200</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">зелений</param>
 <param name="Тип">Рюкзак</param>
 <param name="Матеріал">Нейлон</param>
@@ -4032,9 +4371,12 @@
 <name>Рюкзак для ручної поклажі 4522 26л чорний (4522-XS-Black)</name>
 <url>https://sklad-valiz.com.ua/ru/riukzak-dlia-ruchnoi-poklazhi-4522-26l-khaki-4522-xs-khaki/</url>
 <code>4522-XS-Black</code>
+<group_id>4522</group_id>
 <categoryId>24059</categoryId>
 <priceRUAH>2500</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">чорний</param>
 <param name="Тип">Рюкзак</param>
 <param name="Матеріал">Тканина</param>
@@ -4069,9 +4411,12 @@
 <name>Рюкзак для ручної поклажі Leon 24л чорний (Leon-XS-Black)</name>
 <url>https://sklad-valiz.com.ua/ru/riukzak-dlia-ruchnoi-poklazhi-leon-24l-chornyi-leon-xs-black/</url>
 <code>Leon-XS-Black</code>
+<group_id>Leon</group_id>
 <categoryId>24059</categoryId>
 <priceRUAH>2700</priceRUAH>
-<stock>6</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">чорний</param>
 <param name="Тип">Рюкзак</param>
 <param name="Матеріал">Поліестер</param>
@@ -4110,9 +4455,12 @@
 <name>Рюкзак для ручної поклажі Bagland 20л синій (Bagland-XS-Blue)</name>
 <url>https://sklad-valiz.com.ua/ru/riukzak-dlia-ruchnoi-poklazhi-bagland-20l-synii-bagland-xs-blue/</url>
 <code>Bagland-XS-Blue</code>
+<group_id>Bagland</group_id>
 <categoryId>24059</categoryId>
 <priceRUAH>2190</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Рюкзак</param>
 <param name="Матеріал">Поліестер</param>
@@ -4151,9 +4499,12 @@
 <name>Рюкзак для ручної поклажі Bagland 20л сірий (Bagland-XS-Grey)</name>
 <url>https://sklad-valiz.com.ua/ru/riukzak-dlia-ruchnoi-poklazhi-bagland-20l-siryi-bagland-xs-grey/</url>
 <code>Bagland-XS-Grey</code>
+<group_id>Bagland</group_id>
 <categoryId>24059</categoryId>
 <priceRUAH>2190</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сірий</param>
 <param name="Тип">Рюкзак</param>
 <param name="Матеріал">Поліестер</param>
@@ -4192,9 +4543,12 @@
 <name>Валіза Madisson 44603 велика 99л біла (44603-L-White)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-44603-velyka-99l-bila-44603-l-white/</url>
 <code>44603-L-White</code>
+<group_id>44603</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1950</priceRUAH>
-<stock>3</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">білий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS пластик</param>
@@ -4231,9 +4585,12 @@
 <name>Валіза Madisson 44603 середня 65л біла (44603-M-White)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-44603-serednia-65l-bila-44603-m-white/</url>
 <code>44603-M-White</code>
+<group_id>44603</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1850</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">білий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS пластик</param>
@@ -4270,9 +4627,12 @@
 <name>Валіза Madisson 44603 мала 38л біла (44603-S-White)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-44603-mala-38l-bila-44603-s-white/</url>
 <code>44603-S-White</code>
+<group_id>44603</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1300</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">білий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS пластик</param>
@@ -4309,9 +4669,12 @@
 <name>Валіза Madisson 44603 велика 99л блакитна (44603-L-Sky)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-44603-velyka-99l-blakytna-44603-l-sky/</url>
 <code>44603-L-Sky</code>
+<group_id>44603</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1950</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">блакитний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS пластик</param>
@@ -4350,9 +4713,12 @@
 <name>Валіза Madisson 44603 середня 65л блакитна (44603-M-Sky)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-44603-serednia-65l-blakytna-44603-m-sky/</url>
 <code>44603-M-Sky</code>
+<group_id>44603</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1850</priceRUAH>
-<stock>3</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">блакитний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS пластик</param>
@@ -4391,9 +4757,12 @@
 <name>Валіза Madisson 44603 мала 38л блакитна (44603-S-Sky)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-44603-mala-38l-blakytna-44603-s-sky/</url>
 <code>44603-S-Sky</code>
+<group_id>44603</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1300</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">блакитний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS пластик</param>
@@ -4432,9 +4801,12 @@
 <name>Дорожня сумка SKU402 32л бежева (SKU402-BC-Beige)</name>
 <url>https://sklad-valiz.com.ua/ru/dorozhnia-sumka-sku402-32l-bezheva-sku402-bc-beige/</url>
 <code>SKU402-BC-Beige</code>
+<group_id>SKU402</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1100</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Дорожня сумка</param>
 <param name="Матеріал">Тканина</param>
@@ -4471,9 +4843,12 @@
 <name>Дорожня сумка SKU402 32л чорна (SKU402-BC-Black)</name>
 <url>https://sklad-valiz.com.ua/ru/dorozhnia-sumka-sku402-32l-chorna-sku402-bc-black/</url>
 <code>SKU402-BC-Black</code>
+<group_id>SKU402</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1100</priceRUAH>
-<stock>3</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">чорний</param>
 <param name="Тип">Дорожня сумка</param>
 <param name="Матеріал">Тканина</param>
@@ -4508,9 +4883,12 @@
 <name>Дорожня сумка SKU823 67л сіра (SKU823-BC-Grey)</name>
 <url>https://sklad-valiz.com.ua/ru/dorozhnia-sumka-sku823-67l-sira-sku823-bc-grey/</url>
 <code>SKU823-BC-Grey</code>
+<group_id>SKU823</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1800</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сірий</param>
 <param name="Тип">Дорожня сумка</param>
 <param name="Матеріал">Тканина</param>
@@ -4548,9 +4926,12 @@
 <name>Валіза Wings 2501 велика 97л синя (2501-L-Blue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-2501-velyka-97l-synia-2501-l-blue/</url>
 <code>2501-L-Blue</code>
+<group_id>2501</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3100</priceRUAH>
-<stock>7</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліестер</param>
@@ -4585,9 +4966,12 @@
 <name>Валіза Wings 2501 велика 97л сіра (2501-L-Grey)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-2501-velyka-97l-sira-2501-l-grey/</url>
 <code>2501-L-Grey</code>
+<group_id>2501</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3100</priceRUAH>
-<stock>6</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сірий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліестер</param>
@@ -4622,9 +5006,12 @@
 <name>Валіза Wings 2501 середня 63л синя (2501-M-Blue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-2501-serednia-63l-synia-2501-m-blue/</url>
 <code>2501-M-Blue</code>
+<group_id>2501</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2900</priceRUAH>
-<stock>3</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліестер</param>
@@ -4659,9 +5046,12 @@
 <name>Валіза Wings 2501 середня 63л кавова (2501-M-Coffe)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-2501-serednia-63l-kavova-2501-m-coffe/</url>
 <code>2501-M-Coffe</code>
+<group_id>2501</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2900</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">коричневий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліестер</param>
@@ -4696,9 +5086,12 @@
 <name>Валіза Wings 2501 середня 63л сіра (2501-M-Grey)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-2501-serednia-63l-sira-2501-m-grey/</url>
 <code>2501-M-Grey</code>
+<group_id>2501</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2900</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сірий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліестер</param>
@@ -4733,9 +5126,12 @@
 <name>Валіза Wings 2501 мала 38л синя (2501-S-Blue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-2501-mala-38l-synia-2501-s-blue/</url>
 <code>2501-S-Blue</code>
+<group_id>2501</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1700</priceRUAH>
-<stock>7</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліестер</param>
@@ -4770,9 +5166,12 @@
 <name>Валіза Wings 2501 мала 38л кавова (2501-S-Coffe)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-2501-mala-38l-kavova-2501-s-coffe/</url>
 <code>2501-S-Coffe</code>
+<group_id>2501</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1700</priceRUAH>
-<stock>3</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">коричневий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліестер</param>
@@ -4807,9 +5206,12 @@
 <name>Валіза Wings 2501 мала 38л сіра (2501-S-Grey)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-2501-mala-38l-sira-2501-s-grey/</url>
 <code>2501-S-Grey</code>
+<group_id>2501</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1700</priceRUAH>
-<stock>8</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сірий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліестер</param>
@@ -4844,9 +5246,12 @@
 <name>Валіза Madisson 53103 велика 102л шампань (53103-L-Champagne)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-53103-velyka-102l-shampan-53103-l-champagne/</url>
 <code>53103-L-Champagne</code>
+<group_id>53103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3500</priceRUAH>
-<stock>11</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -4885,9 +5290,12 @@
 <name>Валіза Madisson 53103 велика 102л сіра (53103-L-Gray)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-53103-velyka-102l-sira-53103-l-gray/</url>
 <code>53103-L-Gray</code>
+<group_id>53103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3500</priceRUAH>
-<stock>9</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сірий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -4926,9 +5334,12 @@
 <name>Валіза Madisson 53103 велика 102л фіолетова (53103-L-Purple)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-53103-velyka-102l-fioletova-53103-l-purple/</url>
 <code>53103-L-Purple</code>
+<group_id>53103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3500</priceRUAH>
-<stock>9</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">фіолетовий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -4967,9 +5378,12 @@
 <name>Валіза Madisson 53103 середня 65л шампань (53103-M-Champagne)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-53103-serednia-65l-shampan-53103-m-champagne/</url>
 <code>53103-M-Champagne</code>
+<group_id>53103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3400</priceRUAH>
-<stock>7</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -5008,9 +5422,12 @@
 <name>Валіза Madisson 53103 середня 65л сіра (53103-M-Gray)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-53103-serednia-65l-sira-53103-m-gray/</url>
 <code>53103-M-Gray</code>
+<group_id>53103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3400</priceRUAH>
-<stock>6</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сірий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -5049,9 +5466,12 @@
 <name>Валіза Madisson 53103 середня 65л фіолетова (53103-M-Purple)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-53103-serednia-65l-fioletova-53103-m-purple/</url>
 <code>53103-M-Purple</code>
+<group_id>53103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3400</priceRUAH>
-<stock>6</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">фіолетовий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -5090,9 +5510,12 @@
 <name>Валіза Madisson 53103 мала 37л шампань (53103-S-Champagne)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-53103-mala-37l-shampan-53103-s-champagne/</url>
 <code>53103-S-Champagne</code>
+<group_id>53103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2550</priceRUAH>
-<stock>13</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -5131,9 +5554,12 @@
 <name>Валіза Madisson 53103 мала 37л сіра (53103-S-Gray)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-53103-mala-37l-sira-53103-s-gray/</url>
 <code>53103-S-Gray</code>
+<group_id>53103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2550</priceRUAH>
-<stock>11</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сірий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -5172,9 +5598,12 @@
 <name>Валіза Madisson 53103 мала 37л фіолетова (53103-S-Purple)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-53103-mala-37l-fioletova-53103-s-purple/</url>
 <code>53103-S-Purple</code>
+<group_id>53103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2550</priceRUAH>
-<stock>5</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">фіолетовий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -5213,9 +5642,12 @@
 <name>Валіза для лоукосту Wizzair Kaiman міні 24л чорна (Kaiman-XS-Black)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-chorna-kaiman-xs-black/</url>
 <code>Kaiman-XS-Black</code>
+<group_id>Kaiman</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1600</priceRUAH>
-<stock>3</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">чорний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -5254,9 +5686,12 @@
 <name>Валіза Wings 160 мала 38л срібна (160-S-Silver)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-160-mala-38l-sribna-160-s-silver/</url>
 <code>160-S-Silver</code>
+<group_id>160</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1200</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сріблястий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -5291,9 +5726,12 @@
 <name>Валіза Wings 160 мала 38л темно-зелена (160-S-Dark-Green)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-160-mala-38l-temno-zelena-160-s-dark-green/</url>
 <code>160-S-Dark-Green</code>
+<group_id>160</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1200</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">зелений</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -5328,9 +5766,12 @@
 <name>Валіза для лоукосту Wings 160 міні 28л срібна (160-XS-Silver)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-dlia-loukostu-wings-160-mini-28l-sribna-160-xs-silver/</url>
 <code>160-XS-Silver</code>
+<group_id>160</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>950</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сріблястий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -5365,9 +5806,12 @@
 <name>Валіза для лоукосту Wings 160 міні 28л синя (160-XS-DarkBlue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-dlia-loukostu-wings-160-mini-28l-synia-160-xs-darkblue/</url>
 <code>160-XS-DarkBlue</code>
+<group_id>160</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>950</priceRUAH>
-<stock>7</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -5402,9 +5846,12 @@
 <name>Валіза TAG JB1001 велика 106л синя (JB1001-L-Dark-blue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-tag-jb1001-velyka-106l-synia-jb1001-l-dark-blue/</url>
 <code>JB1001-L-Dark-blue</code>
+<group_id>JB1001</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2590</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліестер</param>
@@ -5443,9 +5890,12 @@
 <name>Валіза TAG JB1001 середня 62л синя (JB1001-M-Dark-blue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-tag-jb1001-serednia-62l-synia-jb1001-m-dark-blue/</url>
 <code>JB1001-M-Dark-blue</code>
+<group_id>JB1001</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3150</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліестер</param>
@@ -5484,9 +5934,12 @@
 <name>Валіза TAG JB1001 мала 43л синя (JB1001-S-Dark-blue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-tag-jb1001-mala-43l-synia-jb1001-s-dark-blue/</url>
 <code>JB1001-S-Dark-blue</code>
+<group_id>JB1001</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1610</priceRUAH>
-<stock>3</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліестер</param>
@@ -5525,9 +5978,12 @@
 <name>Валіза Airtex 647 велика 105л сіра (647-L-Gray)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-airtex-647-velyka-105l-sira-647-l-gray/</url>
 <code>647-L-Gray</code>
+<group_id>647</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>6650</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сірий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -5566,9 +6022,12 @@
 <name>Валіза Airtex 647 мала 40л сіра (647-S-Gray)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-airtex-647-mala-40l-sira-647-s-gray/</url>
 <code>647-S-Gray</code>
+<group_id>647</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>4650</priceRUAH>
-<stock>3</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сірий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -5607,9 +6066,12 @@
 <name>Валіза Snowball 94103 велика 105л синя (94103-L-Blue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-94103-velyka-105l-synia-94103-l-blue/</url>
 <code>94103-L-Blue</code>
+<group_id>94103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>5800</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -5648,9 +6110,12 @@
 <name>Валіза Snowball 94103 середня 65л синя (94103-M-Blue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-94103-serednia-65l-synia-94103-m-blue/</url>
 <code>94103-M-Blue</code>
+<group_id>94103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>5300</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -5689,9 +6154,12 @@
 <name>Валіза Snowball 94103 мала 46л синя (94103-S-Blue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-94103-mala-46l-synia-94103-s-blue/</url>
 <code>94103-S-Blue</code>
+<group_id>94103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>4200</priceRUAH>
-<stock>2</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -5730,9 +6198,12 @@
 <name>Валіза Snowball 20103 велика 116л зелена (20103-L-Dark-green)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-20103-velyka-116l-zelena-20103-l-dark-green/</url>
 <code>20103-L-Dark-green</code>
+<group_id>20103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>4888</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">зелений</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -5771,9 +6242,12 @@
 <name>Валіза Snowball 20103 середня 71л зелена (20103-M-Dark-green)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-20103-serednia-71l-zelena-20103-m-dark-green/</url>
 <code>20103-M-Dark-green</code>
+<group_id>20103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>4950</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">зелений</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -5812,9 +6286,12 @@
 <name>Валіза Snowball 20103 мала 35л зелена (20103-S-Dark-green)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-20103-mala-35l-zelena-20103-s-dark-green/</url>
 <code>20103-S-Dark-green</code>
+<group_id>20103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3800</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">зелений</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -5853,9 +6330,12 @@
 <name>Валіза Madisson 63703 велика 100л шампань (63703-L-Champagne)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-63703-velyka-100l-shampan-63703-l-champagne/</url>
 <code>63703-L-Champagne</code>
+<group_id>63703</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2650</priceRUAH>
-<stock>14</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -5894,9 +6374,12 @@
 <name>Валіза Madisson 63703 середня 65л шампань (63703-M-Champagne)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-63703-serednia-65l-shampan-63703-m-champagne/</url>
 <code>63703-M-Champagne</code>
+<group_id>63703</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2550</priceRUAH>
-<stock>7</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -5935,9 +6418,12 @@
 <name>Валіза Madisson 63703 мала 37л шампань (63703-S-Champagne)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-63703-mala-37l-shampan-63703-s-champagne/</url>
 <code>63703-S-Champagne</code>
+<group_id>63703</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1850</priceRUAH>
-<stock>16</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -5976,9 +6462,12 @@
 <name>Валіза Snowball 49103 мала 39л біла (49103-S-White)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-49103-mala-39l-bila-49103-s-white/</url>
 <code>49103-S-White</code>
+<group_id>49103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3600</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">білий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -6017,9 +6506,12 @@
 <name>Валіза Snowball 49103 велика 112л біла (49103-L-White)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-49103-velyka-112l-bila-49103-l-white/</url>
 <code>49103-L-White</code>
+<group_id>49103</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>5100</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">білий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -6058,9 +6550,12 @@
 <name>Валіза Wings GDW01 велика 97л бордова (GDW01-L-Burgundy)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-gdw01-velyka-97l-bordova-gdw01-l-burgundy/</url>
 <code>GDW01-L-Burgundy</code>
+<group_id>GDW01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2150</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">червоний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -6099,9 +6594,12 @@
 <name>Валіза Wings GDW01 середня 63л бордова (GDW01-M-Burgundy)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-gdw01-serednia-63l-bordova-gdw01-m-burgundy/</url>
 <code>GDW01-M-Burgundy</code>
+<group_id>GDW01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2100</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">червоний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -6140,9 +6638,12 @@
 <name>Валіза Wings GDW01 мала 38л бордова (GDW01-S-Burgundy)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-gdw01-mala-38l-bordova-gdw01-s-burgundy/</url>
 <code>GDW01-S-Burgundy</code>
+<group_id>GDW01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1700</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">червоний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -6181,9 +6682,12 @@
 <name>Валіза Wings GDW01 міні 28л бордова (GDW01-XS-Burgundy)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-gdw01-mini-28l-bordova-gdw01-xs-burgundy/</url>
 <code>GDW01-XS-Burgundy</code>
+<group_id>GDW01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>900</priceRUAH>
-<stock>4</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">червоний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -6222,9 +6726,12 @@
 <name>Рюкзак для ручної поклажі Bear 30л фіолетовий (Bear-XS-Purple)</name>
 <url>https://sklad-valiz.com.ua/ru/riukzak-dlia-ruchnoi-poklazhi-bear-30l-fioletovyi-bear-xs-purple/</url>
 <code>Bear-XS-Purple</code>
+<group_id>Bear</group_id>
 <categoryId>24059</categoryId>
 <priceRUAH>1400</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">фіолетовий</param>
 <param name="Тип">Рюкзак</param>
 <param name="Матеріал">Нейлон</param>
@@ -6263,9 +6770,12 @@
 <name>Рюкзак для ручної поклажі Bear 30л зелений (Bear-XS-Green)</name>
 <url>https://sklad-valiz.com.ua/ru/riukzak-dlia-ruchnoi-poklazhi-bear-30l-zelenyi-bear-xs-green/</url>
 <code>Bear-XS-Green</code>
+<group_id>Bear</group_id>
 <categoryId>24059</categoryId>
 <priceRUAH>1400</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">зелений</param>
 <param name="Тип">Рюкзак</param>
 <param name="Матеріал">Нейлон</param>
@@ -6304,9 +6814,12 @@
 <name>Рюкзак для ручної поклажі MINIMAL 30л чорний (MINIMAL-XS-Black)</name>
 <url>https://sklad-valiz.com.ua/ru/riukzak-dlia-ruchnoi-poklazhi-minimal-30l-chornyi-minimal-xs-black/</url>
 <code>MINIMAL-XS-Black</code>
+<group_id>MINIMAL</group_id>
 <categoryId>24059</categoryId>
 <priceRUAH>1400</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">чорний</param>
 <param name="Тип">Рюкзак</param>
 <param name="Матеріал">Поліестер</param>
@@ -6345,9 +6858,12 @@
 <name>Рюкзак для ручної поклажі MINIMAL 30л бежевий (MINIMAL-XS-Beige)</name>
 <url>https://sklad-valiz.com.ua/ru/riukzak-dlia-ruchnoi-poklazhi-minimal-30l-bezhevyi-minimal-xs-beige/</url>
 <code>MINIMAL-XS-Beige</code>
+<group_id>MINIMAL</group_id>
 <categoryId>24059</categoryId>
 <priceRUAH>1400</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Рюкзак</param>
 <param name="Матеріал">Поліестер</param>
@@ -6386,9 +6902,12 @@
 <name>Валіза Madisson 42203 мала 39л фіолетова (42203-S-Purple)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-42203-mala-39l-fioletova-42203-s-purple/</url>
 <code>42203-S-Purple</code>
+<group_id>42203</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1450</priceRUAH>
-<stock>12</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">фіолетовий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -6427,9 +6946,12 @@
 <name>Валіза Madisson 42203 мала 39л темно-синя (42203-S-DarkBlue)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-madisson-42203-mala-39l-temno-synia-42203-s-darkblue/</url>
 <code>42203-S-DarkBlue</code>
+<group_id>42203</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1450</priceRUAH>
-<stock>7</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -6468,9 +6990,12 @@
 <name>Дорожня сумка TL096277-01 велика 89л чорна (TL096277-01-BC-Black)</name>
 <url>https://sklad-valiz.com.ua/ru/dorozhnia-sumka-tl096277-01-velyka-89l-chorna-tl096277-01-bc-black/</url>
 <code>TL096277-01-BC-Black</code>
+<group_id>TL096277</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3300</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">чорний</param>
 <param name="Тип">Дорожня сумка</param>
 <param name="Матеріал">Поліестер</param>
@@ -6504,9 +7029,12 @@
 <name>Дорожня сумка Wings середня 60л сіра (1106-BCM-Grey)</name>
 <url>https://sklad-valiz.com.ua/ru/dorozhnia-sumka-wings-serednia-60l-sira-1106-bcm-grey/</url>
 <code>1106-BCM-Grey</code>
+<group_id>1106</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2200</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сірий</param>
 <param name="Тип">Дорожня сумка</param>
 <param name="Матеріал">Тканина</param>
@@ -6540,9 +7068,12 @@
 <name>Дорожня сумка Wings велика 75л чорна (1106-BCL-Black)</name>
 <url>https://sklad-valiz.com.ua/ru/dorozhnia-sumka-wings-velyka-75l-chorna-1106-bcl-black/</url>
 <code>1106-BCL-Black</code>
+<group_id>1106</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2100</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">чорний</param>
 <param name="Тип">Дорожня сумка</param>
 <param name="Матеріал">Тканина</param>
@@ -6576,9 +7107,12 @@
 <name>Дорожня сумка Wings середня 60л чорна (1106-BCM-Black)</name>
 <url>https://sklad-valiz.com.ua/ru/dorozhnia-sumka-wings-serednia-60l-chorna-1106-bcm-black/</url>
 <code>1106-BCM-Black</code>
+<group_id>1106</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1700</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">чорний</param>
 <param name="Тип">Дорожня сумка</param>
 <param name="Матеріал">Тканина</param>
@@ -6612,9 +7146,12 @@
 <name>Дорожня сумка Wings мала 48л чорна (1106-BCS-Black)</name>
 <url>https://sklad-valiz.com.ua/ru/dorozhnia-sumka-wings-mala-48l-chorna-1106-bcs-black/</url>
 <code>1106-BCS-Black</code>
+<group_id>1106</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1300</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">чорний</param>
 <param name="Тип">Дорожня сумка</param>
 <param name="Матеріал">Тканина</param>
@@ -6648,9 +7185,12 @@
 <name>Набір дорожніх сумок Wings 3в1 чорний (1106-BC3-Black)</name>
 <url>https://sklad-valiz.com.ua/ru/nabir-dorozhnikh-sumok-wings-3v1-chornyi-1106-bc3-black/</url>
 <code>1106-BC3-Black</code>
+<group_id>1106</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>5100</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">чорний</param>
 <param name="Тип">Дорожня сумка</param>
 <param name="Матеріал">Тканина</param>
@@ -6671,9 +7211,12 @@
 <name>Валіза Wings 2011 велика 97л кавова (2011-L-Coffee)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-2011-velyka-97l-kavova-2011-l-coffee/</url>
 <code>2011-L-Coffee</code>
+<group_id>2011</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2850</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">коричневий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Полікарбонат</param>
@@ -6712,9 +7255,12 @@
 <name>Валіза Wings 2011 велика 97л чорна (2011-L-Black)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-2011-velyka-97l-chorna-2011-l-black/</url>
 <code>2011-L-Black</code>
+<group_id>2011</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2850</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">чорний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Полікарбонат</param>
@@ -6753,9 +7299,12 @@
 <name>Валіза Wings 2011 середня 63л кавова (2011-M-Coffee)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-2011-serednia-63l-kavova-2011-m-coffee/</url>
 <code>2011-M-Coffee</code>
+<group_id>2011</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2800</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">коричневий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Полікарбонат</param>
@@ -6794,9 +7343,12 @@
 <name>Валіза Wings 2011 мала 38л кавова (2011-S-Coffee)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-2011-mala-38l-kavova-2011-s-coffee/</url>
 <code>2011-S-Coffee</code>
+<group_id>2011</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2100</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">коричневий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Полікарбонат</param>
@@ -6835,9 +7387,12 @@
 <name>Валіза Wings 2011 мала 38л чорна (2011-S-Black)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-2011-mala-38l-chorna-2011-s-black/</url>
 <code>2011-S-Black</code>
+<group_id>2011</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2100</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">чорний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Полікарбонат</param>
@@ -6876,9 +7431,12 @@
 <name>Валіза Wings 2011 міні 28л чорна (2011-XS-Black)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-2011-mini-28l-chorna-2011-xs-black/</url>
 <code>2011-XS-Black</code>
+<group_id>2011</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1100</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">чорний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Полікарбонат</param>
@@ -6912,9 +7470,12 @@
 <name>Валіза Wings 2011 міні 28л кавова (2011-XS-Coffee)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-wings-2011-mini-28l-kavova-2011-xs-coffee/</url>
 <code>2011-XS-Coffee</code>
+<group_id>2011</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1100</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">коричневий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Полікарбонат</param>
@@ -6948,9 +7509,12 @@
 <name>Валіза SweetKeys 190 велика 100л шампань (SK190-L-Champange)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-sweetkeys-190-velyka-100l-shampan-sk190-l-champange/</url>
 <code>SK190-L-Champange</code>
+<group_id>SK190</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3700</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Полікарбонат</param>
@@ -6989,9 +7553,12 @@
 <name>Валіза SweetKeys 190 велика 100л графітова (SK190-L-Grafite)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-sweetkeys-190-velyka-100l-hrafitova-sk190-l-grafite/</url>
 <code>SK190-L-Champange</code>
+<group_id>SK190</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3700</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сірий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Полікарбонат</param>
@@ -7030,9 +7597,12 @@
 <name>Валіза SweetKeys 190 середня 65л графітова (SK190-M-Grafite)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-sweetkeys-190-serednia-65l-hrafitova-sk190-m-grafite/</url>
 <code>SK190-M-Grafite</code>
+<group_id>SK190</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3650</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сірий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Полікарбонат</param>
@@ -7071,9 +7641,12 @@
 <name>Валіза SweetKeys 190 середня 65л шампань (SK190-M-Champange)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-sweetkeys-190-serednia-65l-shampan-sk190-m-champange/</url>
 <code>SK190-M-Grafite</code>
+<group_id>SK190</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3650</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Полікарбонат</param>
@@ -7112,9 +7685,12 @@
 <name>Валіза SweetKeys 190 мала 43л шампань (SK190-S-Champange)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-sweetkeys-190-mala-43l-shampan-sk190-s-champange/</url>
 <code>SK190-S-Champange</code>
+<group_id>SK190</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2650</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Полікарбонат</param>
@@ -7153,9 +7729,12 @@
 <name>Валіза SweetKeys 190 мала 43л графітова (SK190-S-Grafite)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-sweetkeys-190-mala-43l-hrafitova-sk190-s-grafite/</url>
 <code>SK190-S-Champange</code>
+<group_id>SK190</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2650</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сірий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Полікарбонат</param>
@@ -7194,9 +7773,12 @@
 <name>Валіза RGL PP5 велика 110л червона (PP5-L-Red)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-rgl-pp5-velyka-110l-chervona-pp5-l-red/</url>
 <code>PP5-L-Red</code>
+<group_id>PP5</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3300</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">червоний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -7235,9 +7817,12 @@
 <name>Валіза RGL PP5 середня 69л червона (PP5-M-Red)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-rgl-pp5-serednia-69l-chervona-pp5-m-red/</url>
 <code>PP5-M-Red</code>
+<group_id>PP5</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3250</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">червоний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -7276,9 +7861,12 @@
 <name>Валіза RGL PP5 мала 41л червона (PP5-S-Red)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-rgl-pp5-mala-41l-chervona-pp5-s-red/</url>
 <code>PP5-S-Red</code>
+<group_id>PP5</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>2400</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">червоний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -7317,9 +7905,12 @@
 <name>Валіза Snowball 20303 велика 108л червона (20303-L-Red)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-20303-velyka-108l-chervona-20303-l-red/</url>
 <code>20303-L-Red</code>
+<group_id>20303</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>4250</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">червоний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -7358,9 +7949,12 @@
 <name>Валіза Snowball 20303 середня 71л червона (20303-M-Red)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-20303-serednia-71l-chervona-20303-m-red/</url>
 <code>20303-M-Red</code>
+<group_id>20303</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>4150</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">червоний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -7399,9 +7993,12 @@
 <name>Валіза Snowball 20303 мала 35л червона (20303-S-Red)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-20303-mala-35l-chervona-20303-s-red/</url>
 <code>20303-S-Red</code>
+<group_id>20303</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3050</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">червоний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -7440,9 +8037,12 @@
 <name>Набір валіз Snowball 20303 3в1 червоний (20303-3-Red)</name>
 <url>https://sklad-valiz.com.ua/ru/nabir-valiz-snowball-20303-3v1-chervonyi-20303-3-red/</url>
 <code>20303-3-Red</code>
+<group_id>20303</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>9705</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">червоний</param>
 <param name="Тип">Набір валіз</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -7465,9 +8065,12 @@
 <name>Валіза Snowball 49403 велика 113л червона (49403-L-Red)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-49403-velyka-113l-chervona-49403-l-red/</url>
 <code>49403-L-Red</code>
+<group_id>49403</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>5300</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">червоний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -7506,9 +8109,12 @@
 <name>Валіза Snowball 49403 середня 69л червона (49403-M-Red)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-49403-serednia-69l-chervona-49403-m-red/</url>
 <code>49403-M-Red</code>
+<group_id>49403</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>4950</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">червоний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -7547,9 +8153,12 @@
 <name>Валіза Snowball 49403 мала 36л червона (49403-S-Red)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-snowball-49403-mala-36l-chervona-49403-s-red/</url>
 <code>49403-S-Red</code>
+<group_id>49403</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>3060</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">червоний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -7588,9 +8197,12 @@
 <name>Набір валіз Snowball 49403 3в1 червоний (49403-3-Red)</name>
 <url>https://sklad-valiz.com.ua/ru/nabir-valiz-snowball-49403-3v1-chervonyi-49403-3-red/</url>
 <code>49403-3-Red</code>
+<group_id>49403</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>11780</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">червоний</param>
 <param name="Тип">Набір валіз</param>
 <param name="Матеріал">Поліпропілен</param>
@@ -7616,9 +8228,12 @@
 <name>Валіза для лоукосту Wizzair Kaiman міні 24л бежева (Kaiman-XS-Beige)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-bezheva-kaiman-xs-beige/</url>
 <code>Kaiman-XS-Black</code>
+<group_id>Kaiman</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1600</priceRUAH>
-<stock>6</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -7657,9 +8272,12 @@
 <name>Валіза для лоукосту Wizzair Kaiman міні 24л м'ятна (Kaiman-XS-Mint)</name>
 <url>https://sklad-valiz.com.ua/ru/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-miatna-kaiman-xs-mint/</url>
 <code>Kaiman-XS-Black</code>
+<group_id>Kaiman</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1600</priceRUAH>
-<stock>3</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">Зеленый</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -7698,9 +8316,12 @@
 <name>Ваги для валізи 2404 (scales-2404)</name>
 <url>https://sklad-valiz.com.ua/ru/vahy-dlia-valizy-2404-scales-2404/</url>
 <code>scales-2404</code>
+<group_id>scales</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>230</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сріблястий</param>
 <description><![CDATA[Електронна вага для багажу є незамінним та бюджетним аксесуаром для кожного мандрівника, який допомагає уникнути переплат за надмірну вагу в аеропортах. Пристрій здатний витримувати максимальне навантаження до 50 кг і оснащений зручним цифровим дисплеєм із зеленим підсвічуванням для легкого зчитування результатів. Завдяки компактній конструкції з міцним текстильним ременем ваги легко зафіксувати на ручці будь-якої валізи чи сумки. Великою перевагою моделі є доступна ціна та батарейка, яка вже йде у комплекті для миттєвого використання.
 Колір: сріблястий]]></description>
@@ -7714,9 +8335,12 @@
 <name>Ваги для валізи TL000180-56 (scales-TL000180-56)</name>
 <url>https://sklad-valiz.com.ua/ru/vahy-dlia-valizy-tl000180-56-scales-tl000180-56/</url>
 <code>scales-TL000180-56</code>
+<group_id>scales</group_id>
 <categoryId>24060</categoryId>
 <priceRUAH>575</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сріблястий</param>
 <description><![CDATA[Німецькі електронні ваги для багажу - це надійний і ультракомпактний девайс вагою всього 50 грамів, створений для точного контролю ваги речей перед вильотом. Корпус пристрою виконаний зі сріблястого ABS-пластику та оснащений зручним ремінцем і чітким цифровим дисплеєм. Гаджет дозволяє самостійно зважувати валізи вагою до 40 кг і підтримує корисну функцію автоматичної фіксації фінального результату на екрані.
 Колір: сріблястий]]></description>
@@ -7730,9 +8354,12 @@
 <name>Дитяча валіза 2204 міні 25л рожева (2204-XS-Stitch)</name>
 <url>https://sklad-valiz.com.ua/ru/dytiacha-valiza-2204-mini-25l-rozheva-2204-xs-stitch/</url>
 <code>2204-XS-Stitch</code>
+<group_id>2204</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1700</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">рожевий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS пластик</param>
@@ -7766,9 +8393,12 @@
 <name>Дитяча валіза 2204 міні 25л блакитна (2204-XS-Frozen)</name>
 <url>https://sklad-valiz.com.ua/ru/dytiacha-valiza-2204-mini-25l-blakytna-2204-xs-frozen/</url>
 <code>2204-XS-Frozen</code>
+<group_id>2204</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1700</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">блакитний</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS пластик</param>
@@ -7802,9 +8432,12 @@
 <name>Дитяча валіза 2204 міні 25л синя (2204-XS-Spider-Man)</name>
 <url>https://sklad-valiz.com.ua/ru/dytiacha-valiza-2204-mini-25l-synia-2204-xs-spider-man/</url>
 <code>2204-XS-Spider-Man</code>
+<group_id>2204</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1700</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">синій</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS пластик</param>
@@ -7838,9 +8471,12 @@
 <name>Дитяча валіза D01 міні 29л жовта (D01-XS-Sailor)</name>
 <url>https://sklad-valiz.com.ua/ru/dytiacha-valiza-d01-mini-29l-zhovta-d01-xs-sailor/</url>
 <code>D01-XS-Sailor</code>
+<group_id>D01</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>1500</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">жовтий</param>
 <param name="Тип">Валіза</param>
 <param name="Матеріал">ABS + полікарбонат</param>
@@ -7879,9 +8515,12 @@
 <name>Набір валіз SweetKeys 190 3в1 шампань (SK190-3-Champange)</name>
 <url>https://sklad-valiz.com.ua/ru/nabir-valiz-sweetkeys-190-3v1-shampan-sk190-3-champange/</url>
 <code>SK190-3-Champange</code>
+<group_id>SK190</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>8475</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">бежевий</param>
 <param name="Тип">Набір валіз</param>
 <param name="Матеріал">Полікарбонат</param>
@@ -7907,9 +8546,12 @@
 <name>Набір валіз SweetKeys 190 3в1 графітовий (SK190-3-Grafite)</name>
 <url>https://sklad-valiz.com.ua/ru/nabir-valiz-sweetkeys-190-3v1-hrafitovyi-sk190-3-grafite/</url>
 <code>SK190-3-Champange</code>
+<group_id>SK190</group_id>
 <categoryId>24061</categoryId>
 <priceRUAH>8475</priceRUAH>
-<stock>1</stock>
+<stock>В наличии</stock>
+<condition>0</condition>
+<shipping>5</shipping>
 <param name="Колір">сірий</param>
 <param name="Тип">Набір валіз</param>
 <param name="Матеріал">Полікарбонат</param>
