@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-01T05:20:47.072Z">
+<yml_catalog date="2026-06-01T21:20:47.251Z">
   <shop>
     <categories>
       <category id="1061" portal_id="2273">Валізи</category>
@@ -45,7 +45,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-L-Champagne" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан Snowball 33703 большой 101л шампань (33703-L-Champagne)</name_ru>
         <name_ua>Валіза Snowball 33703 велика 101л шампань (33703-L-Champagne)</name_ua>
         <price>3150</price>
@@ -1311,7 +1311,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-M-Champagne" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан Snowball 33703 средний 69л шампань (33703-М-Champagne)</name_ru>
         <name_ua>Валіза Snowball 33703 середня 69л шампань (33703-М-Champagne)</name_ua>
         <price>3100</price>
@@ -3070,7 +3070,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="CKT01-S-LightBlue" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан Wings COCKATIEL малый голубой (CKT01-S-LightBlue)</name_ru>
         <name_ua>Валіза Wings COCKATIEL мала блакитна (CKT01-S-LightBlue)</name_ua>
         <price>2450</price>
@@ -3213,7 +3213,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="HWF01-S-Champagne" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Чемодан Wings HWF01 малый 38л шампань (HWF01-S-Champagne)</name_ru>
         <name_ua>Валіза Wings HWF01 мала 38л шампань (HWF01-S-Champagne)</name_ua>
         <price>1980</price>
@@ -3315,7 +3315,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="MUR01-S-TitanBlue" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан Wings MUR01 малый 40л синий (MUR01-S-TitanBlue)</name_ru>
         <name_ua>Валіза Wings MUR01 мала 40л синя (MUR01-S-TitanBlue)</name_ua>
         <price>2080</price>
@@ -3349,7 +3349,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="WN01-S-Champagne" available="true">
-        <quantity_in_stock>17</quantity_in_stock>
+        <quantity_in_stock>16</quantity_in_stock>
         <name_ru>Чемодан Wings WN01 малый 38л шампань (WN01-S-Champagne)</name_ru>
         <name_ua>Валіза Wings WN01 мала 38л шампань (WN01-S-Champagne)</name_ua>
         <price>2050</price>
@@ -3419,8 +3419,8 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="WN01-S-Creme" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="WN01-S-Creme" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан Wings WN01 малый 38л кремовый (WN01-S-Creme)</name_ru>
         <name_ua>Валіза Wings WN01 мала 38л кремова (WN01-S-Creme)</name_ua>
         <price>2050</price>
@@ -3620,7 +3620,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="WN01-BC-Champagne" available="true">
-        <quantity_in_stock>23</quantity_in_stock>
+        <quantity_in_stock>21</quantity_in_stock>
         <name_ru>Кейс для чемоданов Wings WN01 15л шампань (WN01-BC-Champagne)</name_ru>
         <name_ua>Кейс для валіз Wings WN01 15л шампань (WN01-BC-Champagne)</name_ua>
         <price>1250</price>
@@ -3680,8 +3680,8 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
       </offer>
-      <offer id="WN01-BC-Creme" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="WN01-BC-Creme" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Кейс для чемоданов Wings WN01-BC 15л кремовый (WN01-BC-Creme)</name_ru>
         <name_ua>Кейс для валіз Wings WN01-BC 15л кремовий (WN01-BC-Creme)</name_ua>
         <price>690</price>
@@ -4725,7 +4725,7 @@
         <param name="Ширина">30 см</param>
       </offer>
       <offer id="OI01-Grey" available="true">
-        <quantity_in_stock>17</quantity_in_stock>
+        <quantity_in_stock>16</quantity_in_stock>
         <name_ru>Подушка-рогалик для путешествий серая OI01-Grey</name_ru>
         <name_ua>Подушка-рогалик для подорожей сіра OI01-Grey</name_ua>
         <price>500</price>
@@ -4913,7 +4913,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="63703-S-Milk" available="true">
-        <quantity_in_stock>21</quantity_in_stock>
+        <quantity_in_stock>20</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 малый 37л кремовый (63703-S-Milk)</name_ru>
         <name_ua>Валіза Madisson 63703 мала 37л кремова (63703-S-Milk)</name_ua>
         <price>1850</price>
@@ -4979,7 +4979,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="63703-M-Milk" available="true">
-        <quantity_in_stock>11</quantity_in_stock>
+        <quantity_in_stock>10</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 средний 65л кремовый (63703-M-Milk)</name_ru>
         <name_ua>Валіза Madisson 63703 середня 65л кремова (63703-M-Milk)</name_ua>
         <price>2550</price>
@@ -5628,8 +5628,8 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="642-L-Dark-blue" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="642-L-Dark-blue" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан Airtex 642 большой 110л темно-синий (642-L-Dark-blue)</name_ru>
         <name_ua>Валіза Airtex 642 велика 110л темно-синя (642-L-Dark-blue)</name_ua>
         <price>6350</price>
@@ -7532,7 +7532,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="160-XS-Silver" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wings 160 мини 28л серебряный (160-XS-Silver)</name_ru>
         <name_ua>Валіза для лоукосту Wings 160 міні 28л срібна (160-XS-Silver)</name_ua>
         <price>950</price>
@@ -8066,7 +8066,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="63703-L-Champagne" available="true">
-        <quantity_in_stock>14</quantity_in_stock>
+        <quantity_in_stock>11</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 большой 100л шампань (63703-L-Champagne)</name_ru>
         <name_ua>Валіза Madisson 63703 велика 100л шампань (63703-L-Champagne)</name_ua>
         <price>2650</price>
@@ -8098,8 +8098,8 @@
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="63703-M-Champagne" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+      <offer id="63703-M-Champagne" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 средний 65л шампань (63703-M-Champagne)</name_ru>
         <name_ua>Валіза Madisson 63703 середня 65л шампань (63703-M-Champagne)</name_ua>
         <price>2550</price>
@@ -8132,7 +8132,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="63703-S-Champagne" available="true">
-        <quantity_in_stock>12</quantity_in_stock>
+        <quantity_in_stock>11</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 малый 37л шампань (63703-S-Champagne)</name_ru>
         <name_ua>Валіза Madisson 63703 мала 37л шампань (63703-S-Champagne)</name_ua>
         <price>1850</price>
@@ -8772,8 +8772,8 @@
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="2011-L-Coffee" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
+      <offer id="2011-L-Coffee" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан Wings 2011 большой 97л кофейный (2011-L-Coffee)</name_ru>
         <name_ua>Валіза Wings 2011 велика 97л кавова (2011-L-Coffee)</name_ua>
         <price>2850</price>
@@ -9150,8 +9150,8 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="SK190-M-Grafite" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="SK190-M-Grafite" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан SweetKeys 190 средний 65л графитовый (SK190-M-Grafite)</name_ru>
         <name_ua>Валіза SweetKeys 190 середня 65л графітова (SK190-M-Grafite)</name_ua>
         <price>3650</price>
@@ -9561,8 +9561,8 @@
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="49403-M-Red" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="49403-M-Red" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан Snowball 49403 средний 69л красный (49403-M-Red)</name_ru>
         <name_ua>Валіза Snowball 49403 середня 69л червона (49403-M-Red)</name_ua>
         <price>4950</price>
@@ -9862,8 +9862,8 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="D01-XS-Sailor" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="D01-XS-Sailor" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Детский чемодан D01 мини 29л желтый (D01-XS-Sailor)</name_ru>
         <name_ua>Дитяча валіза D01 міні 29л жовта (D01-XS-Sailor)</name_ua>
         <price>1500</price>
@@ -9948,8 +9948,8 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="HIMAWARI-XS-Gray" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
+      <offer id="HIMAWARI-XS-Gray" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади HIMAWARI 17л серый (HIMAWARI-XS-Gray)</name_ru>
         <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л сірий (HIMAWARI-XS-Gray)</name_ua>
         <price>1595</price>
@@ -9979,8 +9979,8 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
       </offer>
-      <offer id="HIMAWARI-XS-Blue" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
+      <offer id="HIMAWARI-XS-Blue" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади HIMAWARI 17л синий (HIMAWARI-XS-Blue)</name_ru>
         <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л синій (HIMAWARI-XS-Blue)</name_ua>
         <price>1595</price>
@@ -10166,8 +10166,8 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
       </offer>
-      <offer id="53103-3-Purple" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
+      <offer id="53103-3-Champagne" available="true">
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Набор чемоданов Madisson 53103 3в1 фиолетовый (53103-3-Purple)</name_ru>
         <name_ua>Набір валіз Madisson 53103 3в1 фіолетовий (53103-3-Purple)</name_ua>
         <price>8005</price>
@@ -10178,7 +10178,11 @@
         <description_ru>Набор чемоданов Madisson 53103 3в1 фиолетовый (53103-3-Purple)</description_ru>
         <description_ua>Набір дорожніх валіз від французького бренду є преміальним та надзвичайно надійним комплектом для будь-яких подорожей. Набір складається з трьох класичних розмірів: великого (L), середнього (M) та маленького (S). Така продумана комплектація дозволяє легко закрити потреби як однієї особи під час коротких відряджень, так і великої родини під час капітальної відпустки терміном понад два тижні. Маленька модель ідеально підходить для ручної поклажі в літак, тоді як середній та великий варіанти створені для здачі в багаж. Корпуси валіз виготовлені з поліпропілену, тому вони мають унікальну гнучкість, міцність і гарантовано не розіб&amp;#39;ються від сильних ударів. Плавне та безшумне пересування забезпечують чотири подвійні поліуретанові колеса з радіусом обертання на 360 градусів. Для максимальної безпеки мандрівок передбачено зламостійку блискавку із захистом від вологи та інтегрований кодовий замок TSA з функцією митного огляду. По завершенню поїздки всі три вироби можна компактно скласти один в один, що суттєво заощаджує домашній простір при зберіганні.</description_ua>
         <picture>https://sklad-valiz.com.ua/content/images/33/nabir-valiz-madisson-53103-3v1-fioletovyi-53103-3-purple-91071074152437_+7768a545c1.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/33/nabir-valiz-madisson-53103-3v1-fioletovyi-53103-3-purple-39628008385080_+ef51136c13.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/33/nabir-valiz-madisson-53103-3v1-fioletovyi-53103-3-purple-72251378082241_+775457c364.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/33/nabir-valiz-madisson-53103-3v1-fioletovyi-53103-3-purple-39866225308170_+d06eb4f32c.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/33/nabir-valiz-madisson-53103-3v1-fioletovyi-53103-3-purple-42885416599300_+e5979072cf.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/33/nabir-valiz-madisson-53103-3v1-fioletovyi-53103-3-purple-36801526035718_+c5acbbe023.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/33/nabir-valiz-madisson-53103-3v1-fioletovyi-53103-3-purple-48083680255525_+2347ce9485.png</picture>
         <param name="Колір">Сиреневый</param>
         <param name="Тип">Набори валіз</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -10190,8 +10194,8 @@
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="53103-3-Gray" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
+      <offer id="53103-3-Champagne" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Набор чемоданов Madisson 53103 3в1 серый (53103-3-Gray)</name_ru>
         <name_ua>Набір валіз Madisson 53103 3в1 сірий (53103-3-Gray)</name_ua>
         <price>8005</price>
@@ -10202,7 +10206,11 @@
         <description_ru>Набор чемоданов Madisson 53103 3в1 серый (53103-3-Gray)</description_ru>
         <description_ua>Набір дорожніх валіз від французького бренду є преміальним та надзвичайно надійним комплектом для будь-яких подорожей. Набір складається з трьох класичних розмірів: великого (L), середнього (M) та маленького (S). Така продумана комплектація дозволяє легко закрити потреби як однієї особи під час коротких відряджень, так і великої родини під час капітальної відпустки терміном понад два тижні. Маленька модель ідеально підходить для ручної поклажі в літак, тоді як середній та великий варіанти створені для здачі в багаж. Корпуси валіз виготовлені з поліпропілену, тому вони мають унікальну гнучкість, міцність і гарантовано не розіб&amp;#39;ються від сильних ударів. Плавне та безшумне пересування забезпечують чотири подвійні поліуретанові колеса з радіусом обертання на 360 градусів. Для максимальної безпеки мандрівок передбачено зламостійку блискавку із захистом від вологи та інтегрований кодовий замок TSA з функцією митного огляду. По завершенню поїздки всі три вироби можна компактно скласти один в один, що суттєво заощаджує домашній простір при зберіганні.</description_ua>
         <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-madisson-53103-3v1-siryi-53103-3-gray-53831417589163_+c9d8c279f0.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-madisson-53103-3v1-siryi-53103-3-gray-31714858282408_+dee9c4913d.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-madisson-53103-3v1-siryi-53103-3-gray-26076028172324_+cd19bfeede.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-madisson-53103-3v1-siryi-53103-3-gray-11241236034265_+4c6441e91a.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-madisson-53103-3v1-siryi-53103-3-gray-85353859251722_+86bd255400.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-madisson-53103-3v1-siryi-53103-3-gray-54488590645291_+ec408db942.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-madisson-53103-3v1-siryi-53103-3-gray-58101323929098_+864456e8d1.png</picture>
         <param name="Колір">Серый</param>
         <param name="Тип">Набори валіз</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -10214,8 +10222,8 @@
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="53103-3-Champagne" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
+      <offer id="53103-3-Champagne" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Набор чемоданов Madisson 53103 3в1 шампань (53103-3-Champagne)</name_ru>
         <name_ua>Набір валіз Madisson 53103 3в1 шампань (53103-3-Champagne)</name_ua>
         <price>8005</price>
@@ -10226,7 +10234,11 @@
         <description_ru>Набор чемоданов Madisson 53103 3в1 шампань (53103-3-Champagne)</description_ru>
         <description_ua>Набір дорожніх валіз від французького бренду є преміальним та надзвичайно надійним комплектом для будь-яких подорожей. Набір складається з трьох класичних розмірів: великого (L), середнього (M) та маленького (S). Така продумана комплектація дозволяє легко закрити потреби як однієї особи під час коротких відряджень, так і великої родини під час капітальної відпустки терміном понад два тижні. Маленька модель ідеально підходить для ручної поклажі в літак, тоді як середній та великий варіанти створені для здачі в багаж. Корпуси валіз виготовлені з поліпропілену, тому вони мають унікальну гнучкість, міцність і гарантовано не розіб&amp;#39;ються від сильних ударів. Плавне та безшумне пересування забезпечують чотири подвійні поліуретанові колеса з радіусом обертання на 360 градусів. Для максимальної безпеки мандрівок передбачено зламостійку блискавку із захистом від вологи та інтегрований кодовий замок TSA з функцією митного огляду. По завершенню поїздки всі три вироби можна компактно скласти один в один, що суттєво заощаджує домашній простір при зберіганні.</description_ua>
         <picture>https://sklad-valiz.com.ua/content/images/35/nabir-valiz-madisson-53103-3v1-shampan-53103-3-champagne-46047578282558_+09f67cf320.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/35/nabir-valiz-madisson-53103-3v1-shampan-53103-3-champagne-58333094348884_+cac58b5d18.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/nabir-valiz-madisson-53103-3v1-shampan-53103-3-champagne-54478242498865_+39451f4cde.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/nabir-valiz-madisson-53103-3v1-shampan-53103-3-champagne-33923774048587_+b55029e18e.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/nabir-valiz-madisson-53103-3v1-shampan-53103-3-champagne-69401702188053_+0638d7c0cf.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/nabir-valiz-madisson-53103-3v1-shampan-53103-3-champagne-85712564619081_+09d9fe4c47.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/nabir-valiz-madisson-53103-3v1-shampan-53103-3-champagne-89438240276198_+de91387ff8.png</picture>
         <param name="Колір">Шампань</param>
         <param name="Тип">Набори валіз</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -10238,8 +10250,8 @@
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="53103-3-Blue" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
+      <offer id="53103-3-Champagne" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Набор чемоданов Madisson 53103 3в1 синий (53103-3-Blue)</name_ru>
         <name_ua>Набір валіз Madisson 53103 3в1 синій (53103-3-Blue)</name_ua>
         <price>8005</price>
@@ -10250,7 +10262,11 @@
         <description_ru>Набор чемоданов Madisson 53103 3в1 синий (53103-3-Blue)</description_ru>
         <description_ua>Набір дорожніх валіз від французького бренду є преміальним та надзвичайно надійним комплектом для будь-яких подорожей. Набір складається з трьох класичних розмірів: великого (L), середнього (M) та маленького (S). Така продумана комплектація дозволяє легко закрити потреби як однієї особи під час коротких відряджень, так і великої родини під час капітальної відпустки терміном понад два тижні. Маленька модель ідеально підходить для ручної поклажі в літак, тоді як середній та великий варіанти створені для здачі в багаж. Корпуси валіз виготовлені з поліпропілену, тому вони мають унікальну гнучкість, міцність і гарантовано не розіб&amp;#39;ються від сильних ударів. Плавне та безшумне пересування забезпечують чотири подвійні поліуретанові колеса з радіусом обертання на 360 градусів. Для максимальної безпеки мандрівок передбачено зламостійку блискавку із захистом від вологи та інтегрований кодовий замок TSA з функцією митного огляду. По завершенню поїздки всі три вироби можна компактно скласти один в один, що суттєво заощаджує домашній простір при зберіганні.</description_ua>
         <picture>https://sklad-valiz.com.ua/content/images/36/nabir-valiz-madisson-53103-3v1-synii-53103-3-blue-76348140686277_+5ee0a791ce.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/36/nabir-valiz-madisson-53103-3v1-synii-53103-3-blue-42611057526863_+f29ff63569.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/36/nabir-valiz-madisson-53103-3v1-synii-53103-3-blue-99144542351154_+2ee66b8414.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/36/nabir-valiz-madisson-53103-3v1-synii-53103-3-blue-94774676064579_+c80f84c41a.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/36/nabir-valiz-madisson-53103-3v1-synii-53103-3-blue-79330394313525_+6a68ca1d41.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/36/nabir-valiz-madisson-53103-3v1-synii-53103-3-blue-21480079697213_+7e01cea634.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/36/nabir-valiz-madisson-53103-3v1-synii-53103-3-blue-46525628585498_+b5c23ed6db.png</picture>
         <param name="Колір">Синий</param>
         <param name="Тип">Набори валіз</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -10258,6 +10274,154 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Наявність розширення">Немає</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="42203-3-Purple" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Набор чемоданов Madisson 42203 3в1 фиолетовый (42203-3-Purple)</name_ru>
+        <name_ua>Набір валіз Madisson 42203 3в1 фіолетовий (42203-3-Purple)</name_ua>
+        <price>4845</price>
+        <old_price>5700</old_price>
+        <categoryId>1092</categoryId>
+        <vendor>Madisson</vendor>
+        <country>Франція</country>
+        <description_ru>Набор чемоданов Madisson 42203 3в1 фиолетовый (42203-3-Purple)</description_ru>
+        <description_ua>Набір дорожніх валіз від французького бренду є преміальним та надзвичайно надійним комплектом для будь-яких подорожей. Набір складається з трьох класичних розмірів: великого (L), середнього (M) та маленького (S). Така продумана комплектація дозволяє легко закрити потреби як однієї особи під час коротких відряджень, так і великої родини під час капітальної відпустки терміном понад два тижні. Маленька модель ідеально підходить для ручної поклажі в літак, тоді як середній та великий варіанти мають вбудоване розширення об&amp;#39;єму та створені для здачі в багаж. Корпуси валіз виготовлені з поліпропілену, тому вони мають унікальну гнучкість, міцність і гарантовано не розіб&amp;#39;ються від сильних ударів. Плавне та безшумне пересування забезпечують чотири подвійні поліуретанові колеса з радіусом обертання на 360 градусів. Для максимальної безпеки мандрівок передбачено зламостійку блискавку із захистом від вологи та інтегрований кодовий замок TSA з функцією митного огляду. По завершенню поїздки всі три вироби можна компактно скласти один в один, що суттєво заощаджує домашній простір при зберіганні.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/37/nabir-valiz-madisson-42203-3v1-fioletovyi-42203-3-purple-72564268626905_+e595242d91.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/nabir-valiz-madisson-42203-3v1-fioletovyi-42203-3-purple-50947902387784_+34c995d376.png</picture>
+        <param name="Колір">Сиреневый</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Наявність розширення">Є</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="42203-3-DarkBlue" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Набор чемоданов Madisson 42203 3в1 темно-синий (42203-3-DarkBlue)</name_ru>
+        <name_ua>Набір валіз Madisson 42203 3в1 темно-синій (42203-3-DarkBlue)</name_ua>
+        <price>4845</price>
+        <old_price>5700</old_price>
+        <categoryId>1092</categoryId>
+        <vendor>Madisson</vendor>
+        <country>Франція</country>
+        <description_ru>Набор чемоданов Madisson 42203 3в1 темно-синий (42203-3-DarkBlue)</description_ru>
+        <description_ua>Набір дорожніх валіз від французького бренду є преміальним та надзвичайно надійним комплектом для будь-яких подорожей. Набір складається з трьох класичних розмірів: великого (L), середнього (M) та маленького (S). Така продумана комплектація дозволяє легко закрити потреби як однієї особи під час коротких відряджень, так і великої родини під час капітальної відпустки терміном понад два тижні. Маленька модель ідеально підходить для ручної поклажі в літак, тоді як середній та великий варіанти мають вбудоване розширення об&amp;#39;єму та створені для здачі в багаж. Корпуси валіз виготовлені з поліпропілену, тому вони мають унікальну гнучкість, міцність і гарантовано не розіб&amp;#39;ються від сильних ударів. Плавне та безшумне пересування забезпечують чотири подвійні поліуретанові колеса з радіусом обертання на 360 градусів. Для максимальної безпеки мандрівок передбачено зламостійку блискавку із захистом від вологи та інтегрований кодовий замок TSA з функцією митного огляду. По завершенню поїздки всі три вироби можна компактно скласти один в один, що суттєво заощаджує домашній простір при зберіганні.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/38/nabir-valiz-madisson-42203-3v1-temno-synii-42203-3-darkblue-72963383203583_+a14b2f27f7.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/38/nabir-valiz-madisson-42203-3v1-temno-synii-42203-3-darkblue-79972124209732_+0bc5699ced.png</picture>
+        <param name="Колір">Темно-синий</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Наявність розширення">Є</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="49103-3-White" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Набор чемоданов Snowball 49103 3в1 белый (49103-3-White)</name_ru>
+        <name_ua>Набір валіз Snowball 49103 3в1 білий (49103-3-White)</name_ua>
+        <price>11580</price>
+        <old_price>13650</old_price>
+        <categoryId>1092</categoryId>
+        <vendor>Snowball</vendor>
+        <country>Франція</country>
+        <description_ru>Набор чемоданов Snowball 49103 3в1 белый (49103-3-White)</description_ru>
+        <description_ua>Набір дорожніх валіз від французького бренду є преміальним та надзвичайно надійним комплектом для будь-яких подорожей. Набір складається з трьох класичних розмірів: великого (L), середнього (M) та маленького (S). Така продумана комплектація дозволяє легко закрити потреби як однієї особи під час коротких відряджень, так і великої родини під час капітальної відпустки терміном понад два тижні. Маленька модель ідеально підходить для ручної поклажі в літак, тоді як середній та великий варіанти мають вбудоване розширення об&amp;#39;єму та створені для здачі в багаж. Корпуси валіз виготовлені з поліпропілену, тому вони мають унікальну гнучкість, міцність і гарантовано не розіб&amp;#39;ються від сильних ударів. Плавне та безшумне пересування забезпечують чотири подвійні поліуретанові колеса з радіусом обертання на 360 градусів. Для максимальної безпеки мандрівок передбачено зламостійку блискавку із захистом від вологи та інтегрований кодовий замок TSA з функцією митного огляду. По завершенню поїздки всі три вироби можна компактно скласти один в один, що суттєво заощаджує домашній простір при зберіганні.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/39/nabir-valiz-snowball-49103-3v1-bilyi-49103-3-white-86013349159336_+759329bc9f.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/nabir-valiz-snowball-49103-3v1-bilyi-49103-3-white-40678270072247_+bac4ba2646.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/nabir-valiz-snowball-49103-3v1-bilyi-49103-3-white-26778505116540_+386b20e662.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/nabir-valiz-snowball-49103-3v1-bilyi-49103-3-white-34276034880659_+8a1f4db668.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/nabir-valiz-snowball-49103-3v1-bilyi-49103-3-white-24184823037144_+9237fa7a36.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/nabir-valiz-snowball-49103-3v1-bilyi-49103-3-white-97214475806805_+8d4a7eaa17.png</picture>
+        <param name="Колір">Белый</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Наявність розширення">Є</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="63703-3-Black" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Набор чемоданов Madisson 63703 3в1 черный (63703-3-Black)</name_ru>
+        <name_ua>Набір валіз Madisson 63703 3в1 чорний (63703-3-Black)</name_ua>
+        <price>5985</price>
+        <old_price>7050</old_price>
+        <categoryId>1092</categoryId>
+        <vendor>Madisson</vendor>
+        <country>Франція</country>
+        <description_ru>Набор чемоданов Madisson 63703 3в1 черный (63703-3-Black)</description_ru>
+        <description_ua>Набір дорожніх валіз від французького бренду є преміальним та надзвичайно надійним комплектом для будь-яких подорожей. Набір складається з трьох класичних розмірів: великого (L), середнього (M) та маленького (S). Така продумана комплектація дозволяє легко закрити потреби як однієї особи під час коротких відряджень, так і великої родини під час капітальної відпустки терміном понад два тижні. Маленька модель ідеально підходить для ручної поклажі в літак, тоді як середній та великий варіанти мають вбудоване розширення об&amp;#39;єму та створені для здачі в багаж. Корпуси валіз виготовлені з поліпропілену, тому вони мають унікальну гнучкість, міцність і гарантовано не розіб&amp;#39;ються від сильних ударів. Плавне та безшумне пересування забезпечують чотири подвійні поліуретанові колеса з радіусом обертання на 360 градусів. Для максимальної безпеки мандрівок передбачено зламостійку блискавку із захистом від вологи та інтегрований кодовий замок TSA з функцією митного огляду. По завершенню поїздки всі три вироби можна компактно скласти один в один, що суттєво заощаджує домашній простір при зберіганні.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/40/nabir-valiz-madisson-63703-3v1-chornyi-63703-3-black-35771061063599_+52d8afd6f6.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/40/nabir-valiz-madisson-63703-3v1-chornyi-63703-3-black-97419218210582_+29d76f13ba.png</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Наявність розширення">Є</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="63703-3-Milk" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Набор чемоданов Madisson 63703 3в1 кремовый (63703-3-Milk)</name_ru>
+        <name_ua>Набір валіз Madisson 63703 3в1 кремовий (63703-3-Milk)</name_ua>
+        <price>5985</price>
+        <old_price>7050</old_price>
+        <categoryId>1092</categoryId>
+        <vendor>Madisson</vendor>
+        <country>Франція</country>
+        <description_ru>Набор чемоданов Madisson 63703 3в1 кремовый (63703-3-Milk)</description_ru>
+        <description_ua>Набір дорожніх валіз від французького бренду є преміальним та надзвичайно надійним комплектом для будь-яких подорожей. Набір складається з трьох класичних розмірів: великого (L), середнього (M) та маленького (S). Така продумана комплектація дозволяє легко закрити потреби як однієї особи під час коротких відряджень, так і великої родини під час капітальної відпустки терміном понад два тижні. Маленька модель ідеально підходить для ручної поклажі в літак, тоді як середній та великий варіанти мають вбудоване розширення об&amp;#39;єму та створені для здачі в багаж. Корпуси валіз виготовлені з поліпропілену, тому вони мають унікальну гнучкість, міцність і гарантовано не розіб&amp;#39;ються від сильних ударів. Плавне та безшумне пересування забезпечують чотири подвійні поліуретанові колеса з радіусом обертання на 360 градусів. Для максимальної безпеки мандрівок передбачено зламостійку блискавку із захистом від вологи та інтегрований кодовий замок TSA з функцією митного огляду. По завершенню поїздки всі три вироби можна компактно скласти один в один, що суттєво заощаджує домашній простір при зберіганні.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/41/nabir-valiz-madisson-63703-3v1-kremovyi-63703-3-milk-23240475825600_+b24ecf32a9.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/41/nabir-valiz-madisson-63703-3v1-kremovyi-63703-3-milk-17862852923258_+3e668a2e99.png</picture>
+        <param name="Колір">Кремовий</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Наявність розширення">Є</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="63703-3-Champagne" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Набор чемоданов Madisson 63703 3в1 шампань (63703-3-Champagne)</name_ru>
+        <name_ua>Набір валіз Madisson 63703 3в1 шампань (63703-3-Champagne)</name_ua>
+        <price>5985</price>
+        <old_price>7050</old_price>
+        <categoryId>1092</categoryId>
+        <vendor>Madisson</vendor>
+        <country>Франція</country>
+        <description_ru>Набор чемоданов Madisson 63703 3в1 шампань (63703-3-Champagne)</description_ru>
+        <description_ua>Набір дорожніх валіз від французького бренду є преміальним та надзвичайно надійним комплектом для будь-яких подорожей. Набір складається з трьох класичних розмірів: великого (L), середнього (M) та маленького (S). Така продумана комплектація дозволяє легко закрити потреби як однієї особи під час коротких відряджень, так і великої родини під час капітальної відпустки терміном понад два тижні. Маленька модель ідеально підходить для ручної поклажі в літак, тоді як середній та великий варіанти мають вбудоване розширення об&amp;#39;єму та створені для здачі в багаж. Корпуси валіз виготовлені з поліпропілену, тому вони мають унікальну гнучкість, міцність і гарантовано не розіб&amp;#39;ються від сильних ударів. Плавне та безшумне пересування забезпечують чотири подвійні поліуретанові колеса з радіусом обертання на 360 градусів. Для максимальної безпеки мандрівок передбачено зламостійку блискавку із захистом від вологи та інтегрований кодовий замок TSA з функцією митного огляду. По завершенню поїздки всі три вироби можна компактно скласти один в один, що суттєво заощаджує домашній простір при зберіганні.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/42/nabir-valiz-madisson-63703-3v1-shampan-63703-3-champagne-74143506627776_+8412f21bd7.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/42/nabir-valiz-madisson-63703-3v1-shampan-63703-3-champagne-31035118903613_+e6103d7f53.png</picture>
+        <param name="Колір">Шампань</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Наявність розширення">Є</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
