@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-02T05:20:47.249Z">
+<yml_catalog date="2026-06-02T13:20:57.378Z">
   <shop>
     <categories>
       <category id="1061" portal_id="2273">Валізи</category>
@@ -857,7 +857,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="HWF01-L-Champagne" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан Wings HWF01 большой 97л шампань (HWF01-L-Champagne)</name_ru>
         <name_ua>Валіза Wings HWF01 велика 97л шампань (HWF01-L-Champagne)</name_ua>
         <price>3050</price>
@@ -1310,8 +1310,8 @@
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="33703-M-Champagne" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="33703-M-Champagne" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан Snowball 33703 средний 69л шампань (33703-М-Champagne)</name_ru>
         <name_ua>Валіза Snowball 33703 середня 69л шампань (33703-М-Champagne)</name_ua>
         <price>3100</price>
@@ -3013,7 +3013,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="AVC01-S-Black" available="true">
-        <quantity_in_stock>12</quantity_in_stock>
+        <quantity_in_stock>11</quantity_in_stock>
         <name_ru>Чемодан Wings AVC01 малый 38л черный (AVC01-S-Black)</name_ru>
         <name_ua>Валіза Wings AVC01 мала 38л чорна (AVC01-S-Black)</name_ua>
         <price>1163</price>
@@ -3995,8 +3995,8 @@
         <param name="Ширина">45 см</param>
         <param name="Глибина">25 см</param>
       </offer>
-      <offer id="VPC-L-Prozoryi" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+      <offer id="VPC-L-Prozoryi" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чехол для чемодана винил VPC-Prozoryi-L</name_ru>
         <name_ua>Чохол для валізи вініл VPC-Prozoryi-L</name_ua>
         <price>400</price>
@@ -4309,7 +4309,7 @@
         <param name="Глибина">15 см</param>
       </offer>
       <offer id="NPC-S-Burgundy" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен NPC-Burgundy-S</name_ru>
         <name_ua>Чохол для валізи неопрен NPC-Burgundy-S</name_ua>
         <price>600</price>
@@ -4339,7 +4339,7 @@
         <param name="Глибина">20 см</param>
       </offer>
       <offer id="NPC-L-Burgundy" available="true">
-        <quantity_in_stock>10</quantity_in_stock>
+        <quantity_in_stock>9</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен NPC-Burgundy-L</name_ru>
         <name_ua>Чохол для валізи неопрен NPC-Burgundy-L</name_ua>
         <price>600</price>
@@ -4781,7 +4781,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="42203-M-Purple" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Чемодан Madisson 42203 средний 68л фиолетовый (42203-M-Purple)</name_ru>
         <name_ua>Валіза Madisson 42203 середня 68л фіолетова (42203-M-Purple)</name_ua>
         <price>2100</price>
@@ -4814,7 +4814,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="42203-L-Purple" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан Madisson 42203 большой 103л фиолетовый (42203-L-Purple)</name_ru>
         <name_ua>Валіза Madisson 42203 велика 103л фіолетова (42203-L-Purple)</name_ua>
         <price>2150</price>
@@ -4846,8 +4846,8 @@
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="42203-M-DarkBlue" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="42203-M-DarkBlue" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан Madisson 42203 средний 68л темно-синий (42203-M-DarkBlue)</name_ru>
         <name_ua>Валіза Madisson 42203 середня 68л темно-синя (42203-M-DarkBlue)</name_ua>
         <price>2100</price>
@@ -5793,7 +5793,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="Kaiman-XS-Black" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л фуксия (Kaiman-XS-Fuchsia)</name_ru>
         <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л фуксія (Kaiman-XS-Fuchsia)</name_ua>
         <price>1600</price>
@@ -6782,7 +6782,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="53103-M-Champagne" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан Madisson 53103 средний 65л шампань (53103-M-Champagne)</name_ru>
         <name_ua>Валіза Madisson 53103 середня 65л шампань (53103-M-Champagne)</name_ua>
         <price>3400</price>
@@ -6881,7 +6881,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="53103-S-Champagne" available="true">
-        <quantity_in_stock>12</quantity_in_stock>
+        <quantity_in_stock>10</quantity_in_stock>
         <name_ru>Чемодан Madisson 53103 малый 37л шампань (53103-S-Champagne)</name_ru>
         <name_ua>Валіза Madisson 53103 мала 37л шампань (53103-S-Champagne)</name_ua>
         <price>2550</price>
@@ -8132,7 +8132,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="63703-S-Champagne" available="true">
-        <quantity_in_stock>11</quantity_in_stock>
+        <quantity_in_stock>9</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 малый 37л шампань (63703-S-Champagne)</name_ru>
         <name_ua>Валіза Madisson 63703 мала 37л шампань (63703-S-Champagne)</name_ua>
         <price>1850</price>
@@ -10195,7 +10195,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="53103-3-Champagne" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Набор чемоданов Madisson 53103 3в1 серый (53103-3-Gray)</name_ru>
         <name_ua>Набір валіз Madisson 53103 3в1 сірий (53103-3-Gray)</name_ua>
         <price>8005</price>
