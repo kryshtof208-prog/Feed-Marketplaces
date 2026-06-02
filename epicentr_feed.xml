@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-01 18:11">
+<yml_catalog date="2026-06-02 06:11">
   <offers>
     <offer id="33703-L-Black" available="true">
       <name lang="ru">Чемодан Snowball 33703 большой 101л черный (33703-L-Black)</name>
@@ -1600,7 +1600,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="33703-M-Champagne" available="true">
+    <offer id="33703-M-Champagne" available="false">
       <name lang="ru">Чемодан Snowball 33703 средний 69л шампань (33703-М-Champagne)</name>
       <name lang="ua">Валіза Snowball 33703 середня 69л шампань (33703-М-Champagne)</name>
       <price>3100</price>
@@ -5052,7 +5052,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="42203-M-DarkBlue" available="true">
+    <offer id="42203-M-DarkBlue" available="false">
       <name lang="ru">Чемодан Madisson 42203 средний 68л темно-синий (42203-M-DarkBlue)</name>
       <name lang="ua">Валіза Madisson 42203 середня 68л темно-синя (42203-M-DarkBlue)</name>
       <price>2100</price>
