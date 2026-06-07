@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-07 00:11">
+<yml_catalog date="2026-06-07 06:11">
   <offers>
     <offer id="33703-L-Black" available="false">
       <name lang="ru">Чемодан Snowball 33703 большой 101л черный (33703-L-Black)</name>
@@ -6769,7 +6769,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="44603-M-Sky" available="true">
+    <offer id="44603-M-Sky" available="false">
       <name lang="ru">Чемодан Madisson 44603 средний 65л голубой (44603-M-Sky)</name>
       <name lang="ua">Валіза Madisson 44603 середня 65л блакитна (44603-M-Sky)</name>
       <price>1850</price>
@@ -8310,7 +8310,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="20103-L-Dark-green" available="true">
+    <offer id="20103-L-Dark-green" available="false">
       <name lang="ru">Чемодан Snowball 20103 большой 116л зеленый (20103-L-Dark-green)</name>
       <name lang="ua">Валіза Snowball 20103 велика 116л зелена (20103-L-Dark-green)</name>
       <price>5750</price>
@@ -8355,7 +8355,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="20103-M-Dark-green" available="true">
+    <offer id="20103-M-Dark-green" available="false">
       <name lang="ru">Чемодан Snowball 20103 средний 71л зеленый (20103-M-Dark-green)</name>
       <name lang="ua">Валіза Snowball 20103 середня 71л зелена (20103-M-Dark-green)</name>
       <price>4950</price>
@@ -8535,7 +8535,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="49103-L-White" available="true">
+    <offer id="49103-L-White" available="false">
       <name lang="ru">Чемодан Snowball 49103 большой 112л белый (49103-L-White)</name>
       <name lang="ua">Валіза Snowball 49103 велика 112л біла (49103-L-White)</name>
       <price>5100</price>
@@ -8879,7 +8879,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="1106-BCL-Black" available="true">
+    <offer id="1106-BCL-Black" available="false">
       <name lang="ru">Дорожная сумка Wings большая 75л черная (1106-BCL-Black)</name>
       <name lang="ua">Дорожня сумка Wings велика 75л чорна (1106-BCL-Black)</name>
       <price>2100</price>
