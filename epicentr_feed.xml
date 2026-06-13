@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-12 06:11">
+<yml_catalog date="2026-06-13 06:11">
   <offers>
     <offer id="33703-L-Black" available="true">
       <name lang="ru">Чемодан Snowball 33703 большой 101л черный (33703-L-Black)</name>
@@ -649,7 +649,8 @@
     <offer id="94103-L-Silver" available="true">
       <name lang="ru">Чемодан Snowball 94103 большой 105л серебряный (94103-L-Silver)</name>
       <name lang="ua">Валіза Snowball 94103 велика 105л срібна (94103-L-Silver)</name>
-      <price>5800</price>
+      <price>4640</price>
+      <price_old>5800</price_old>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
@@ -1976,7 +1977,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="49203-M-DarkBlue" available="false">
+    <offer id="49203-M-DarkBlue" available="true">
       <name lang="ru">Чемодан Snowball 49203 средний темно-синий (49203-M-DarkBlue)</name>
       <name lang="ua">Валіза Snowball 49203 середня темно-синя (49203-M-DarkBlue)</name>
       <price>4600</price>
@@ -2379,7 +2380,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="HWF01-M-Champagne" available="false">
+    <offer id="HWF01-M-Champagne" available="true">
       <name lang="ru">Чемодан Wings HWF01 средний 63л шампань (HWF01-M-Champagne)</name>
       <name lang="ua">Валіза Wings HWF01 середня 63л шампань (HWF01-M-Champagne)</name>
       <price>3000</price>
@@ -3440,7 +3441,8 @@
     <offer id="94103-S-Silver" available="true">
       <name lang="ru">Чемодан Snowball 94103 малый 46л серебряный (94103-S-Silver)</name>
       <name lang="ua">Валіза Snowball 94103 мала 46л срібна (94103-S-Silver)</name>
-      <price>4200</price>
+      <price>3360</price>
+      <price_old>4200</price_old>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
@@ -3487,7 +3489,8 @@
     <offer id="AVC01-S-Black" available="true">
       <name lang="ru">Чемодан Wings AVC01 малый 38л черный (AVC01-S-Black)</name>
       <name lang="ua">Валіза Wings AVC01 мала 38л чорна (AVC01-S-Black)</name>
-      <price>1550</price>
+      <price>1240</price>
+      <price_old>1550</price_old>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
@@ -4213,7 +4216,8 @@
     <offer id="AVC01-BC-Black" available="true">
       <name lang="ru">Дорожная сумка Wings AVC01 20л черная (AVC01-BC-Black)</name>
       <name lang="ua">Дорожня сумка Wings AVC01 20л чорна (AVC01-BC-Black)</name>
-      <price>1450</price>
+      <price>943</price>
+      <price_old>1450</price_old>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
@@ -4252,7 +4256,8 @@
     <offer id="AVC01-BC-Grey" available="true">
       <name lang="ru">Дорожная сумка Wings AVC01 20л желтая (AVC01-BC-Grey)</name>
       <name lang="ua">Дорожня сумка Wings AVC01 20л жовта (AVC01-BC-Grey)</name>
-      <price>1450</price>
+      <price>943</price>
+      <price_old>1450</price_old>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
@@ -4682,7 +4687,8 @@
     <offer id="0508-BC-Champagne-S" available="true">
       <name lang="ru">Кейс для чемоданов Carbon 0508-BC малый 13л шампань (0508-BC-Champagne-S)</name>
       <name lang="ua">Кейс для валіз Carbon 0508-BC малий 13л шампань (0508-BC-Champagne-S)</name>
-      <price>750</price>
+      <price>563</price>
+      <price_old>750</price_old>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="yxbyyq66p0qdfqvq">Carbon</vendor>
@@ -7038,7 +7044,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="647-M-Gray" available="true">
+    <offer id="647-M-Gray" available="false">
       <name lang="ru">Чемодан Airtex 647 средний 72л серый (647-M-Gray)</name>
       <name lang="ua">Валіза Airtex 647 середня 72л сіра (647-M-Gray)</name>
       <price>5700</price>
@@ -8529,7 +8535,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="33703-M-White" available="true">
+    <offer id="33703-M-White" available="false">
       <name lang="ru">Чемодан Snowball 33703 средний 69л белый (33703-M-White)</name>
       <name lang="ua">Валіза Snowball 33703 середня 69л біла (33703-M-White)</name>
       <price>3100</price>
@@ -8950,7 +8956,8 @@
     <offer id="63703-S-Milk" available="true">
       <name lang="ru">Чемодан Madisson 63703 малый 37л кремовый (63703-S-Milk)</name>
       <name lang="ua">Валіза Madisson 63703 мала 37л кремова (63703-S-Milk)</name>
-      <price>1850</price>
+      <price>1573</price>
+      <price_old>1850</price_old>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
@@ -9110,7 +9117,8 @@
     <offer id="63703-L-Milk" available="true">
       <name lang="ru">Чемодан Madisson 63703 большой 100л кремовый (63703-L-Milk)</name>
       <name lang="ua">Валіза Madisson 63703 велика 100л кремова (63703-L-Milk)</name>
-      <price>2650</price>
+      <price>2253</price>
+      <price_old>2650</price_old>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
@@ -9190,7 +9198,8 @@
     <offer id="53103-S-Champagne" available="true">
       <name lang="ru">Чемодан Madisson 53103 малый 37л шампань (53103-S-Champagne)</name>
       <name lang="ua">Валіза Madisson 53103 мала 37л шампань (53103-S-Champagne)</name>
-      <price>2550</price>
+      <price>2040</price>
+      <price_old>2550</price_old>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
@@ -9230,7 +9239,8 @@
     <offer id="53103-S-Gray" available="true">
       <name lang="ru">Чемодан Madisson 53103 малый 37л серый (53103-S-Gray)</name>
       <name lang="ua">Валіза Madisson 53103 мала 37л сіра (53103-S-Gray)</name>
-      <price>2550</price>
+      <price>2040</price>
+      <price_old>2550</price_old>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
@@ -9430,7 +9440,8 @@
     <offer id="53103-L-Champagne" available="true">
       <name lang="ru">Чемодан Madisson 53103 большой 102л шампань (53103-L-Champagne)</name>
       <name lang="ua">Валіза Madisson 53103 велика 102л шампань (53103-L-Champagne)</name>
-      <price>3500</price>
+      <price>2800</price>
+      <price_old>3500</price_old>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
@@ -9470,7 +9481,8 @@
     <offer id="53103-L-Gray" available="true">
       <name lang="ru">Чемодан Madisson 53103 большой 102л серый (53103-L-Gray)</name>
       <name lang="ua">Валіза Madisson 53103 велика 102л сіра (53103-L-Gray)</name>
-      <price>3500</price>
+      <price>2800</price>
+      <price_old>3500</price_old>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
@@ -9749,7 +9761,8 @@
     <offer id="49403-S-Brown" available="true">
       <name lang="ru">Чемодан Snowball 49403 малый 36л коричневый (49403-S-Brown)</name>
       <name lang="ua">Валіза Snowball 49403 мала 36л коричнева (49403-S-Brown)</name>
-      <price>3600</price>
+      <price>2880</price>
+      <price_old>3600</price_old>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
@@ -9789,7 +9802,8 @@
     <offer id="49403-S-White" available="true">
       <name lang="ru">Чемодан Snowball 49403 малый 36л белый (49403-S-White)</name>
       <name lang="ua">Валіза Snowball 49403 мала 36л біла (49403-S-White)</name>
-      <price>3600</price>
+      <price>2880</price>
+      <price_old>3600</price_old>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
