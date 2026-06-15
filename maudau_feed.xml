@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-15T05:20:47.600Z">
+<yml_catalog date="2026-06-15T13:20:47.411Z">
   <shop>
     <categories>
       <category id="1061" portal_id="2273">Валізи</category>
@@ -12,7 +12,7 @@
     </categories>
     <offers>
       <offer id="33703-L-Black" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан Snowball 33703 большой 101л черный (33703-L-Black)</name_ru>
         <name_ua>Валіза Snowball 33703 велика 101л чорна (33703-L-Black)</name_ua>
         <price>3150</price>
@@ -112,7 +112,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-L-White" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан Snowball 33703 большой 101л белый (33703-L-White)</name_ru>
         <name_ua>Валіза Snowball 33703 велика 101л біла (33703-L-White)</name_ua>
         <price>3150</price>
@@ -1151,7 +1151,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="WN01-L-RoseGold-ABS" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>9</quantity_in_stock>
         <name_ru>Чемодан Wings WN01 большой 97л розовое золото (WN01-L-RoseGold-ABS)</name_ru>
         <name_ua>Валіза Wings WN01 велика 97л рожеве золото (WN01-L-RoseGold-ABS)</name_ua>
         <price>2750</price>
@@ -1260,8 +1260,8 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="33703-M-White" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="33703-M-White" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан Snowball 33703 средний 69л белый (33703-M-White)</name_ru>
         <name_ua>Валіза Snowball 33703 середня 69л біла (33703-M-White)</name_ua>
         <price>3100</price>
@@ -1289,7 +1289,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-M-Champagne" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан Snowball 33703 средний 69л шампань (33703-М-Champagne)</name_ru>
         <name_ua>Валіза Snowball 33703 середня 69л шампань (33703-М-Champagne)</name_ua>
         <price>3100</price>
@@ -1657,7 +1657,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="49203-M-DarkBlue" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан Snowball 49203 средний темно-синий (49203-M-DarkBlue)</name_ru>
         <name_ua>Валіза Snowball 49203 середня темно-синя (49203-M-DarkBlue)</name_ua>
         <price>4600</price>
@@ -2327,7 +2327,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-S-Black" available="true">
-        <quantity_in_stock>23</quantity_in_stock>
+        <quantity_in_stock>24</quantity_in_stock>
         <name_ru>Чемодан Snowball 33703 малый 36л черный (33703-S-Black)</name_ru>
         <name_ua>Валіза Snowball 33703 мала 36л чорна (33703-S-Black)</name_ua>
         <price>2300</price>
@@ -2360,7 +2360,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-S-Champagne" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан Snowball 33703 малый 36л шампань (33703-S-Champagne)</name_ru>
         <name_ua>Валіза Snowball 33703 мала 36л шампань (33703-S-Champagne)</name_ua>
         <price>2300</price>
@@ -2388,7 +2388,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-S-Grey" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Snowball 33703 малый 36л серый (33703-S-Grey)</name_ru>
         <name_ua>Валіза для ручної поклажі Snowball 33703 мала 36л сіра (33703-S-Grey)</name_ua>
         <price>2300</price>
@@ -3157,7 +3157,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="HWF01-S-Champagne" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан Wings HWF01 малый 38л шампань (HWF01-S-Champagne)</name_ru>
         <name_ua>Валіза Wings HWF01 мала 38л шампань (HWF01-S-Champagne)</name_ua>
         <price>2200</price>
@@ -4433,7 +4433,7 @@
         <param name="Глибина">20 см</param>
       </offer>
       <offer id="NPC-Blue-M" available="true">
-        <quantity_in_stock>17</quantity_in_stock>
+        <quantity_in_stock>15</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен синий NPC-Blue-M</name_ru>
         <name_ua>Чохол для валізи неопрен синій NPC-Blue-M</name_ua>
         <price>600</price>
@@ -4720,7 +4720,7 @@
         <param name="Ширина">30 см</param>
       </offer>
       <offer id="OI01-Grey" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Подушка-рогалик для путешествий серая OI01-Grey</name_ru>
         <name_ua>Подушка-рогалик для подорожей сіра OI01-Grey</name_ua>
         <price>500</price>
@@ -4760,7 +4760,7 @@
         <param name="Матеріал корпусу">Поліестер</param>
       </offer>
       <offer id="ORG7-Beige" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Комплект органайзеров бежевый ORG7-Beige</name_ru>
         <name_ua>Комплект органайзерів бежевий ORG7-Beige</name_ua>
         <price>570</price>
@@ -4784,7 +4784,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="42203-M-Purple" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан Madisson 42203 средний 68л фиолетовый (42203-M-Purple)</name_ru>
         <name_ua>Валіза Madisson 42203 середня 68л фіолетова (42203-M-Purple)</name_ua>
         <price>2100</price>
@@ -4817,7 +4817,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="42203-L-Purple" available="true">
-        <quantity_in_stock>9</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан Madisson 42203 большой 103л фиолетовый (42203-L-Purple)</name_ru>
         <name_ua>Валіза Madisson 42203 велика 103л фіолетова (42203-L-Purple)</name_ua>
         <price>2150</price>
@@ -4850,7 +4850,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="42203-M-DarkBlue" available="true">
-        <quantity_in_stock>11</quantity_in_stock>
+        <quantity_in_stock>10</quantity_in_stock>
         <name_ru>Чемодан Madisson 42203 средний 68л темно-синий (42203-M-DarkBlue)</name_ru>
         <name_ua>Валіза Madisson 42203 середня 68л темно-синя (42203-M-DarkBlue)</name_ua>
         <price>2100</price>
@@ -4900,7 +4900,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="63703-S-Milk" available="true">
-        <quantity_in_stock>16</quantity_in_stock>
+        <quantity_in_stock>14</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 малый 37л кремовый (63703-S-Milk)</name_ru>
         <name_ua>Валіза Madisson 63703 мала 37л кремова (63703-S-Milk)</name_ua>
         <price>1573</price>
@@ -5023,7 +5023,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="63703-L-Milk" available="true">
-        <quantity_in_stock>26</quantity_in_stock>
+        <quantity_in_stock>24</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 большой 100л кремовый (63703-L-Milk)</name_ru>
         <name_ua>Валіза Madisson 63703 велика 100л кремова (63703-L-Milk)</name_ua>
         <price>2253</price>
@@ -5184,7 +5184,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="5398-L-Champagne-ABS" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан Wings 5398 большой 97л шампань (5398-L-Champagne-ABS)</name_ru>
         <name_ua>Валіза Wings 5398 велика 97л шампань (5398-L-Champagne-ABS)</name_ua>
         <price>2350</price>
@@ -5879,7 +5879,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="HIMAWARI-XS-Blue-Beige" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади HIMAWARI 17л голубовато-бежевый (HIMAWARI-XS-Blue-Beige)</name_ru>
         <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л блакитно-бежевий (HIMAWARI-XS-Blue-Beige)</name_ua>
         <price>1495</price>
@@ -6324,8 +6324,8 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="SKU402-BC-Beige" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="SKU402-BC-Beige" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Дорожня сумка SKU402 32л бежева (SKU402-BC-Beige)</name_ru>
         <name_ua>Дорожня сумка SKU402 32л бежева (SKU402-BC-Beige)</name_ua>
         <price>1100</price>
@@ -6746,7 +6746,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="53103-M-Champagne" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Чемодан Madisson 53103 средний 65л шампань (53103-M-Champagne)</name_ru>
         <name_ua>Валіза Madisson 53103 середня 65л шампань (53103-M-Champagne)</name_ua>
         <price>3400</price>
@@ -6830,7 +6830,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="53103-S-Champagne" available="true">
-        <quantity_in_stock>14</quantity_in_stock>
+        <quantity_in_stock>13</quantity_in_stock>
         <name_ru>Чемодан Madisson 53103 малый 37л шампань (53103-S-Champagne)</name_ru>
         <name_ua>Валіза Madisson 53103 мала 37л шампань (53103-S-Champagne)</name_ua>
         <price>2040</price>
@@ -7680,8 +7680,8 @@
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="647-M-Gray" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
+      <offer id="647-M-Gray" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан Airtex 647 средний 72л серый (647-M-Gray)</name_ru>
         <name_ua>Валіза Airtex 647 середня 72л сіра (647-M-Gray)</name_ua>
         <price>5700</price>
@@ -8062,7 +8062,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="49103-S-White" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан Snowball 49103 малый 39л белый (49103-S-White)</name_ru>
         <name_ua>Валіза Snowball 49103 мала 39л біла (49103-S-White)</name_ua>
         <price>3600</price>
@@ -8095,7 +8095,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="49103-M-White" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан Snowball 49103 средний 69л белый (49103-M-White)</name_ru>
         <name_ua>Валіза Snowball 49103 середня 69л біла (49103-M-White)</name_ua>
         <price>4950</price>
@@ -8417,7 +8417,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="42203-S-Purple" available="true">
-        <quantity_in_stock>11</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан Madisson 42203 малый 39л фиолетовый (42203-S-Purple)</name_ru>
         <name_ua>Валіза Madisson 42203 мала 39л фіолетова (42203-S-Purple)</name_ua>
         <price>1450</price>
@@ -8723,7 +8723,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="2011-M-Coffee" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан Wings 2011 средний 63л кофейный (2011-M-Coffee)</name_ru>
         <name_ua>Валіза Wings 2011 середня 63л кавова (2011-M-Coffee)</name_ua>
         <price>2800</price>
@@ -8784,7 +8784,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="2011-S-Coffee" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан Wings 2011 малый 38л кофейный (2011-S-Coffee)</name_ru>
         <name_ua>Валіза Wings 2011 мала 38л кавова (2011-S-Coffee)</name_ua>
         <price>2100</price>
@@ -8873,7 +8873,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="2011-XS-Coffee" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан Wings 2011 мини 28л кофейный (2011-XS-Coffee)</name_ru>
         <name_ua>Валіза Wings 2011 міні 28л кавова (2011-XS-Coffee)</name_ua>
         <price>1100</price>
@@ -8983,7 +8983,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="SK190-L-Grafite" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан SweetKeys 190 большой 100л графитовый (SK190-L-Grafite)</name_ru>
         <name_ua>Валіза SweetKeys 190 велика 100л графітова (SK190-L-Grafite)</name_ua>
         <price>3700</price>
@@ -9014,8 +9014,8 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="SK190-M-Grafite" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="SK190-M-Grafite" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан SweetKeys 190 средний 65л графитовый (SK190-M-Grafite)</name_ru>
         <name_ua>Валіза SweetKeys 190 середня 65л графітова (SK190-M-Grafite)</name_ua>
         <price>3650</price>
@@ -9288,8 +9288,8 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="20303-M-Red" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="20303-M-Red" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан Snowball 20303 средний 71л красный (20303-M-Red)</name_ru>
         <name_ua>Валіза Snowball 20303 середня 71л червона (20303-M-Red)</name_ua>
         <price>4150</price>
@@ -9510,7 +9510,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="Kaiman-XS-Beige" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л бежевый (Kaiman-XS-Beige)</name_ru>
         <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л бежева (Kaiman-XS-Beige)</name_ua>
         <price>1600</price>
@@ -9739,8 +9739,8 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="SK190-3-Champange" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="SK190-3-Champange" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Набор чемоданов SweetKeys 190 3в1 шампань (SK190-3-Champange)</name_ru>
         <name_ua>Набір валіз SweetKeys 190 3в1 шампань (SK190-3-Champange)</name_ua>
         <price>8475</price>
@@ -10058,7 +10058,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="53103-3-Champagne" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Набор чемоданов Madisson 53103 3в1 шампань (53103-3-Champagne)</name_ru>
         <name_ua>Набір валіз Madisson 53103 3в1 шампань (53103-3-Champagne)</name_ua>
         <price>8005</price>
@@ -10114,7 +10114,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="42203-3-Purple" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Набор чемоданов Madisson 42203 3в1 фиолетовый (42203-3-Purple)</name_ru>
         <name_ua>Набір валіз Madisson 42203 3в1 фіолетовий (42203-3-Purple)</name_ua>
         <price>4845</price>
@@ -10399,7 +10399,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-M-Yellow" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан Snowball 33703 средний 69л желтый (33703-M-Yellow)</name_ru>
         <name_ua>Валіза Snowball 33703 середня 69л жовта (33703-M-Yellow)</name_ua>
         <price>3100</price>
@@ -10432,7 +10432,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-S-Yellow" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан Snowball 33703 малый 36л желтый (33703-S-Yellow)</name_ru>
         <name_ua>Валіза Snowball 33703 мала 36л жовта (33703-S-Yellow)</name_ua>
         <price>2300</price>
@@ -10717,7 +10717,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="5398-S-Yellow" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Wings 5398 малый 38 л желтый (5398-S-Yellow)</name_ru>
         <name_ua>Валіза для ручної поклажі Wings 5398 мала 38 л жовта (5398-S-Yellow)</name_ua>
         <price>1650</price>
@@ -10745,7 +10745,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="5398-XS-Yellow" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Wings 5398 мини 28 л желтый (5398-XS-Yellow)</name_ru>
         <name_ua>Валіза для ручної поклажі Wings 5398 міні 28 л жовта (5398-XS-Yellow)</name_ua>
         <price>1300</price>
@@ -10801,7 +10801,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="Kaiman-XS-Orange" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24 л оранжевый (Kaiman-XS-Orange)</name_ru>
         <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24 л помаранчева (Kaiman-XS-Orange)</name_ua>
         <price>1600</price>
@@ -10941,7 +10941,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="KST01-M-RoseGold" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан Wings KST01 средний 63л розовое золото (KST01-M-RoseGold)</name_ru>
         <name_ua>Валіза Wings KST01 середня 63л рожеве золото (KST01-M-RoseGold)</name_ua>
         <price>1850</price>
@@ -11165,7 +11165,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="19168-L-Grey" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан Wings 19168 большой 97 л серый (19168-L-Grey)</name_ru>
         <name_ua>Валіза Wings 19168 велика 97 л сіра (19168-L-Grey)</name_ua>
         <price>2750</price>
