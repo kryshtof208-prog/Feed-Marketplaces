@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-03 00:11">
+<yml_catalog date="2026-07-03 12:11">
   <offers>
     <offer id="33703-L-Black" available="true">
       <name lang="ru">Чемодан Snowball 33703 большой 101л черный (33703-L-Black)</name>
@@ -1278,7 +1278,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="WN01-L-Creme-ABS" available="false">
+    <offer id="WN01-L-Creme-ABS" available="true">
       <name lang="ru">Чемодан Wings WN01 большой 108л кремовый (WN01-L-Creme-ABS)</name>
       <name lang="ua">Валіза Wings WN01 велика 108л кремова (WN01-L-Creme-ABS)</name>
       <price>2750</price>
@@ -8526,7 +8526,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="33703-M-White" available="true">
+    <offer id="33703-M-White" available="false">
       <name lang="ru">Чемодан Snowball 33703 средний 69л белый (33703-M-White)</name>
       <name lang="ua">Валіза Snowball 33703 середня 69л біла (33703-M-White)</name>
       <price>3100</price>
@@ -9703,7 +9703,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="49403-M-White" available="false">
+    <offer id="49403-M-White" available="true">
       <name lang="ru">Чемодан Snowball 49403 средний 69л белый (49403-M-White)</name>
       <name lang="ua">Валіза Snowball 49403 середня 69л біла (49403-M-White)</name>
       <price>4950</price>
@@ -10099,7 +10099,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="KST01-S-RoseGold" available="true">
+    <offer id="KST01-S-RoseGold" available="false">
       <name lang="ru">Чемодан для ручной клади Wings KST01 малый 38л розовое золото (KST01-S-RoseGold)</name>
       <name lang="ua">Валіза для ручної поклажі Wings KST01 мала 38л рожеве золото (KST01-S-RoseGold)</name>
       <price>1250</price>
@@ -10879,6 +10879,556 @@
       <param name="Глибина" paramcode="112">30</param>
       <weight>4000</weight>
       <param name="Вага" paramcode="150">4</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="42203-S-LightBlue" available="true">
+      <name lang="ru">Чемодан с расширением Madisson 42203 малый 39л голубой (42203-S-LightBlue)</name>
+      <name lang="ua">Валіза з розширенням Madisson 42203 мала 39л блакитна (42203-S-LightBlue)</name>
+      <price>1500</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
+      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан с расширением Madisson 42203 малый 39л голубой (42203-S-LightBlue)</description>
+      <description lang="ua">Валіза з розширенням Madisson 42203 мала 39л блакитна (42203-S-LightBlue)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/23/valiza-z-rozshyrenniam-madisson-42203-mala-39l-blakytna-42203-s-lightblue-73064999691317_+185351eaf6.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="1bb311a4e0544d0fd17fe471fa81299c">блакитний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="u2rqrf0q">блакитний</param>
+      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">39</param>
+      <height>550</height>
+      <param name="Висота" paramcode="110">55</param>
+      <width>380</width>
+      <param name="Ширина" paramcode="111">38</param>
+      <length>230</length>
+      <param name="Глибина" paramcode="112">23</param>
+      <weight>3000</weight>
+      <param name="Вага" paramcode="150">3</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="42203-M-LightBlue" available="true">
+      <name lang="ru">Чемодан с расширением Madisson 42203 средний 68л голубой (42203-M-LightBlue)</name>
+      <name lang="ua">Валіза з розширенням Madisson 42203 середня 68л блакитна (42203-M-LightBlue)</name>
+      <price>1950</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
+      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан с расширением Madisson 42203 средний 68л голубой (42203-M-LightBlue)</description>
+      <description lang="ua">Валіза з розширенням Madisson 42203 середня 68л блакитна (42203-M-LightBlue)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/24/valiza-z-rozshyrenniam-madisson-42203-serednia-68l-blakytna-42203-m-lightblue-58489194896874_+527cfcf635.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="1bb311a4e0544d0fd17fe471fa81299c">блакитний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="u2rqrf0q">блакитний</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">68</param>
+      <height>660</height>
+      <param name="Висота" paramcode="110">66</param>
+      <width>450</width>
+      <param name="Ширина" paramcode="111">45</param>
+      <length>270</length>
+      <param name="Глибина" paramcode="112">27</param>
+      <weight>3000</weight>
+      <param name="Вага" paramcode="150">3</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="42203-L-LightBlue" available="true">
+      <name lang="ru">Чемодан с расширением Madisson 42203 большой 103л голубой (42203-L-LightBlue)</name>
+      <name lang="ua">Валіза з розширенням Madisson 42203 велика 103л блакитна (42203-L-LightBlue)</name>
+      <price>2050</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
+      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан с расширением Madisson 42203 большой 103л голубой (42203-L-LightBlue)</description>
+      <description lang="ua">Валіза з розширенням Madisson 42203 велика 103л блакитна (42203-L-LightBlue)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/25/valiza-z-rozshyrenniam-madisson-42203-velyka-103l-blakytna-42203-l-lightblue-31363190519852_+30c8c7933b.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="1bb311a4e0544d0fd17fe471fa81299c">блакитний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="u2rqrf0q">блакитний</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">103</param>
+      <height>750</height>
+      <param name="Висота" paramcode="110">75</param>
+      <width>500</width>
+      <param name="Ширина" paramcode="111">50</param>
+      <length>310</length>
+      <param name="Глибина" paramcode="112">31</param>
+      <weight>5000</weight>
+      <param name="Вага" paramcode="150">5</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="49403-S-Gray" available="true">
+      <name lang="ru">Чемодан для ручной клади Snowball 49403 малый 40л серый (49403-S-Gray)</name>
+      <name lang="ua">Валіза для ручної поклажі Snowball 49403 мала 40л сіра (49403-S-Gray)</name>
+      <price>3600</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан для ручной клади Snowball 49403 малый 40л серый (49403-S-Gray)</description>
+      <description lang="ua">Валіза для ручної поклажі Snowball 49403 мала 40л сіра (49403-S-Gray)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/26/valiza-dlia-ruchnoi-poklazhi-snowball-49403-mala-40l-sira-49403-s-gray-63533473229505_+25910d2176.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
+      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">40</param>
+      <height>550</height>
+      <param name="Висота" paramcode="110">55</param>
+      <width>380</width>
+      <param name="Ширина" paramcode="111">38</param>
+      <length>220</length>
+      <param name="Глибина" paramcode="112">22</param>
+      <weight>3000</weight>
+      <param name="Вага" paramcode="150">3</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="49403-S-Champagne" available="true">
+      <name lang="ru">Чемодан для ручной клади Snowball 49403 малый 40л шампань (49403-S-Champagne)</name>
+      <name lang="ua">Валіза для ручної поклажі Snowball 49403 мала 40л шампань (49403-S-Champagne)</name>
+      <price>3600</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан для ручной клади Snowball 49403 малый 40л шампань (49403-S-Champagne)</description>
+      <description lang="ua">Валіза для ручної поклажі Snowball 49403 мала 40л шампань (49403-S-Champagne)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-dlia-ruchnoi-poklazhi-snowball-49403-mala-40l-shampan-49403-s-champagne-18490511283663_+9db9ea4bda.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">40</param>
+      <height>550</height>
+      <param name="Висота" paramcode="110">55</param>
+      <width>380</width>
+      <param name="Ширина" paramcode="111">38</param>
+      <length>220</length>
+      <param name="Глибина" paramcode="112">22</param>
+      <weight>3000</weight>
+      <param name="Вага" paramcode="150">3</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="49403-M-Gray" available="true">
+      <name lang="ru">Чемодан с расширением Snowball 49403 средний 69л серый (49403-M-Gray)</name>
+      <name lang="ua">Валіза з розширенням Snowball 49403 середня 69л сіра (49403-M-Gray)</name>
+      <price>4950</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан с расширением Snowball 49403 средний 69л серый (49403-M-Gray)</description>
+      <description lang="ua">Валіза з розширенням Snowball 49403 середня 69л сіра (49403-M-Gray)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/28/valiza-z-rozshyrenniam-snowball-49403-serednia-69l-sira-49403-m-gray-13973850328141_+70abfdf2a4.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">69</param>
+      <height>660</height>
+      <param name="Висота" paramcode="110">66</param>
+      <width>440</width>
+      <param name="Ширина" paramcode="111">44</param>
+      <length>280</length>
+      <param name="Глибина" paramcode="112">28</param>
+      <weight>4000</weight>
+      <param name="Вага" paramcode="150">4</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="49403-M-Champagne" available="true">
+      <name lang="ru">Чемодан с расширением Snowball 49403 средний 69л шампань (49403-M-Champagne)</name>
+      <name lang="ua">Валіза з розширенням Snowball 49403 середня 69л шампань (49403-M-Champagne)</name>
+      <price>4950</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан с расширением Snowball 49403 средний 69л шампань (49403-M-Champagne)</description>
+      <description lang="ua">Валіза з розширенням Snowball 49403 середня 69л шампань (49403-M-Champagne)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-rozshyrenniam-snowball-49403-serednia-69l-shampan-49403-m-champagne-60230166529161_+2ca9fbb424.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">69</param>
+      <height>660</height>
+      <param name="Висота" paramcode="110">66</param>
+      <width>440</width>
+      <param name="Ширина" paramcode="111">44</param>
+      <length>280</length>
+      <param name="Глибина" paramcode="112">28</param>
+      <weight>4000</weight>
+      <param name="Вага" paramcode="150">4</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="49403-L-Gray" available="true">
+      <name lang="ru">Чемодан с расширением Snowball 49403 большой 113л серый (49403-L-Gray)</name>
+      <name lang="ua">Валіза з розширенням Snowball 49403 велика 113л сіра (49403-L-Gray)</name>
+      <price>5300</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан с расширением Snowball 49403 большой 113л серый (49403-L-Gray)</description>
+      <description lang="ua">Валіза з розширенням Snowball 49403 велика 113л сіра (49403-L-Gray)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/30/valiza-z-rozshyrenniam-snowball-49403-velyka-113l-sira-49403-l-gray-32010377342474_+c49bd9d992.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">113</param>
+      <height>770</height>
+      <param name="Висота" paramcode="110">77</param>
+      <width>500</width>
+      <param name="Ширина" paramcode="111">50</param>
+      <length>310</length>
+      <param name="Глибина" paramcode="112">31</param>
+      <weight>5000</weight>
+      <param name="Вага" paramcode="150">5</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="49403-L-Champagne" available="true">
+      <name lang="ru">Чемодан с расширением Snowball 49403 большой 113л шампань (49403-L-Champagne)</name>
+      <name lang="ua">Валіза з розширенням Snowball 49403 велика 113л шампань (49403-L-Champagne)</name>
+      <price>5300</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан с расширением Snowball 49403 большой 113л шампань (49403-L-Champagne)</description>
+      <description lang="ua">Валіза з розширенням Snowball 49403 велика 113л шампань (49403-L-Champagne)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/31/valiza-z-rozshyrenniam-snowball-49403-velyka-113l-shampan-49403-l-champagne-36026128416018_+98323ace5d.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">113</param>
+      <height>770</height>
+      <param name="Висота" paramcode="110">77</param>
+      <width>500</width>
+      <param name="Ширина" paramcode="111">50</param>
+      <length>310</length>
+      <param name="Глибина" paramcode="112">31</param>
+      <weight>5000</weight>
+      <param name="Вага" paramcode="150">5</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="41403M-Purple" available="true">
+      <name lang="ru">Сумка для ручной клади Snowball 41403M средняя 20л фиолетовая (41403M-Purple)</name>
+      <name lang="ua">Сумка для ручної поклажі Snowball 41403M середня 20л фіолетова (41403M-Purple)</name>
+      <price>1790</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Сумка для ручной клади Snowball 41403M средняя 20л фиолетовая (41403M-Purple)</description>
+      <description lang="ua">Сумка для ручної поклажі Snowball 41403M середня 20л фіолетова (41403M-Purple)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/32/sumka-dlia-ruchnoi-poklazhi-snowball-41403m-serednia-20l-fioletova-41403m-purple-38082110563392_+7fb33d5753.jpg</picture>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ct2lhsxt">фіолетовий</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">20</param>
+      <height>310</height>
+      <param name="Висота" paramcode="110">31</param>
+      <width>370</width>
+      <param name="Ширина" paramcode="111">37</param>
+      <length>180</length>
+      <param name="Глибина" paramcode="112">18</param>
+      <weight>1000</weight>
+      <param name="Вага" paramcode="150">1</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="41403L-Purple" available="true">
+      <name lang="ru">Сумка для ручной клади Snowball 41403L большая 32л фиолетовая (41403L-Purple)</name>
+      <name lang="ua">Сумка для ручної поклажі Snowball 41403L велика 32л фіолетова (41403L-Purple)</name>
+      <price>1890</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Сумка для ручной клади Snowball 41403L большая 32л фиолетовая (41403L-Purple)</description>
+      <description lang="ua">Сумка для ручної поклажі Snowball 41403L велика 32л фіолетова (41403L-Purple)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/33/sumka-dlia-ruchnoi-poklazhi-snowball-41403l-velyka-32l-fioletova-41403l-purple-83671468415357_+519d8a5364.jpg</picture>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ct2lhsxt">фіолетовий</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">32</param>
+      <height>340</height>
+      <param name="Висота" paramcode="110">34</param>
+      <width>450</width>
+      <param name="Ширина" paramcode="111">45</param>
+      <length>210</length>
+      <param name="Глибина" paramcode="112">21</param>
+      <weight>1000</weight>
+      <param name="Вага" paramcode="150">1</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="41403S-Gray" available="true">
+      <name lang="ru">Сумка для ручной клади Snowball 41403S малая 13л серая (41403S-Gray)</name>
+      <name lang="ua">Сумка для ручної поклажі Snowball 41403S мала 13л сіра (41403S-Gray)</name>
+      <price>1700</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Сумка для ручной клади Snowball 41403S малая 13л серая (41403S-Gray)</description>
+      <description lang="ua">Сумка для ручної поклажі Snowball 41403S мала 13л сіра (41403S-Gray)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/34/sumka-dlia-ruchnoi-poklazhi-snowball-41403s-mala-13l-sira-41403s-gray-28589247123665_+0d47467cc1.jpg</picture>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
+      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">13</param>
+      <height>280</height>
+      <param name="Висота" paramcode="110">28</param>
+      <width>310</width>
+      <param name="Ширина" paramcode="111">31</param>
+      <length>150</length>
+      <param name="Глибина" paramcode="112">15</param>
+      <weight>1000</weight>
+      <param name="Вага" paramcode="150">1</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="41403S-Beige" available="true">
+      <name lang="ru">Сумка для ручной клади Snowball 41403S малая 13л бежевая (41403S-Beige)</name>
+      <name lang="ua">Сумка для ручної поклажі Snowball 41403S мала 13л бежева (41403S-Beige)</name>
+      <price>1700</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Сумка для ручной клади Snowball 41403S малая 13л бежевая (41403S-Beige)</description>
+      <description lang="ua">Сумка для ручної поклажі Snowball 41403S мала 13л бежева (41403S-Beige)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/35/sumka-dlia-ruchnoi-poklazhi-snowball-41403s-mala-13l-bezheva-41403s-beige-13088055999838_+d6110ae567.jpg</picture>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">13</param>
+      <height>280</height>
+      <param name="Висота" paramcode="110">28</param>
+      <width>310</width>
+      <param name="Ширина" paramcode="111">31</param>
+      <length>150</length>
+      <param name="Глибина" paramcode="112">15</param>
+      <weight>1000</weight>
+      <param name="Вага" paramcode="150">1</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="41403S-RoseGold" available="true">
+      <name lang="ru">Сумка для ручной клади Snowball 41403S малая 13л розовое золото (41403S-RoseGold)</name>
+      <name lang="ua">Сумка для ручної поклажі Snowball 41403S мала 13л рожеве золото (41403S-RoseGold)</name>
+      <price>1700</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Сумка для ручной клади Snowball 41403S малая 13л розовое золото (41403S-RoseGold)</description>
+      <description lang="ua">Сумка для ручної поклажі Snowball 41403S мала 13л рожеве золото (41403S-RoseGold)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/36/sumka-dlia-ruchnoi-poklazhi-snowball-41403s-mala-13l-rozheve-zoloto-41403s-rosegold-71191481765602_+16f9b050e8.jpg</picture>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <param name="Об'єм" paramcode="104">13</param>
+      <height>280</height>
+      <param name="Висота" paramcode="110">28</param>
+      <width>310</width>
+      <param name="Ширина" paramcode="111">31</param>
+      <length>150</length>
+      <param name="Глибина" paramcode="112">15</param>
+      <weight>1000</weight>
+      <param name="Вага" paramcode="150">1</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
