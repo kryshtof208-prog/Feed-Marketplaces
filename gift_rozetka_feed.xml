@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-10 12:57">
+<yml_catalog date="2026-07-11 04:47">
 	<shop>
 		<name>Pen Shop</name>
 		<company>Бізнес Подарунки</company>
@@ -51,7 +51,7 @@
 				<param name="Вес">0</param>
 				<param name="Цвет корпуса"><![CDATA[Синий]]></param>
 			</offer>
-			<offer available="true" id="16732"><article>16 732</article>
+			<offer available="false" id="16732"><article>16 732</article>
 				<url>http://shop662138.horoshop.ua/ruchka-parker-jotter-16-732/</url>
 				<price>1371</price>
 				<currencyId>UAH</currencyId>
@@ -64,7 +64,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/21/16485696304241_+f5797f865c.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/21/64684065232768_+2ef3ffb84a.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<name>Ручка Parker Jotter 16 732</name>
 				<description><![CDATA[<p><b>Ручка Parker Jotter 16 732</b> — кулькова ручка колекції Jotter від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Сталь</li><li>Колір корпусу: Фіолетовий</li><li>Оздоблення деталей: Хром</li><li>Механізм: Натискний</li><li>Колір чорнил: Синій</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -212,7 +212,7 @@
 				<param name="Вес">0</param>
 				<param name="Цвет корпуса"><![CDATA[Оранжевый]]></param>
 			</offer>
-			<offer available="true" id="16232"><article>16 232</article>
+			<offer available="false" id="16232"><article>16 232</article>
 				<url>http://shop662138.horoshop.ua/ruchka-parker-jotter-16-232/</url>
 				<price>1371</price>
 				<currencyId>UAH</currencyId>
@@ -225,7 +225,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/27/86320226077396_+b872f99469.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/27/81360147661528_+05b1dcb94d.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<name>Ручка Parker Jotter 16 232</name>
 				<description><![CDATA[<p><b>Ручка Parker Jotter 16 232</b> — кулькова ручка колекції Jotter від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Сталь</li><li>Колір корпусу: Чорний</li><li>Оздоблення деталей: Хром</li><li>Механізм: Натискний</li><li>Колір чорнил: Синій</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -376,7 +376,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/33/18875679702158_+b788032a21.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/33/43061627547455_+7853a1b22d.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>27</stock_quantity>
+				<stock_quantity>26</stock_quantity>
 				<name>Ручка Parker IM 22 032</name>
 				<description><![CDATA[<p><b>Ручка Parker IM 22 032</b> — кулькова ручка колекції IM від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Латунь</li><li>Колір корпусу: Чорний</li><li>Оздоблення деталей: Позолота</li><li>Механізм: Натискний</li><li>Колір чорнил: Синій</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -917,7 +917,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/4/18926689558806_+07c693fedc.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/4/21225882814070_+805a653970.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<name>Олівець Parker Jotter 16 142</name>
 				<description><![CDATA[<p><b>Олівець Parker Jotter 16 142</b> — механічний олівець колекції Jotter від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Сталь</li><li>Колір корпусу: Срібний</li><li>Оздоблення деталей: Хром</li><li>Механізм: Натискний</li><li>Колір чорнил: Чорний</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Механизм"><![CDATA[Нажимной]]></param>
@@ -1270,7 +1270,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/18/73950440016860_+63a50708a7.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/18/18899347974199_+7a5d4358fa.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>13</stock_quantity>
+				<stock_quantity>16</stock_quantity>
 				<name>Ручка Parker Jotter XL 12 032</name>
 				<description><![CDATA[<p><b>Ручка Parker Jotter XL 12 032</b> — кулькова ручка колекції Jotter від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Сталь</li><li>Колір корпусу: Чорний</li><li>Оздоблення деталей: Хром</li><li>Механізм: Натискний</li><li>Колір чорнил: Синій</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -2051,7 +2051,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/49/53045234135179_+40f3bf4853.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/49/13435559653069_+3c4c6eeb26.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>7</stock_quantity>
+				<stock_quantity>8</stock_quantity>
 				<name>Ручка Parker Jotter XL 12 532</name>
 				<description><![CDATA[<p><b>Ручка Parker Jotter XL 12 532</b> — кулькова ручка колекції Jotter від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Сталь</li><li>Колір корпусу: Золотий</li><li>Оздоблення деталей: Позолота</li><li>Механізм: Натискний</li><li>Колір чорнил: Синій</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -2074,7 +2074,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/50/89971638810820_+974a152516.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/50/78292320384761_+5746623d45.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>9</stock_quantity>
+				<stock_quantity>10</stock_quantity>
 				<name>Ручка Parker Jotter XL 12 632</name>
 				<description><![CDATA[<p><b>Ручка Parker Jotter XL 12 632</b> — кулькова ручка колекції Jotter від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Сталь</li><li>Колір корпусу: Рожевий</li><li>Оздоблення деталей: Позолота</li><li>Механізм: Натискний</li><li>Колір чорнил: Синій</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -2097,7 +2097,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/1/41619809785317_+8db7c67e62.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/1/21284147618211_+28a2c48867.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<name>Ручка Parker Jotter XL 12 732</name>
 				<description><![CDATA[<p><b>Ручка Parker Jotter XL 12 732</b> — кулькова ручка колекції Jotter від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Сталь</li><li>Колір корпусу: Срібний</li><li>Оздоблення деталей: Хром</li><li>Механізм: Натискний</li><li>Колір чорнил: Синій</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -2506,7 +2506,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/18/49734037845959_+96e62f2105.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/18/77893027529101_+47883022b7.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<name>Ручка Parker Urban 30 035</name>
 				<description><![CDATA[<p><b>Ручка Parker Urban 30 035</b> — кулькова ручка колекції Urban від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Латунь</li><li>Колір корпусу: Чорний</li><li>Оздоблення деталей: Позолота</li><li>Механізм: Поворотний</li><li>Колір чорнил: Синій</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -4033,7 +4033,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/27/47421891742030_+365cb0c3eb.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/27/41400578361981_+105a435d57.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>3</stock_quantity>
 				<name>Шкіряний щоденник A4 E580-02BK</name>
 				<description><![CDATA[<p><b>Шкіряний щоденник A4 E580-02BK</b> — щоденник колекції Класичні від Penman.</p><ul><li>Країна виробник: Україна</li><li>Матеріал: Натуральна шкіра</li></ul>]]></description>
 				<param name="Высота в упаковке (длинная сторона, см)">0</param>
@@ -4078,7 +4078,7 @@
 				<categoryId>6708</categoryId>
 				<picture>http://shop662138.horoshop.ua/content/images/29/61353207024761_+eb54549c29.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>5</stock_quantity>
 				<name>Шкіряний щоденник A4 - ЗСУ E580-02BK-ZSU</name>
 				<description><![CDATA[<p><b>Шкіряний щоденник A4 - ЗСУ E580-02BK-ZSU</b> — щоденник колекції Захисникам від Penman.</p><ul><li>Країна виробник: Україна</li><li>Матеріал: Натуральна шкіра</li></ul>]]></description>
 				<param name="Высота в упаковке (длинная сторона, см)">0</param>
@@ -4279,7 +4279,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/38/27737060807964_+c047ece202.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/38/63751391824714_+87b590ff69.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>143</stock_quantity>
+				<stock_quantity>142</stock_quantity>
 				<name>Фірмовий щоденник A5 - Тризуб E027-05BK-Tryzub</name>
 				<description><![CDATA[<p><b>Фірмовий щоденник A5 - Тризуб E027-05BK-Tryzub</b> — щоденник колекції Державна символіка від Penman.</p><ul><li>Країна виробник: Україна</li><li>Матеріал: Штучна шкіра</li></ul>]]></description>
 				<param name="Высота в упаковке (длинная сторона, см)">0</param>
@@ -4932,7 +4932,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/17/26695259965497_+3625ac757b.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/17/95977152813724_+69ef3ebd11.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>152</stock_quantity>
+				<stock_quantity>151</stock_quantity>
 				<name>Щоденник недатований A5 3B-43W</name>
 				<description><![CDATA[<p><b>Щоденник недатований A5 3B-43W</b> — щоденник колекції Класичні від Penman.</p><ul><li>Країна виробник: Україна</li><li>Матеріал: Штучна шкіра</li></ul>]]></description>
 				<param name="Высота в упаковке (длинная сторона, см)">0</param>
@@ -5869,7 +5869,7 @@
 				<param name="Вес">0</param>
 				<param name="Цвет обложки"><![CDATA[Черный]]></param>
 			</offer>
-			<offer available="true" id="A5E027-02BK-BEB"><article>A5 E027-02BK-BEB</article>
+			<offer available="false" id="A5E027-02BK-BEB"><article>A5 E027-02BK-BEB</article>
 				<url>http://shop662138.horoshop.ua/shkiryanij-shodennik-a5-byuro-ekonomichnoyi-bezpeki-e027-02bk-beb/</url>
 				<price>1770</price>
 				<currencyId>UAH</currencyId>
@@ -5879,7 +5879,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/6/79427100032870_+4cf00ae5d8.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/6/15365793722975_+f2aa4c0814.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<name>Шкіряний щоденник A5 - Бюро Економічної Безпеки E027-02BK-BEB</name>
 				<description><![CDATA[<p><b>Шкіряний щоденник A5 - Бюро Економічної Безпеки E027-02BK-BEB</b> — щоденник колекції Професії від Penman.</p><ul><li>Країна виробник: Україна</li><li>Матеріал: Натуральна шкіра</li></ul>]]></description>
 				<param name="Высота в упаковке (длинная сторона, см)">0</param>
@@ -6774,7 +6774,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/46/79437046516007_+d6a6f30099.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/46/51229582291151_+164594b6e1.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>118</stock_quantity>
+				<stock_quantity>117</stock_quantity>
 				<name>Ручка Penman PM132</name>
 				<description><![CDATA[<p><b>Ручка Penman PM132</b> — кулькова ручка колекції Penman від Penman.</p><ul><li>Країна виробник: Україна</li><li>Матеріал корпусу: Сталь</li><li>Колір корпусу: Чорний</li><li>Оздоблення деталей: Лак</li><li>Механізм: Поворотний</li><li>Колір чорнил: Блакитний</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -7719,14 +7719,14 @@
 				<param name="Вес">0</param>
 				<param name="Цвет корпуса"><![CDATA[Сиреневый]]></param>
 			</offer>
-			<offer available="false" id="A53B-43BK-Nebraska"><article>A5 3B-43BK-Nebraska</article>
+			<offer available="true" id="A53B-43BK-Nebraska"><article>A5 3B-43BK-Nebraska</article>
 				<url>http://shop662138.horoshop.ua/shodennik-nedatovanij-a5-3b-43bk-nebraska/</url>
 				<price>550</price>
 				<currencyId>UAH</currencyId>
 				<categoryId>6708</categoryId>
 				<picture>http://shop662138.horoshop.ua/content/images/36/75770298838555_+ffafed14cc.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>0</stock_quantity>
+				<stock_quantity>3</stock_quantity>
 				<name>Щоденник недатований A5 3B-43BK-Nebraska</name>
 				<description><![CDATA[<p>Щоденник недатований A5 3B-43BK-Nebraska</p>]]></description>
 				<param name="Высота в упаковке (длинная сторона, см)">0</param>
@@ -8290,7 +8290,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/20/38805543564350_+247f3379e1.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/20/22793098693362_+b59fec85f8.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>17</stock_quantity>
+				<stock_quantity>16</stock_quantity>
 				<name>Щоденник недатований A5 3B-43-Green</name>
 				<description><![CDATA[<p><b>Щоденник недатований A5 3B-43-Green</b> — щоденник колекції Класичні від Penman.</p><ul><li>Країна виробник: Україна</li><li>Матеріал: Штучна шкіра</li></ul>]]></description>
 				<param name="Высота в упаковке (длинная сторона, см)">0</param>
@@ -8895,7 +8895,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/42/79195731559971_+2236d748a3.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/42/43624355950926_+8edd107a70.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<name>Ручка Parker Jotter 16 012</name>
 				<description><![CDATA[<p><b>Ручка Parker Jotter 16 012</b> — пір'яна ручка колекції Jotter від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Сталь</li><li>Колір корпусу: Срібний</li><li>Оздоблення деталей: Позолота</li><li>Механізм: Ковпачок</li><li>Колір чорнил: Синій</li><li>Розмір пера: M</li><li>Матеріал пера: Сталь</li><li>Оздоблення пера: Хром</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Перьевая ручка]]></param>
@@ -10209,7 +10209,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/44/52429527936737_+0c51a43dce.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/44/36881096101096_+5bbc6102da.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>21</stock_quantity>
+				<stock_quantity>22</stock_quantity>
 				<name>Картриджі чорні Parker Quink 11 410BK</name>
 				<description><![CDATA[Картриджі чорні Parker Quink 11 410BK]]></description>
 				<param name="Тип"><![CDATA[Чернильные картриджи]]></param>
@@ -10241,7 +10241,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/46/25688850674673_+692db51bb0.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/46/26565471834734_+28f7a5cf3b.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>8</stock_quantity>
+				<stock_quantity>9</stock_quantity>
 				<name>Картриджі темно-сині Parker Quink 11 410BLB</name>
 				<description><![CDATA[Картриджі темно-сині Parker Quink 11 410BLB]]></description>
 				<param name="Тип"><![CDATA[Чернильные картриджи]]></param>
@@ -10258,7 +10258,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/47/16673688040599_+746c08e499.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/47/23407044279352_+b23acd6e57.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>18</stock_quantity>
+				<stock_quantity>33</stock_quantity>
 				<name>Стержень кульковий чорний Parker QuinkFlow F 10 231BK</name>
 				<description><![CDATA[Стержень кульковий чорний Parker QuinkFlow F 10 231BK]]></description>
 				<param name="Тип"><![CDATA[Стержни шариковые]]></param>
@@ -10359,7 +10359,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/3/20095651704641_+4b796dbd1c.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/3/59602127181830_+198d356f54.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>63</stock_quantity>
+				<stock_quantity>62</stock_quantity>
 				<name>Стержень капілярний синій Parker 10 122BLU</name>
 				<description><![CDATA[Стержень капілярний синій Parker 10 122BLU]]></description>
 				<param name="Тип"><![CDATA[Стержни шариковые]]></param>
@@ -10407,7 +10407,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/6/16148496720327_+1c0a7627ce.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/6/65581701245552_+2ffe058b5b.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>6</stock_quantity>
+				<stock_quantity>5</stock_quantity>
 				<name>Стержень капілярний чорний Parker 10 121BK1</name>
 				<description><![CDATA[<p>Стержень капілярний чорний Parker 10 121BK1</p>]]></description>
 				<param name="Тип"><![CDATA[Стержни шариковые]]></param>
@@ -10423,7 +10423,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/7/59114644329402_+a5968e80dd.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/7/48124594965764_+e25cafae1d.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>23</stock_quantity>
+				<stock_quantity>7</stock_quantity>
 				<name>Стержень капілярний чорний Parker 10 122BK1</name>
 				<description><![CDATA[<p>Стержень капілярний чорний Parker 10 122BK1</p>]]></description>
 				<param name="Тип"><![CDATA[Стержни шариковые]]></param>
@@ -10431,7 +10431,7 @@
 				<param name="Страна-производитель товара"><![CDATA[Франция]]></param>
 				<param name="Вес">0</param>
 			</offer>
-			<offer available="true" id="10122BK2"><article>10 122BK2</article>
+			<offer available="false" id="10122BK2"><article>10 122BK2</article>
 				<url>http://shop662138.horoshop.ua/sterzhni-kapiliarni-chorni-2sht-parker-10-122bk2-10-122bk2/</url>
 				<price>790</price>
 				<currencyId>UAH</currencyId>
@@ -10439,7 +10439,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/8/14509879050235_+a66678c809.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/8/25410557165866_+9a54b29c2a.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<name>Стержні капілярні чорні 2шт Parker 10 122BK2</name>
 				<description><![CDATA[<p>Стержні капілярні чорні 2шт Parker 10 122BK2</p>]]></description>
 				<param name="Тип"><![CDATA[Стержни шариковые]]></param>
@@ -10545,7 +10545,7 @@
 				<param name="Страна-производитель товара"><![CDATA[Франция]]></param>
 				<param name="Вес">0</param>
 			</offer>
-			<offer available="false" id="10362BK2"><article>10 362BK2</article>
+			<offer available="true" id="10362BK2"><article>10 362BK2</article>
 				<url>http://shop662138.horoshop.ua/sterzhni-kulkovi-chorni-parker-gel-m-2sht-10-362bk2-gelevi-10-362bk2/</url>
 				<price>315</price>
 				<currencyId>UAH</currencyId>
@@ -10554,7 +10554,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/15/50225335330882_+44c233206b.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/15/81182978495833_+f26dede2dd.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>0</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<name>Стержні кулькові чорні Parker GEL M 2шт 10 362BK2 - гелеві</name>
 				<description><![CDATA[<p>Стержні кулькові чорні Parker GEL M 2шт 10 362BK2 - гелеві</p>]]></description>
 				<param name="Тип"><![CDATA[Стержни шариковые]]></param>
@@ -10690,7 +10690,7 @@
 				<picture>http://shop662138.horoshop.ua/content/images/23/66115366487301_+b4f8848aae.jpg</picture>
 				<picture>http://shop662138.horoshop.ua/content/images/23/94486978541051_+8033c1b85c.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>876</stock_quantity>
+				<stock_quantity>880</stock_quantity>
 				<name>Стержень кульковий синій Parker QuinkFlow M 10 232BLU</name>
 				<description><![CDATA[<p>Стержень кульковий синій Parker QuinkFlow M 10 232BLU</p>]]></description>
 				<param name="Тип"><![CDATA[Стержни шариковые]]></param>
