@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-27 01:43">
+<yml_catalog date="2026-07-27 12:16">
 <shop>
 <name>Sklad Valiz</name>
 <company>Sklad Valiz</company>
@@ -515,6 +515,7 @@
 </offer>
 <offer id="94103-L-Silver" available="true" group_id="94103-L-Silver">
 <url>https://sklad-valiz.com.ua/valiza-snowball-94103-velyka-105l-sribna-94103-l-silver/</url>
+<salePrice>4640</salePrice>
 <price>5800</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -1061,7 +1062,7 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="33703-M-Black" available="false" group_id="33703-M-Black">
+<offer id="33703-M-Black" available="true" group_id="33703-M-Black">
 <url>https://sklad-valiz.com.ua/valiza-snowball-33703-serednia-69l-chorna-33703-m-black/</url>
 <price>3100</price>
 <currencyId>UAH</currencyId>
@@ -1767,7 +1768,7 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="HWF01-M-Champagne" available="true" group_id="HWF01-M-Champagne">
+<offer id="HWF01-M-Champagne" available="false" group_id="HWF01-M-Champagne">
 <url>https://sklad-valiz.com.ua/valiza-wings-hwf01-serednia-63l-shampan-hwf01-m-champagne/</url>
 <price>2800</price>
 <currencyId>UAH</currencyId>
@@ -2075,7 +2076,7 @@
 <price>2300</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/34/70427703464158_+51c8dcb351.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/34/76985516324554_+36d12ecb21.png</picture>
 <picture>https://sklad-valiz.com.ua/content/images/34/valiza-snowball-33703-mala-36l-chorna-33703-s-black-88177832250046_+a7717da61c.jpg</picture>
 <picture>https://sklad-valiz.com.ua/content/images/34/valiza-snowball-33703-mala-36l-chorna-33703-s-black-75571112284546_+8d9a2fe141.jpg</picture>
 <picture>https://sklad-valiz.com.ua/content/images/34/valiza-snowball-33703-mala-36l-chorna-33703-s-black-93737115796105_+689835eaab.jpg</picture>
@@ -2486,6 +2487,7 @@
 </offer>
 <offer id="49403-S-Brown" available="true" group_id="49403-S-Brown">
 <url>https://sklad-valiz.com.ua/valiza-snowball-49403-mala-korychneva-49403-s-brown/</url>
+<salePrice>2880</salePrice>
 <price>3600</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -2513,6 +2515,7 @@
 </offer>
 <offer id="49403-S-White" available="true" group_id="49403-S-White">
 <url>https://sklad-valiz.com.ua/valiza-snowball-49403-mala-bila-49403-s-white/</url>
+<salePrice>2880</salePrice>
 <price>3600</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -2576,6 +2579,7 @@
 </offer>
 <offer id="94103-S-Silver" available="true" group_id="94103-S-Silver">
 <url>https://sklad-valiz.com.ua/valiza-snowball-94103-mala-46l-sribna-94103-s-silver/</url>
+<salePrice>3360</salePrice>
 <price>4200</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -2937,7 +2941,7 @@
 <param name="Підходить для ручної поклажі">Так</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="WN01-S-Champagne" available="false" group_id="WN01-S-Champagne">
+<offer id="WN01-S-Champagne" available="true" group_id="WN01-S-Champagne">
 <url>https://sklad-valiz.com.ua/valiza-wings-wn01-s-38l-shampan-wn01-s-champagne/</url>
 <salePrice>1373</salePrice>
 <price>2050</price>
@@ -2970,7 +2974,7 @@
 <param name="Підходить для ручної поклажі">Так</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="WN01-S-Champagne-ABS" available="false" group_id="WN01-S-Champagne-ABS">
+<offer id="WN01-S-Champagne-ABS" available="true" group_id="WN01-S-Champagne-ABS">
 <url>https://sklad-valiz.com.ua/valiza-wings-wn01-mala-38l-shampan-wn01-s-champagne-abs/</url>
 <salePrice>1373</salePrice>
 <price>2050</price>
@@ -3115,7 +3119,7 @@
 <param name="Підходить для ручної поклажі">Так</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="WN01-S-RoseGold-ABS" available="false" group_id="WN01-S-RoseGold-ABS">
+<offer id="WN01-S-RoseGold-ABS" available="true" group_id="WN01-S-RoseGold-ABS">
 <url>https://sklad-valiz.com.ua/valiza-wings-wn01-mala-38l-rozheve-zoloto-wn01-s-rosegold-abs/</url>
 <salePrice>1373</salePrice>
 <price>2050</price>
@@ -3155,7 +3159,7 @@
 </offer>
 <offer id="AVC01-BC-Black" available="true" group_id="AVC01-BC-Black">
 <url>https://sklad-valiz.com.ua/dorozhnia-sumka-wings-avc01-20l-chorna-avc01-bc-black/</url>
-<salePrice>870</salePrice>
+<salePrice>943</salePrice>
 <price>1450</price>
 <currencyId>UAH</currencyId>
 <categoryId>2016</categoryId>
@@ -3180,7 +3184,7 @@
 </offer>
 <offer id="AVC01-BC-Grey" available="true" group_id="AVC01-BC-Grey">
 <url>https://sklad-valiz.com.ua/dorozhnia-sumka-wings-avc01-20l-zhovta-avc01-bc-grey/</url>
-<salePrice>870</salePrice>
+<salePrice>943</salePrice>
 <price>1450</price>
 <currencyId>UAH</currencyId>
 <categoryId>2016</categoryId>
@@ -3471,6 +3475,7 @@
 </offer>
 <offer id="63703-L-Milk" available="true" group_id="63703-L-Milk">
 <url>https://sklad-valiz.com.ua/valiza-madisson-63703-velyka-100l-kremova-63703-l-milk/</url>
+<salePrice>2253</salePrice>
 <price>2650</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -3966,6 +3971,7 @@
 </offer>
 <offer id="53103-S-Blue" available="true" group_id="53103-S-Blue">
 <url>https://sklad-valiz.com.ua/valiza-madisson-53103-mala-37l-synia-53103-s-blue/</url>
+<salePrice>1480</salePrice>
 <price>1850</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -4371,6 +4377,7 @@
 </offer>
 <offer id="Bagland-XS-Blue" available="true" group_id="Bagland-XS-Blue">
 <url>https://sklad-valiz.com.ua/riukzak-dlia-ruchnoi-poklazhi-bagland-20l-synii-bagland-xs-blue/</url>
+<salePrice>1533</salePrice>
 <price>2190</price>
 <currencyId>UAH</currencyId>
 <categoryId>1976</categoryId>
@@ -4398,6 +4405,7 @@
 </offer>
 <offer id="Bagland-XS-Grey" available="true" group_id="Bagland-XS-Grey">
 <url>https://sklad-valiz.com.ua/riukzak-dlia-ruchnoi-poklazhi-bagland-20l-siryi-bagland-xs-grey/</url>
+<salePrice>1533</salePrice>
 <price>2190</price>
 <currencyId>UAH</currencyId>
 <categoryId>1976</categoryId>
@@ -4576,7 +4584,7 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="44603-S-Sky" available="false" group_id="44603-S-Sky">
+<offer id="44603-S-Sky" available="true" group_id="44603-S-Sky">
 <url>https://sklad-valiz.com.ua/valiza-madisson-44603-mala-38l-blakytna-44603-s-sky/</url>
 <price>1300</price>
 <currencyId>UAH</currencyId>
@@ -4924,6 +4932,7 @@
 </offer>
 <offer id="53103-L-Champagne" available="true" group_id="53103-L-Champagne">
 <url>https://sklad-valiz.com.ua/valiza-madisson-53103-velyka-102l-shampan-53103-l-champagne/</url>
+<salePrice>1960</salePrice>
 <price>2450</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -4951,6 +4960,7 @@
 </offer>
 <offer id="53103-L-Gray" available="true" group_id="53103-L-Gray">
 <url>https://sklad-valiz.com.ua/valiza-madisson-53103-velyka-102l-sira-53103-l-gray/</url>
+<salePrice>1960</salePrice>
 <price>2450</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -5086,6 +5096,7 @@
 </offer>
 <offer id="53103-S-Champagne" available="true" group_id="53103-S-Champagne">
 <url>https://sklad-valiz.com.ua/valiza-madisson-53103-mala-37l-shampan-53103-s-champagne/</url>
+<salePrice>1480</salePrice>
 <price>1850</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -5113,6 +5124,7 @@
 </offer>
 <offer id="53103-S-Gray" available="true" group_id="53103-S-Gray">
 <url>https://sklad-valiz.com.ua/valiza-madisson-53103-mala-37l-sira-53103-s-gray/</url>
+<salePrice>1480</salePrice>
 <price>1850</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -5972,6 +5984,7 @@
 </offer>
 <offer id="647-S-Gray" available="true" group_id="647-S-Gray">
 <url>https://sklad-valiz.com.ua/valiza-airtex-647-mala-40l-sira-647-s-gray/</url>
+<salePrice>3570</salePrice>
 <price>4200</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -6376,16 +6389,17 @@
 <price>2150</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/18/valiza-wings-gdw01-velyka-97l-bordova-gdw01-l-burgundy-61496817667108_+c76a52e1ac.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/18/valiza-wings-gdw01-velyka-97l-bordova-gdw01-l-burgundy-14466266163521_+4225e85884.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/18/valiza-wings-gdw01-velyka-97l-bordova-gdw01-l-burgundy-67165914864690_+0cc70ad252.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/18/valiza-wings-gdw01-velyka-97l-bordova-gdw01-l-burgundy-20089354383596_+aac0d12936.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/18/valiza-wings-gdw01-velyka-97l-bordova-gdw01-l-burgundy-85275316321583_+6f7037f491.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/18/valiza-wings-gdw01-velyka-97l-bordova-gdw01-l-burgundy-88772966122880_+b9ef813b2b.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/18/68911935601125_+d575cb1ee4.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/18/valiza-wings-gdw01-velyka-97l-bordova-gdw01-l-burgundy-50157270274688_+b0584c8156.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/18/valiza-wings-gdw01-velyka-97l-bordova-gdw01-l-burgundy-38816080578737_+3d7c4ab225.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/18/valiza-wings-gdw01-velyka-97l-bordova-gdw01-l-burgundy-27938374463838_+74b8aea919.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/18/valiza-wings-gdw01-velyka-97l-bordova-gdw01-l-burgundy-30451189722751_+a56ef668a7.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/18/valiza-wings-gdw01-velyka-97l-bordova-gdw01-l-burgundy-34795973661837_+78708b65bf.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/18/valiza-wings-gdw01-velyka-97l-bordova-gdw01-l-burgundy-51417123272025_+8a6dbf5dae.png</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>Чемодан Wings GDW01 большой 97л бордовый (GDW01-L-Burgundy)</name>
-<name_ua>Валіза Wings GDW01 велика 97л бордова (GDW01-L-Burgundy)</name_ua>
+<name>Чемодан с ABS пластика Wings GDW01 большой 97л бордовый (GDW01-L-Burgundy)</name>
+<name_ua>Валіза з ABS пластику Wings GDW01 велика 97л бордова (GDW01-L-Burgundy)</name_ua>
 <vendor>Wings</vendor>
 <vendorCode>GDW01-L-Burgundy</vendorCode>
 <description>Розмір L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Поєднання ABS-пластику та полікарбонату забезпечує золоту середину між жорсткістю та легкістю. Полікарбонат додає корпусу стійкості до ударів та подряпин, а ABS-пластик допомагає валізі чудово тримати форму. Такий тандем матеріалів гарантує довговічність та надійний захист ваших речей. Валіза оснащена посиленою системою поворотних коліс, що дозволяє плавно маневрувати навіть при повному завантаженні. Для безпеки передбачено вбудований кодовий замок, а продуманий внутрішній простір із фіксаторами допоможе акуратно організувати багаж. Вага завантаження становить 22-25кг.</description>
@@ -6408,16 +6422,17 @@
 <price>2100</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/19/valiza-wings-gdw01-serednia-63l-bordova-gdw01-m-burgundy-62340605104061_+fbde58cb87.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/19/valiza-wings-gdw01-serednia-63l-bordova-gdw01-m-burgundy-61057890244939_+23d8c28c3d.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/19/valiza-wings-gdw01-serednia-63l-bordova-gdw01-m-burgundy-22963131958876_+f8e86e0372.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/19/valiza-wings-gdw01-serednia-63l-bordova-gdw01-m-burgundy-72991468827588_+dc9a04d906.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/19/valiza-wings-gdw01-serednia-63l-bordova-gdw01-m-burgundy-38600995369784_+640355cf39.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/19/valiza-wings-gdw01-serednia-63l-bordova-gdw01-m-burgundy-23834467817060_+8c7e87e8af.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/83176581938148_+fbfe64b765.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/valiza-wings-gdw01-serednia-63l-bordova-gdw01-m-burgundy-45828663925749_+a0f6938e27.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/valiza-wings-gdw01-serednia-63l-bordova-gdw01-m-burgundy-63116891540427_+b97593333d.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/valiza-wings-gdw01-serednia-63l-bordova-gdw01-m-burgundy-44792787335967_+b8321e9b74.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/valiza-wings-gdw01-serednia-63l-bordova-gdw01-m-burgundy-76981425550366_+8889611515.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/valiza-wings-gdw01-serednia-63l-bordova-gdw01-m-burgundy-91706041557312_+b8c9f54b6e.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/valiza-wings-gdw01-serednia-63l-bordova-gdw01-m-burgundy-90787681338250_+b54e9bfef3.png</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>Чемодан Wings GDW01 средний 63л бордовый (GDW01-M-Burgundy)</name>
-<name_ua>Валіза Wings GDW01 середня 63л бордова (GDW01-M-Burgundy)</name_ua>
+<name>Чемодан с ABS пластика Wings GDW01 средний 63л бордовый (GDW01-M-Burgundy)</name>
+<name_ua>Валіза з ABS пластику Wings GDW01 середня 63л бордова (GDW01-M-Burgundy)</name_ua>
 <vendor>Wings</vendor>
 <vendorCode>GDW01-M-Burgundy</vendorCode>
 <description>Розмір М - це універсальний вибір для подорожей середньої тривалості від 5 до 10 днів або одиночних поїздок, де важливо зберегти баланс між місткістю та компактністю. Валіза призначена для здачі в багажне відділення і є ідеальним компромісом для тих, хто не хоче везти велику валізу, але потребує достатньо місця для речей. Корпус із суміші ABS-пластику та полікарбонату поєднує в собі легкість та додаткову стійкість до механічних пошкоджень. Завдяки полікарбонату валіза краще переносить удари, а ABS-пластик забезпечує міцність конструкції, зберігаючи ваші речі в безпеці під час перельотів. Модель оснащена посиленими поворотними колесами, що забезпечують легкий хід і маневреність у чергах чи на терміналах. Для захисту багажу встановлено вбудований кодовий замок, а внутрішній простір організований з використанням надійних фіксаторів та перегородок. Вага завантаження становить 18-20 кг.</description>
@@ -6440,16 +6455,17 @@
 <price>1700</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/20/valiza-wings-gdw01-mala-38l-bordova-gdw01-s-burgundy-81205166938132_+3e8189f58c.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/20/valiza-wings-gdw01-mala-38l-bordova-gdw01-s-burgundy-21469976952516_+e05f2d043f.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/20/valiza-wings-gdw01-mala-38l-bordova-gdw01-s-burgundy-41040611843069_+c5c42f80ae.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/20/valiza-wings-gdw01-mala-38l-bordova-gdw01-s-burgundy-43564585399107_+5984acb4cf.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/20/valiza-wings-gdw01-mala-38l-bordova-gdw01-s-burgundy-28648001655042_+88d54b5655.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/20/valiza-wings-gdw01-mala-38l-bordova-gdw01-s-burgundy-79374075720864_+0547210e47.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/20/35387568293274_+b7f541d8d0.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/20/valiza-wings-gdw01-mala-38l-bordova-gdw01-s-burgundy-74172502819122_+049dcb9fc9.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/20/valiza-wings-gdw01-mala-38l-bordova-gdw01-s-burgundy-41009053417086_+d8591230dc.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/20/valiza-wings-gdw01-mala-38l-bordova-gdw01-s-burgundy-65234030933643_+8d17591f55.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/20/valiza-wings-gdw01-mala-38l-bordova-gdw01-s-burgundy-17517774351752_+775aecac32.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/20/valiza-wings-gdw01-mala-38l-bordova-gdw01-s-burgundy-68727194981912_+249c6fae3b.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/20/valiza-wings-gdw01-mala-38l-bordova-gdw01-s-burgundy-74034998262932_+aee3f109f3.png</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>Чемодан Wings GDW01 малый 38л бордовый (GDW01-S-Burgundy)</name>
-<name_ua>Валіза Wings GDW01 мала 38л бордова (GDW01-S-Burgundy)</name_ua>
+<name>Чемодан для ручной клади Wings GDW01 малый 38л бордовый (GDW01-S-Burgundy)</name>
+<name_ua>Валіза для ручної поклажі Wings GDW01 мала 38л бордова (GDW01-S-Burgundy)</name_ua>
 <vendor>Wings</vendor>
 <vendorCode>GDW01-S-Burgundy</vendorCode>
 <description>Розмір S - компактний варіант, що відповідає стандартам ручної поклажі більшості авіакомпаній. Це ідеальний вибір для коротких подорожей на 3&amp;ndash;5 днів, ділових відряджень або вікендів. Валіза виготовлена з комбінації ABS-пластику та полікарбонату, що поєднує в собі найкращі властивості обох матеріалів: жорсткість каркаса та підвищену стійкість до тріщин і механічних пошкоджень. Завдяки полікарбонату корпус стає більш еластичним, що дозволяє валізі краще витримувати навантаження та удари під час транспортування. Модель легко розміщується на верхніх полицях у салоні літака, поїзда чи автобуса. Валіза оснащена чотирма безшумними колесами, які обертаються на 360&amp;deg;, забезпечуючи легкість руху та максимальну маневреність. Для захисту ваших речей передбачено вбудований кодовий замок, а внутрішні ремені-фіксатори та перегородка на блискавці допоможуть ідеально організувати простір. Вага завантаження становить 12-15 кг.</description>
@@ -6472,16 +6488,17 @@
 <price>900</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/21/valiza-wings-gdw01-mini-28l-bordova-gdw01-xs-burgundy-17838233654094_+a093bb2b17.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/21/valiza-wings-gdw01-mini-28l-bordova-gdw01-xs-burgundy-56712702231145_+d1dcf11478.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/21/valiza-wings-gdw01-mini-28l-bordova-gdw01-xs-burgundy-18572371053099_+5855691148.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/21/valiza-wings-gdw01-mini-28l-bordova-gdw01-xs-burgundy-34817849170058_+7e5485f0dc.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/21/valiza-wings-gdw01-mini-28l-bordova-gdw01-xs-burgundy-95639740197958_+035c50fade.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/21/valiza-wings-gdw01-mini-28l-bordova-gdw01-xs-burgundy-49544339398565_+993148b203.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/21/86521499974185_+b297717ba3.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/21/valiza-wings-gdw01-mini-28l-bordova-gdw01-xs-burgundy-45521116377182_+cf72525d34.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/21/valiza-wings-gdw01-mini-28l-bordova-gdw01-xs-burgundy-62506183472505_+3a862be790.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/21/valiza-wings-gdw01-mini-28l-bordova-gdw01-xs-burgundy-62659058326654_+924a327a92.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/21/valiza-wings-gdw01-mini-28l-bordova-gdw01-xs-burgundy-26983441086594_+f045224576.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/21/valiza-wings-gdw01-mini-28l-bordova-gdw01-xs-burgundy-23937870404122_+ef2705151a.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/21/valiza-wings-gdw01-mini-28l-bordova-gdw01-xs-burgundy-96630652192033_+4fcaad4438.png</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>Чемодан Wings GDW01 мини 28л бордовый (GDW01-XS-Burgundy)</name>
-<name_ua>Валіза Wings GDW01 міні 28л бордова (GDW01-XS-Burgundy)</name_ua>
+<name>Чемодан для ручной клади Wings GDW01 мини 28л бордовый (GDW01-XS-Burgundy)</name>
+<name_ua>Валіза для ручної поклажі Wings GDW01 міні 28л бордова (GDW01-XS-Burgundy)</name_ua>
 <vendor>Wings</vendor>
 <vendorCode>GDW01-XS-Burgundy</vendorCode>
 <description>Розмір XS - ідеальний вибір для коротких поїздок на 1-3 дні, відряджень або як окрема валіза для дитини. Завдяки своїм надкомпактним габаритам, ця модель відповідає суворим вимогам до ручної поклажі більшості авіакомпаній (зокрема лоукостерів), дозволяючи тримати найцінніші речі завжди під рукою та суттєво економити на оплаті багажу. Головною перевагою моделі є знімні колеса. Ця функція дозволяє миттєво зменшити габарити валізи, щоб вона гарантовано помістилася в калібратор авіаліній або на тісну полицю над сидінням. Корпус із суміші ABS-пластику та полікарбонату забезпечує чудовий захист вмісту при мінімальній власній вазі. Полікарбонат додає гнучкості та стійкості до подряпин, а внутрішній простір із надійними фіксаторами допоможе акуратно розмістити гаджети, документи та необхідний одяг. Вага завантаження становить 5-7 кг.</description>
@@ -6669,7 +6686,7 @@
 <param name="Підходить для ручної поклажі">Так</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="TL096277-01-BC-Black" available="true" group_id="TL096277-01-BC-Black">
+<offer id="TL096277-01-BC-Black" available="false" group_id="TL096277-01-BC-Black">
 <url>https://sklad-valiz.com.ua/dorozhnia-sumka-tl096277-01-velyka-89l-chorna-tl096277-01-bc-black/</url>
 <price>3300</price>
 <currencyId>UAH</currencyId>
@@ -7001,6 +7018,7 @@
 </offer>
 <offer id="TL096339-20-XS-Blue" available="true" group_id="TL096339-20-XS-Blue">
 <url>https://sklad-valiz.com.ua/riukzak-dlia-ruchnoi-poklazhi-travelite-12l-synii-tl096339-20-xs-blue/</url>
+<salePrice>1976</salePrice>
 <price>2470</price>
 <currencyId>UAH</currencyId>
 <categoryId>1976</categoryId>
@@ -8706,7 +8724,7 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="49403-L-Champagne" available="true" group_id="49403-L-Champagne">
+<offer id="49403-L-Champagne" available="false" group_id="49403-L-Champagne">
 <url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-snowball-49403-velyka-113l-shampan-49403-l-champagne/</url>
 <price>5300</price>
 <currencyId>UAH</currencyId>
@@ -9142,7 +9160,7 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="42203-M-Silver" available="true" group_id="42203-M-Silver">
+<offer id="42203-M-Silver" available="false" group_id="42203-M-Silver">
 <url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-madisson-42203-serednia-68l-sribna-42203-m-silver/</url>
 <price>1950</price>
 <currencyId>UAH</currencyId>
