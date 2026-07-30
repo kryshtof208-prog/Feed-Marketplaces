@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-29 04:49">
+<yml_catalog date="2026-07-30 04:50">
 	<shop>
 		<name>Pen Shop</name>
 		<company>Бізнес Подарунки</company>
@@ -91,7 +91,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/22/30397239135649_+a5bb912723.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/22/45724430560275_+f714a537c6.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>19</stock_quantity>
+				<stock_quantity>18</stock_quantity>
 				<name>Ручка Parker Jotter 16 032</name>
 				<description><![CDATA[<p><b>Ручка Parker Jotter 16 032</b> — кулькова ручка колекції Jotter від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Сталь</li><li>Колір корпусу: Срібний</li><li>Оздоблення деталей: Позолота</li><li>Механізм: Натискний</li><li>Колір чорнил: Синій</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -145,7 +145,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/24/53271004301763_+3d154c7bd2.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/24/70190909891926_+9ad2bf4b94.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>3</stock_quantity>
 				<name>Ручка Parker Jotter 16 332</name>
 				<description><![CDATA[<p><b>Ручка Parker Jotter 16 332</b> — кулькова ручка колекції Jotter від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Сталь</li><li>Колір корпусу: Синій</li><li>Оздоблення деталей: Хром</li><li>Механізм: Натискний</li><li>Колір чорнил: Синій</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -340,7 +340,7 @@
 				<param name="Вес">0</param>
 				<param name="Цвет корпуса"><![CDATA[Коричневый]]></param>
 			</offer>
-			<offer available="false" id="22022"><article>22 022</article>
+			<offer available="true" id="22022"><article>22 022</article>
 				<url>https://img.pgift.workers.dev/ruchka-parker-im-22-022/</url>
 				<price>3295</price>
 				<currencyId>UAH</currencyId>
@@ -353,7 +353,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/32/60065454174949_+88f638cb83.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/32/94059260520880_+ce799e3808.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>0</stock_quantity>
+				<stock_quantity>4</stock_quantity>
 				<name>Ручка Parker IM 22 022</name>
 				<description><![CDATA[<p><b>Ручка Parker IM 22 022</b> — ручка-ролер колекції IM від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Латунь</li><li>Колір корпусу: Чорний</li><li>Оздоблення деталей: Позолота</li><li>Механізм: Ковпачок</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Ручка-роллер]]></param>
@@ -379,7 +379,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/33/18875679702158_+b788032a21.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/33/43061627547455_+7853a1b22d.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>3</stock_quantity>
 				<name>Ручка Parker IM 22 032</name>
 				<description><![CDATA[<p><b>Ручка Parker IM 22 032</b> — кулькова ручка колекції IM від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Латунь</li><li>Колір корпусу: Чорний</li><li>Оздоблення деталей: Позолота</li><li>Механізм: Натискний</li><li>Колір чорнил: Синій</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -393,7 +393,7 @@
 				<param name="Вес">0</param>
 				<param name="Цвет корпуса"><![CDATA[Черный]]></param>
 			</offer>
-			<offer available="true" id="22122"><article>22 122</article>
+			<offer available="false" id="22122"><article>22 122</article>
 				<url>https://img.pgift.workers.dev/ruchka-parker-im-22-122/</url>
 				<price>3052</price>
 				<currencyId>UAH</currencyId>
@@ -405,7 +405,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/34/50607541135433_+3f1381bef7.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/34/55394351578137_+2542f6e31c.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<name>Ручка Parker IM 22 122</name>
 				<description><![CDATA[<p><b>Ручка Parker IM 22 122</b> — ручка-ролер колекції IM від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Латунь</li><li>Колір корпусу: Чорний</li><li>Оздоблення деталей: Хром</li><li>Механізм: Ковпачок</li><li>Колір чорнил: Чорний</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Ручка-роллер]]></param>
@@ -474,7 +474,7 @@
 				<param name="Вес">0</param>
 				<param name="Цвет корпуса"><![CDATA[Серебристый]]></param>
 			</offer>
-			<offer available="false" id="22232"><article>22 232</article>
+			<offer available="true" id="22232"><article>22 232</article>
 				<url>https://img.pgift.workers.dev/ruchka-parker-im-22-232/</url>
 				<price>2419</price>
 				<currencyId>UAH</currencyId>
@@ -486,7 +486,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/37/62771701157556_+cb424462c7.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/37/72218731978442_+4b5adbdbca.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>0</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<name>Ручка Parker IM 22 232</name>
 				<description><![CDATA[<p><b>Ручка Parker IM 22 232</b> — кулькова ручка колекції IM від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Сталь</li><li>Колір корпусу: Срібний</li><li>Оздоблення деталей: Позолота</li><li>Механізм: Натискний</li><li>Колір чорнил: Синій</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -1327,7 +1327,7 @@
 				<param name="Вес">0</param>
 				<param name="Цвет корпуса"><![CDATA[Синий]]></param>
 			</offer>
-			<offer available="true" id="12232"><article>12 232</article>
+			<offer available="false" id="12232"><article>12 232</article>
 				<url>https://img.pgift.workers.dev/ruchka-parker-jotter-xl-12-232/</url>
 				<price>1723</price>
 				<currencyId>UAH</currencyId>
@@ -1338,7 +1338,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/20/25475886159448_+ba0e4c1bf0.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/20/26499400151146_+46d0184615.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<name>Ручка Parker Jotter XL 12 232</name>
 				<description><![CDATA[<p><b>Ручка Parker Jotter XL 12 232</b> — кулькова ручка колекції Jotter від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Сталь</li><li>Колір корпусу: Сірий</li><li>Оздоблення деталей: Хром</li><li>Механізм: Натискний</li><li>Колір чорнил: Синій</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -2005,7 +2005,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/46/62701739350303_+84304b9df8.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/46/14612953735706_+6e4e5d487a.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>9</stock_quantity>
+				<stock_quantity>10</stock_quantity>
 				<name>Ручка Parker Jotter 15 632</name>
 				<description><![CDATA[<p><b>Ручка Parker Jotter 15 632</b> — кулькова ручка колекції Jotter від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Сталь + Пластик</li><li>Колір корпусу: Чорний</li><li>Оздоблення деталей: Хром</li><li>Механізм: Натискний</li><li>Колір чорнил: Синій</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -2096,7 +2096,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/50/89971638810820_+974a152516.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/50/78292320384761_+5746623d45.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<name>Ручка Parker Jotter XL 12 632</name>
 				<description><![CDATA[<p><b>Ручка Parker Jotter XL 12 632</b> — кулькова ручка колекції Jotter від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Сталь</li><li>Колір корпусу: Рожевий</li><li>Оздоблення деталей: Позолота</li><li>Механізм: Натискний</li><li>Колір чорнил: Синій</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -2119,7 +2119,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/1/41619809785317_+8db7c67e62.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/1/21284147618211_+28a2c48867.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<name>Ручка Parker Jotter XL 12 732</name>
 				<description><![CDATA[<p><b>Ручка Parker Jotter XL 12 732</b> — кулькова ручка колекції Jotter від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Сталь</li><li>Колір корпусу: Срібний</li><li>Оздоблення деталей: Хром</li><li>Механізм: Натискний</li><li>Колір чорнил: Синій</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -2224,7 +2224,7 @@
 				<param name="Вес">0</param>
 				<param name="Цвет корпуса"><![CDATA[Серый]]></param>
 			</offer>
-			<offer available="true" id="22932"><article>22 932</article>
+			<offer available="false" id="22932"><article>22 932</article>
 				<url>https://img.pgift.workers.dev/ruchka-parker-im-22-932/</url>
 				<price>2327</price>
 				<currencyId>UAH</currencyId>
@@ -2232,7 +2232,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/6/58922817565845_+544da81515.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/6/74218438291860_+dfcecf48b5.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<name>Ручка Parker IM 22 932</name>
 				<description><![CDATA[<p><b>Ручка Parker IM 22 932</b> — кулькова ручка колекції IM від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Латунь</li><li>Колір корпусу: Чорний</li><li>Оздоблення деталей: Лак</li><li>Механізм: Натискний</li><li>Колір чорнил: Синій</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -2887,7 +2887,7 @@
 				<categoryId>6708</categoryId>
 				<picture>https://img.pgift.workers.dev/content/images/31/42205350277007_+c71cfefc7b.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>13</stock_quantity>
+				<stock_quantity>12</stock_quantity>
 				<name>Фірмовий щоденник A5 E027-05BK</name>
 				<description><![CDATA[<p><b>Фірмовий щоденник A5 E027-05BK</b> — щоденник колекції Класичні від Penman.</p><ul><li>Країна виробник: Україна</li><li>Матеріал: Штучна шкіра</li></ul>]]></description>
 				<param name="Высота в упаковке (длинная сторона, см)">203</param>
@@ -3565,7 +3565,7 @@
 				<param name="Вес">0</param>
 				<param name="Цвет корпуса"><![CDATA[Серый]]></param>
 			</offer>
-			<offer available="true" id="A53B-63BK"><article>A5 3B-63BK</article>
+			<offer available="false" id="A53B-63BK"><article>A5 3B-63BK</article>
 				<url>https://img.pgift.workers.dev/shodennik-nedatovanij-v-klitinku-a5-3b-63bk/</url>
 				<price>550</price>
 				<currencyId>UAH</currencyId>
@@ -3577,7 +3577,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/8/19445578704316_+34d3433a77.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/8/48908041767647_+01f6ea23ea.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<name>Щоденник недатований в клітинку A5 3B-63BK</name>
 				<description><![CDATA[<p><b>Щоденник недатований в клітинку A5 3B-63BK</b> — щоденник колекції Класичні від Penman.</p><ul><li>Країна виробник: Україна</li><li>Матеріал: Штучна шкіра</li></ul>]]></description>
 				<param name="Высота в упаковке (длинная сторона, см)">203</param>
@@ -3711,7 +3711,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/13/94860865187927_+3022f67e29.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/13/87628341007949_+d79bf01606.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>8</stock_quantity>
+				<stock_quantity>9</stock_quantity>
 				<name>Шкіряний щоденник A5 - ЗСУ E027-02BK-ZSU</name>
 				<description><![CDATA[<p><b>Шкіряний щоденник A5 - ЗСУ E027-02BK-ZSU</b> — щоденник колекції Захисникам від Penman.</p><ul><li>Країна виробник: Україна</li><li>Матеріал: Натуральна шкіра</li></ul>]]></description>
 				<param name="Высота в упаковке (длинная сторона, см)">203</param>
@@ -4059,7 +4059,7 @@
 				<param name="Вес">500</param>
 				<param name="Цвет обложки"><![CDATA[Черный]]></param>
 			</offer>
-			<offer available="false" id="A4E580-02BK"><article>A4 E580-02BK</article>
+			<offer available="true" id="A4E580-02BK"><article>A4 E580-02BK</article>
 				<url>https://img.pgift.workers.dev/shkiryanij-shodennik-a4-e580-02bk/</url>
 				<price>2680</price>
 				<currencyId>UAH</currencyId>
@@ -4067,7 +4067,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/27/47421891742030_+365cb0c3eb.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/27/41400578361981_+105a435d57.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>0</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<name>Шкіряний щоденник A4 E580-02BK</name>
 				<description><![CDATA[<p><b>Шкіряний щоденник A4 E580-02BK</b> — щоденник колекції Класичні від Penman.</p><ul><li>Країна виробник: Україна</li><li>Матеріал: Натуральна шкіра</li></ul>]]></description>
 				<param name="Высота в упаковке (длинная сторона, см)">305</param>
@@ -4215,7 +4215,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/34/20409441284394_+060ad68d53.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/34/77554975110530_+87c74aa080.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<name>Фірмовий Бізнес Органайзер A6 - Поліція 249028-05-BK-Police</name>
 				<description><![CDATA[<p><b>Фірмовий Бізнес Органайзер A6 - Поліція 249028-05-BK-Police</b> — органайзер колекції Поліція від Penman.</p><ul><li>Країна виробник: Україна</li><li>Матеріал: Штучна шкіра</li></ul>]]></description>
 				<param name="Высота в упаковке (длинная сторона, см)">194</param>
@@ -4313,7 +4313,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/38/27737060807964_+c047ece202.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/38/63751391824714_+87b590ff69.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>141</stock_quantity>
+				<stock_quantity>143</stock_quantity>
 				<name>Фірмовий щоденник A5 - Тризуб E027-05BK-Tryzub</name>
 				<description><![CDATA[<p><b>Фірмовий щоденник A5 - Тризуб E027-05BK-Tryzub</b> — щоденник колекції Державна символіка від Penman.</p><ul><li>Країна виробник: Україна</li><li>Матеріал: Штучна шкіра</li></ul>]]></description>
 				<param name="Высота в упаковке (длинная сторона, см)">203</param>
@@ -4670,7 +4670,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/5/29537077549487_+7867814683.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/5/61274418196181_+1f245330e2.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>8</stock_quantity>
+				<stock_quantity>10</stock_quantity>
 				<name>Фірмовий щоденник A5 - НГУ E027-05BK-NGU</name>
 				<description><![CDATA[<p><b>Фірмовий щоденник A5 - НГУ E027-05BK-NGU</b> — щоденник колекції Захисникам від Penman.</p><ul><li>Країна виробник: Україна</li><li>Матеріал: Штучна шкіра</li></ul>]]></description>
 				<param name="Высота в упаковке (длинная сторона, см)">203</param>
@@ -5055,7 +5055,7 @@
 				<param name="Вес">0</param>
 				<param name="Цвет корпуса"><![CDATA[Серый]]></param>
 			</offer>
-			<offer available="true" id="28032"><article>28 032</article>
+			<offer available="false" id="28032"><article>28 032</article>
 				<url>https://img.pgift.workers.dev/ruchka-parker-im-28-032/</url>
 				<price>2691</price>
 				<currencyId>UAH</currencyId>
@@ -5064,7 +5064,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/21/85489700231158_+08249568e1.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/21/99282036945140_+cadb31ca9b.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<name>Ручка Parker IM 28 032</name>
 				<description><![CDATA[<p><b>Ручка Parker IM 28 032</b> — кулькова ручка колекції IM від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Латунь</li><li>Колір корпусу: Сірий</li><li>Оздоблення деталей: PVD - оздоблення</li><li>Механізм: Натискний</li><li>Колір чорнил: Синій</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -5428,7 +5428,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/35/50493314205375_+ba5c5ea56b.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/35/77545169844126_+79032f0437.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>37</stock_quantity>
+				<stock_quantity>39</stock_quantity>
 				<name>Ручка Parker Jotter 79 032</name>
 				<description><![CDATA[<p><b>Ручка Parker Jotter 79 032</b> — кулькова ручка колекції Jotter від Parker.</p><ul><li>Країна виробник: Франція</li><li>Матеріал корпусу: Сталь + Пластик</li><li>Колір корпусу: Чорний</li><li>Оздоблення деталей: Хром</li><li>Механізм: Натискний</li><li>Колір чорнил: Синій</li><li>Гарантія: 2 роки</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -6824,7 +6824,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/46/79437046516007_+d6a6f30099.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/46/51229582291151_+164594b6e1.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>115</stock_quantity>
+				<stock_quantity>116</stock_quantity>
 				<name>Ручка Penman PM132</name>
 				<description><![CDATA[<p><b>Ручка Penman PM132</b> — кулькова ручка колекції Penman від Penman.</p><ul><li>Країна виробник: Україна</li><li>Матеріал корпусу: Сталь</li><li>Колір корпусу: Чорний</li><li>Оздоблення деталей: Лак</li><li>Механізм: Поворотний</li><li>Колір чорнил: Блакитний</li></ul>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -7548,7 +7548,7 @@
 				<categoryId>6708</categoryId>
 				<picture>https://img.pgift.workers.dev/content/images/27/41018434221058_+444d12849a.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>11</stock_quantity>
+				<stock_quantity>12</stock_quantity>
 				<name>Шкіряний щоденник A5 E027-02BK-ns</name>
 				<description><![CDATA[<p>Шкіряний щоденник A5 E027-02BK-ns</p>]]></description>
 				<param name="Высота в упаковке (длинная сторона, см)">203</param>
@@ -7771,14 +7771,14 @@
 				<param name="Вес">0</param>
 				<param name="Цвет корпуса"><![CDATA[Сиреневый]]></param>
 			</offer>
-			<offer available="false" id="A53B-43BK-Nebraska"><article>A5 3B-43BK-Nebraska</article>
+			<offer available="true" id="A53B-43BK-Nebraska"><article>A5 3B-43BK-Nebraska</article>
 				<url>https://img.pgift.workers.dev/shodennik-nedatovanij-a5-3b-43bk-nebraska/</url>
 				<price>550</price>
 				<currencyId>UAH</currencyId>
 				<categoryId>6708</categoryId>
 				<picture>https://img.pgift.workers.dev/content/images/36/75770298838555_+ffafed14cc.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>0</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<name>Щоденник недатований A5 3B-43BK-Nebraska</name>
 				<description><![CDATA[<p>Щоденник недатований A5 3B-43BK-Nebraska</p>]]></description>
 				<param name="Высота в упаковке (длинная сторона, см)">203</param>
@@ -7915,7 +7915,7 @@
 				<categoryId>9025</categoryId>
 				<picture>https://img.pgift.workers.dev/content/images/42/17228952358263_+7d30340a77.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>45</stock_quantity>
+				<stock_quantity>54</stock_quantity>
 				<name>Металева ручка ‎MCNTEIK чорна ‎2024BK01</name>
 				<description><![CDATA[<p>Металева ручка ‎MCNTEIK чорна ‎2024BK01</p>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -7959,7 +7959,7 @@
 				<categoryId>9025</categoryId>
 				<picture>https://img.pgift.workers.dev/content/images/44/83422508575796_+cb05bdcd99.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>17</stock_quantity>
+				<stock_quantity>19</stock_quantity>
 				<name>Металева ручка Cheericome срібна BZB-A-Silver</name>
 				<description><![CDATA[<p>Металева ручка Cheericome срібна BZB-A-Silver</p>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -7980,7 +7980,7 @@
 				<categoryId>9025</categoryId>
 				<picture>https://img.pgift.workers.dev/content/images/46/57938667913204_+4afcc588d0.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>19</stock_quantity>
+				<stock_quantity>14</stock_quantity>
 				<name>Металева ручка ‎LINFANC (‎LF-5026)</name>
 				<description><![CDATA[<p>Металева ручка ‎LINFANC (‎LF-5026)</p>]]></description>
 				<param name="Тип"><![CDATA[Шариковые]]></param>
@@ -8061,7 +8061,7 @@
 				<param name="Вес">0</param>
 				<param name="Цвет обложки"><![CDATA[Сиреневый]]></param>
 			</offer>
-			<offer available="false" id="SET01-PM"><article>SET01-PM</article>
+			<offer available="true" id="SET01-PM"><article>SET01-PM</article>
 				<url>https://img.pgift.workers.dev/podarunkovij-nabir-2-v-1-set01-pm/</url>
 				<price>1420</price>
 				<currencyId>UAH</currencyId>
@@ -8072,7 +8072,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/6/86036964327553_+d3585e39d0.png</picture>
 				<picture>https://img.pgift.workers.dev/content/images/6/68054573188462_+b057f73e70.png</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>0</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<name>Подарунковий набір 2 в 1 SET01-PM</name>
 				<description><![CDATA[<p>Подарунковий набір 2 в 1 SET01-PM :</p> <p>- Щоденник з гравіюванням</p> <p>- Ручка металева <br>- Подарункове пакування</p>]]></description>
 				<param name="Тип"><![CDATA[Подарунковий набір]]></param>
@@ -8092,7 +8092,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/7/47497325259731_+20e65f769d.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/7/72696139315060_+e8efc64599.jpg</picture>
 				<vendor>Penman</vendor>
-				<stock_quantity>34</stock_quantity>
+				<stock_quantity>44</stock_quantity>
 				<name>Подарунковий набір 3 в 1 SET02-PM</name>
 				<description><![CDATA[Подарунковий набір 3 в 1 SET02-PM: <br>- Щоденник з гравіюванням <br>- Ручка металева <br>- Брелок шкіряний <br>- Подарункове пакування]]></description>
 				<param name="Тип"><![CDATA[Подарунковий набір]]></param>
@@ -10274,7 +10274,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/40/24495492689157_+7ece85f84b.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/40/15822119863911_+777cd65c6a.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>10</stock_quantity>
+				<stock_quantity>9</stock_quantity>
 				<name>Конвертор Parker de Luxe 11 800</name>
 				<description><![CDATA[Конвертор Parker de Luxe 11 800]]></description>
 				<param name="Тип"><![CDATA[Конвертеры для чернил]]></param>
@@ -10290,7 +10290,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/41/82364248378552_+644874b1da.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/41/44837723331281_+748661ef95.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>16</stock_quantity>
+				<stock_quantity>14</stock_quantity>
 				<name>Чорнило чорне Parker Quink 11 010BK</name>
 				<description><![CDATA[Чорнило чорне Parker Quink 11 010BK]]></description>
 				<param name="Тип"><![CDATA[Чернила]]></param>
@@ -10324,7 +10324,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/43/29625882004365_+cfcae693d7.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/43/27112047015896_+2cb88500e4.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<name>Чорнило темно-синє Parker Quink 11 010BLB</name>
 				<description><![CDATA[Чорнило темно-синє Parker Quink 11 010BLB]]></description>
 				<param name="Тип"><![CDATA[Чернила]]></param>
@@ -10340,7 +10340,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/44/52429527936737_+0c51a43dce.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/44/36881096101096_+5bbc6102da.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>17</stock_quantity>
+				<stock_quantity>12</stock_quantity>
 				<name>Картриджі чорні Parker Quink 11 410BK</name>
 				<description><![CDATA[Картриджі чорні Parker Quink 11 410BK]]></description>
 				<param name="Тип"><![CDATA[Чернильные картриджи]]></param>
@@ -10356,7 +10356,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/45/67422115600556_+3b1c08fe7a.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/45/72141912117203_+43ea362461.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>16</stock_quantity>
+				<stock_quantity>10</stock_quantity>
 				<name>Картриджі сині Parker Quink 11 410BLU</name>
 				<description><![CDATA[Картриджі сині Parker Quink 11 410BLU]]></description>
 				<param name="Тип"><![CDATA[Чернильные картриджи]]></param>
@@ -10372,7 +10372,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/46/25688850674673_+692db51bb0.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/46/26565471834734_+28f7a5cf3b.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>9</stock_quantity>
+				<stock_quantity>6</stock_quantity>
 				<name>Картриджі темно-сині Parker Quink 11 410BLB</name>
 				<description><![CDATA[Картриджі темно-сині Parker Quink 11 410BLB]]></description>
 				<param name="Тип"><![CDATA[Чернильные картриджи]]></param>
@@ -10389,7 +10389,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/47/16673688040599_+746c08e499.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/47/23407044279352_+b23acd6e57.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>33</stock_quantity>
+				<stock_quantity>32</stock_quantity>
 				<name>Стержень кульковий чорний Parker QuinkFlow F 10 231BK</name>
 				<description><![CDATA[Стержень кульковий чорний Parker QuinkFlow F 10 231BK]]></description>
 				<param name="Тип"><![CDATA[Стержни шариковые]]></param>
@@ -10406,7 +10406,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/48/24084537058477_+7e44d8d710.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/48/17952775592630_+165885b273.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>9</stock_quantity>
+				<stock_quantity>4</stock_quantity>
 				<name>Стержень кульковий синій Parker QuinkFlow F 10 231BLU</name>
 				<description><![CDATA[Стержень кульковий синій Parker QuinkFlow F 10 231BLU]]></description>
 				<param name="Тип"><![CDATA[Стержни шариковые]]></param>
@@ -10431,7 +10431,7 @@
 				<param name="Страна-производитель товара"><![CDATA[Франция]]></param>
 				<param name="Вес">0</param>
 			</offer>
-			<offer available="false" id="10332BLU"><article>10 332BLU</article>
+			<offer available="true" id="10332BLU"><article>10 332BLU</article>
 				<url>https://img.pgift.workers.dev/sterzhen-kulkovyi-synii-parker-gel-m-10-332blu-gelevyi-10-332blu/</url>
 				<price>417</price>
 				<currencyId>UAH</currencyId>
@@ -10440,7 +10440,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/50/22460700928616_+161d38aaa8.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/50/31210773819119_+2e73397d4e.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>0</stock_quantity>
+				<stock_quantity>9</stock_quantity>
 				<name>Стержень кульковий синій Parker GEL M 10 332BLU - гелевий</name>
 				<description><![CDATA[Стержень кульковий синій Parker GEL M 10 332BLU - гелевий]]></description>
 				<param name="Тип"><![CDATA[Стержни шариковые]]></param>
@@ -10490,7 +10490,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/3/20095651704641_+4b796dbd1c.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/3/59602127181830_+198d356f54.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>67</stock_quantity>
+				<stock_quantity>66</stock_quantity>
 				<name>Стержень капілярний синій Parker 10 122BLU</name>
 				<description><![CDATA[Стержень капілярний синій Parker 10 122BLU]]></description>
 				<param name="Тип"><![CDATA[Стержни шариковые]]></param>
@@ -10538,7 +10538,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/6/16148496720327_+1c0a7627ce.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/6/65581701245552_+2ffe058b5b.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>5</stock_quantity>
 				<name>Стержень капілярний чорний Parker 10 121BK1</name>
 				<description><![CDATA[<p>Стержень капілярний чорний Parker 10 121BK1</p>]]></description>
 				<param name="Тип"><![CDATA[Стержни шариковые]]></param>
@@ -10586,7 +10586,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/9/69779674131862_+7429c2ab7d.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/9/90707228234278_+118fe99003.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>12</stock_quantity>
+				<stock_quantity>11</stock_quantity>
 				<name>Стержень капілярний синій Parker 10 121BLU1</name>
 				<description><![CDATA[<p>Стержень капілярний синій Parker 10 121BLU1</p>]]></description>
 				<param name="Тип"><![CDATA[Стержни шариковые]]></param>
@@ -10821,7 +10821,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/23/66115366487301_+b4f8848aae.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/23/94486978541051_+8033c1b85c.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>909</stock_quantity>
+				<stock_quantity>879</stock_quantity>
 				<name>Стержень кульковий синій Parker QuinkFlow M 10 232BLU</name>
 				<description><![CDATA[<p>Стержень кульковий синій Parker QuinkFlow M 10 232BLU</p>]]></description>
 				<param name="Тип"><![CDATA[Стержни шариковые]]></param>
@@ -10906,7 +10906,7 @@
 				<picture>https://img.pgift.workers.dev/content/images/28/84031677239537_+f52db4a322.jpg</picture>
 				<picture>https://img.pgift.workers.dev/content/images/28/99409284984891_+31d47d6c54.jpg</picture>
 				<vendor>Parker</vendor>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>5</stock_quantity>
 				<name>Стержні кулькові чорні Parker M 2шт 10 262BK2</name>
 				<description><![CDATA[<p>Стержні кулькові чорні Parker M 2шт 10 262BK2</p>]]></description>
 				<param name="Тип"><![CDATA[Стержни шариковые]]></param>
