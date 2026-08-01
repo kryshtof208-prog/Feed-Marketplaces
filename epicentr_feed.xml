@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-01 00:11">
+<yml_catalog date="2026-08-01 06:11">
   <offers>
     <offer id="33703-L-Black" available="true">
       <name lang="ru">Чемодан с полипропилена Snowball 33703 большой 101л черный (33703-L-Black)</name>
@@ -607,46 +607,6 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="AVC01-L-Grey" available="false">
-      <name lang="ru">Чемодан Wings AVC01 большой 97л серый (AVC01-L-Grey)</name>
-      <name lang="ua">Валіза Wings AVC01 велика 97л сіра (AVC01-L-Grey)</name>
-      <price>3050</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
-      <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Wings AVC01 большой 97л серый (AVC01-L-Grey)</description>
-      <description lang="ua">Валіза Wings AVC01 велика 97л сіра (AVC01-L-Grey)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/34/86108686984771_+8d2aa35b08.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
-      <param name="Матеріал" paramcode="52" valuecode="gaslt0maz3oaouua">поліестер</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
-      <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
-      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
-      <param name="Об'єм" paramcode="104">97</param>
-      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <height>750</height>
-      <param name="Висота" paramcode="110">75</param>
-      <width>500</width>
-      <param name="Ширина" paramcode="111">50</param>
-      <length>300</length>
-      <param name="Глибина" paramcode="112">30</param>
-      <weight>4000</weight>
-      <param name="Вага" paramcode="150">4</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
     <offer id="CKT01-L-LightBlue" available="true">
       <name lang="ru">Чемодан Wings COCKATIEL большой голубой (CKT01-L-LightBlue)</name>
       <name lang="ua">Валіза Wings COCKATIEL велика блакитна (CKT01-L-LightBlue)</name>
@@ -1204,7 +1164,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="WN01-L-RoseGold" available="false">
+    <offer id="WN01-L-RoseGold" available="true">
       <name lang="ru">Чемодан Wings WN01 большой 97л розовое золото (WN01-L-RoseGold)</name>
       <name lang="ua">Валіза Wings WN01 велика 97л рожеве золото (WN01-L-RoseGold)</name>
       <price>2063</price>
@@ -2092,7 +2052,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="HWF01-M-Champagne" available="false">
+    <offer id="HWF01-M-Champagne" available="true">
       <name lang="ru">Чемодан Wings HWF01 средний 63л шампань (HWF01-M-Champagne)</name>
       <name lang="ua">Валіза Wings HWF01 середня 63л шампань (HWF01-M-Champagne)</name>
       <price>2800</price>
@@ -3714,7 +3674,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="WN01-S-RoseGold" available="false">
+    <offer id="WN01-S-RoseGold" available="true">
       <name lang="ru">Чемодан Wings WN01 малый 38л розовое золото (WN01-S-RoseGold)</name>
       <name lang="ua">Валіза Wings WN01 мала 38л рожеве золото (WN01-S-RoseGold)</name>
       <price>1373</price>
@@ -5020,7 +4980,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="Kaiman-XS-White" available="false">
+    <offer id="Kaiman-XS-White" available="true">
       <name lang="ru">Чемодан для лоукоста Wizzair Kaiman мини 24л белый (Kaiman-XS-White)</name>
       <name lang="ua">Валіза для лоукосту Wizzair Kaiman міні 24л біла (Kaiman-XS-White)</name>
       <price>1700</price>
@@ -6176,8 +6136,8 @@
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
     <offer id="2501-L-Coffe" available="false">
-      <name lang="ru">Чемодан Wings 2501 большой 97л кофейный (2501-L-Coffe)</name>
-      <name lang="ua">Валіза Wings 2501 велика 97л кавова (2501-L-Coffe)</name>
+      <name lang="ru">Чемодан с расширением Wings 2501 большой 97л кофейный (2501-L-Coffe)</name>
+      <name lang="ua">Валіза з розширенням Wings 2501 велика 97л кавова (2501-L-Coffe)</name>
       <price>3100</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
@@ -6185,9 +6145,15 @@
       <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
       <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Wings 2501 большой 97л кофейный (2501-L-Coffe)</description>
-      <description lang="ua">Валіза Wings 2501 велика 97л кавова (2501-L-Coffe)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-wings-2501-velyka-97l-kavova-2501-l-coffe-96981352797311_+cf7154ade8.jpg</picture>
+      <description lang="ru">Чемодан с расширением Wings 2501 большой 97л кофейный (2501-L-Coffe)</description>
+      <description lang="ua">Валіза з розширенням Wings 2501 велика 97л кавова (2501-L-Coffe)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-wings-2501-velyka-97l-kavova-2501-l-coffe-18541763946120_+1a2a09c223.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-wings-2501-velyka-97l-kavova-2501-l-coffe-13798161231390_+c9945af8ca.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-wings-2501-velyka-97l-kavova-2501-l-coffe-73600391546396_+c08d870365.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-wings-2501-velyka-97l-kavova-2501-l-coffe-31956376265880_+162a050b73.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-wings-2501-velyka-97l-kavova-2501-l-coffe-36932052642222_+fe37ec7efb.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-wings-2501-velyka-97l-kavova-2501-l-coffe-99200934203913_+bb050a1dfc.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-wings-2501-velyka-97l-kavova-2501-l-coffe-18586419953870_+7e00438ad0.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
       <param name="Матеріал" paramcode="52" valuecode="gaslt0maz3oaouua">поліестер</param>
@@ -6216,8 +6182,8 @@
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
     <offer id="2501-L-Grey" available="true">
-      <name lang="ru">Чемодан Wings 2501 большой 97л серый (2501-L-Grey)</name>
-      <name lang="ua">Валіза Wings 2501 велика 97л сіра (2501-L-Grey)</name>
+      <name lang="ru">Чемодан с расширением Wings 2501 большой 97л серый (2501-L-Grey)</name>
+      <name lang="ua">Валіза з розширенням Wings 2501 велика 97л сіра (2501-L-Grey)</name>
       <price>3100</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
@@ -6225,9 +6191,15 @@
       <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
       <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Wings 2501 большой 97л серый (2501-L-Grey)</description>
-      <description lang="ua">Валіза Wings 2501 велика 97л сіра (2501-L-Grey)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-2501-velyka-97l-sira-2501-l-grey-93617058977170_+92b099a755.jpg</picture>
+      <description lang="ru">Чемодан с расширением Wings 2501 большой 97л серый (2501-L-Grey)</description>
+      <description lang="ua">Валіза з розширенням Wings 2501 велика 97л сіра (2501-L-Grey)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-2501-velyka-97l-sira-2501-l-grey-14888204004556_+e598804474.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-2501-velyka-97l-sira-2501-l-grey-37563741186689_+081555f2fc.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-2501-velyka-97l-sira-2501-l-grey-96486865399304_+510047368f.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-2501-velyka-97l-sira-2501-l-grey-37460223297518_+fb51d5f852.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-2501-velyka-97l-sira-2501-l-grey-73741413164456_+c419af6cf1.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-2501-velyka-97l-sira-2501-l-grey-77337984965563_+517d9a28de.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-2501-velyka-97l-sira-2501-l-grey-48248291584563_+7f0d31cbf6.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
       <param name="Матеріал" paramcode="52" valuecode="gaslt0maz3oaouua">поліестер</param>
@@ -6302,8 +6274,8 @@
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
     <offer id="2501-M-Coffe" available="false">
-      <name lang="ru">Чемодан Wings 2501 средний 63л кофейный (2501-M-Coffe)</name>
-      <name lang="ua">Валіза Wings 2501 середня 63л кавова (2501-M-Coffe)</name>
+      <name lang="ru">Чемодан с расширением Wings 2501 средний 63л кофейный (2501-M-Coffe)</name>
+      <name lang="ua">Валіза з розширенням Wings 2501 середня 63л кавова (2501-M-Coffe)</name>
       <price>2900</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
@@ -6311,9 +6283,15 @@
       <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
       <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Wings 2501 средний 63л кофейный (2501-M-Coffe)</description>
-      <description lang="ua">Валіза Wings 2501 середня 63л кавова (2501-M-Coffe)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-2501-serednia-63l-kavova-2501-m-coffe-58765838071733_+9ce49affdf.jpg</picture>
+      <description lang="ru">Чемодан с расширением Wings 2501 средний 63л кофейный (2501-M-Coffe)</description>
+      <description lang="ua">Валіза з розширенням Wings 2501 середня 63л кавова (2501-M-Coffe)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-2501-serednia-63l-kavova-2501-m-coffe-99977490623150_+b1252aa1a7.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-2501-serednia-63l-kavova-2501-m-coffe-71728028155775_+a5a4a8ee96.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-2501-serednia-63l-kavova-2501-m-coffe-71462756513455_+e7f3892bfb.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-2501-serednia-63l-kavova-2501-m-coffe-17697867709103_+c3efa1ef5e.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-2501-serednia-63l-kavova-2501-m-coffe-21136682720584_+5476505565.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-2501-serednia-63l-kavova-2501-m-coffe-38208201349555_+371b92f6ef.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-2501-serednia-63l-kavova-2501-m-coffe-41620986105504_+f0d891690f.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
       <param name="Матеріал" paramcode="52" valuecode="gaslt0maz3oaouua">поліестер</param>
@@ -6342,8 +6320,8 @@
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
     <offer id="2501-M-Grey" available="false">
-      <name lang="ru">Чемодан Wings 2501 средний 63л серый (2501-M-Grey)</name>
-      <name lang="ua">Валіза Wings 2501 середня 63л сіра (2501-M-Grey)</name>
+      <name lang="ru">Чемодан с расширением Wings 2501 средний 63л серый (2501-M-Grey)</name>
+      <name lang="ua">Валіза з розширенням Wings 2501 середня 63л сіра (2501-M-Grey)</name>
       <price>2900</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
@@ -6351,9 +6329,15 @@
       <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
       <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Wings 2501 средний 63л серый (2501-M-Grey)</description>
-      <description lang="ua">Валіза Wings 2501 середня 63л сіра (2501-M-Grey)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-2501-serednia-63l-sira-2501-m-grey-48935304402588_+fb08eb12b9.jpg</picture>
+      <description lang="ru">Чемодан с расширением Wings 2501 средний 63л серый (2501-M-Grey)</description>
+      <description lang="ua">Валіза з розширенням Wings 2501 середня 63л сіра (2501-M-Grey)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-2501-serednia-63l-sira-2501-m-grey-77358963123394_+188969c1ec.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-2501-serednia-63l-sira-2501-m-grey-20900284814048_+852c68565f.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-2501-serednia-63l-sira-2501-m-grey-39097486131161_+719ac80d53.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-2501-serednia-63l-sira-2501-m-grey-55664134004415_+71234357c1.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-2501-serednia-63l-sira-2501-m-grey-47442535171919_+c6a9de46ff.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-2501-serednia-63l-sira-2501-m-grey-80105516976155_+396b1999a4.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-2501-serednia-63l-sira-2501-m-grey-66536314007449_+9c1337257d.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
       <param name="Матеріал" paramcode="52" valuecode="gaslt0maz3oaouua">поліестер</param>
@@ -6428,8 +6412,8 @@
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
     <offer id="2501-S-Coffe" available="true">
-      <name lang="ru">Чемодан Wings 2501 малый 38л кофейный (2501-S-Coffe)</name>
-      <name lang="ua">Валіза Wings 2501 мала 38л кавова (2501-S-Coffe)</name>
+      <name lang="ru">Чемодан с расширением Wings 2501 малый 38л кофейный (2501-S-Coffe)</name>
+      <name lang="ua">Валіза з розширенням Wings 2501 мала 38л кавова (2501-S-Coffe)</name>
       <price>1700</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
@@ -6437,9 +6421,14 @@
       <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
       <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Wings 2501 малый 38л кофейный (2501-S-Coffe)</description>
-      <description lang="ua">Валіза Wings 2501 мала 38л кавова (2501-S-Coffe)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/15/valiza-wings-2501-mala-38l-kavova-2501-s-coffe-67026112295232_+32eff986b0.jpg</picture>
+      <description lang="ru">Чемодан с расширением Wings 2501 малый 38л кофейный (2501-S-Coffe)</description>
+      <description lang="ua">Валіза з розширенням Wings 2501 мала 38л кавова (2501-S-Coffe)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/15/valiza-wings-2501-mala-38l-kavova-2501-s-coffe-82305513339279_+cb28219f1f.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/15/valiza-wings-2501-mala-38l-kavova-2501-s-coffe-93898386706170_+8dc8b32906.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/15/valiza-wings-2501-mala-38l-kavova-2501-s-coffe-56746054976214_+c54a4db854.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/15/valiza-wings-2501-mala-38l-kavova-2501-s-coffe-46536593594021_+fb7a650231.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/15/valiza-wings-2501-mala-38l-kavova-2501-s-coffe-76619676102032_+bc1050e353.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/15/valiza-wings-2501-mala-38l-kavova-2501-s-coffe-22499805331775_+95ff2663a6.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
       <param name="Матеріал" paramcode="52" valuecode="gaslt0maz3oaouua">поліестер</param>
@@ -6468,8 +6457,8 @@
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
     <offer id="2501-S-Grey" available="true">
-      <name lang="ru">Чемодан Wings 2501 малый 38л серый (2501-S-Grey)</name>
-      <name lang="ua">Валіза Wings 2501 мала 38л сіра (2501-S-Grey)</name>
+      <name lang="ru">Чемодан с расширением Wings 2501 малый 38л серый (2501-S-Grey)</name>
+      <name lang="ua">Валіза з розширенням Wings 2501 мала 38л сіра (2501-S-Grey)</name>
       <price>1700</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
@@ -6477,9 +6466,14 @@
       <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
       <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Wings 2501 малый 38л серый (2501-S-Grey)</description>
-      <description lang="ua">Валіза Wings 2501 мала 38л сіра (2501-S-Grey)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-wings-2501-mala-38l-sira-2501-s-grey-90870914815519_+ce304896f2.jpg</picture>
+      <description lang="ru">Чемодан с расширением Wings 2501 малый 38л серый (2501-S-Grey)</description>
+      <description lang="ua">Валіза з розширенням Wings 2501 мала 38л сіра (2501-S-Grey)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-wings-2501-mala-38l-sira-2501-s-grey-77916830090018_+b99868cc1d.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-wings-2501-mala-38l-sira-2501-s-grey-35284435257661_+d4b2bdccc5.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-wings-2501-mala-38l-sira-2501-s-grey-58080896660898_+b3e68abab4.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-wings-2501-mala-38l-sira-2501-s-grey-61287980308765_+b7f44d7f04.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-wings-2501-mala-38l-sira-2501-s-grey-79290445415823_+38fae43e27.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-wings-2501-mala-38l-sira-2501-s-grey-26188777297550_+4196a903ae.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
       <param name="Матеріал" paramcode="52" valuecode="gaslt0maz3oaouua">поліестер</param>
@@ -8051,7 +8045,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="Bear-XS-Green" available="true">
+    <offer id="Bear-XS-Green" available="false">
       <name lang="ru">Рюкзак для ручной клади Bear 30л зеленый (Bear-XS-Green)</name>
       <name lang="ua">Рюкзак для ручної поклажі Bear 30л зелений (Bear-XS-Green)</name>
       <price>1400</price>
@@ -8473,7 +8467,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="2011-M-Black" available="false">
+    <offer id="2011-M-Black" available="true">
       <name lang="ru">Чемодан с поликарбоната Wings 2011 средний 63л черный (2011-M-Black)</name>
       <name lang="ua">Валіза з полікарбонату Wings 2011 середня 63л чорна (2011-M-Black)</name>
       <price>2200</price>
@@ -9630,7 +9624,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="42203-3-DarkBlue" available="false">
+    <offer id="42203-3-DarkBlue" available="true">
       <name lang="ru">Набор чемоданов Madisson 42203 3в1 темно-синий (42203-3-DarkBlue)</name>
       <name lang="ua">Набір валіз Madisson 42203 3в1 темно-синій (42203-3-DarkBlue)</name>
       <price>4660</price>
@@ -10348,7 +10342,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="33703-L-White" available="false">
+    <offer id="33703-L-White" available="true">
       <name lang="ru">Чемодан из полипропилена Snowball 33703 большой 101л белый (33703-L-White)</name>
       <name lang="ua">Валіза з поліпропілену Snowball 33703 велика 101л біла (33703-L-White)</name>
       <price>3150</price>
@@ -10486,7 +10480,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="33703-M-White" available="false">
+    <offer id="33703-M-White" available="true">
       <name lang="ru">Чемодан из полипропилена Snowball 33703 средний 69л белый (33703-M-White)</name>
       <name lang="ua">Валіза з поліпропілену Snowball 33703 середня 69л біла (33703-M-White)</name>
       <price>3100</price>
@@ -11962,7 +11956,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="2011-L-Coffee" available="false">
+    <offer id="2011-L-Coffee" available="true">
       <name lang="ru">Чемодан Wings 2011 большой 97л кофейный (2011-L-Coffee)</name>
       <name lang="ua">Валіза Wings 2011 велика 97л кавова (2011-L-Coffee)</name>
       <price>2300</price>
@@ -12002,7 +11996,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="2011-M-Coffee" available="false">
+    <offer id="2011-M-Coffee" available="true">
       <name lang="ru">Чемодан Wings 2011 средний 63л кофейный (2011-M-Coffee)</name>
       <name lang="ua">Валіза Wings 2011 середня 63л кавова (2011-M-Coffee)</name>
       <price>2200</price>
@@ -14110,7 +14104,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="20303-M-Black" available="false">
+    <offer id="20303-M-Black" available="true">
       <name lang="ru">Чемодан с расширением Snowball 20303 средний 71л черный (20303-M-Black)</name>
       <name lang="ua">Валіза з розширенням Snowball 20303 середня 71л чорна (20303-M-Black)</name>
       <price>4300</price>
@@ -14156,7 +14150,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="20303-L-Black" available="false">
+    <offer id="20303-L-Black" available="true">
       <name lang="ru">Чемодан с расширением Snowball 20303 большой 108л черный (20303-L-Black)</name>
       <name lang="ua">Валіза з розширенням Snowball 20303 велика 108л чорна (20303-L-Black)</name>
       <price>4400</price>
@@ -14317,7 +14311,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="2011-M-Champagne" available="false">
+    <offer id="2011-M-Champagne" available="true">
       <name lang="ru">Чемодан Wings 2011 средний 63л шампань (2011-M-Champagne)</name>
       <name lang="ua">Валіза Wings 2011 середня 63л шампань (2011-M-Champagne)</name>
       <price>2200</price>
@@ -14556,7 +14550,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="GDW01-XS-Dark-blue" available="false">
+    <offer id="GDW01-XS-Dark-blue" available="true">
       <name lang="ru">Чемодан для ручной клади Wings GDW01 мини 28л синий (GDW01-XS-Dark-blue)</name>
       <name lang="ua">Валіза для ручної поклажі Wings GDW01 міні 28л синя (GDW01-XS-Dark-blue)</name>
       <price>900</price>
@@ -14797,7 +14791,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="131-M-Black" available="false">
+    <offer id="131-M-Black" available="true">
       <name lang="ru">Чемодан с полипропилена Fashion 131 средний 62л черный (131-M-Black)</name>
       <name lang="ua">Валіза з поліпропілену Fashion 131 середня 62л чорна (131-M-Black)</name>
       <price>2050</price>
@@ -16193,7 +16187,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="42203-M-Dark-green" available="true">
+    <offer id="42203-M-Dark-green" available="false">
       <name lang="ru">Чемодан с расширением Madisson 42203 средний 68л зеленый (42203-M-Dark-green)</name>
       <name lang="ua">Валіза з розширенням Madisson 42203 середня 68л зелена (42203-M-Dark-green)</name>
       <price>1950</price>
