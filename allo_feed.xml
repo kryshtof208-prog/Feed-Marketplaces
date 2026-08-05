@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-05 12:16">
+<yml_catalog date="2026-08-05 18:16">
 <shop>
 <name>Sklad Valiz</name>
 <company>Sklad Valiz</company>
@@ -110,7 +110,7 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="33703-L-White" available="false" group_id="33703-L-White">
+<offer id="33703-L-White" available="true" group_id="33703-L-White">
 <url>https://sklad-valiz.com.ua/valiza-snowball-33703-velyka-101l-bila-33703-l-white/</url>
 <price>3150</price>
 <currencyId>UAH</currencyId>
@@ -936,7 +936,7 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="WN01-L-Creme-ABS" available="false" group_id="WN01-L-Creme-ABS">
+<offer id="WN01-L-Creme-ABS" available="true" group_id="WN01-L-Creme-ABS">
 <url>https://sklad-valiz.com.ua/valiza-wings-wn01-velyka-108l-kremova-wn01-l-creme-abs/</url>
 <salePrice>2063</salePrice>
 <price>2750</price>
@@ -2896,7 +2896,7 @@
 <param name="Підходить для ручної поклажі">Так</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="WN01-S-Champagne" available="false" group_id="WN01-S-Champagne">
+<offer id="WN01-S-Champagne" available="true" group_id="WN01-S-Champagne">
 <url>https://sklad-valiz.com.ua/valiza-wings-wn01-s-38l-shampan-wn01-s-champagne/</url>
 <salePrice>1373</salePrice>
 <price>2050</price>
@@ -3074,7 +3074,7 @@
 <param name="Підходить для ручної поклажі">Так</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="WN01-S-RoseGold-ABS" available="false" group_id="WN01-S-RoseGold-ABS">
+<offer id="WN01-S-RoseGold-ABS" available="true" group_id="WN01-S-RoseGold-ABS">
 <url>https://sklad-valiz.com.ua/valiza-wings-wn01-mala-38l-rozheve-zoloto-wn01-s-rosegold-abs/</url>
 <salePrice>1373</salePrice>
 <price>2050</price>
@@ -3260,7 +3260,7 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="42203-M-DarkBlue" available="false" group_id="42203-M-DarkBlue">
+<offer id="42203-M-DarkBlue" available="true" group_id="42203-M-DarkBlue">
 <url>https://sklad-valiz.com.ua/valiza-madisson-42203-serednia-68l-temno-synia-42203-m-darkblue/</url>
 <price>1950</price>
 <currencyId>UAH</currencyId>
@@ -3326,7 +3326,7 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="63703-S-Milk" available="true" group_id="63703-S-Milk">
+<offer id="63703-S-Milk" available="false" group_id="63703-S-Milk">
 <url>https://sklad-valiz.com.ua/valiza-madisson-63703-mala-37l-kremova-63703-s-milk/</url>
 <price>1850</price>
 <currencyId>UAH</currencyId>
@@ -3630,7 +3630,7 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="5398-M-Champagne-ABS" available="true" group_id="5398-M-Champagne-ABS">
+<offer id="5398-M-Champagne-ABS" available="false" group_id="5398-M-Champagne-ABS">
 <url>https://sklad-valiz.com.ua/valiza-wings-5398-serednia-63l-shampan-5398-m-champagne-abs/</url>
 <price>1850</price>
 <currencyId>UAH</currencyId>
@@ -3684,7 +3684,7 @@
 <param name="Підходить для ручної поклажі">Так</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="5398-XS-Champagne-ABS" available="false" group_id="5398-XS-Champagne-ABS">
+<offer id="5398-XS-Champagne-ABS" available="true" group_id="5398-XS-Champagne-ABS">
 <url>https://sklad-valiz.com.ua/valiza-wings-5398-mini-28l-shampan-5398-xs-champagne-abs/</url>
 <price>1100</price>
 <currencyId>UAH</currencyId>
@@ -7374,7 +7374,7 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="33703-M-Dark-green" available="true" group_id="33703-M-Dark-green">
+<offer id="33703-M-Dark-green" available="false" group_id="33703-M-Dark-green">
 <url>https://sklad-valiz.com.ua/valiza-snowball-33703-serednia-69l-zelena-33703-m-dark-green/</url>
 <price>3100</price>
 <currencyId>UAH</currencyId>
