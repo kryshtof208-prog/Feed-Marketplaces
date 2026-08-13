@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-13 06:16">
+<yml_catalog date="2026-08-13 12:16">
 <shop>
 <name>Sklad Valiz</name>
 <company>Sklad Valiz</company>
@@ -2701,7 +2701,7 @@
 <param name="Підходить для ручної поклажі">Так</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="WN01-S-Champagne-ABS" available="false" group_id="WN01-S-Champagne-ABS">
+<offer id="WN01-S-Champagne-ABS" available="true" group_id="WN01-S-Champagne-ABS">
 <url>https://sklad-valiz.com.ua/valiza-wings-wn01-mala-38l-shampan-wn01-s-champagne-abs/</url>
 <price>2050</price>
 <currencyId>UAH</currencyId>
@@ -3029,7 +3029,7 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="42203-M-DarkBlue" available="false" group_id="42203-M-DarkBlue">
+<offer id="42203-M-DarkBlue" available="true" group_id="42203-M-DarkBlue">
 <url>https://sklad-valiz.com.ua/valiza-madisson-42203-serednia-68l-temno-synia-42203-m-darkblue/</url>
 <price>1950</price>
 <currencyId>UAH</currencyId>
@@ -5123,7 +5123,7 @@
 <param name="Підходить для ручної поклажі">Так</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="Kaiman-XS-Light-blue" available="true" group_id="Kaiman-XS-Light-blue">
+<offer id="Kaiman-XS-Light-blue" available="false" group_id="Kaiman-XS-Light-blue">
 <url>https://sklad-valiz.com.ua/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-svitlo-blakytnyi-kaiman-xs-light-blue/</url>
 <price>1700</price>
 <currencyId>UAH</currencyId>
@@ -6060,7 +6060,7 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="63703-S-Champagne" available="false" group_id="63703-S-Champagne">
+<offer id="63703-S-Champagne" available="true" group_id="63703-S-Champagne">
 <url>https://sklad-valiz.com.ua/valiza-madisson-63703-mala-37l-shampan-63703-s-champagne/</url>
 <price>1850</price>
 <currencyId>UAH</currencyId>
@@ -8054,7 +8054,7 @@
 <param name="Підходить для ручної поклажі">Так</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="20303-M-Black" available="true" group_id="20303-M-Black">
+<offer id="20303-M-Black" available="false" group_id="20303-M-Black">
 <url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-snowball-20303-serednia-71l-chorna-20303-m-black/</url>
 <price>4300</price>
 <currencyId>UAH</currencyId>
@@ -8987,7 +8987,7 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="WN01PC-S-Silver" available="false" group_id="WN01PC-S-Silver">
+<offer id="WN01PC-S-Silver" available="true" group_id="WN01PC-S-Silver">
 <url>https://sklad-valiz.com.ua/valiza-dlia-ruchnoi-poklazhi-wings-wn01-mala-38l-sribna-wn01pc-s-silver/</url>
 <price>2050</price>
 <currencyId>UAH</currencyId>
