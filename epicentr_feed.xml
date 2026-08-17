@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-17 00:11">
+<yml_catalog date="2026-08-17 12:11">
   <offers>
     <offer id="33703-L-Black" available="true">
       <name lang="ru">Чемодан с полипропилена Snowball 33703 большой 101л черный (33703-L-Black)</name>
@@ -1380,7 +1380,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="CKT01-L-WhitePurple" available="true">
+    <offer id="CKT01-L-WhitePurple" available="false">
       <name lang="ru">Чемодан Wings COCKATIEL большой фиалковый (CKT01-L-WhitePurple)</name>
       <name lang="ua">Валіза Wings COCKATIEL велика фіалкова (CKT01-L-WhitePurple)</name>
       <price>3150</price>
@@ -5130,7 +5130,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="5398-M-Champagne-ABS" available="false">
+    <offer id="5398-M-Champagne-ABS" available="true">
       <name lang="ru">Чемодан Wings 5398 средний 63л шампань (5398-M-Champagne-ABS)</name>
       <name lang="ua">Валіза Wings 5398 середня 63л шампань (5398-M-Champagne-ABS)</name>
       <price>1850</price>
@@ -5953,7 +5953,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="HIMAWARI-XS-Beige" available="true">
+    <offer id="HIMAWARI-XS-Beige" available="false">
       <name lang="ru">Рюкзак для ручной клади HIMAWARI 17л бежевый (HIMAWARI-XS-Beige)</name>
       <name lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л бежевий (HIMAWARI-XS-Beige)</name>
       <price>1495</price>
@@ -6231,7 +6231,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="44603-S-White" available="false">
+    <offer id="44603-S-White" available="true">
       <name lang="ru">Чемодан Madisson 44603 малый 38л белый (44603-S-White)</name>
       <name lang="ua">Валіза Madisson 44603 мала 38л біла (44603-S-White)</name>
       <price>1300</price>
@@ -14010,7 +14010,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="20303-M-Black" available="false">
+    <offer id="20303-M-Black" available="true">
       <name lang="ru">Чемодан с расширением Snowball 20303 средний 71л черный (20303-M-Black)</name>
       <name lang="ua">Валіза з розширенням Snowball 20303 середня 71л чорна (20303-M-Black)</name>
       <price>4300</price>
@@ -16090,7 +16090,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="42203-M-Dark-green" available="true">
+    <offer id="42203-M-Dark-green" available="false">
       <name lang="ru">Чемодан с расширением Madisson 42203 средний 68л зеленый (42203-M-Dark-green)</name>
       <name lang="ua">Валіза з розширенням Madisson 42203 середня 68л зелена (42203-M-Dark-green)</name>
       <price>1950</price>
@@ -16905,6 +16905,10 @@
       <description lang="ru">Кейс для чемодана из полипропилена Snowball 51304 16л серый (51304-BC-Gray)</description>
       <description lang="ua">Кейс для валізи з поліпропілену Snowball 51304 16л сірий (51304-BC-Gray)</description>
       <picture>https://sklad-valiz.com.ua/content/images/39/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-siryi-51304-bc-gray-61776891291173_+9b8f02cf48.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/39/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-siryi-51304-bc-gray-91782531087576_+4707aaa3dd.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/39/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-siryi-51304-bc-gray-64987057951511_+996ba211f7.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/39/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-siryi-51304-bc-gray-86804657117872_+b4878a819b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/39/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-siryi-51304-bc-gray-42179395116933_+dcb48e464e.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="wrurwvuqlygwmcqd">кейс-пілот</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -16913,12 +16917,12 @@
       <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Об'єм" paramcode="104">16</param>
       <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <height>360</height>
-      <param name="Висота" paramcode="110">36</param>
-      <width>320</width>
-      <param name="Ширина" paramcode="111">32</param>
-      <length>170</length>
-      <param name="Глибина" paramcode="112">17</param>
+      <height>270</height>
+      <param name="Висота" paramcode="110">27</param>
+      <width>360</width>
+      <param name="Ширина" paramcode="111">36</param>
+      <length>160</length>
+      <param name="Глибина" paramcode="112">16</param>
       <weight>1000</weight>
       <param name="Вага" paramcode="150">1</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
@@ -16945,6 +16949,10 @@
       <description lang="ru">Кейс для чемодана из полипропилена Snowball 51304 16л шампань (51304-BC-Champagne)</description>
       <description lang="ua">Кейс для валізи з поліпропілену Snowball 51304 16л шампань (51304-BC-Champagne)</description>
       <picture>https://sklad-valiz.com.ua/content/images/40/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-shampan-51304-bc-champagne-88778719588306_+1ea15ad4e6.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/40/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-shampan-51304-bc-champagne-81034002034059_+eddbbc548f.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/40/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-shampan-51304-bc-champagne-92577683483170_+e44b7d51ad.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/40/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-shampan-51304-bc-champagne-98708213166665_+f7d68f2011.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/40/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-shampan-51304-bc-champagne-17558488625445_+a24c088017.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="wrurwvuqlygwmcqd">кейс-пілот</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -16953,12 +16961,12 @@
       <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Об'єм" paramcode="104">16</param>
       <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <height>360</height>
-      <param name="Висота" paramcode="110">36</param>
-      <width>320</width>
-      <param name="Ширина" paramcode="111">32</param>
-      <length>170</length>
-      <param name="Глибина" paramcode="112">17</param>
+      <height>270</height>
+      <param name="Висота" paramcode="110">27</param>
+      <width>360</width>
+      <param name="Ширина" paramcode="111">36</param>
+      <length>160</length>
+      <param name="Глибина" paramcode="112">16</param>
       <weight>1000</weight>
       <param name="Вага" paramcode="150">1</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
@@ -16985,6 +16993,10 @@
       <description lang="ru">Кейс для чемодана из полипропилена Snowball 51304 16л фиолетовый (51304-BC-Purple)</description>
       <description lang="ua">Кейс для валізи з поліпропілену Snowball 51304 16л фіолетовий (51304-BC-Purple)</description>
       <picture>https://sklad-valiz.com.ua/content/images/41/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-fioletovyi-51304-bc-purple-13051659247218_+d7f2248120.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/41/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-fioletovyi-51304-bc-purple-58703399625949_+85ceed5bf4.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/41/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-fioletovyi-51304-bc-purple-88447877920523_+2df9532e8d.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/41/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-fioletovyi-51304-bc-purple-64291766052402_+8a61985610.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/41/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-fioletovyi-51304-bc-purple-41000837637290_+ff9cbffaad.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="wrurwvuqlygwmcqd">кейс-пілот</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -16993,12 +17005,12 @@
       <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Об'єм" paramcode="104">16</param>
       <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <height>360</height>
-      <param name="Висота" paramcode="110">36</param>
-      <width>320</width>
-      <param name="Ширина" paramcode="111">32</param>
-      <length>170</length>
-      <param name="Глибина" paramcode="112">17</param>
+      <height>270</height>
+      <param name="Висота" paramcode="110">27</param>
+      <width>360</width>
+      <param name="Ширина" paramcode="111">36</param>
+      <length>160</length>
+      <param name="Глибина" paramcode="112">16</param>
       <weight>1000</weight>
       <param name="Вага" paramcode="150">1</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
@@ -17025,6 +17037,10 @@
       <description lang="ru">Кейс для чемодана из полипропилена Snowball 51304 16л розовое золото (51304-BC-RoseGold)</description>
       <description lang="ua">Кейс для валізи з поліпропілену Snowball 51304 16л рожеве золото (51304-BC-RoseGold)</description>
       <picture>https://sklad-valiz.com.ua/content/images/42/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-rozheve-zoloto-51304-bc-rosegold-13277409622638_+0cafb2784c.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/42/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-rozheve-zoloto-51304-bc-rosegold-54211567187589_+cfb19ba811.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/42/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-rozheve-zoloto-51304-bc-rosegold-23859132919350_+0d30c4bc55.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/42/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-rozheve-zoloto-51304-bc-rosegold-96405488572058_+6db30aacee.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/42/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-rozheve-zoloto-51304-bc-rosegold-44297488487079_+a0643bed96.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="wrurwvuqlygwmcqd">кейс-пілот</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -17033,12 +17049,12 @@
       <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Об'єм" paramcode="104">16</param>
       <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <height>360</height>
-      <param name="Висота" paramcode="110">36</param>
-      <width>320</width>
-      <param name="Ширина" paramcode="111">32</param>
-      <length>170</length>
-      <param name="Глибина" paramcode="112">17</param>
+      <height>270</height>
+      <param name="Висота" paramcode="110">27</param>
+      <width>360</width>
+      <param name="Ширина" paramcode="111">36</param>
+      <length>160</length>
+      <param name="Глибина" paramcode="112">16</param>
       <weight>1000</weight>
       <param name="Вага" paramcode="150">1</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
@@ -17065,6 +17081,10 @@
       <description lang="ru">Кейс для чемодана из полипропилена Snowball 51304 16л голубой (51304-BC-Light-blue)</description>
       <description lang="ua">Кейс для валізи з поліпропілену Snowball 51304 16л блакитний (51304-BC-Light-blue)</description>
       <picture>https://sklad-valiz.com.ua/content/images/43/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-blakytnyi-51304-bc-light-blue-60878380846696_+fd8c6353a7.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/43/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-blakytnyi-51304-bc-light-blue-56757847260707_+c6b25f5816.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/43/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-blakytnyi-51304-bc-light-blue-78314229245549_+33d5ca351e.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/43/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-blakytnyi-51304-bc-light-blue-32861177948418_+67b310ce81.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/43/keis-dlia-valizy-z-polipropilenu-snowball-51304-16l-blakytnyi-51304-bc-light-blue-65264787025388_+bd6003dfe0.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="wrurwvuqlygwmcqd">кейс-пілот</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -17073,12 +17093,12 @@
       <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
       <param name="Об'єм" paramcode="104">16</param>
       <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <height>360</height>
-      <param name="Висота" paramcode="110">36</param>
-      <width>320</width>
-      <param name="Ширина" paramcode="111">32</param>
-      <length>170</length>
-      <param name="Глибина" paramcode="112">17</param>
+      <height>270</height>
+      <param name="Висота" paramcode="110">27</param>
+      <width>360</width>
+      <param name="Ширина" paramcode="111">36</param>
+      <length>160</length>
+      <param name="Глибина" paramcode="112">16</param>
       <weight>1000</weight>
       <param name="Вага" paramcode="150">1</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
@@ -17105,6 +17125,12 @@
       <description lang="ru">Чемодан с расширением Snowball 51304 малый 36л фиолетовый (51304-S-Purple)</description>
       <description lang="ua">Валіза з розширенням Snowball 51304 мала 36л фіолетова (51304-S-Purple)</description>
       <picture>https://sklad-valiz.com.ua/content/images/44/valiza-z-rozshyrenniam-snowball-51304-mala-36l-fioletova-51304-s-purple-83075842585546_+a792cd9456.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/44/valiza-z-rozshyrenniam-snowball-51304-mala-36l-fioletova-51304-s-purple-43789249336964_+180b205cfc.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/44/valiza-z-rozshyrenniam-snowball-51304-mala-36l-fioletova-51304-s-purple-19658694955477_+b5e92303a1.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/44/valiza-z-rozshyrenniam-snowball-51304-mala-36l-fioletova-51304-s-purple-47999085147600_+7e0f36329e.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/44/valiza-z-rozshyrenniam-snowball-51304-mala-36l-fioletova-51304-s-purple-40952614822401_+12325f1e62.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/44/valiza-z-rozshyrenniam-snowball-51304-mala-36l-fioletova-51304-s-purple-84458726509827_+02c83b6395.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/44/valiza-z-rozshyrenniam-snowball-51304-mala-36l-fioletova-51304-s-purple-67085984074995_+f5af1f4089.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -17145,6 +17171,12 @@
       <description lang="ru">Чемодан с расширением Snowball 51304 малый 36л серый (51304-S-Gray)</description>
       <description lang="ua">Валіза з розширенням Snowball 51304 мала 36л сіра (51304-S-Gray)</description>
       <picture>https://sklad-valiz.com.ua/content/images/45/valiza-z-rozshyrenniam-snowball-51304-mala-36l-sira-51304-s-gray-91169260367555_+eb4f112a49.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/45/valiza-z-rozshyrenniam-snowball-51304-mala-36l-sira-51304-s-gray-91249827909307_+017adb3551.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/45/valiza-z-rozshyrenniam-snowball-51304-mala-36l-sira-51304-s-gray-92346940692173_+37145edfa0.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/45/valiza-z-rozshyrenniam-snowball-51304-mala-36l-sira-51304-s-gray-14357723986260_+c4d17856ce.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/45/valiza-z-rozshyrenniam-snowball-51304-mala-36l-sira-51304-s-gray-62661840109500_+bb324118e3.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/45/valiza-z-rozshyrenniam-snowball-51304-mala-36l-sira-51304-s-gray-97159061310333_+a833e23653.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/45/valiza-z-rozshyrenniam-snowball-51304-mala-36l-sira-51304-s-gray-36460140455975_+e4540108f1.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -17185,6 +17217,12 @@
       <description lang="ru">Чемодан с расширением Snowball 51304 малый 36л шампань (51304-S-Champagne)</description>
       <description lang="ua">Валіза з розширенням Snowball 51304 мала 36л шампань (51304-S-Champagne)</description>
       <picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-rozshyrenniam-snowball-51304-mala-36l-shampan-51304-s-champagne-83790873960707_+868107d1e5.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-rozshyrenniam-snowball-51304-mala-36l-shampan-51304-s-champagne-91007084044989_+4abd1982cf.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-rozshyrenniam-snowball-51304-mala-36l-shampan-51304-s-champagne-45667214232805_+de81fea24c.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-rozshyrenniam-snowball-51304-mala-36l-shampan-51304-s-champagne-65099066291015_+33fc9068df.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-rozshyrenniam-snowball-51304-mala-36l-shampan-51304-s-champagne-87535226410743_+1b63e1a46b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-rozshyrenniam-snowball-51304-mala-36l-shampan-51304-s-champagne-17896338107526_+0353a9d2c1.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-rozshyrenniam-snowball-51304-mala-36l-shampan-51304-s-champagne-44386035213226_+5fc5db6a1a.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -17225,6 +17263,12 @@
       <description lang="ru">Чемодан с расширением Snowball 51304 малый 36л голубой (51304-S-Light-blue)</description>
       <description lang="ua">Валіза з розширенням Snowball 51304 мала 36л блакитна (51304-S-Light-blue)</description>
       <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-rozshyrenniam-snowball-51304-mala-36l-blakytna-51304-s-light-blue-81271187142629_+84a97aa030.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-rozshyrenniam-snowball-51304-mala-36l-blakytna-51304-s-light-blue-30171835151165_+af1742e0df.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-rozshyrenniam-snowball-51304-mala-36l-blakytna-51304-s-light-blue-17979976488558_+23d2f9b6ab.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-rozshyrenniam-snowball-51304-mala-36l-blakytna-51304-s-light-blue-53424424434362_+3154757a58.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-rozshyrenniam-snowball-51304-mala-36l-blakytna-51304-s-light-blue-80444821218288_+a1bec2ca6b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-rozshyrenniam-snowball-51304-mala-36l-blakytna-51304-s-light-blue-22370977216033_+c8ceebc732.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-rozshyrenniam-snowball-51304-mala-36l-blakytna-51304-s-light-blue-16591365428659_+c351200772.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -17265,6 +17309,12 @@
       <description lang="ru">Чемодан с расширением Snowball 51304 малый 36л розовое золото (51304-S-RoseGold)</description>
       <description lang="ua">Валіза з розширенням Snowball 51304 мала 36л рожеве золото (51304-S-RoseGold)</description>
       <picture>https://sklad-valiz.com.ua/content/images/48/valiza-z-rozshyrenniam-snowball-51304-mala-36l-rozheve-zoloto-51304-s-rosegold-97725005010931_+e907f834b3.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/48/valiza-z-rozshyrenniam-snowball-51304-mala-36l-rozheve-zoloto-51304-s-rosegold-25614140727341_+36d056569f.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/48/valiza-z-rozshyrenniam-snowball-51304-mala-36l-rozheve-zoloto-51304-s-rosegold-45455078613091_+0dec9f5a37.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/48/valiza-z-rozshyrenniam-snowball-51304-mala-36l-rozheve-zoloto-51304-s-rosegold-17386119695508_+fdd0249e67.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/48/valiza-z-rozshyrenniam-snowball-51304-mala-36l-rozheve-zoloto-51304-s-rosegold-16522848125439_+0de75ab34a.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/48/valiza-z-rozshyrenniam-snowball-51304-mala-36l-rozheve-zoloto-51304-s-rosegold-73952896642085_+773a9ecd8c.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/48/valiza-z-rozshyrenniam-snowball-51304-mala-36l-rozheve-zoloto-51304-s-rosegold-57560172949570_+c1f72f3376.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -17305,6 +17355,12 @@
       <description lang="ru">Чемодан с расширением Snowball 51304 средний 63л фиолетовый (51304-M-Purple)</description>
       <description lang="ua">Валіза з розширенням Snowball 51304 середня 63л фіолетова (51304-M-Purple)</description>
       <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-fioletova-51304-m-purple-78809237052088_+de4a4efc51.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-fioletova-51304-m-purple-88538649892028_+039a92831b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-fioletova-51304-m-purple-19284256269915_+a3fb6fd360.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-fioletova-51304-m-purple-67257487356806_+14ed4aa3bc.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-fioletova-51304-m-purple-73616379881970_+63097bdfb4.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-fioletova-51304-m-purple-12821414603790_+f82d934c4a.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-fioletova-51304-m-purple-53853241238506_+849a87ac32.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -17345,6 +17401,12 @@
       <description lang="ru">Чемодан с расширением Snowball 51304 средний 63л серый (51304-M-Gray)</description>
       <description lang="ua">Валіза з розширенням Snowball 51304 середня 63л сіра (51304-M-Gray)</description>
       <picture>https://sklad-valiz.com.ua/content/images/50/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-sira-51304-m-gray-73830537062373_+8059645d91.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/50/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-sira-51304-m-gray-77134076959731_+4fdf47dcfb.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/50/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-sira-51304-m-gray-22599915315107_+6702dbaf03.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/50/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-sira-51304-m-gray-52359917593065_+b2dbae27e2.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/50/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-sira-51304-m-gray-91810401956721_+f9e15f7438.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/50/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-sira-51304-m-gray-39811036444000_+f755bf1f4d.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/50/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-sira-51304-m-gray-54493816694030_+7c1c99abfe.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -17385,6 +17447,12 @@
       <description lang="ru">Чемодан с расширением Snowball 51304 средний 63л шампань (51304-M-Champagne)</description>
       <description lang="ua">Валіза з розширенням Snowball 51304 середня 63л шампань (51304-M-Champagne)</description>
       <picture>https://sklad-valiz.com.ua/content/images/1/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-shampan-51304-m-champagne-99528249442687_+96950abf46.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-shampan-51304-m-champagne-33201880770955_+be609a05fa.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-shampan-51304-m-champagne-39196546654088_+2f6310ac54.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-shampan-51304-m-champagne-76332320487306_+f46011f735.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-shampan-51304-m-champagne-76520870486713_+286d0557d3.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-shampan-51304-m-champagne-96613509959747_+5f40ccc8ac.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-shampan-51304-m-champagne-31466888671183_+ef8d75fc4b.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -17425,6 +17493,12 @@
       <description lang="ru">Чемодан с расширением Snowball 51304 средний 63л голубой (51304-M-Light-blue)</description>
       <description lang="ua">Валіза з розширенням Snowball 51304 середня 63л блакитна (51304-M-Light-blue)</description>
       <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-blakytna-51304-m-light-blue-34262002202781_+7bce4b637a.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-blakytna-51304-m-light-blue-92853239717235_+20264c5be6.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-blakytna-51304-m-light-blue-63048376930027_+e760aa5d66.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-blakytna-51304-m-light-blue-81047843939242_+9670461e43.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-blakytna-51304-m-light-blue-54192639811044_+ef14e007e2.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-blakytna-51304-m-light-blue-97813759143694_+2b46412d61.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-blakytna-51304-m-light-blue-75685754719431_+8840c86dba.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -17465,6 +17539,12 @@
       <description lang="ru">Чемодан с расширением Snowball 51304 средний 63л розовое золото (51304-M-RoseGold)</description>
       <description lang="ua">Валіза з розширенням Snowball 51304 середня 63л рожеве золото (51304-M-RoseGold)</description>
       <picture>https://sklad-valiz.com.ua/content/images/3/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-rozheve-zoloto-51304-m-rosegold-81423904631042_+43ddc17e88.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-rozheve-zoloto-51304-m-rosegold-26700153879107_+05a6f6d1a3.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-rozheve-zoloto-51304-m-rosegold-49458432219523_+b9115da15b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-rozheve-zoloto-51304-m-rosegold-29009819414423_+7cc47e03aa.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-rozheve-zoloto-51304-m-rosegold-39847225697119_+554e92e053.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-rozheve-zoloto-51304-m-rosegold-42783941109117_+d77fec3e36.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-rozheve-zoloto-51304-m-rosegold-64272340033807_+1a31934ad0.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -17505,6 +17585,12 @@
       <description lang="ru">Чемодан с расширением Snowball 51304 большой 105л фиолетовый (51304-L-Purple)</description>
       <description lang="ua">Валіза з розширенням Snowball 51304 велика 105л фіолетова (51304-L-Purple)</description>
       <picture>https://sklad-valiz.com.ua/content/images/4/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-fioletova-51304-l-purple-53903428112541_+9686436963.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-fioletova-51304-l-purple-16637111973435_+21a0614b56.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-fioletova-51304-l-purple-60345190213676_+cf0a0cd24a.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-fioletova-51304-l-purple-78572624087033_+dd65dcf524.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-fioletova-51304-l-purple-48231916560665_+239c3bea8e.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-fioletova-51304-l-purple-21918400338881_+224252ff55.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-fioletova-51304-l-purple-91830105673168_+309e71270b.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -17545,6 +17631,12 @@
       <description lang="ru">Чемодан с расширением Snowball 51304 большой 105л голубой (51304-L-Light-blue)</description>
       <description lang="ua">Валіза з розширенням Snowball 51304 велика 105л блакитна (51304-L-Light-blue)</description>
       <picture>https://sklad-valiz.com.ua/content/images/5/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-blakytna-51304-l-light-blue-71597969958507_+c36f14a08f.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/5/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-blakytna-51304-l-light-blue-21346635083046_+1296cd5573.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/5/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-blakytna-51304-l-light-blue-15429281747431_+51211b7f27.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/5/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-blakytna-51304-l-light-blue-30569020181889_+a215b7d2b4.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/5/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-blakytna-51304-l-light-blue-83915366780848_+8b4082e736.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/5/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-blakytna-51304-l-light-blue-77202876735715_+3810cebc35.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/5/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-blakytna-51304-l-light-blue-34863625137162_+d6276f9457.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -17585,6 +17677,12 @@
       <description lang="ru">Чемодан с расширением Snowball 51304 большой 105л розовое золото (51304-L-RoseGold)</description>
       <description lang="ua">Валіза з розширенням Snowball 51304 велика 105л рожеве золото (51304-L-RoseGold)</description>
       <picture>https://sklad-valiz.com.ua/content/images/6/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-rozheve-zoloto-51304-l-rosegold-48417357264402_+40765d57ed.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/6/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-rozheve-zoloto-51304-l-rosegold-91046946642248_+4d6a667be1.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/6/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-rozheve-zoloto-51304-l-rosegold-99237710617427_+245f0a350e.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/6/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-rozheve-zoloto-51304-l-rosegold-36822370045079_+14223a7eaa.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/6/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-rozheve-zoloto-51304-l-rosegold-70969301330858_+7f89527e02.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/6/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-rozheve-zoloto-51304-l-rosegold-75720842377148_+b5c6c58814.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/6/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-rozheve-zoloto-51304-l-rosegold-44932023965646_+f892147ae7.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -17625,6 +17723,12 @@
       <description lang="ru">Чемодан с расширением Snowball 51304 большой 105л шампань (51304-L-Champagne)</description>
       <description lang="ua">Валіза з розширенням Snowball 51304 велика 105л шампань (51304-L-Champagne)</description>
       <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-49417518483404_+e085f24c41.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-36849852849837_+3528273154.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-32395033838109_+67027afaaa.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-87614755776731_+b1d9169803.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-40402910549625_+380365abeb.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-37154909876681_+1d0cd97e7d.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-14177746832685_+cc80787544.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -17665,6 +17769,12 @@
       <description lang="ru">Чемодан с расширением Snowball 51304 большой 105л серый (51304-L-Gray)</description>
       <description lang="ua">Валіза з розширенням Snowball 51304 велика 105л сіра (51304-L-Gray)</description>
       <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-sira-51304-l-gray-73984162564611_+6d1a671950.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-sira-51304-l-gray-77283022418156_+911b1ba1be.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-sira-51304-l-gray-28660197099908_+5f96705eed.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-sira-51304-l-gray-12654865744624_+128c7ee3a6.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-sira-51304-l-gray-23806600192072_+0855c1f68c.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-sira-51304-l-gray-11363952833036_+5d80d86a94.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-sira-51304-l-gray-43699838010962_+f22d03726a.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
