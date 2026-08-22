@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-22 00:11">
+<yml_catalog date="2026-08-22 12:11">
   <offers>
     <offer id="33703-L-Black" available="true">
       <name lang="ru">Чемодан с полипропилена Snowball 33703 большой 101л черный (33703-L-Black)</name>
@@ -1781,7 +1781,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="WN01-L-Creme" available="true">
+    <offer id="WN01-L-Creme" available="false">
       <name lang="ru">Чемодан Wings WN01 большой 97л кремовый (WN01-L-Creme)</name>
       <name lang="ua">Валіза Wings WN01 велика 97л кремова (WN01-L-Creme)</name>
       <price>2750</price>
@@ -4760,7 +4760,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="42203-M-Purple" available="true">
+    <offer id="42203-M-Purple" available="false">
       <name lang="ru">Чемодан с расширением Madisson 42203 средний 68л фиолетовый (42203-M-Purple)</name>
       <name lang="ua">Валіза з розширенням Madisson 42203 середня 68л фіолетова (42203-M-Purple)</name>
       <price>1950</price>
@@ -4853,7 +4853,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="63703-S-Black" available="false">
+    <offer id="63703-S-Black" available="true">
       <name lang="ru">Чемодан Madisson 63703 малый 37л черный (63703-S-Black)</name>
       <name lang="ua">Валіза Madisson 63703 мала 37л чорна (63703-S-Black)</name>
       <price>1850</price>
@@ -5446,7 +5446,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="Kaiman-XS-White" available="true">
+    <offer id="Kaiman-XS-White" available="false">
       <name lang="ru">Чемодан для лоукоста Wizzair Kaiman мини 24л белый (Kaiman-XS-White)</name>
       <name lang="ua">Валіза для лоукосту Wizzair Kaiman міні 24л біла (Kaiman-XS-White)</name>
       <price>1700</price>
@@ -6874,7 +6874,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="2501-S-Coffe" available="false">
+    <offer id="2501-S-Coffe" available="true">
       <name lang="ru">Чемодан с расширением Wings 2501 малый 38л кофейный (2501-S-Coffe)</name>
       <name lang="ua">Валіза з розширенням Wings 2501 мала 38л кавова (2501-S-Coffe)</name>
       <price>1700</price>
@@ -7204,7 +7204,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="160-M-Dark-Green" available="false">
+    <offer id="160-M-Dark-Green" available="true">
       <name lang="ru">Чемодан Wings 160 средний 63л темно-зеленый (160-M-Dark-Green)</name>
       <name lang="ua">Валіза Wings 160 середня 63л темно-зелена (160-M-Dark-Green)</name>
       <price>1800</price>
@@ -12654,7 +12654,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="63703-3-Milk" available="true">
+    <offer id="63703-3-Milk" available="false">
       <name lang="ru">Набор чемоданов Madisson 63703 3в1 кремовый (63703-3-Milk)</name>
       <name lang="ua">Набір валіз Madisson 63703 3в1 кремовий (63703-3-Milk)</name>
       <price>5985</price>
@@ -15996,7 +15996,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="49203-Set-Black" available="false">
+    <offer id="49203-Set-Black" available="true">
       <name lang="ru">Набор чемоданов с расширением Snowball 49203 3 в 1 черный (49203-Set-Black)</name>
       <name lang="ua">Набір валіз з розширенням Snowball 49203 3 в 1 чорний (49203-Set-Black)</name>
       <price>10720</price>
@@ -17559,7 +17559,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="51304-M-Light-blue" available="true">
+    <offer id="51304-M-Light-blue" available="false">
       <name lang="ru">Чемодан с расширением Snowball 51304 средний 63л голубой (51304-M-Light-blue)</name>
       <name lang="ua">Валіза з розширенням Snowball 51304 середня 63л блакитна (51304-M-Light-blue)</name>
       <price>2350</price>
@@ -17835,7 +17835,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="51304-L-Gray" available="true">
+    <offer id="51304-L-Gray" available="false">
       <name lang="ru">Чемодан с расширением Snowball 51304 большой 105л серый (51304-L-Gray)</name>
       <name lang="ua">Валіза з розширенням Snowball 51304 велика 105л сіра (51304-L-Gray)</name>
       <price>2450</price>
