@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-25 00:11">
+<yml_catalog date="2026-08-25 12:11">
   <offers>
     <offer id="33703-L-Black" available="true">
       <name lang="ru">Чемодан с полипропилена Snowball 33703 большой 101л черный (33703-L-Black)</name>
@@ -139,328 +139,6 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="33703-L-White" available="false">
-      <name lang="ru">Чемодан из полипропилена Snowball 33703 большой 101л белый (33703-L-White)</name>
-      <name lang="ua">Валіза з поліпропілену Snowball 33703 велика 101л біла (33703-L-White)</name>
-      <price>3150</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
-      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л желтый (33703-S-Yellow)</description>
-      <description lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л жовта (33703-S-Yellow)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-33703-velyka-101l-bila-33703-l-white-73992654789938_+d9c2839273.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-33703-velyka-101l-bila-33703-l-white-57439085693507_+e5904ef4bd.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-33703-velyka-101l-bila-33703-l-white-35205952814636_+867ecc5be5.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-33703-velyka-101l-bila-33703-l-white-96938051858490_+eafe960afa.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-33703-velyka-101l-bila-33703-l-white-36521393440063_+9722b878dc.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-33703-velyka-101l-bila-33703-l-white-47421278643895_+b6dd068f41.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-33703-velyka-101l-bila-33703-l-white-45247020850651_+488f9e46b4.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
-      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
-      <param name="Об'єм" paramcode="104">101</param>
-      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <height>750</height>
-      <param name="Висота" paramcode="110">75</param>
-      <width>500</width>
-      <param name="Ширина" paramcode="111">50</param>
-      <length>280</length>
-      <param name="Глибина" paramcode="112">28</param>
-      <weight>5000</weight>
-      <param name="Вага" paramcode="150">5</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
-    <offer id="33703-S-Sea-wave" available="true">
-      <name lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л синий (33703-S-Sea-wave)</name>
-      <name lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л синя (33703-S-Sea-wave)</name>
-      <price>2300</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
-      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л желтый (33703-S-Yellow)</description>
-      <description lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л жовта (33703-S-Yellow)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/33/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-synia-33703-s-sea-wave-92885662255185_+3eb8fa54b4.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/33/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-synia-33703-s-sea-wave-28287302676315_+afef307d3a.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/33/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-synia-33703-s-sea-wave-40561398399418_+5bca01efb7.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/33/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-synia-33703-s-sea-wave-24771573414718_+9f9289b288.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/33/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-synia-33703-s-sea-wave-27379995931147_+2f6a0e818b.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/33/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-synia-33703-s-sea-wave-96530026312247_+a7cb2b31a8.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/33/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-synia-33703-s-sea-wave-38613374193265_+75313f4c3e.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
-      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
-      <param name="Об'єм" paramcode="104">101</param>
-      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <height>750</height>
-      <param name="Висота" paramcode="110">75</param>
-      <width>500</width>
-      <param name="Ширина" paramcode="111">50</param>
-      <length>280</length>
-      <param name="Глибина" paramcode="112">28</param>
-      <weight>5000</weight>
-      <param name="Вага" paramcode="150">5</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
-    <offer id="33703-M-Sea-wave" available="true">
-      <name lang="ru">Чемодан из полипропилена Snowball 33703 средний 69л синий (33703-M-Sea-wave)</name>
-      <name lang="ua">Валіза з поліпропілену Snowball 33703 середня 69л синя (33703-M-Sea-wave)</name>
-      <price>3100</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
-      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л желтый (33703-S-Yellow)</description>
-      <description lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л жовта (33703-S-Yellow)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/34/valiza-z-polipropilenu-snowball-33703-serednia-69l-synia-33703-m-sea-wave-97717489534401_+caf62e655c.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/34/valiza-z-polipropilenu-snowball-33703-serednia-69l-synia-33703-m-sea-wave-95342896763865_+05f0749459.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/34/valiza-z-polipropilenu-snowball-33703-serednia-69l-synia-33703-m-sea-wave-65537094541452_+a42d0066ec.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/34/valiza-z-polipropilenu-snowball-33703-serednia-69l-synia-33703-m-sea-wave-15955016803426_+f887afaa88.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/34/valiza-z-polipropilenu-snowball-33703-serednia-69l-synia-33703-m-sea-wave-68703620565295_+9217025233.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/34/valiza-z-polipropilenu-snowball-33703-serednia-69l-synia-33703-m-sea-wave-19877456544718_+07457e53ec.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/34/valiza-z-polipropilenu-snowball-33703-serednia-69l-synia-33703-m-sea-wave-37300168249428_+a286c6ab15.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
-      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
-      <param name="Об'єм" paramcode="104">101</param>
-      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <height>750</height>
-      <param name="Висота" paramcode="110">75</param>
-      <width>500</width>
-      <param name="Ширина" paramcode="111">50</param>
-      <length>280</length>
-      <param name="Глибина" paramcode="112">28</param>
-      <weight>5000</weight>
-      <param name="Вага" paramcode="150">5</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
-    <offer id="33703-L-Sea-wave" available="true">
-      <name lang="ru">Чемодан из полипропилена Snowball 33703 большой 101л синий (33703-L-Sea-wave)</name>
-      <name lang="ua">Валіза з поліпропілену Snowball 33703 велика 101л синя (33703-L-Sea-wave)</name>
-      <price>3150</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
-      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л желтый (33703-S-Yellow)</description>
-      <description lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л жовта (33703-S-Yellow)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/35/valiza-z-polipropilenu-snowball-33703-velyka-101l-synia-33703-l-sea-wave-56711111938362_+422bddeed9.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/35/valiza-z-polipropilenu-snowball-33703-velyka-101l-synia-33703-l-sea-wave-94396437527505_+50ba9e7c78.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/35/valiza-z-polipropilenu-snowball-33703-velyka-101l-synia-33703-l-sea-wave-23526716479112_+626b7c8f20.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/35/valiza-z-polipropilenu-snowball-33703-velyka-101l-synia-33703-l-sea-wave-26844457209945_+a7f704dd88.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/35/valiza-z-polipropilenu-snowball-33703-velyka-101l-synia-33703-l-sea-wave-91490607822823_+85ca3172a7.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/35/valiza-z-polipropilenu-snowball-33703-velyka-101l-synia-33703-l-sea-wave-16721670103295_+cc5b0c41a6.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/35/valiza-z-polipropilenu-snowball-33703-velyka-101l-synia-33703-l-sea-wave-99255640786592_+2314da5663.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
-      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
-      <param name="Об'єм" paramcode="104">101</param>
-      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <height>750</height>
-      <param name="Висота" paramcode="110">75</param>
-      <width>500</width>
-      <param name="Ширина" paramcode="111">50</param>
-      <length>280</length>
-      <param name="Глибина" paramcode="112">28</param>
-      <weight>5000</weight>
-      <param name="Вага" paramcode="150">5</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
-    <offer id="33703-S-RoseGold" available="true">
-      <name lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л розовое золото (33703-S-RoseGold)</name>
-      <name lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л рожеве золото (33703-S-RoseGold)</name>
-      <price>2300</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
-      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л желтый (33703-S-Yellow)</description>
-      <description lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л жовта (33703-S-Yellow)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-rozheve-zoloto-33703-s-rosegold-84579856531547_+c01f96dcfb.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-rozheve-zoloto-33703-s-rosegold-11140645733481_+c7b55b92e4.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-rozheve-zoloto-33703-s-rosegold-56550575898888_+53f2c82c11.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-rozheve-zoloto-33703-s-rosegold-76440027302446_+fc10c4221b.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-rozheve-zoloto-33703-s-rosegold-14630588568436_+ae0b6d3f45.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-rozheve-zoloto-33703-s-rosegold-24074660576504_+8535f2e3e4.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-rozheve-zoloto-33703-s-rosegold-35134849780686_+2726177b4c.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
-      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
-      <param name="Об'єм" paramcode="104">101</param>
-      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <height>750</height>
-      <param name="Висота" paramcode="110">75</param>
-      <width>500</width>
-      <param name="Ширина" paramcode="111">50</param>
-      <length>280</length>
-      <param name="Глибина" paramcode="112">28</param>
-      <weight>5000</weight>
-      <param name="Вага" paramcode="150">5</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
-    <offer id="33703-M-RoseGold" available="true">
-      <name lang="ru">Чемодан из полипропилена Snowball 33703 средний 69л розовое золото (33703-M-RoseGold)</name>
-      <name lang="ua">Валіза з поліпропілену Snowball 33703 середня 69л рожеве золото (33703-M-RoseGold)</name>
-      <price>3100</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
-      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л желтый (33703-S-Yellow)</description>
-      <description lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л жовта (33703-S-Yellow)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-snowball-33703-serednia-69l-rozheve-zoloto-33703-m-rosegold-97727133628547_+2556774bb5.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-snowball-33703-serednia-69l-rozheve-zoloto-33703-m-rosegold-61063233794234_+f0a386280c.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-snowball-33703-serednia-69l-rozheve-zoloto-33703-m-rosegold-85769949253893_+353a8b4e41.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-snowball-33703-serednia-69l-rozheve-zoloto-33703-m-rosegold-57346538624553_+a42e4b62b6.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-snowball-33703-serednia-69l-rozheve-zoloto-33703-m-rosegold-67264796436250_+7b66dc0a27.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-snowball-33703-serednia-69l-rozheve-zoloto-33703-m-rosegold-86580030183674_+5dc9a08a0e.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-snowball-33703-serednia-69l-rozheve-zoloto-33703-m-rosegold-23760707939155_+af0142742a.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
-      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
-      <param name="Об'єм" paramcode="104">101</param>
-      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <height>750</height>
-      <param name="Висота" paramcode="110">75</param>
-      <width>500</width>
-      <param name="Ширина" paramcode="111">50</param>
-      <length>280</length>
-      <param name="Глибина" paramcode="112">28</param>
-      <weight>5000</weight>
-      <param name="Вага" paramcode="150">5</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
-    <offer id="33703-L-RoseGold" available="true">
-      <name lang="ru">Чемодан из полипропилена Snowball 33703 большой 101л розовое золото (33703-L-RoseGold)</name>
-      <name lang="ua">Валіза з поліпропілену Snowball 33703 велика 101л рожеве золото (33703-L-RoseGold)</name>
-      <price>3150</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
-      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л желтый (33703-S-Yellow)</description>
-      <description lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л жовта (33703-S-Yellow)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-snowball-33703-velyka-101l-rozheve-zoloto-33703-l-rosegold-72915672390298_+7c870e198b.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-snowball-33703-velyka-101l-rozheve-zoloto-33703-l-rosegold-15724623512910_+764ddd679b.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-snowball-33703-velyka-101l-rozheve-zoloto-33703-l-rosegold-21055693818302_+5fa4015fbc.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-snowball-33703-velyka-101l-rozheve-zoloto-33703-l-rosegold-47285621675318_+be80164a5f.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-snowball-33703-velyka-101l-rozheve-zoloto-33703-l-rosegold-29471572284560_+90fed61739.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-snowball-33703-velyka-101l-rozheve-zoloto-33703-l-rosegold-13143326932879_+ecaf18c893.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-snowball-33703-velyka-101l-rozheve-zoloto-33703-l-rosegold-74206396321080_+470692b901.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
-      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
-      <param name="Об'єм" paramcode="104">101</param>
-      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <height>750</height>
-      <param name="Висота" paramcode="110">75</param>
-      <width>500</width>
-      <param name="Ширина" paramcode="111">50</param>
-      <length>280</length>
-      <param name="Глибина" paramcode="112">28</param>
-      <weight>5000</weight>
-      <param name="Вага" paramcode="150">5</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
     <offer id="33703-M-Black" available="true">
       <name lang="ru">Чемодан с полипропилена Snowball 33703 средний 69л черный (33703-M-Black)</name>
       <name lang="ua">Валіза з поліпропілену Snowball 33703 середня 69л чорна (33703-M-Black)</name>
@@ -526,52 +204,6 @@
       <picture>https://sklad-valiz.com.ua/content/images/50/valiza-snowball-33703-serednia-69l-sira-33703-m-grey-73497534247558_+b712721cd2.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/50/valiza-snowball-33703-serednia-69l-sira-33703-m-grey-41596266782822_+8e82f684b6.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/50/valiza-snowball-33703-serednia-69l-sira-33703-m-grey-42665384717208_+94bb6827d2.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
-      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
-      <param name="Об'єм" paramcode="104">101</param>
-      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <height>750</height>
-      <param name="Висота" paramcode="110">75</param>
-      <width>500</width>
-      <param name="Ширина" paramcode="111">50</param>
-      <length>280</length>
-      <param name="Глибина" paramcode="112">28</param>
-      <weight>5000</weight>
-      <param name="Вага" paramcode="150">5</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
-    <offer id="33703-M-White" available="false">
-      <name lang="ru">Чемодан из полипропилена Snowball 33703 средний 69л белый (33703-M-White)</name>
-      <name lang="ua">Валіза з поліпропілену Snowball 33703 середня 69л біла (33703-M-White)</name>
-      <price>3100</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
-      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л желтый (33703-S-Yellow)</description>
-      <description lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л жовта (33703-S-Yellow)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/1/valiza-snowball-33703-serednia-69l-bila-33703-m-white-71000548433641_+413e38ac18.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/1/valiza-snowball-33703-serednia-69l-bila-33703-m-white-32653833973260_+5a0ad6d528.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/1/valiza-snowball-33703-serednia-69l-bila-33703-m-white-88683741020286_+e8b1314dfb.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/1/valiza-snowball-33703-serednia-69l-bila-33703-m-white-25111021215090_+9172ee5610.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/1/valiza-snowball-33703-serednia-69l-bila-33703-m-white-25005233852895_+dbe80bb813.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/1/valiza-snowball-33703-serednia-69l-bila-33703-m-white-39316426471108_+56facebb5c.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/1/valiza-snowball-33703-serednia-69l-bila-33703-m-white-39907660607122_+ef9abe878d.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -876,52 +508,6 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="33703-M-Dark-green" available="false">
-      <name lang="ru">Чемодан из полипропилена Snowball 33703 средний 69л зеленый (33703-M-Dark-green)</name>
-      <name lang="ua">Валіза з поліпропілену Snowball 33703 середня 69л зелена (33703-M-Dark-green)</name>
-      <price>3100</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
-      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л желтый (33703-S-Yellow)</description>
-      <description lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л жовта (33703-S-Yellow)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/44/valiza-snowball-33703-serednia-69l-zelena-33703-m-dark-green-20923576815644_+1499933854.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/44/valiza-snowball-33703-serednia-69l-zelena-33703-m-dark-green-40872835690066_+67b5e39022.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/44/valiza-snowball-33703-serednia-69l-zelena-33703-m-dark-green-23898746778488_+3dcaf82c55.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/44/valiza-snowball-33703-serednia-69l-zelena-33703-m-dark-green-67790002542361_+fba86313e7.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/44/valiza-snowball-33703-serednia-69l-zelena-33703-m-dark-green-71727112203003_+f98ed014fc.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/44/valiza-snowball-33703-serednia-69l-zelena-33703-m-dark-green-52694957974438_+232a2b9e64.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/44/valiza-snowball-33703-serednia-69l-zelena-33703-m-dark-green-28600238863058_+736a1b068f.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
-      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
-      <param name="Об'єм" paramcode="104">101</param>
-      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-      <height>750</height>
-      <param name="Висота" paramcode="110">75</param>
-      <width>500</width>
-      <param name="Ширина" paramcode="111">50</param>
-      <length>280</length>
-      <param name="Глибина" paramcode="112">28</param>
-      <weight>5000</weight>
-      <param name="Вага" paramcode="150">5</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
     <offer id="33703-S-Dark-green" available="true">
       <name lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л зеленый (33703-S-Dark-green)</name>
       <name lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л зелена (33703-S-Dark-green)</name>
@@ -1079,6 +665,420 @@
       <picture>https://sklad-valiz.com.ua/content/images/48/valiza-snowball-33703-mala-36l-zhovta-33703-s-yellow-74391346475434_+fe0e4699f5.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/48/valiza-snowball-33703-mala-36l-zhovta-33703-s-yellow-59944849650623_+696d8894f4.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/48/valiza-snowball-33703-mala-36l-zhovta-33703-s-yellow-93878498294899_+1687355d45.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Об'єм" paramcode="104">101</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <height>750</height>
+      <param name="Висота" paramcode="110">75</param>
+      <width>500</width>
+      <param name="Ширина" paramcode="111">50</param>
+      <length>280</length>
+      <param name="Глибина" paramcode="112">28</param>
+      <weight>5000</weight>
+      <param name="Вага" paramcode="150">5</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="33703-S-Sea-wave" available="true">
+      <name lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л синий (33703-S-Sea-wave)</name>
+      <name lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л синя (33703-S-Sea-wave)</name>
+      <price>2300</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л желтый (33703-S-Yellow)</description>
+      <description lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л жовта (33703-S-Yellow)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/33/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-synia-33703-s-sea-wave-92885662255185_+3eb8fa54b4.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-synia-33703-s-sea-wave-28287302676315_+afef307d3a.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-synia-33703-s-sea-wave-40561398399418_+5bca01efb7.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-synia-33703-s-sea-wave-24771573414718_+9f9289b288.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-synia-33703-s-sea-wave-27379995931147_+2f6a0e818b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-synia-33703-s-sea-wave-96530026312247_+a7cb2b31a8.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-synia-33703-s-sea-wave-38613374193265_+75313f4c3e.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Об'єм" paramcode="104">101</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <height>750</height>
+      <param name="Висота" paramcode="110">75</param>
+      <width>500</width>
+      <param name="Ширина" paramcode="111">50</param>
+      <length>280</length>
+      <param name="Глибина" paramcode="112">28</param>
+      <weight>5000</weight>
+      <param name="Вага" paramcode="150">5</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="33703-M-Sea-wave" available="true">
+      <name lang="ru">Чемодан из полипропилена Snowball 33703 средний 69л синий (33703-M-Sea-wave)</name>
+      <name lang="ua">Валіза з поліпропілену Snowball 33703 середня 69л синя (33703-M-Sea-wave)</name>
+      <price>3100</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л желтый (33703-S-Yellow)</description>
+      <description lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л жовта (33703-S-Yellow)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/34/valiza-z-polipropilenu-snowball-33703-serednia-69l-synia-33703-m-sea-wave-97717489534401_+caf62e655c.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/34/valiza-z-polipropilenu-snowball-33703-serednia-69l-synia-33703-m-sea-wave-95342896763865_+05f0749459.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/34/valiza-z-polipropilenu-snowball-33703-serednia-69l-synia-33703-m-sea-wave-65537094541452_+a42d0066ec.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/34/valiza-z-polipropilenu-snowball-33703-serednia-69l-synia-33703-m-sea-wave-15955016803426_+f887afaa88.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/34/valiza-z-polipropilenu-snowball-33703-serednia-69l-synia-33703-m-sea-wave-68703620565295_+9217025233.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/34/valiza-z-polipropilenu-snowball-33703-serednia-69l-synia-33703-m-sea-wave-19877456544718_+07457e53ec.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/34/valiza-z-polipropilenu-snowball-33703-serednia-69l-synia-33703-m-sea-wave-37300168249428_+a286c6ab15.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Об'єм" paramcode="104">101</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <height>750</height>
+      <param name="Висота" paramcode="110">75</param>
+      <width>500</width>
+      <param name="Ширина" paramcode="111">50</param>
+      <length>280</length>
+      <param name="Глибина" paramcode="112">28</param>
+      <weight>5000</weight>
+      <param name="Вага" paramcode="150">5</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="33703-L-Sea-wave" available="true">
+      <name lang="ru">Чемодан из полипропилена Snowball 33703 большой 101л синий (33703-L-Sea-wave)</name>
+      <name lang="ua">Валіза з поліпропілену Snowball 33703 велика 101л синя (33703-L-Sea-wave)</name>
+      <price>3150</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л желтый (33703-S-Yellow)</description>
+      <description lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л жовта (33703-S-Yellow)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/35/valiza-z-polipropilenu-snowball-33703-velyka-101l-synia-33703-l-sea-wave-56711111938362_+422bddeed9.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/35/valiza-z-polipropilenu-snowball-33703-velyka-101l-synia-33703-l-sea-wave-94396437527505_+50ba9e7c78.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/35/valiza-z-polipropilenu-snowball-33703-velyka-101l-synia-33703-l-sea-wave-23526716479112_+626b7c8f20.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/35/valiza-z-polipropilenu-snowball-33703-velyka-101l-synia-33703-l-sea-wave-26844457209945_+a7f704dd88.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/35/valiza-z-polipropilenu-snowball-33703-velyka-101l-synia-33703-l-sea-wave-91490607822823_+85ca3172a7.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/35/valiza-z-polipropilenu-snowball-33703-velyka-101l-synia-33703-l-sea-wave-16721670103295_+cc5b0c41a6.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/35/valiza-z-polipropilenu-snowball-33703-velyka-101l-synia-33703-l-sea-wave-99255640786592_+2314da5663.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Об'єм" paramcode="104">101</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <height>750</height>
+      <param name="Висота" paramcode="110">75</param>
+      <width>500</width>
+      <param name="Ширина" paramcode="111">50</param>
+      <length>280</length>
+      <param name="Глибина" paramcode="112">28</param>
+      <weight>5000</weight>
+      <param name="Вага" paramcode="150">5</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="33703-S-RoseGold" available="true">
+      <name lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л розовое золото (33703-S-RoseGold)</name>
+      <name lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л рожеве золото (33703-S-RoseGold)</name>
+      <price>2300</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л желтый (33703-S-Yellow)</description>
+      <description lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л жовта (33703-S-Yellow)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-rozheve-zoloto-33703-s-rosegold-84579856531547_+c01f96dcfb.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-rozheve-zoloto-33703-s-rosegold-11140645733481_+c7b55b92e4.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-rozheve-zoloto-33703-s-rosegold-56550575898888_+53f2c82c11.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-rozheve-zoloto-33703-s-rosegold-76440027302446_+fc10c4221b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-rozheve-zoloto-33703-s-rosegold-14630588568436_+ae0b6d3f45.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-rozheve-zoloto-33703-s-rosegold-24074660576504_+8535f2e3e4.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-dlia-ruchnoi-poklazhi-snowball-33703-mala-36l-rozheve-zoloto-33703-s-rosegold-35134849780686_+2726177b4c.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Об'єм" paramcode="104">101</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <height>750</height>
+      <param name="Висота" paramcode="110">75</param>
+      <width>500</width>
+      <param name="Ширина" paramcode="111">50</param>
+      <length>280</length>
+      <param name="Глибина" paramcode="112">28</param>
+      <weight>5000</weight>
+      <param name="Вага" paramcode="150">5</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="33703-M-RoseGold" available="true">
+      <name lang="ru">Чемодан из полипропилена Snowball 33703 средний 69л розовое золото (33703-M-RoseGold)</name>
+      <name lang="ua">Валіза з поліпропілену Snowball 33703 середня 69л рожеве золото (33703-M-RoseGold)</name>
+      <price>3100</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л желтый (33703-S-Yellow)</description>
+      <description lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л жовта (33703-S-Yellow)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-snowball-33703-serednia-69l-rozheve-zoloto-33703-m-rosegold-97727133628547_+2556774bb5.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-snowball-33703-serednia-69l-rozheve-zoloto-33703-m-rosegold-61063233794234_+f0a386280c.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-snowball-33703-serednia-69l-rozheve-zoloto-33703-m-rosegold-85769949253893_+353a8b4e41.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-snowball-33703-serednia-69l-rozheve-zoloto-33703-m-rosegold-57346538624553_+a42e4b62b6.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-snowball-33703-serednia-69l-rozheve-zoloto-33703-m-rosegold-67264796436250_+7b66dc0a27.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-snowball-33703-serednia-69l-rozheve-zoloto-33703-m-rosegold-86580030183674_+5dc9a08a0e.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-snowball-33703-serednia-69l-rozheve-zoloto-33703-m-rosegold-23760707939155_+af0142742a.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Об'єм" paramcode="104">101</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <height>750</height>
+      <param name="Висота" paramcode="110">75</param>
+      <width>500</width>
+      <param name="Ширина" paramcode="111">50</param>
+      <length>280</length>
+      <param name="Глибина" paramcode="112">28</param>
+      <weight>5000</weight>
+      <param name="Вага" paramcode="150">5</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="33703-L-RoseGold" available="true">
+      <name lang="ru">Чемодан из полипропилена Snowball 33703 большой 101л розовое золото (33703-L-RoseGold)</name>
+      <name lang="ua">Валіза з поліпропілену Snowball 33703 велика 101л рожеве золото (33703-L-RoseGold)</name>
+      <price>3150</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л желтый (33703-S-Yellow)</description>
+      <description lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л жовта (33703-S-Yellow)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-snowball-33703-velyka-101l-rozheve-zoloto-33703-l-rosegold-72915672390298_+7c870e198b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-snowball-33703-velyka-101l-rozheve-zoloto-33703-l-rosegold-15724623512910_+764ddd679b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-snowball-33703-velyka-101l-rozheve-zoloto-33703-l-rosegold-21055693818302_+5fa4015fbc.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-snowball-33703-velyka-101l-rozheve-zoloto-33703-l-rosegold-47285621675318_+be80164a5f.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-snowball-33703-velyka-101l-rozheve-zoloto-33703-l-rosegold-29471572284560_+90fed61739.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-snowball-33703-velyka-101l-rozheve-zoloto-33703-l-rosegold-13143326932879_+ecaf18c893.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-snowball-33703-velyka-101l-rozheve-zoloto-33703-l-rosegold-74206396321080_+470692b901.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Об'єм" paramcode="104">101</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <height>750</height>
+      <param name="Висота" paramcode="110">75</param>
+      <width>500</width>
+      <param name="Ширина" paramcode="111">50</param>
+      <length>280</length>
+      <param name="Глибина" paramcode="112">28</param>
+      <weight>5000</weight>
+      <param name="Вага" paramcode="150">5</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="33703-L-White" available="false">
+      <name lang="ru">Чемодан из полипропилена Snowball 33703 большой 101л белый (33703-L-White)</name>
+      <name lang="ua">Валіза з поліпропілену Snowball 33703 велика 101л біла (33703-L-White)</name>
+      <price>3150</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л желтый (33703-S-Yellow)</description>
+      <description lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л жовта (33703-S-Yellow)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-33703-velyka-101l-bila-33703-l-white-73992654789938_+d9c2839273.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-33703-velyka-101l-bila-33703-l-white-57439085693507_+e5904ef4bd.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-33703-velyka-101l-bila-33703-l-white-35205952814636_+867ecc5be5.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-33703-velyka-101l-bila-33703-l-white-96938051858490_+eafe960afa.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-33703-velyka-101l-bila-33703-l-white-36521393440063_+9722b878dc.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-33703-velyka-101l-bila-33703-l-white-47421278643895_+b6dd068f41.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-33703-velyka-101l-bila-33703-l-white-45247020850651_+488f9e46b4.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Об'єм" paramcode="104">101</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <height>750</height>
+      <param name="Висота" paramcode="110">75</param>
+      <width>500</width>
+      <param name="Ширина" paramcode="111">50</param>
+      <length>280</length>
+      <param name="Глибина" paramcode="112">28</param>
+      <weight>5000</weight>
+      <param name="Вага" paramcode="150">5</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="33703-M-White" available="false">
+      <name lang="ru">Чемодан из полипропилена Snowball 33703 средний 69л белый (33703-M-White)</name>
+      <name lang="ua">Валіза з поліпропілену Snowball 33703 середня 69л біла (33703-M-White)</name>
+      <price>3100</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л желтый (33703-S-Yellow)</description>
+      <description lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л жовта (33703-S-Yellow)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/1/valiza-snowball-33703-serednia-69l-bila-33703-m-white-71000548433641_+413e38ac18.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/valiza-snowball-33703-serednia-69l-bila-33703-m-white-32653833973260_+5a0ad6d528.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/valiza-snowball-33703-serednia-69l-bila-33703-m-white-88683741020286_+e8b1314dfb.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/valiza-snowball-33703-serednia-69l-bila-33703-m-white-25111021215090_+9172ee5610.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/valiza-snowball-33703-serednia-69l-bila-33703-m-white-25005233852895_+dbe80bb813.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/valiza-snowball-33703-serednia-69l-bila-33703-m-white-39316426471108_+56facebb5c.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/valiza-snowball-33703-serednia-69l-bila-33703-m-white-39907660607122_+ef9abe878d.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Об'єм" paramcode="104">101</param>
+      <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+      <height>750</height>
+      <param name="Висота" paramcode="110">75</param>
+      <width>500</width>
+      <param name="Ширина" paramcode="111">50</param>
+      <length>280</length>
+      <param name="Глибина" paramcode="112">28</param>
+      <weight>5000</weight>
+      <param name="Вага" paramcode="150">5</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="33703-M-Dark-green" available="false">
+      <name lang="ru">Чемодан из полипропилена Snowball 33703 средний 69л зеленый (33703-M-Dark-green)</name>
+      <name lang="ua">Валіза з поліпропілену Snowball 33703 середня 69л зелена (33703-M-Dark-green)</name>
+      <price>3100</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан для ручной клади Snowball 33703 малый 36л желтый (33703-S-Yellow)</description>
+      <description lang="ua">Валіза для ручної поклажі Snowball 33703 мала 36л жовта (33703-S-Yellow)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/44/valiza-snowball-33703-serednia-69l-zelena-33703-m-dark-green-20923576815644_+1499933854.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/44/valiza-snowball-33703-serednia-69l-zelena-33703-m-dark-green-40872835690066_+67b5e39022.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/44/valiza-snowball-33703-serednia-69l-zelena-33703-m-dark-green-23898746778488_+3dcaf82c55.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/44/valiza-snowball-33703-serednia-69l-zelena-33703-m-dark-green-67790002542361_+fba86313e7.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/44/valiza-snowball-33703-serednia-69l-zelena-33703-m-dark-green-71727112203003_+f98ed014fc.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/44/valiza-snowball-33703-serednia-69l-zelena-33703-m-dark-green-52694957974438_+232a2b9e64.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/44/valiza-snowball-33703-serednia-69l-zelena-33703-m-dark-green-28600238863058_+736a1b068f.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -5196,7 +5196,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="5398-M-Champagne-ABS" available="true">
+    <offer id="5398-M-Champagne-ABS" available="false">
       <name lang="ru">Чемодан Wings 5398 средний 63л шампань (5398-M-Champagne-ABS)</name>
       <name lang="ua">Валіза Wings 5398 середня 63л шампань (5398-M-Champagne-ABS)</name>
       <price>1850</price>
@@ -5922,7 +5922,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="HIMAWARI-XS-Black" available="false">
+    <offer id="HIMAWARI-XS-Black" available="true">
       <name lang="ru">Рюкзак для ручной клади HIMAWARI 17л черный (HIMAWARI-XS-Black)</name>
       <name lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л чорний (HIMAWARI-XS-Black)</name>
       <price>1495</price>
@@ -6019,7 +6019,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="HIMAWARI-XS-Beige" available="false">
+    <offer id="HIMAWARI-XS-Beige" available="true">
       <name lang="ru">Рюкзак для ручной клади HIMAWARI 17л бежевый (HIMAWARI-XS-Beige)</name>
       <name lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л бежевий (HIMAWARI-XS-Beige)</name>
       <price>1495</price>
@@ -9908,7 +9908,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="HIMAWARI-XS-Gray" available="false">
+    <offer id="HIMAWARI-XS-Gray" available="true">
       <name lang="ru">Рюкзак для ручной клади HIMAWARI 17л серый (HIMAWARI-XS-Gray)</name>
       <name lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л сірий (HIMAWARI-XS-Gray)</name>
       <price>1595</price>
@@ -10834,7 +10834,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="42203-L-DarkBlue" available="true">
+    <offer id="42203-L-DarkBlue" available="false">
       <name lang="ru">Чемодан с расширением Madisson 42203 большой 103л темно-синий (42203-L-DarkBlue)</name>
       <name lang="ua">Валіза з розширенням Madisson 42203 велика 103л темно-синя (42203-L-DarkBlue)</name>
       <price>1854</price>
@@ -12485,7 +12485,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="HIMAWARI-XS-Blue" available="false">
+    <offer id="HIMAWARI-XS-Blue" available="true">
       <name lang="ru">Рюкзак для ручной клади HIMAWARI 17л синий (HIMAWARI-XS-Blue)</name>
       <name lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л синій (HIMAWARI-XS-Blue)</name>
       <price>1595</price>
@@ -15511,7 +15511,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="41403S-RoseGold" available="true">
+    <offer id="41403S-RoseGold" available="false">
       <name lang="ru">Сумка для ручной клади Snowball 41403S малая 13л розовое золото (41403S-RoseGold)</name>
       <name lang="ua">Сумка для ручної поклажі Snowball 41403S мала 13л рожеве золото (41403S-RoseGold)</name>
       <price>1700</price>
@@ -15549,7 +15549,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="HIMAWARI-XS-Red" available="false">
+    <offer id="HIMAWARI-XS-Red" available="true">
       <name lang="ru">Рюкзак для ручной клади HIMAWARI 17л красный (HIMAWARI-XS-Red)</name>
       <name lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л червоний (HIMAWARI-XS-Red)</name>
       <price>1595</price>
@@ -18294,7 +18294,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="160PC-M-Dark-green" available="true">
+    <offer id="160PC-M-Dark-green" available="false">
       <name lang="ru">Чемодан из поликарбоната Wings 160PC средний 63л зеленый (160PC-M-Dark-green)</name>
       <name lang="ua">Валіза з полікарбонату Wings 160PC середня 63л зелена (160PC-M-Dark-green)</name>
       <price>2700</price>
@@ -18568,7 +18568,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="160PC-Set-Dark-green" available="true">
+    <offer id="160PC-Set-Dark-green" available="false">
       <name lang="ru">Набор чемоданов из поликарбоната Wings 160PC 4 в 1 зеленый (160PC-Set-Dark-green)</name>
       <name lang="ua">Набір валіз з полікарбонату Wings 160PC 4 в 1 зелений (160PC-Set-Dark-green)</name>
       <price>7930</price>
