@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-29 12:11">
+<yml_catalog date="2026-08-30 06:11">
   <offers>
     <offer id="33703-L-Black" available="true">
       <name lang="ru">Чемодан с полипропилена Snowball 33703 большой 101л черный (33703-L-Black)</name>
@@ -4836,7 +4836,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="42203-L-Purple" available="true">
+    <offer id="42203-L-Purple" available="false">
       <name lang="ru">Чемодан с расширением Madisson 42203 большой 103л фиолетовый (42203-L-Purple)</name>
       <name lang="ua">Валіза з розширенням Madisson 42203 велика 103л фіолетова (42203-L-Purple)</name>
       <price>1854</price>
@@ -6904,7 +6904,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="2501-S-Coffe" available="true">
+    <offer id="2501-S-Coffe" available="false">
       <name lang="ru">Чемодан с расширением Wings 2501 малый 38л кофейный (2501-S-Coffe)</name>
       <name lang="ua">Валіза з розширенням Wings 2501 мала 38л кавова (2501-S-Coffe)</name>
       <price>1700</price>
@@ -20378,6 +20378,12 @@
       <description lang="ru">Чемодан с расширением Carbon 7898 малый 39л серый (7898-S-Gray)</description>
       <description lang="ua">Валіза з розширенням Carbon 7898 мала 39л сіра (7898-S-Gray)</description>
       <picture>https://sklad-valiz.com.ua/content/images/24/valiza-z-rozshyrenniam-carbon-7898-mala-39l-sira-7898-s-gray-38019066314950_+80ab098d73.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/24/valiza-z-rozshyrenniam-carbon-7898-mala-39l-sira-7898-s-gray-61260901253180_+54132a7402.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/24/valiza-z-rozshyrenniam-carbon-7898-mala-39l-sira-7898-s-gray-65943565857517_+8f162a04e9.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/24/valiza-z-rozshyrenniam-carbon-7898-mala-39l-sira-7898-s-gray-16630919319487_+f46b8c8784.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/24/valiza-z-rozshyrenniam-carbon-7898-mala-39l-sira-7898-s-gray-19955794896059_+292d9d5290.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/24/valiza-z-rozshyrenniam-carbon-7898-mala-39l-sira-7898-s-gray-60241023183419_+67f287461f.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/24/valiza-z-rozshyrenniam-carbon-7898-mala-39l-sira-7898-s-gray-44154437543047_+598d4310db.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -20418,6 +20424,12 @@
       <description lang="ru">Чемодан с расширением Carbon 7898 малый 39л шампань (7898-S-Champagne)</description>
       <description lang="ua">Валіза з розширенням Carbon 7898 мала 39л шампань (7898-S-Champagne)</description>
       <picture>https://sklad-valiz.com.ua/content/images/25/valiza-z-rozshyrenniam-carbon-7898-mala-39l-shampan-7898-s-champagne-14875674561738_+a9a6394458.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/25/valiza-z-rozshyrenniam-carbon-7898-mala-39l-shampan-7898-s-champagne-23045735881164_+243f2a6186.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/25/valiza-z-rozshyrenniam-carbon-7898-mala-39l-shampan-7898-s-champagne-54526242149924_+3d108672f7.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/25/valiza-z-rozshyrenniam-carbon-7898-mala-39l-shampan-7898-s-champagne-18731353694412_+da6504d4a1.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/25/valiza-z-rozshyrenniam-carbon-7898-mala-39l-shampan-7898-s-champagne-27276409997046_+7462ee9b44.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/25/valiza-z-rozshyrenniam-carbon-7898-mala-39l-shampan-7898-s-champagne-96416273758259_+1541ef5f99.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/25/valiza-z-rozshyrenniam-carbon-7898-mala-39l-shampan-7898-s-champagne-48303744376633_+6764a7de16.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -20458,6 +20470,12 @@
       <description lang="ru">Чемодан с расширением Carbon 7898 малый 39л кремовый (7898-S-Milk)</description>
       <description lang="ua">Валіза з розширенням Carbon 7898 мала 39л кремова (7898-S-Milk)</description>
       <picture>https://sklad-valiz.com.ua/content/images/26/valiza-z-rozshyrenniam-carbon-7898-mala-39l-kremova-7898-s-milk-40918666985228_+568271d877.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/26/valiza-z-rozshyrenniam-carbon-7898-mala-39l-kremova-7898-s-milk-79389188960879_+91d20811de.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/26/valiza-z-rozshyrenniam-carbon-7898-mala-39l-kremova-7898-s-milk-61858737920498_+a89e6dd80e.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/26/valiza-z-rozshyrenniam-carbon-7898-mala-39l-kremova-7898-s-milk-84399163093058_+90fd43bf67.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/26/valiza-z-rozshyrenniam-carbon-7898-mala-39l-kremova-7898-s-milk-88805310794820_+b430288fc4.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/26/valiza-z-rozshyrenniam-carbon-7898-mala-39l-kremova-7898-s-milk-28306341937607_+2de233f7ef.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/26/valiza-z-rozshyrenniam-carbon-7898-mala-39l-kremova-7898-s-milk-88010640699092_+58035d13ca.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -20498,6 +20516,12 @@
       <description lang="ru">Чемодан с расширением Carbon 7898 средний 67л серый (7898-M-Gray)</description>
       <description lang="ua">Валіза з розширенням Carbon 7898 середня 67л сіра (7898-M-Gray)</description>
       <picture>https://sklad-valiz.com.ua/content/images/27/valiza-z-rozshyrenniam-carbon-7898-serednia-67l-sira-7898-m-gray-90996359934979_+832165f817.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-z-rozshyrenniam-carbon-7898-serednia-67l-sira-7898-m-gray-11857599296869_+44861a67dd.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-z-rozshyrenniam-carbon-7898-serednia-67l-sira-7898-m-gray-16049751733019_+08212d4fd8.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-z-rozshyrenniam-carbon-7898-serednia-67l-sira-7898-m-gray-47244089496625_+1fe949f7aa.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-z-rozshyrenniam-carbon-7898-serednia-67l-sira-7898-m-gray-30359888810257_+2274a39311.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-z-rozshyrenniam-carbon-7898-serednia-67l-sira-7898-m-gray-15705386508475_+c00cf30b01.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/valiza-z-rozshyrenniam-carbon-7898-serednia-67l-sira-7898-m-gray-52142968021601_+d6bcdf10b1.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -20538,6 +20562,12 @@
       <description lang="ru">Чемодан с расширением Carbon 7898 средний 67л шампань (7898-M-Champagne)</description>
       <description lang="ua">Валіза з розширенням Carbon 7898 середня 67л шампань (7898-M-Champagne)</description>
       <picture>https://sklad-valiz.com.ua/content/images/28/valiza-z-rozshyrenniam-carbon-7898-serednia-67l-shampan-7898-m-champagne-51257324505719_+8e0426fd63.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/28/valiza-z-rozshyrenniam-carbon-7898-serednia-67l-shampan-7898-m-champagne-50400638993628_+7199886f29.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/28/valiza-z-rozshyrenniam-carbon-7898-serednia-67l-shampan-7898-m-champagne-80829987292583_+0c203b43b1.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/28/valiza-z-rozshyrenniam-carbon-7898-serednia-67l-shampan-7898-m-champagne-34331088227063_+11ed0b96a6.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/28/valiza-z-rozshyrenniam-carbon-7898-serednia-67l-shampan-7898-m-champagne-32265079216671_+7036405ef5.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/28/valiza-z-rozshyrenniam-carbon-7898-serednia-67l-shampan-7898-m-champagne-31915847186635_+a9d7b2b2cd.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/28/valiza-z-rozshyrenniam-carbon-7898-serednia-67l-shampan-7898-m-champagne-19126480052612_+3c7d7d126c.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -20578,6 +20608,12 @@
       <description lang="ru">Чемодан с расширением Carbon 7898 средний 67л кремовый (7898-M-Milk)</description>
       <description lang="ua">Валіза з розширенням Carbon 7898 середня 67л кремова (7898-M-Milk)</description>
       <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-rozshyrenniam-carbon-7898-serednia-67l-kremova-7898-m-milk-20386540786413_+462cfb8861.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-rozshyrenniam-carbon-7898-serednia-67l-kremova-7898-m-milk-85376566454147_+81224368ad.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-rozshyrenniam-carbon-7898-serednia-67l-kremova-7898-m-milk-57613832485050_+03947b5ffe.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-rozshyrenniam-carbon-7898-serednia-67l-kremova-7898-m-milk-72027784458726_+64c0cc158f.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-rozshyrenniam-carbon-7898-serednia-67l-kremova-7898-m-milk-98768400094416_+fe396e165a.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-rozshyrenniam-carbon-7898-serednia-67l-kremova-7898-m-milk-46221182813463_+e6e3b86b4e.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-rozshyrenniam-carbon-7898-serednia-67l-kremova-7898-m-milk-61037444265181_+840d5522e5.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -20618,6 +20654,12 @@
       <description lang="ru">Чемодан с расширением Carbon 7898 большой 98л серый (7898-L-Gray)</description>
       <description lang="ua">Валіза з розширенням Carbon 7898 велика 98л сіра (7898-L-Gray)</description>
       <picture>https://sklad-valiz.com.ua/content/images/30/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-sira-7898-l-gray-68036880368490_+2f80b70972.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/30/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-sira-7898-l-gray-51034538835003_+dd2582b309.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/30/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-sira-7898-l-gray-15551464121413_+4494597fa7.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/30/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-sira-7898-l-gray-60320073763614_+9b6f35a186.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/30/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-sira-7898-l-gray-21078703570338_+60a11f8b8a.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/30/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-sira-7898-l-gray-64298921252168_+95b38616f0.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/30/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-sira-7898-l-gray-26397942230923_+e1ca3a0e2b.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -20658,6 +20700,12 @@
       <description lang="ru">Чемодан с расширением Carbon 7898 большой 98л шампань (7898-L-Champagne)</description>
       <description lang="ua">Валіза з розширенням Carbon 7898 велика 98л шампань (7898-L-Champagne)</description>
       <picture>https://sklad-valiz.com.ua/content/images/31/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-shampan-7898-l-champagne-12339315051525_+2d8e35842a.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/31/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-shampan-7898-l-champagne-66259940735716_+844daabf88.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/31/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-shampan-7898-l-champagne-43684978263154_+f8bc008934.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/31/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-shampan-7898-l-champagne-33297443952571_+a408035f7a.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/31/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-shampan-7898-l-champagne-59755056493121_+2dbb59d2af.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/31/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-shampan-7898-l-champagne-39770977258950_+fec709817b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/31/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-shampan-7898-l-champagne-83201197582759_+ddde7e2349.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -20698,6 +20746,12 @@
       <description lang="ru">Чемодан с расширением Carbon 7898 большой 98л кремовый (7898-L-Milk)</description>
       <description lang="ua">Валіза з розширенням Carbon 7898 велика 98л кремова (7898-L-Milk)</description>
       <picture>https://sklad-valiz.com.ua/content/images/32/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-kremova-7898-l-milk-78312120100987_+61943c9634.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/32/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-kremova-7898-l-milk-45128569297731_+ff81c80c60.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/32/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-kremova-7898-l-milk-13703982309757_+8b8a16e914.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/32/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-kremova-7898-l-milk-98327642048907_+ae99004e85.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/32/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-kremova-7898-l-milk-84654723822488_+47ac0d8941.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/32/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-kremova-7898-l-milk-70993130206312_+1931e06511.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/32/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-kremova-7898-l-milk-80363997229276_+9832582fdb.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
@@ -20739,6 +20793,12 @@
       <description lang="ru">Набор чемоданов с расширением Carbon 7898 3 в 1 серый (7898-Set-Gray)</description>
       <description lang="ua">Набір валіз з розширенням Carbon 7898 3 в 1 сірий (7898-Set-Gray)</description>
       <picture>https://sklad-valiz.com.ua/content/images/33/nabir-valiz-z-rozshyrenniam-carbon-7898-3-v-1-siryi-7898-set-gray-92019701382294_+df356a486a.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/nabir-valiz-z-rozshyrenniam-carbon-7898-3-v-1-siryi-7898-set-gray-82461229798711_+28ea2cb032.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/nabir-valiz-z-rozshyrenniam-carbon-7898-3-v-1-siryi-7898-set-gray-33627975972434_+a6c5942468.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/nabir-valiz-z-rozshyrenniam-carbon-7898-3-v-1-siryi-7898-set-gray-48396136018574_+41f0dcd165.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/nabir-valiz-z-rozshyrenniam-carbon-7898-3-v-1-siryi-7898-set-gray-60107095851086_+e082b97a0b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/nabir-valiz-z-rozshyrenniam-carbon-7898-3-v-1-siryi-7898-set-gray-87127009765002_+bd432efe89.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/nabir-valiz-z-rozshyrenniam-carbon-7898-3-v-1-siryi-7898-set-gray-56824724898942_+e5dee57414.jpg</picture>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
       <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
@@ -20778,6 +20838,12 @@
       <description lang="ru">Набор чемоданов с расширением Carbon 7898 3 в 1 шампань (7898-Set-Champagne)</description>
       <description lang="ua">Набір валіз з розширенням Carbon 7898 3 в 1 шампань (7898-Set-Champagne)</description>
       <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-z-rozshyrenniam-carbon-7898-3-v-1-shampan-7898-set-champagne-13974838955906_+d1d05f423f.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-z-rozshyrenniam-carbon-7898-3-v-1-shampan-7898-set-champagne-25346380951979_+a675bf8f5e.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-z-rozshyrenniam-carbon-7898-3-v-1-shampan-7898-set-champagne-68704198346979_+32f392d426.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-z-rozshyrenniam-carbon-7898-3-v-1-shampan-7898-set-champagne-87632419695981_+1e726ba2f1.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-z-rozshyrenniam-carbon-7898-3-v-1-shampan-7898-set-champagne-95542397710346_+5977ec3af8.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-z-rozshyrenniam-carbon-7898-3-v-1-shampan-7898-set-champagne-43145820877643_+768fc8af71.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-z-rozshyrenniam-carbon-7898-3-v-1-shampan-7898-set-champagne-68978927221052_+bf2eaa2913.jpg</picture>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
       <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
@@ -20817,6 +20883,12 @@
       <description lang="ru">Набор чемоданов с расширением Carbon 7898 3 в 1 кремовый (7898-Set-Milk)</description>
       <description lang="ua">Набір валіз з розширенням Carbon 7898 3 в 1 кремовий (7898-Set-Milk)</description>
       <picture>https://sklad-valiz.com.ua/content/images/35/nabir-valiz-z-rozshyrenniam-carbon-7898-3-v-1-kremovyi-7898-set-milk-49639955225801_+feab5d2d4f.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/35/nabir-valiz-z-rozshyrenniam-carbon-7898-3-v-1-kremovyi-7898-set-milk-90543053942480_+b66b1b9b39.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/35/nabir-valiz-z-rozshyrenniam-carbon-7898-3-v-1-kremovyi-7898-set-milk-22314253450026_+e23f395571.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/35/nabir-valiz-z-rozshyrenniam-carbon-7898-3-v-1-kremovyi-7898-set-milk-82292478668189_+abc3e5beeb.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/35/nabir-valiz-z-rozshyrenniam-carbon-7898-3-v-1-kremovyi-7898-set-milk-13743175726087_+ccfbcad906.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/35/nabir-valiz-z-rozshyrenniam-carbon-7898-3-v-1-kremovyi-7898-set-milk-14706891275641_+e08bdd71a4.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/35/nabir-valiz-z-rozshyrenniam-carbon-7898-3-v-1-kremovyi-7898-set-milk-34245440938554_+ce3d20673f.jpg</picture>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
       <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
