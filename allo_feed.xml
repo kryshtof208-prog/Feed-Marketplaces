@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-04 12:16">
+<yml_catalog date="2026-09-04 18:16">
 <shop>
 <name>Sklad Valiz</name>
 <company>Sklad Valiz</company>
@@ -13,228 +13,6 @@
 <category id="1976">Рюкзаки</category>
 </categories>
 <offers>
-<offer id="49403-S-White" available="true" group_id="49403-S-White">
-<url>https://sklad-valiz.com.ua/valiza-snowball-49403-mala-bila-49403-s-white/</url>
-<price>3600</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/1/valiza-snowball-49403-mala-bila-49403-s-white-92334496555986_+96a7630df9.png</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан Snowball 49403 малый 36л белый (49403-S-White)</name>
-<name_ua>Валіза Snowball 49403 мала 36л біла (49403-S-White)</name_ua>
-<vendor>Snowball</vendor>
-<vendorCode>49403-S-White</vendorCode>
-<description>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description>
-<description_ua>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
-<country_of_origin>Франція</country_of_origin>
-<param name="Колір">Білий</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Поліпропілен</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">S</param>
-<param name="Країна виробник">Франція</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="94103-S-Silver" available="true" group_id="94103-S-Silver">
-<url>https://sklad-valiz.com.ua/valiza-snowball-94103-mala-46l-sribna-94103-s-silver/</url>
-<price>4200</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/3/39197478157646_+d381310fbc.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/3/63847007730307_+35b07bb29b.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/3/35673989153784_+853b34e076.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/3/96195547151111_+75c07b8607.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/3/68947732661542_+60be76c137.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/3/32669516245779_+15c4305e95.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/3/98111010166472_+325e586a76.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/3/98955830178943_+43064ed138.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/3/60523739401106_+9fa533e51a.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан Snowball 94103 малый 46л серебряный (94103-S-Silver)</name>
-<name_ua>Валіза Snowball 94103 мала 46л срібна (94103-S-Silver)</name_ua>
-<vendor>Snowball</vendor>
-<vendorCode>94103-S-Silver</vendorCode>
-<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 450&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
-<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 450&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-<country_of_origin>Франція</country_of_origin>
-<param name="Колір">Срібний</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Поліпропілен</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">S</param>
-<param name="Країна виробник">Франція</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="HWF01-S-Champagne" available="true" group_id="HWF01-S-Champagne">
-<url>https://sklad-valiz.com.ua/valiza-wings-hwf01-mala-38l-shampan-hwf01-s-champagne/</url>
-<price>2200</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-hwf01-mala-38l-shampan-hwf01-s-champagne-13384452545023_+cbc57ba134.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-hwf01-mala-38l-shampan-hwf01-s-champagne-57478365720492_+949d0bf133.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-hwf01-mala-38l-shampan-hwf01-s-champagne-31394652990229_+99e702641f.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-hwf01-mala-38l-shampan-hwf01-s-champagne-61626236499551_+8066c95829.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-hwf01-mala-38l-shampan-hwf01-s-champagne-67052470345372_+843e3d7163.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-hwf01-mala-38l-shampan-hwf01-s-champagne-54623607527960_+965bd2580e.png</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан Wings HWF01 малый 38л шампань (HWF01-S-Champagne)</name>
-<name_ua>Валіза Wings HWF01 мала 38л шампань (HWF01-S-Champagne)</name_ua>
-<vendor>Wings</vendor>
-<vendorCode>HWF01-S-Champagne</vendorCode>
-<description>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description>
-<description_ua>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
-<country_of_origin>Польща</country_of_origin>
-<param name="Колір">Шампань</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Поліпропілен</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">S</param>
-<param name="Країна виробник">Польща</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="MUR01-S-TitanBlue" available="true" group_id="MUR01-S-TitanBlue">
-<url>https://sklad-valiz.com.ua/valiza-wings-mur01-mala-40l-synia-mur01-s-titanblue/</url>
-<price>2600</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-mur01-mala-40l-synia-mur01-s-titanblue-24055143093559_+401b1010d4.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-mur01-mala-40l-synia-mur01-s-titanblue-91181031535003_+bfdf3ec2ba.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-mur01-mala-40l-synia-mur01-s-titanblue-48588036181224_+759cc879d9.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-mur01-mala-40l-synia-mur01-s-titanblue-49818976694070_+bfb502c345.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-mur01-mala-40l-synia-mur01-s-titanblue-39837357135429_+b896bb0126.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-mur01-mala-40l-synia-mur01-s-titanblue-86012897406533_+26c998dbf5.png</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан Wings MUR01 малый 40л синий (MUR01-S-TitanBlue)</name>
-<name_ua>Валіза Wings MUR01 мала 40л синя (MUR01-S-TitanBlue)</name_ua>
-<vendor>Wings</vendor>
-<vendorCode>MUR01-S-TitanBlue</vendorCode>
-<description>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description>
-<description_ua>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
-<country_of_origin>Польща</country_of_origin>
-<param name="Колір">Синій</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Поліпропілен</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">S</param>
-<param name="Країна виробник">Польща</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="WN01-S-Champagne-ABS" available="true" group_id="WN01-S-Champagne-ABS">
-<url>https://sklad-valiz.com.ua/valiza-wings-wn01-mala-38l-shampan-wn01-s-champagne-abs/</url>
-<price>2050</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/15/78782094513321_+4dfb621f26.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/15/68495010647763_+eb87c43b30.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/15/91158152790642_+1c10ebaacb.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/15/21258848937092_+5d0da5485d.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/15/46515949196463_+df12455e6a.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/15/24958095653356_+58752f7473.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/15/14869527308373_+01f68def89.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/15/50790405175421_+bce21f3f6e.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/15/63204074629743_+82acf97635.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/15/94779652788628_+8ac4ce6050.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/15/86328900043967_+08ede66cdd.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан Wings WN01 малый 38л шампань (WN01-S-Champagne-ABS)</name>
-<name_ua>Валіза Wings WN01 мала 38л шампань (WN01-S-Champagne-ABS)</name_ua>
-<vendor>Wings</vendor>
-<vendorCode>WN01-S-Champagne-ABS</vendorCode>
-<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 462&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
-<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 462&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-<country_of_origin>Польща</country_of_origin>
-<param name="Колір">Шампань</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Пластик</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">S</param>
-<param name="Країна виробник">Польща</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="WN01-S-Creme" available="true" group_id="WN01-S-Creme">
-<url>https://sklad-valiz.com.ua/valiza-wings-wn01-mala-38l-kremova-wn01-s-creme/</url>
-<price>2050</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/16/valiza-wings-wn01-mala-38l-kremova-wn01-s-creme-35728224795433_+e963505dc6.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/16/22132785899284_+8e0b41e6bb.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/16/52604594728470_+65acc0d7f6.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/16/95093727611349_+1d5e6dc6fc.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/16/96633820087938_+f703e37e2e.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/16/88188356337333_+001f93ec97.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/16/24752357661515_+9e05446362.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/16/87618302048138_+56ca283a86.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан Wings WN01 малый 38л кремовый (WN01-S-Creme)</name>
-<name_ua>Валіза Wings WN01 мала 38л кремова (WN01-S-Creme)</name_ua>
-<vendor>Wings</vendor>
-<vendorCode>WN01-S-Creme</vendorCode>
-<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 463&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
-<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 463&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-<country_of_origin>Польща</country_of_origin>
-<param name="Колір">Кремовий</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Пластик</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">S</param>
-<param name="Країна виробник">Польща</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="AVC01-BC-Black" available="true" group_id="AVC01-BC-Black">
-<url>https://sklad-valiz.com.ua/dorozhnia-sumka-wings-avc01-20l-chorna-avc01-bc-black/</url>
-<salePrice>870</salePrice>
-<price>1450</price>
-<currencyId>UAH</currencyId>
-<categoryId>2016</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/20/92107366967343_+444e135801.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Дорожная сумка Wings AVC01 20л черная (AVC01-BC-Black)</name>
-<name_ua>Дорожня сумка Wings AVC01 20л чорна (AVC01-BC-Black)</name_ua>
-<vendor>Wings</vendor>
-<vendorCode>AVC01-BC-Black</vendorCode>
-<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 467&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
-<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 467&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-<country_of_origin>Польща</country_of_origin>
-<param name="Колір">Чорний</param>
-<param name="Тип">Сумка дорожная</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Кількість коліс">Без колес</param>
-<param name="Замок">Ні</param>
-<param name="Розмір">XS</param>
-<param name="Країна виробник">Польща</param>
-<param name="Стан">Новий</param>
-</offer>
 <offer id="63703-L-Milk" available="true" group_id="63703-L-Milk">
 <url>https://sklad-valiz.com.ua/valiza-madisson-63703-velyka-100l-kremova-63703-l-milk/</url>
 <salePrice>2253</salePrice>
@@ -5100,439 +4878,733 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="94103-S-Green" available="false" group_id="94103-S-Green">
-<url>https://sklad-valiz.com.ua/valiza-snowball-94103-mala-46l-zelena-94103-s-green/</url>
-<price>4200</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/2/85129635603540_+431f2ac603.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/2/52314053851346_+762f297f2b.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/2/51550217536976_+cf71b7c30f.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/2/83870758981507_+c01cfd2ddd.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/2/15878527530996_+c5b00079bc.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/2/38637359237848_+3f4ae920ee.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/2/63940347890000_+35d4133ed2.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/2/50353066995244_+3fbaa100dc.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/2/64784322355076_+837dde02bd.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/2/99905122560398_+8d61bdc84c.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан Snowball 94103 малый 46л зеленый (94103-S-Green)</name>
-<name_ua>Валіза Snowball 94103 мала 46л зелена (94103-S-Green)</name_ua>
-<vendor>Snowball</vendor>
-<vendorCode>94103-S-Green</vendorCode>
-<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 449&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
-<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 449&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-<country_of_origin>Франція</country_of_origin>
-<param name="Колір">Зелёный</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Поліпропілен</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">S</param>
-<param name="Країна виробник">Франція</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="CKT01-S-LightBlue" available="false" group_id="CKT01-S-LightBlue">
-<url>https://sklad-valiz.com.ua/valiza-wings-cockatiel-mala-blakytna-ckt01-s-lightblue/</url>
-<price>2450</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/6/44442895013444_+e3ee91417b.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/6/70530853062672_+095799b52c.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/6/12869779586867_+b3275cb2e3.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/6/73245176464722_+b0bbbb4eed.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/6/37111922188458_+cedcc55db5.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/6/76246817082468_+49df78023c.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/6/46958175839082_+fd33ec92e1.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/6/35931734889923_+6498e55d74.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/6/19592047510451_+3f76f6a376.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан Wings COCKATIEL малый голубой (CKT01-S-LightBlue)</name>
-<name_ua>Валіза Wings COCKATIEL мала блакитна (CKT01-S-LightBlue)</name_ua>
-<vendor>Wings</vendor>
-<vendorCode>CKT01-S-LightBlue</vendorCode>
-<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 453&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
-<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 453&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-<country_of_origin>Польща</country_of_origin>
-<param name="Колір">Блакитний</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Поліпропілен</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">S</param>
-<param name="Країна виробник">Польща</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="CKT01-S-WhitePink" available="false" group_id="CKT01-S-WhitePink">
-<url>https://sklad-valiz.com.ua/valiza-wings-cockatiel-mala-rozheva-ckt01-s-whitepink/</url>
-<price>2450</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/7/79402553080054_+31b25873e0.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/7/94668221185476_+9d587bd8e7.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/7/93789416587592_+3fcfd0fe81.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/7/73756159424116_+56f84e0d4a.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/7/11140953710605_+d5cdc6b162.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/7/17321755709884_+a5145624a7.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/7/41763515636995_+2f45d9aa46.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/7/73184688247238_+b2e9d386cd.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан Wings COCKATIEL малый розовый (CKT01-S-WhitePink)</name>
-<name_ua>Валіза Wings COCKATIEL мала рожева (CKT01-S-WhitePink)</name_ua>
-<vendor>Wings</vendor>
-<vendorCode>CKT01-S-WhitePink</vendorCode>
-<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 454&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
-<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 454&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-<country_of_origin>Польща</country_of_origin>
-<param name="Колір">Рожевий</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Поліпропілен</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">S</param>
-<param name="Країна виробник">Польща</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="CKT01-S-WhitePurple" available="false" group_id="CKT01-S-WhitePurple">
-<url>https://sklad-valiz.com.ua/valiza-wings-cockatiel-mala-fialkova-ckt01-s-whitepurple/</url>
-<price>2450</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/8/33048220122302_+d76f398313.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/8/91779894720267_+6794a84698.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/8/35489859107570_+fc5f486153.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/8/48370909901534_+1c271f9a37.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/8/82616319226088_+27e5496086.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/8/74448094096731_+3b6e61b584.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/8/99586905773383_+7990427721.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/8/82230549488237_+313c6bf45e.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/8/96538610698644_+80edca80d5.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/8/90835042737208_+69040574e7.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/8/79204410800359_+6caf477fb1.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/8/83702292904742_+eac0a3d10b.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан Wings COCKATIEL малый фиалковый (CKT01-S-WhitePurple)</name>
-<name_ua>Валіза Wings COCKATIEL мала фіалкова (CKT01-S-WhitePurple)</name_ua>
-<vendor>Wings</vendor>
-<vendorCode>CKT01-S-WhitePurple</vendorCode>
-<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 455&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
-<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 455&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-<country_of_origin>Польща</country_of_origin>
-<param name="Колір">Ліловий</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Поліпропілен</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">S</param>
-<param name="Країна виробник">Польща</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="HWF01-S-Black" available="false" group_id="HWF01-S-Black">
-<url>https://sklad-valiz.com.ua/valiza-wings-hwf01-mala-38l-chorna-hwf01-s-black/</url>
-<price>2200</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/9/80530080464998_+54278e040d.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/9/62616167422651_+fa6ed80527.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/9/88872380065243_+13d69f428a.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/9/25319738909731_+1be325490a.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/9/93262113677955_+97dae6b0f9.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/9/73075540148295_+f82a2c085a.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан Wings HWF01 малый 38л черный (HWF01-S-Black)</name>
-<name_ua>Валіза Wings HWF01 мала 38л чорна (HWF01-S-Black)</name_ua>
-<vendor>Wings</vendor>
-<vendorCode>HWF01-S-Black</vendorCode>
-<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 456&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
-<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 456&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-<country_of_origin>Польща</country_of_origin>
-<param name="Колір">Чорний</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Поліпропілен</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">Кодовий</param>
-<param name="Розмір">S</param>
-<param name="Країна виробник">Польща</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="MUR01-S-Champagne" available="false" group_id="MUR01-S-Champagne">
-<url>https://sklad-valiz.com.ua/valiza-wings-mur01-mala-40l-shampan-mur01-s-champagne/</url>
-<price>2600</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/11/valiza-wings-mur01-mala-40l-bezheva-mur01-s-beige-63120085949047_+f6c91e6203.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/11/valiza-wings-mur01-mala-40l-bezheva-mur01-s-beige-51910618719602_+8ebd802ca1.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/11/valiza-wings-mur01-mala-40l-bezheva-mur01-s-beige-53737085014095_+1f81408cf7.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/11/valiza-wings-mur01-mala-40l-bezheva-mur01-s-beige-92086251941658_+6348a0a843.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/11/valiza-wings-mur01-mala-40l-bezheva-mur01-s-beige-93513345778821_+018a082e84.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/11/valiza-wings-mur01-mala-40l-bezheva-mur01-s-beige-54659328542116_+267b65f89f.png</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан Wings MUR01 малый 40л шампань (MUR01-S-Champagne)</name>
-<name_ua>Валіза Wings MUR01 мала 40л шампань (MUR01-S-Champagne)</name_ua>
-<vendor>Wings</vendor>
-<vendorCode>MUR01-S-Champagne</vendorCode>
-<description>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description>
-<description_ua>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
-<country_of_origin>Польща</country_of_origin>
-<param name="Колір">Шампань</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Поліпропілен</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">S</param>
-<param name="Країна виробник">Польща</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="MUR01-S-Black" available="false" group_id="MUR01-S-Black">
-<url>https://sklad-valiz.com.ua/valiza-wings-mur01-mala-40l-chorna-mur01-s-black/</url>
-<price>2600</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-mur01-mala-40l-chorna-mur01-s-black-13377887321968_+8d03df8fda.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-mur01-mala-40l-chorna-mur01-s-black-29247883182248_+643e4540b9.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-mur01-mala-40l-chorna-mur01-s-black-61354116931708_+05f52c28f7.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-mur01-mala-40l-chorna-mur01-s-black-14014681971940_+b6342abe6c.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-mur01-mala-40l-chorna-mur01-s-black-79060445177457_+22b2f8e7c9.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-mur01-mala-40l-chorna-mur01-s-black-40176138150796_+8744747bd1.png</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан Wings MUR01 малый 40л черный (MUR01-S-Black)</name>
-<name_ua>Валіза Wings MUR01 мала 40л чорна (MUR01-S-Black)</name_ua>
-<vendor>Wings</vendor>
-<vendorCode>MUR01-S-Black</vendorCode>
-<description>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description>
-<description_ua>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
-<country_of_origin>Польща</country_of_origin>
-<param name="Колір">Чорний</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Поліпропілен</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">S</param>
-<param name="Країна виробник">Польща</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="WN01-S-Champagne" available="false" group_id="WN01-S-Champagne">
-<url>https://sklad-valiz.com.ua/valiza-wings-wn01-s-38l-shampan-wn01-s-champagne/</url>
-<price>2050</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/14/valiza-wings-wn01-s-38l-shampan-wn01-s-champagne-86779628248654_+4255f28bcf.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/valiza-wings-wn01-s-38l-shampan-wn01-s-champagne-35082033682270_+251f8c7fb7.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/valiza-wings-wn01-s-38l-shampan-wn01-s-champagne-89096534718373_+3cddf69853.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/valiza-wings-wn01-s-38l-shampan-wn01-s-champagne-62163677891244_+7a153fd950.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/valiza-wings-wn01-s-38l-shampan-wn01-s-champagne-68167957193677_+3b60df0960.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/valiza-wings-wn01-s-38l-shampan-wn01-s-champagne-52443297279511_+1465784e22.png</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан Wings WN01 малый 38л шампань (WN01-S-Champagne)</name>
-<name_ua>Валіза Wings WN01 мала 38л шампань (WN01-S-Champagne)</name_ua>
-<vendor>Wings</vendor>
-<vendorCode>WN01-S-Champagne</vendorCode>
-<description>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал ABS + полікарбонат поєднує в собі міцність та легкість. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description>
-<description_ua>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал ABS + полікарбонат поєднує в собі міцність та легкість. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
-<country_of_origin>Польща</country_of_origin>
-<param name="Колір">Шампань</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Пластик</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">S</param>
-<param name="Країна виробник">Польща</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="WN01-S-Creme-ABS" available="false" group_id="WN01-S-Creme-ABS">
-<url>https://sklad-valiz.com.ua/valiza-wings-wn01-mala-33l-kremova-wn01-s-creme-abs/</url>
-<price>2050</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/17/71768398463220_+e7f789a907.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/17/78405035136859_+9645f5bd31.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/17/28282518317691_+61e7832ea0.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/17/48868506111363_+4d465e4729.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/17/36603635656711_+7fbb231b70.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/17/37229612936001_+108efebcf5.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/17/80524600765977_+559aa24274.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/17/92716520109277_+f8f7c5bd9f.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан Wings WN01 малый 33л кремовый (WN01-S-Creme-ABS)</name>
-<name_ua>Валіза Wings WN01 мала 33л кремова (WN01-S-Creme-ABS)</name_ua>
-<vendor>Wings</vendor>
-<vendorCode>WN01-S-Creme-ABS</vendorCode>
-<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 464&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
-<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 464&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-<country_of_origin>Польща</country_of_origin>
-<param name="Колір">Кремовий</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Пластик</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">S</param>
-<param name="Країна виробник">Польща</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="WN01-S-RoseGold" available="false" group_id="WN01-S-RoseGold">
-<url>https://sklad-valiz.com.ua/valiza-wings-wn01-mala-38l-rozheve-zoloto-wn01-s-rosegold/</url>
-<price>2050</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/18/valiza-wings-wn01-mala-38l-rozheve-zoloto-wn01-s-rosegold-14315792605337_+8db07de94c.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/18/73479312406176_+6e5157e6ec.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/18/86980153862623_+df83761f19.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/18/59110848802142_+4b27cfe31f.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/18/17513213043893_+0522462548.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/18/24618537858670_+4c95d74c76.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/18/65353409689219_+605e4bb0d2.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/18/11456265905527_+1b3f4c1ab0.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/18/74811848919945_+e1a3c9b83f.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/18/58289368187418_+19e3758401.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/18/30480839145691_+0eca3740e5.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан Wings WN01 малый 38л розовое золото (WN01-S-RoseGold)</name>
-<name_ua>Валіза Wings WN01 мала 38л рожеве золото (WN01-S-RoseGold)</name_ua>
-<vendor>Wings</vendor>
-<vendorCode>WN01-S-RoseGold</vendorCode>
-<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 465&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
-<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 465&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-<country_of_origin>Польща</country_of_origin>
-<param name="Колір">Рожеве золото</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Пластик</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">S</param>
-<param name="Країна виробник">Польща</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="WN01-S-RoseGold-ABS" available="false" group_id="WN01-S-RoseGold-ABS">
-<url>https://sklad-valiz.com.ua/valiza-wings-wn01-mala-38l-rozheve-zoloto-wn01-s-rosegold-abs/</url>
-<price>2050</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/19/66387255764577_+e51736fab9.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/19/47884191573455_+c7367bfa17.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/19/19018768213203_+1bbd6534f8.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/19/22459942153199_+a43ba9bc5c.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/19/65409822722214_+c29fab4bdc.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/19/83020362943513_+c69fc59584.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/19/84753500576428_+ca025117f5.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/19/23006833128727_+13074c574e.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/19/19088714588475_+9c362e1136.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/19/53606597796127_+3a82168fa6.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/19/56710437783846_+bf158580f6.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан Wings WN01 малый 38л розовое золото (WN01-S-RoseGold-ABS)</name>
-<name_ua>Валіза Wings WN01 мала 38л рожеве золото (WN01-S-RoseGold-ABS)</name_ua>
-<vendor>Wings</vendor>
-<vendorCode>WN01-S-RoseGold-ABS</vendorCode>
-<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 466&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
-<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 466&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-<country_of_origin>Польща</country_of_origin>
-<param name="Колір">Рожеве золото</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Пластик</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">S</param>
-<param name="Країна виробник">Польща</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="AVC01-BC-Grey" available="false" group_id="AVC01-BC-Grey">
-<url>https://sklad-valiz.com.ua/dorozhnia-sumka-wings-avc01-20l-zhovta-avc01-bc-grey/</url>
-<price>1450</price>
-<currencyId>UAH</currencyId>
-<categoryId>2016</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/21/86057210909800_+8925eccb40.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Дорожная сумка Wings AVC01 20л желтая (AVC01-BC-Grey)</name>
-<name_ua>Дорожня сумка Wings AVC01 20л жовта (AVC01-BC-Grey)</name_ua>
-<vendor>Wings</vendor>
-<vendorCode>AVC01-BC-Grey</vendorCode>
-<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 468&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
-<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 468&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
-<country_of_origin>Польща</country_of_origin>
-<param name="Колір">Сірий</param>
-<param name="Тип">Сумка дорожная</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Кількість коліс">Без колес</param>
-<param name="Замок">Ні</param>
-<param name="Розмір">XS</param>
-<param name="Країна виробник">Польща</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="Kaiman-XS-Grey" available="false" group_id="Kaiman-XS-Grey">
-<url>https://sklad-valiz.com.ua/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey/</url>
+<offer id="PHX01-S-Gray" available="true" group_id="PHX01-S-Gray">
+<url>https://sklad-valiz.com.ua/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-sira-phx01-s-gray/</url>
 <price>1700</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-16241479231839_+d494835d52.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-96625072079058_+1c945fa09c.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-77767902636288_+0dc308033c.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-68963661382654_+ac9fe98bcb.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-44386821679257_+2d8530b555.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-51986756645781_+40a58028cb.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/39/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-sira-phx01-s-gray-40529758604706_+6b0492e1fd.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>Чемодан для лоукоста Wizzair Kaiman мини 24л серый (Kaiman-XS-Grey)</name>
-<name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л сіра (Kaiman-XS-Grey)</name_ua>
-<vendor>Kaiman</vendor>
-<vendorCode>Kaiman-XS-Grey</vendorCode>
-<description>Розмір XS - ідеальний вибір для коротких поїздок на 1&amp;ndash;2 дні, бізнес-візитів або як перша власна валіза для дитини. Завдяки своїм гранично компактним габаритам, ця модель спеціально розроблена під найсуворіші параметри безкоштовної ручної поклажі лоукостерів, що гарантує вам спокій під час посадки та відсутність жодних доплат за багаж. Головною перевагою моделі є знімні колеса. Ця конструктивна особливість дозволяє миттєво адаптувати розмір валізи під вимоги авіаліній, щоб вона без зусиль проходила в контрольний калібратор або розміщувалася під сидінням літака. Корпус із поєднання ABS-пластику та полікарбонату забезпечує витривалість конструкції при екстремально малій вазі. Полікарбонатне покриття додає стійкості до зовнішніх пошкоджень, а продумана внутрішня організація з фіксаторами дозволяє надійно закріпити одяг, змінне взуття, документи та електроніку. Вага завантаження становить 5&amp;ndash;7 кг.</description>
-<description_ua>Розмір XS - ідеальний вибір для коротких поїздок на 1&amp;ndash;2 дні, бізнес-візитів або як перша власна валіза для дитини. Завдяки своїм гранично компактним габаритам, ця модель спеціально розроблена під найсуворіші параметри безкоштовної ручної поклажі лоукостерів, що гарантує вам спокій під час посадки та відсутність жодних доплат за багаж. Головною перевагою моделі є знімні колеса. Ця конструктивна особливість дозволяє миттєво адаптувати розмір валізи під вимоги авіаліній, щоб вона без зусиль проходила в контрольний калібратор або розміщувалася під сидінням літака. Корпус із поєднання ABS-пластику та полікарбонату забезпечує витривалість конструкції при екстремально малій вазі. Полікарбонатне покриття додає стійкості до зовнішніх пошкоджень, а продумана внутрішня організація з фіксаторами дозволяє надійно закріпити одяг, змінне взуття, документи та електроніку. Вага завантаження становить 5&amp;ndash;7 кг.</description_ua>
+<name>Чемодан для ручной клади Wings PHX01 малый 38л серый (PHX01-S-Gray)</name>
+<name_ua>Валіза для ручної поклажі Wings PHX01 мала 38л сіра (PHX01-S-Gray)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>PHX01-S-Gray</vendorCode>
+<description>Валіза для ручної поклажі Wings PHX01 - це компактний та стильний аксесуар, який ідеально підходить для коротких поїздок на 2&amp;ndash;4 дні. Завдяки габаритам 55x40x20 см та об&amp;#39;єму 38 літрів, вона повністю відповідає стандартам ручної поклажі більшості авіакомпаній і легко поміщається на полицях літаків, поїздів чи в багажнику авто. Корпус моделі виготовлений із надміцного товстого поліпропілену, що забезпечує гнучкість, стійкість до сильних ударів та дозволяє перевозити валізу навіть напівпорожньою. Чотири подвійні поліуретанові колеса з поворотом на 360 градусів гарантують безшумний, плавний і максимально зручний рух у будь-якому напрямку. Для безпеки ваших речей передбачений надійний вбудований кодовий замок, який захистить багаж від несанкціонованого доступу. Продуманий внутрішній простір із двома відділеннями, додатковою кишенею та ременями-фіксаторами допоможе ідеально організувати одяг у дорозі. Унікальною фішкою моделі є бічна ніжка, виконана у вигляді гачка, на який можна зручно підвісити сумку або парасольку. Вага завантаження 12-15 кг.</description>
+<description_ua>Валіза для ручної поклажі Wings PHX01 - це компактний та стильний аксесуар, який ідеально підходить для коротких поїздок на 2&amp;ndash;4 дні. Завдяки габаритам 55x40x20 см та об&amp;#39;єму 38 літрів, вона повністю відповідає стандартам ручної поклажі більшості авіакомпаній і легко поміщається на полицях літаків, поїздів чи в багажнику авто. Корпус моделі виготовлений із надміцного товстого поліпропілену, що забезпечує гнучкість, стійкість до сильних ударів та дозволяє перевозити валізу навіть напівпорожньою. Чотири подвійні поліуретанові колеса з поворотом на 360 градусів гарантують безшумний, плавний і максимально зручний рух у будь-якому напрямку. Для безпеки ваших речей передбачений надійний вбудований кодовий замок, який захистить багаж від несанкціонованого доступу. Продуманий внутрішній простір із двома відділеннями, додатковою кишенею та ременями-фіксаторами допоможе ідеально організувати одяг у дорозі. Унікальною фішкою моделі є бічна ніжка, виконана у вигляді гачка, на який можна зручно підвісити сумку або парасольку. Вага завантаження 12-15 кг.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Сірий</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="PHX01-S-Blue" available="true" group_id="PHX01-S-Blue">
+<url>https://sklad-valiz.com.ua/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-synia-phx01-s-blue/</url>
+<price>1700</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/40/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-synia-phx01-s-blue-45641675764651_+0a62d19ec7.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан для ручной клади Wings PHX01 малый 38л синий (PHX01-S-Blue)</name>
+<name_ua>Валіза для ручної поклажі Wings PHX01 мала 38л синя (PHX01-S-Blue)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>PHX01-S-Blue</vendorCode>
+<description>Валіза для ручної поклажі Wings PHX01 - це компактний та стильний аксесуар, який ідеально підходить для коротких поїздок на 2&amp;ndash;4 дні. Завдяки габаритам 55x40x20 см та об&amp;#39;єму 38 літрів, вона повністю відповідає стандартам ручної поклажі більшості авіакомпаній і легко поміщається на полицях літаків, поїздів чи в багажнику авто. Корпус моделі виготовлений із надміцного товстого поліпропілену, що забезпечує гнучкість, стійкість до сильних ударів та дозволяє перевозити валізу навіть напівпорожньою. Чотири подвійні поліуретанові колеса з поворотом на 360 градусів гарантують безшумний, плавний і максимально зручний рух у будь-якому напрямку. Для безпеки ваших речей передбачений надійний вбудований кодовий замок, який захистить багаж від несанкціонованого доступу. Продуманий внутрішній простір із двома відділеннями, додатковою кишенею та ременями-фіксаторами допоможе ідеально організувати одяг у дорозі. Унікальною фішкою моделі є бічна ніжка, виконана у вигляді гачка, на який можна зручно підвісити сумку або парасольку. Вага завантаження 12-15 кг.</description>
+<description_ua>Валіза для ручної поклажі Wings PHX01 - це компактний та стильний аксесуар, який ідеально підходить для коротких поїздок на 2&amp;ndash;4 дні. Завдяки габаритам 55x40x20 см та об&amp;#39;єму 38 літрів, вона повністю відповідає стандартам ручної поклажі більшості авіакомпаній і легко поміщається на полицях літаків, поїздів чи в багажнику авто. Корпус моделі виготовлений із надміцного товстого поліпропілену, що забезпечує гнучкість, стійкість до сильних ударів та дозволяє перевозити валізу навіть напівпорожньою. Чотири подвійні поліуретанові колеса з поворотом на 360 градусів гарантують безшумний, плавний і максимально зручний рух у будь-якому напрямку. Для безпеки ваших речей передбачений надійний вбудований кодовий замок, який захистить багаж від несанкціонованого доступу. Продуманий внутрішній простір із двома відділеннями, додатковою кишенею та ременями-фіксаторами допоможе ідеально організувати одяг у дорозі. Унікальною фішкою моделі є бічна ніжка, виконана у вигляді гачка, на який можна зручно підвісити сумку або парасольку. Вага завантаження 12-15 кг.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Синій</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="PHX01-S-Burgundy" available="true" group_id="PHX01-S-Burgundy">
+<url>https://sklad-valiz.com.ua/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-bordova-phx01-s-burgundy/</url>
+<price>1700</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/41/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-bordova-phx01-s-burgundy-33182541176006_+99e69ffe0d.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан для ручной клади Wings PHX01 малый 38л бордовый (PHX01-S-Burgundy)</name>
+<name_ua>Валіза для ручної поклажі Wings PHX01 мала 38л бордова (PHX01-S-Burgundy)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>PHX01-S-Burgundy</vendorCode>
+<description>Валіза для ручної поклажі Wings PHX01 - це компактний та стильний аксесуар, який ідеально підходить для коротких поїздок на 2&amp;ndash;4 дні. Завдяки габаритам 55x40x20 см та об&amp;#39;єму 38 літрів, вона повністю відповідає стандартам ручної поклажі більшості авіакомпаній і легко поміщається на полицях літаків, поїздів чи в багажнику авто. Корпус моделі виготовлений із надміцного товстого поліпропілену, що забезпечує гнучкість, стійкість до сильних ударів та дозволяє перевозити валізу навіть напівпорожньою. Чотири подвійні поліуретанові колеса з поворотом на 360 градусів гарантують безшумний, плавний і максимально зручний рух у будь-якому напрямку. Для безпеки ваших речей передбачений надійний вбудований кодовий замок, який захистить багаж від несанкціонованого доступу. Продуманий внутрішній простір із двома відділеннями, додатковою кишенею та ременями-фіксаторами допоможе ідеально організувати одяг у дорозі. Унікальною фішкою моделі є бічна ніжка, виконана у вигляді гачка, на який можна зручно підвісити сумку або парасольку. Вага завантаження 12-15 кг.</description>
+<description_ua>Валіза для ручної поклажі Wings PHX01 - це компактний та стильний аксесуар, який ідеально підходить для коротких поїздок на 2&amp;ndash;4 дні. Завдяки габаритам 55x40x20 см та об&amp;#39;єму 38 літрів, вона повністю відповідає стандартам ручної поклажі більшості авіакомпаній і легко поміщається на полицях літаків, поїздів чи в багажнику авто. Корпус моделі виготовлений із надміцного товстого поліпропілену, що забезпечує гнучкість, стійкість до сильних ударів та дозволяє перевозити валізу навіть напівпорожньою. Чотири подвійні поліуретанові колеса з поворотом на 360 градусів гарантують безшумний, плавний і максимально зручний рух у будь-якому напрямку. Для безпеки ваших речей передбачений надійний вбудований кодовий замок, який захистить багаж від несанкціонованого доступу. Продуманий внутрішній простір із двома відділеннями, додатковою кишенею та ременями-фіксаторами допоможе ідеально організувати одяг у дорозі. Унікальною фішкою моделі є бічна ніжка, виконана у вигляді гачка, на який можна зручно підвісити сумку або парасольку. Вага завантаження 12-15 кг.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Червоний</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="PHX01-M-Gray" available="true" group_id="PHX01-M-Gray">
+<url>https://sklad-valiz.com.ua/valiza-z-polipropilenu-wings-phx01-serednia-60l-sira-phx01-m-gray/</url>
+<price>2200</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/42/valiza-z-polipropilenu-wings-phx01-serednia-60l-sira-phx01-m-gray-69308473495732_+62ad965d90.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан из полипропилена Wings PHX01 средний 60л серый (PHX01-M-Gray)</name>
+<name_ua>Валіза з поліпропілену Wings PHX01 середня 60л сіра (PHX01-M-Gray)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>PHX01-M-Gray</vendorCode>
+<description>Валіза з поліпропілену Wings PHX01 - це ідеальний вибір для тривалих поїздок і відпусток на 5-10 днів. Завдяки габаритам 65x43x26 см та об&amp;#39;єму 60 літрів, вона є оптимальним збалансованим варіантом для здачі в багажне відділення літака, поїзда чи автобуса. Корпус моделі виготовлений із надміцного товстого поліпропілену, що гарантує відмінну гнучкість, стійкість до тріщин при сильних ударах і дозволяє перевозити багаж навіть напівпорожнім. Чотири подвійні поліуретанові колеса з поворотом на 360 градусів надійно утримують вагу та забезпечують плавний, безшумний і маневрений хід на будь-яких поверхнях. Вбудований кодовий замок піклується про безпеку вмісту, надійно захищаючи ваші особисті речі від несанкціонованого доступу. Внутрішній простір грамотно організований: два місткі відділення, внутрішні ремені-фіксатори для одягу та додаткова кишеня допоможуть підтримувати ідеальний порядок у дорозі. Фірмовою особливістю серії є бічна ніжка-гачок, на яку під час очікування рейсу можна легко підвісити дорожні аксесуари або невелику сумку. Ця модель поєднує в собі вишуканий стиль, функціональність та довговічність для кожного мандрівника. Вага завантаження становить 18-20 кг.</description>
+<description_ua>Валіза з поліпропілену Wings PHX01 - це ідеальний вибір для тривалих поїздок і відпусток на 5-10 днів. Завдяки габаритам 65x43x26 см та об&amp;#39;єму 60 літрів, вона є оптимальним збалансованим варіантом для здачі в багажне відділення літака, поїзда чи автобуса. Корпус моделі виготовлений із надміцного товстого поліпропілену, що гарантує відмінну гнучкість, стійкість до тріщин при сильних ударах і дозволяє перевозити багаж навіть напівпорожнім. Чотири подвійні поліуретанові колеса з поворотом на 360 градусів надійно утримують вагу та забезпечують плавний, безшумний і маневрений хід на будь-яких поверхнях. Вбудований кодовий замок піклується про безпеку вмісту, надійно захищаючи ваші особисті речі від несанкціонованого доступу. Внутрішній простір грамотно організований: два місткі відділення, внутрішні ремені-фіксатори для одягу та додаткова кишеня допоможуть підтримувати ідеальний порядок у дорозі. Фірмовою особливістю серії є бічна ніжка-гачок, на яку під час очікування рейсу можна легко підвісити дорожні аксесуари або невелику сумку. Ця модель поєднує в собі вишуканий стиль, функціональність та довговічність для кожного мандрівника. Вага завантаження становить 18-20 кг.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Сірий</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">M</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="PHX01-M-Blue" available="true" group_id="PHX01-M-Blue">
+<url>https://sklad-valiz.com.ua/valiza-z-polipropilenu-wings-phx01-serednia-60l-synia-phx01-m-blue/</url>
+<price>2200</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/43/valiza-z-polipropilenu-wings-phx01-serednia-60l-synia-phx01-m-blue-32678022756658_+def44a1732.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан из полипропилена Wings PHX01 средний 60л синий (PHX01-M-Blue)</name>
+<name_ua>Валіза з поліпропілену Wings PHX01 середня 60л синя (PHX01-M-Blue)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>PHX01-M-Blue</vendorCode>
+<description>Валіза з поліпропілену Wings PHX01 - це ідеальний вибір для тривалих поїздок і відпусток на 5-10 днів. Завдяки габаритам 65x43x26 см та об&amp;#39;єму 60 літрів, вона є оптимальним збалансованим варіантом для здачі в багажне відділення літака, поїзда чи автобуса. Корпус моделі виготовлений із надміцного товстого поліпропілену, що гарантує відмінну гнучкість, стійкість до тріщин при сильних ударах і дозволяє перевозити багаж навіть напівпорожнім. Чотири подвійні поліуретанові колеса з поворотом на 360 градусів надійно утримують вагу та забезпечують плавний, безшумний і маневрений хід на будь-яких поверхнях. Вбудований кодовий замок піклується про безпеку вмісту, надійно захищаючи ваші особисті речі від несанкціонованого доступу. Внутрішній простір грамотно організований: два місткі відділення, внутрішні ремені-фіксатори для одягу та додаткова кишеня допоможуть підтримувати ідеальний порядок у дорозі. Фірмовою особливістю серії є бічна ніжка-гачок, на яку під час очікування рейсу можна легко підвісити дорожні аксесуари або невелику сумку. Ця модель поєднує в собі вишуканий стиль, функціональність та довговічність для кожного мандрівника. Вага завантаження становить 18-20 кг.</description>
+<description_ua>Валіза з поліпропілену Wings PHX01 - це ідеальний вибір для тривалих поїздок і відпусток на 5-10 днів. Завдяки габаритам 65x43x26 см та об&amp;#39;єму 60 літрів, вона є оптимальним збалансованим варіантом для здачі в багажне відділення літака, поїзда чи автобуса. Корпус моделі виготовлений із надміцного товстого поліпропілену, що гарантує відмінну гнучкість, стійкість до тріщин при сильних ударах і дозволяє перевозити багаж навіть напівпорожнім. Чотири подвійні поліуретанові колеса з поворотом на 360 градусів надійно утримують вагу та забезпечують плавний, безшумний і маневрений хід на будь-яких поверхнях. Вбудований кодовий замок піклується про безпеку вмісту, надійно захищаючи ваші особисті речі від несанкціонованого доступу. Внутрішній простір грамотно організований: два місткі відділення, внутрішні ремені-фіксатори для одягу та додаткова кишеня допоможуть підтримувати ідеальний порядок у дорозі. Фірмовою особливістю серії є бічна ніжка-гачок, на яку під час очікування рейсу можна легко підвісити дорожні аксесуари або невелику сумку. Ця модель поєднує в собі вишуканий стиль, функціональність та довговічність для кожного мандрівника. Вага завантаження становить 18-20 кг.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Синій</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">M</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="PHX01-M-Burgundy" available="true" group_id="PHX01-M-Burgundy">
+<url>https://sklad-valiz.com.ua/valiza-z-polipropilenu-wings-phx01-serednia-60l-bordova-phx01-m-burgundy/</url>
+<price>2200</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/44/valiza-z-polipropilenu-wings-phx01-serednia-60l-bordova-phx01-m-burgundy-35928109457064_+790525353d.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан из полипропилена Wings PHX01 средний 60л бордовый (PHX01-M-Burgundy)</name>
+<name_ua>Валіза з поліпропілену Wings PHX01 середня 60л бордова (PHX01-M-Burgundy)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>PHX01-M-Burgundy</vendorCode>
+<description>Валіза з поліпропілену Wings PHX01 - це ідеальний вибір для тривалих поїздок і відпусток на 5-10 днів. Завдяки габаритам 65x43x26 см та об&amp;#39;єму 60 літрів, вона є оптимальним збалансованим варіантом для здачі в багажне відділення літака, поїзда чи автобуса. Корпус моделі виготовлений із надміцного товстого поліпропілену, що гарантує відмінну гнучкість, стійкість до тріщин при сильних ударах і дозволяє перевозити багаж навіть напівпорожнім. Чотири подвійні поліуретанові колеса з поворотом на 360 градусів надійно утримують вагу та забезпечують плавний, безшумний і маневрений хід на будь-яких поверхнях. Вбудований кодовий замок піклується про безпеку вмісту, надійно захищаючи ваші особисті речі від несанкціонованого доступу. Внутрішній простір грамотно організований: два місткі відділення, внутрішні ремені-фіксатори для одягу та додаткова кишеня допоможуть підтримувати ідеальний порядок у дорозі. Фірмовою особливістю серії є бічна ніжка-гачок, на яку під час очікування рейсу можна легко підвісити дорожні аксесуари або невелику сумку. Ця модель поєднує в собі вишуканий стиль, функціональність та довговічність для кожного мандрівника. Вага завантаження становить 18-20 кг.</description>
+<description_ua>Валіза з поліпропілену Wings PHX01 - це ідеальний вибір для тривалих поїздок і відпусток на 5-10 днів. Завдяки габаритам 65x43x26 см та об&amp;#39;єму 60 літрів, вона є оптимальним збалансованим варіантом для здачі в багажне відділення літака, поїзда чи автобуса. Корпус моделі виготовлений із надміцного товстого поліпропілену, що гарантує відмінну гнучкість, стійкість до тріщин при сильних ударах і дозволяє перевозити багаж навіть напівпорожнім. Чотири подвійні поліуретанові колеса з поворотом на 360 градусів надійно утримують вагу та забезпечують плавний, безшумний і маневрений хід на будь-яких поверхнях. Вбудований кодовий замок піклується про безпеку вмісту, надійно захищаючи ваші особисті речі від несанкціонованого доступу. Внутрішній простір грамотно організований: два місткі відділення, внутрішні ремені-фіксатори для одягу та додаткова кишеня допоможуть підтримувати ідеальний порядок у дорозі. Фірмовою особливістю серії є бічна ніжка-гачок, на яку під час очікування рейсу можна легко підвісити дорожні аксесуари або невелику сумку. Ця модель поєднує в собі вишуканий стиль, функціональність та довговічність для кожного мандрівника. Вага завантаження становить 18-20 кг.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Червоний</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">M</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="PHX01-L-Gray" available="true" group_id="PHX01-L-Gray">
+<url>https://sklad-valiz.com.ua/valiza-z-polipropilenu-wings-phx01-velyka-95l-sira-phx01-l-gray/</url>
+<price>2300</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/45/valiza-z-polipropilenu-wings-phx01-velyka-95l-sira-phx01-l-gray-68163426004814_+b3ffad85b8.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан из полипропилена Wings PHX01 большой 95л серый (PHX01-L-Gray)</name>
+<name_ua>Валіза з поліпропілену Wings PHX01 велика 95л сіра (PHX01-L-Gray)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>PHX01-L-Gray</vendorCode>
+<description>Валіза з поліпропілену Wings PHX01 - це ідеальне рішення для тривалих сімейних подорожей, переїздів або відпусток, коли необхідно взяти максимум речей. Вона з легкістю містить весь ваш гардероб і призначена для здачі в багажне відділення будь-якого транспорту. Корпус моделі виконаний із товстого високоякісного поліпропілену - надміцного та гнучкого пластику, який захищає багаж від деформацій, не тріскається при сильних ударах і дозволяє перевозити валізу напівпорожньою. Чотири подвійні поліуретанові колеса на підшипниках обертаються на 360 градусів, рівномірно розподіляючи навантаження та забезпечуючи плавний, безшумний рух навіть за повного завантаження. За безпеку цінних речей відповідає вбудований бічний кодовий замок, який надійно оберігає вміст від стороннього доступу. Внутрішній простір продуманий до дрібниць: два місткі відділення, внутрішні ремені-фіксатори та додаткова кишеня допомагають бездоганно організувати та закріпити одяг. Особливою перевагою є практична бічна ніжка у вигляді гачка, яка підвищує комфорт у дорозі, дозволяючи звільнити руки й підвісити дорожні аксесуари. Попри великі розміри, модель важить усього 4 кг, гармонійно поєднуючи преміальний стиль, максимальну функціональність і надійність. Вага завантаження становить 22-25кг.</description>
+<description_ua>Валіза з поліпропілену Wings PHX01 - це ідеальне рішення для тривалих сімейних подорожей, переїздів або відпусток, коли необхідно взяти максимум речей. Вона з легкістю містить весь ваш гардероб і призначена для здачі в багажне відділення будь-якого транспорту. Корпус моделі виконаний із товстого високоякісного поліпропілену - надміцного та гнучкого пластику, який захищає багаж від деформацій, не тріскається при сильних ударах і дозволяє перевозити валізу напівпорожньою. Чотири подвійні поліуретанові колеса на підшипниках обертаються на 360 градусів, рівномірно розподіляючи навантаження та забезпечуючи плавний, безшумний рух навіть за повного завантаження. За безпеку цінних речей відповідає вбудований бічний кодовий замок, який надійно оберігає вміст від стороннього доступу. Внутрішній простір продуманий до дрібниць: два місткі відділення, внутрішні ремені-фіксатори та додаткова кишеня допомагають бездоганно організувати та закріпити одяг. Особливою перевагою є практична бічна ніжка у вигляді гачка, яка підвищує комфорт у дорозі, дозволяючи звільнити руки й підвісити дорожні аксесуари. Попри великі розміри, модель важить усього 4 кг, гармонійно поєднуючи преміальний стиль, максимальну функціональність і надійність. Вага завантаження становить 22-25кг.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Сірий</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">L</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="PHX01-L-Blue" available="true" group_id="PHX01-L-Blue">
+<url>https://sklad-valiz.com.ua/valiza-z-polipropilenu-wings-phx01-velyka-95l-synia-phx01-l-blue/</url>
+<price>2300</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-polipropilenu-wings-phx01-velyka-95l-synia-phx01-l-blue-97068079866056_+04d6db8fc0.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан из полипропилена Wings PHX01 большой 95л синий (PHX01-L-Blue)</name>
+<name_ua>Валіза з поліпропілену Wings PHX01 велика 95л синя (PHX01-L-Blue)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>PHX01-L-Blue</vendorCode>
+<description>Валіза з поліпропілену Wings PHX01 - це ідеальне рішення для тривалих сімейних подорожей, переїздів або відпусток, коли необхідно взяти максимум речей. Вона з легкістю містить весь ваш гардероб і призначена для здачі в багажне відділення будь-якого транспорту. Корпус моделі виконаний із товстого високоякісного поліпропілену - надміцного та гнучкого пластику, який захищає багаж від деформацій, не тріскається при сильних ударах і дозволяє перевозити валізу напівпорожньою. Чотири подвійні поліуретанові колеса на підшипниках обертаються на 360 градусів, рівномірно розподіляючи навантаження та забезпечуючи плавний, безшумний рух навіть за повного завантаження. За безпеку цінних речей відповідає вбудований бічний кодовий замок, який надійно оберігає вміст від стороннього доступу. Внутрішній простір продуманий до дрібниць: два місткі відділення, внутрішні ремені-фіксатори та додаткова кишеня допомагають бездоганно організувати та закріпити одяг. Особливою перевагою є практична бічна ніжка у вигляді гачка, яка підвищує комфорт у дорозі, дозволяючи звільнити руки й підвісити дорожні аксесуари. Попри великі розміри, модель важить усього 4 кг, гармонійно поєднуючи преміальний стиль, максимальну функціональність і надійність. Вага завантаження становить 22-25кг.</description>
+<description_ua>Валіза з поліпропілену Wings PHX01 - це ідеальне рішення для тривалих сімейних подорожей, переїздів або відпусток, коли необхідно взяти максимум речей. Вона з легкістю містить весь ваш гардероб і призначена для здачі в багажне відділення будь-якого транспорту. Корпус моделі виконаний із товстого високоякісного поліпропілену - надміцного та гнучкого пластику, який захищає багаж від деформацій, не тріскається при сильних ударах і дозволяє перевозити валізу напівпорожньою. Чотири подвійні поліуретанові колеса на підшипниках обертаються на 360 градусів, рівномірно розподіляючи навантаження та забезпечуючи плавний, безшумний рух навіть за повного завантаження. За безпеку цінних речей відповідає вбудований бічний кодовий замок, який надійно оберігає вміст від стороннього доступу. Внутрішній простір продуманий до дрібниць: два місткі відділення, внутрішні ремені-фіксатори та додаткова кишеня допомагають бездоганно організувати та закріпити одяг. Особливою перевагою є практична бічна ніжка у вигляді гачка, яка підвищує комфорт у дорозі, дозволяючи звільнити руки й підвісити дорожні аксесуари. Попри великі розміри, модель важить усього 4 кг, гармонійно поєднуючи преміальний стиль, максимальну функціональність і надійність. Вага завантаження становить 22-25кг.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Синій</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">L</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="PHX01-L-Burgundy" available="true" group_id="PHX01-L-Burgundy">
+<url>https://sklad-valiz.com.ua/valiza-z-polipropilenu-wings-phx01-velyka-95l-bordova-phx01-l-burgundy/</url>
+<price>2300</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/47/valiza-z-polipropilenu-wings-phx01-velyka-95l-bordova-phx01-l-burgundy-38302803096139_+ea075cb761.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан из полипропилена Wings PHX01 большой 95л бордовый (PHX01-L-Burgundy)</name>
+<name_ua>Валіза з поліпропілену Wings PHX01 велика 95л бордова (PHX01-L-Burgundy)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>PHX01-L-Burgundy</vendorCode>
+<description>Валіза з поліпропілену Wings PHX01 - це ідеальне рішення для тривалих сімейних подорожей, переїздів або відпусток, коли необхідно взяти максимум речей. Вона з легкістю містить весь ваш гардероб і призначена для здачі в багажне відділення будь-якого транспорту. Корпус моделі виконаний із товстого високоякісного поліпропілену - надміцного та гнучкого пластику, який захищає багаж від деформацій, не тріскається при сильних ударах і дозволяє перевозити валізу напівпорожньою. Чотири подвійні поліуретанові колеса на підшипниках обертаються на 360 градусів, рівномірно розподіляючи навантаження та забезпечуючи плавний, безшумний рух навіть за повного завантаження. За безпеку цінних речей відповідає вбудований бічний кодовий замок, який надійно оберігає вміст від стороннього доступу. Внутрішній простір продуманий до дрібниць: два місткі відділення, внутрішні ремені-фіксатори та додаткова кишеня допомагають бездоганно організувати та закріпити одяг. Особливою перевагою є практична бічна ніжка у вигляді гачка, яка підвищує комфорт у дорозі, дозволяючи звільнити руки й підвісити дорожні аксесуари. Попри великі розміри, модель важить усього 4 кг, гармонійно поєднуючи преміальний стиль, максимальну функціональність і надійність. Вага завантаження становить 22-25кг.</description>
+<description_ua>Валіза з поліпропілену Wings PHX01 - це ідеальне рішення для тривалих сімейних подорожей, переїздів або відпусток, коли необхідно взяти максимум речей. Вона з легкістю містить весь ваш гардероб і призначена для здачі в багажне відділення будь-якого транспорту. Корпус моделі виконаний із товстого високоякісного поліпропілену - надміцного та гнучкого пластику, який захищає багаж від деформацій, не тріскається при сильних ударах і дозволяє перевозити валізу напівпорожньою. Чотири подвійні поліуретанові колеса на підшипниках обертаються на 360 градусів, рівномірно розподіляючи навантаження та забезпечуючи плавний, безшумний рух навіть за повного завантаження. За безпеку цінних речей відповідає вбудований бічний кодовий замок, який надійно оберігає вміст від стороннього доступу. Внутрішній простір продуманий до дрібниць: два місткі відділення, внутрішні ремені-фіксатори та додаткова кишеня допомагають бездоганно організувати та закріпити одяг. Особливою перевагою є практична бічна ніжка у вигляді гачка, яка підвищує комфорт у дорозі, дозволяючи звільнити руки й підвісити дорожні аксесуари. Попри великі розміри, модель важить усього 4 кг, гармонійно поєднуючи преміальний стиль, максимальну функціональність і надійність. Вага завантаження становить 22-25кг.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Червоний</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">L</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="65903-S-Gray" available="true" group_id="65903-S-Gray">
+<url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-carbon-65903-mala-39l-sira-65903-s-gray/</url>
+<price>1750</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/4/valiza-z-rozshyrenniam-carbon-65903-mala-39l-sira-65903-s-gray-71942937321236_+53dca7010c.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан с расширением Carbon 65903 малый 39л серый (65903-S-Gray)</name>
+<name_ua>Валіза з розширенням Carbon 65903 мала 39л сіра (65903-S-Gray)</name_ua>
+<vendor>Carbon</vendor>
+<vendorCode>65903-S-Gray</vendorCode>
+<description>Валіза з розширенням Carbon 65903 в розмірі S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description>
+<description_ua>Валіза з розширенням Carbon 65903 в розмірі S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
 <country_of_origin>Україна</country_of_origin>
 <param name="Колір">Сірий</param>
 <param name="Тип">Валізи</param>
-<param name="Матеріал">Пластик</param>
+<param name="Матеріал">Поліпропілен</param>
 <param name="Кількість коліс">4 колеса</param>
 <param name="Замок">Кодовий</param>
-<param name="Розмір">XS</param>
+<param name="Розмір">S</param>
 <param name="Країна виробник">Україна</param>
 <param name="Особливості">Висувна ручка</param>
 <param name="Тип коліс">Поворотні</param>
 <param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="65903-S-Milk" available="true" group_id="65903-S-Milk">
+<url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-carbon-65903-mala-39l-kremova-65903-s-milk/</url>
+<price>1750</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/5/valiza-z-rozshyrenniam-carbon-65903-mala-39l-kremova-65903-s-milk-64962673587734_+4ac8f23377.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан с расширением Carbon 65903 малый 39л кремовый (65903-S-Milk)</name>
+<name_ua>Валіза з розширенням Carbon 65903 мала 39л кремова (65903-S-Milk)</name_ua>
+<vendor>Carbon</vendor>
+<vendorCode>65903-S-Milk</vendorCode>
+<description>Валіза з розширенням Carbon 65903 в розмірі S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description>
+<description_ua>Валіза з розширенням Carbon 65903 в розмірі S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
+<country_of_origin>Україна</country_of_origin>
+<param name="Колір">Кремовий</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Україна</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="65903-S-Light-blue" available="true" group_id="65903-S-Light-blue">
+<url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-carbon-65903-mala-39l-blakytna-65903-s-light-blue/</url>
+<price>1750</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/6/valiza-z-rozshyrenniam-carbon-65903-mala-39l-blakytna-65903-s-light-blue-14622554575198_+91548b17e1.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан с расширением Carbon 65903 малый 39л голубой (65903-S-Light-blue)</name>
+<name_ua>Валіза з розширенням Carbon 65903 мала 39л блакитна (65903-S-Light-blue)</name_ua>
+<vendor>Carbon</vendor>
+<vendorCode>65903-S-Light-blue</vendorCode>
+<description>Валіза з розширенням Carbon 65903 в розмірі S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description>
+<description_ua>Валіза з розширенням Carbon 65903 в розмірі S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
+<country_of_origin>Україна</country_of_origin>
+<param name="Колір">Блакитний</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Україна</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="65903-M-Gray" available="true" group_id="65903-M-Gray">
+<url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-sira-65903-m-gray/</url>
+<price>2750</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-sira-65903-m-gray-95324527216864_+e40d680630.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан с расширением Carbon 65903 средний 67л серый (65903-M-Gray)</name>
+<name_ua>Валіза з розширенням Carbon 65903 середня 67л сіра (65903-M-Gray)</name_ua>
+<vendor>Carbon</vendor>
+<vendorCode>65903-M-Gray</vendorCode>
+<description>Валіза з розширенням Carbon 65903 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360&amp;deg;, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description>
+<description_ua>Валіза з розширенням Carbon 65903 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360&amp;deg;, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description_ua>
+<country_of_origin>Україна</country_of_origin>
+<param name="Колір">Сірий</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">M</param>
+<param name="Країна виробник">Україна</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="65903-M-Milk" available="true" group_id="65903-M-Milk">
+<url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-kremova-65903-m-milk/</url>
+<price>2750</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-kremova-65903-m-milk-97260054359371_+c1a6dd78e4.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан с расширением Carbon 65903 средний 67л кремовый (65903-M-Milk)</name>
+<name_ua>Валіза з розширенням Carbon 65903 середня 67л кремова (65903-M-Milk)</name_ua>
+<vendor>Carbon</vendor>
+<vendorCode>65903-M-Milk</vendorCode>
+<description>Валіза з розширенням Carbon 65903 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360&amp;deg;, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description>
+<description_ua>Валіза з розширенням Carbon 65903 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360&amp;deg;, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description_ua>
+<country_of_origin>Україна</country_of_origin>
+<param name="Колір">Кремовий</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">M</param>
+<param name="Країна виробник">Україна</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="65903-M-Light-blue" available="true" group_id="65903-M-Light-blue">
+<url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue/</url>
+<price>2750</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-carbon-65903-serednia-67l-blakytna-65903-m-light-blue-56976674293940_+5121fdad2b.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан с расширением Carbon 65903 средний 67л голубой (65903-M-Light-blue)</name>
+<name_ua>Валіза з розширенням Carbon 65903 середня 67л блакитна (65903-M-Light-blue)</name_ua>
+<vendor>Carbon</vendor>
+<vendorCode>65903-M-Light-blue</vendorCode>
+<description>Валіза з розширенням Carbon 65903 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360&amp;deg;, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description>
+<description_ua>Валіза з розширенням Carbon 65903 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360&amp;deg;, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description_ua>
+<country_of_origin>Україна</country_of_origin>
+<param name="Колір">Блакитний</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">M</param>
+<param name="Країна виробник">Україна</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="65903-L-Gray" available="true" group_id="65903-L-Gray">
+<url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray/</url>
+<price>2850</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-92031405210698_+179507fc95.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан с расширением Carbon 65903 большой 100л серый (65903-L-Gray)</name>
+<name_ua>Валіза з розширенням Carbon 65903 велика 100л сіра (65903-L-Gray)</name_ua>
+<vendor>Carbon</vendor>
+<vendorCode>65903-L-Gray</vendorCode>
+<description>Валіза з розширенням Carbon 65903 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description>
+<description_ua>Валіза з розширенням Carbon 65903 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+<country_of_origin>Україна</country_of_origin>
+<param name="Колір">Сірий</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">L</param>
+<param name="Країна виробник">Україна</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="65903-L-Milk" available="true" group_id="65903-L-Milk">
+<url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-kremova-65903-l-milk/</url>
+<price>2850</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/11/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-kremova-65903-l-milk-84404172258610_+ae7f786493.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан с расширением Carbon 65903 большой 100л кремовый (65903-L-Milk)</name>
+<name_ua>Валіза з розширенням Carbon 65903 велика 100л кремова (65903-L-Milk)</name_ua>
+<vendor>Carbon</vendor>
+<vendorCode>65903-L-Milk</vendorCode>
+<description>Валіза з розширенням Carbon 65903 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description>
+<description_ua>Валіза з розширенням Carbon 65903 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+<country_of_origin>Україна</country_of_origin>
+<param name="Колір">Кремовий</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">L</param>
+<param name="Країна виробник">Україна</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="65903-L-Light-blue" available="true" group_id="65903-L-Light-blue">
+<url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-blakytna-65903-l-light-blue/</url>
+<price>2850</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/12/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-blakytna-65903-l-light-blue-92894203684894_+011efc528b.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан с расширением Carbon 65903 большой 100л голубой (65903-L-Light-blue)</name>
+<name_ua>Валіза з розширенням Carbon 65903 велика 100л блакитна (65903-L-Light-blue)</name_ua>
+<vendor>Carbon</vendor>
+<vendorCode>65903-L-Light-blue</vendorCode>
+<description>Валіза з розширенням Carbon 65903 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description>
+<description_ua>Валіза з розширенням Carbon 65903 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+<country_of_origin>Україна</country_of_origin>
+<param name="Колір">Блакитний</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">L</param>
+<param name="Країна виробник">Україна</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="1403-S-Black" available="true" group_id="1403-S-Black">
+<url>https://sklad-valiz.com.ua/valiza-dlia-ruchnoi-poklazhi-carbon-1403-mala-37l-chorna-1403-s-black/</url>
+<price>1900</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/16/valiza-dlia-ruchnoi-poklazhi-carbon-1403-mala-37l-chorna-1403-s-black-26741670603973_+2e96379249.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан для ручной клади Carbon 1403 малый 37л черный (1403-S-Black)</name>
+<name_ua>Валіза для ручної поклажі Carbon 1403 мала 37л чорна (1403-S-Black)</name_ua>
+<vendor>Carbon</vendor>
+<vendorCode>1403-S-Black</vendorCode>
+<description>Валіза для ручної поклажі Carbon 1403 в розмірі S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description>
+<description_ua>Валіза для ручної поклажі Carbon 1403 в розмірі S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
+<country_of_origin>Україна</country_of_origin>
+<param name="Колір">Чорний</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Україна</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="1403-S-Champagne" available="true" group_id="1403-S-Champagne">
+<url>https://sklad-valiz.com.ua/valiza-dlia-ruchnoi-poklazhi-carbon-1403-mala-37l-shampan-1403-s-champagne/</url>
+<price>1900</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/17/valiza-dlia-ruchnoi-poklazhi-carbon-1403-mala-37l-shampan-1403-s-champagne-99558637584148_+4d8234a34a.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан для ручной клади Carbon 1403 малый 37л шампань (1403-S-Champagne)</name>
+<name_ua>Валіза для ручної поклажі Carbon 1403 мала 37л шампань (1403-S-Champagne)</name_ua>
+<vendor>Carbon</vendor>
+<vendorCode>1403-S-Champagne</vendorCode>
+<description>Валіза для ручної поклажі Carbon 1403 в розмірі S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description>
+<description_ua>Валіза для ручної поклажі Carbon 1403 в розмірі S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
+<country_of_origin>Україна</country_of_origin>
+<param name="Колір">Шампань</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Україна</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="1403-S-RoseGold" available="true" group_id="1403-S-RoseGold">
+<url>https://sklad-valiz.com.ua/valiza-dlia-ruchnoi-poklazhi-carbon-1403-mala-37l-rozheve-zoloto-1403-s-rosegold/</url>
+<price>1900</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/18/valiza-dlia-ruchnoi-poklazhi-carbon-1403-mala-37l-rozheve-zoloto-1403-s-rosegold-45062501774763_+bcccb29264.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан для ручной клади Carbon 1403 малый 37л розовое золото (1403-S-RoseGold)</name>
+<name_ua>Валіза для ручної поклажі Carbon 1403 мала 37л рожеве золото (1403-S-RoseGold)</name_ua>
+<vendor>Carbon</vendor>
+<vendorCode>1403-S-RoseGold</vendorCode>
+<description>Валіза для ручної поклажі Carbon 1403 в розмірі S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description>
+<description_ua>Валіза для ручної поклажі Carbon 1403 в розмірі S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
+<country_of_origin>Україна</country_of_origin>
+<param name="Колір">Рожеве золото</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Україна</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="1403-M-Black" available="true" group_id="1403-M-Black">
+<url>https://sklad-valiz.com.ua/valiza-z-polipropilenu-carbon-1403-serednia-65l-chorna-1403-m-black/</url>
+<price>2100</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/19/valiza-z-polipropilenu-carbon-1403-serednia-65l-chorna-1403-m-black-25944623815581_+438228f43e.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан из полипропилена Carbon 1403 средний 65л черный (1403-M-Black)</name>
+<name_ua>Валіза з поліпропілену Carbon 1403 середня 65л чорна (1403-M-Black)</name_ua>
+<vendor>Carbon</vendor>
+<vendorCode>1403-M-Black</vendorCode>
+<description>Валіза з поліпропілену Carbon 1403 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360&amp;deg;, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description>
+<description_ua>Валіза з поліпропілену Carbon 1403 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360&amp;deg;, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description_ua>
+<country_of_origin>Україна</country_of_origin>
+<param name="Колір">Чорний</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">M</param>
+<param name="Країна виробник">Україна</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="1403-M-Champagne" available="true" group_id="1403-M-Champagne">
+<url>https://sklad-valiz.com.ua/valiza-z-polipropilenu-carbon-1403-serednia-65l-shampan-1403-m-champagne/</url>
+<price>2100</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/20/valiza-z-polipropilenu-carbon-1403-serednia-65l-shampan-1403-m-champagne-85297731523508_+172e14294f.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан из полипропилена Carbon 1403 средний 65л шампань (1403-M-Champagne)</name>
+<name_ua>Валіза з поліпропілену Carbon 1403 середня 65л шампань (1403-M-Champagne)</name_ua>
+<vendor>Carbon</vendor>
+<vendorCode>1403-M-Champagne</vendorCode>
+<description>Валіза з поліпропілену Carbon 1403 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360&amp;deg;, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description>
+<description_ua>Валіза з поліпропілену Carbon 1403 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360&amp;deg;, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description_ua>
+<country_of_origin>Україна</country_of_origin>
+<param name="Колір">Шампань</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">M</param>
+<param name="Країна виробник">Україна</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="1403-M-RoseGold" available="true" group_id="1403-M-RoseGold">
+<url>https://sklad-valiz.com.ua/valiza-z-polipropilenu-carbon-1403-serednia-65l-rozheve-zoloto-1403-m-rosegold/</url>
+<price>2100</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/21/valiza-z-polipropilenu-carbon-1403-serednia-65l-rozheve-zoloto-1403-m-rosegold-53173766648781_+fb428d288c.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан из полипропилена Carbon 1403 средний 65л розовое золото (1403-M-RoseGold)</name>
+<name_ua>Валіза з поліпропілену Carbon 1403 середня 65л рожеве золото (1403-M-RoseGold)</name_ua>
+<vendor>Carbon</vendor>
+<vendorCode>1403-M-RoseGold</vendorCode>
+<description>Валіза з поліпропілену Carbon 1403 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360&amp;deg;, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description>
+<description_ua>Валіза з поліпропілену Carbon 1403 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360&amp;deg;, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description_ua>
+<country_of_origin>Україна</country_of_origin>
+<param name="Колір">Рожеве золото</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">M</param>
+<param name="Країна виробник">Україна</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="1403-L-Black" available="true" group_id="1403-L-Black">
+<url>https://sklad-valiz.com.ua/valiza-z-polipropilenu-carbon-1403-velyka-98l-chorna-1403-l-black/</url>
+<price>2200</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/22/valiza-z-polipropilenu-carbon-1403-velyka-98l-chorna-1403-l-black-62882404141452_+fcd7dabd99.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан из полипропилена Carbon 1403 большой 98л черный (1403-L-Black)</name>
+<name_ua>Валіза з поліпропілену Carbon 1403 велика 98л чорна (1403-L-Black)</name_ua>
+<vendor>Carbon</vendor>
+<vendorCode>1403-L-Black</vendorCode>
+<description>Валіза з поліпропілену Carbon 1403 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22&amp;ndash;25кг.</description>
+<description_ua>Валіза з поліпропілену Carbon 1403 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22&amp;ndash;25кг.</description_ua>
+<country_of_origin>Україна</country_of_origin>
+<param name="Колір">Чорний</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">L</param>
+<param name="Країна виробник">Україна</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="1403-L-Champagne" available="true" group_id="1403-L-Champagne">
+<url>https://sklad-valiz.com.ua/valiza-z-polipropilenu-carbon-1403-velyka-98l-shampan-1403-l-champagne/</url>
+<price>2200</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/23/valiza-z-polipropilenu-carbon-1403-velyka-98l-shampan-1403-l-champagne-63273185436302_+b1ba7c98ad.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан из полипропилена Carbon 1403 большой 98л шампань (1403-L-Champagne)</name>
+<name_ua>Валіза з поліпропілену Carbon 1403 велика 98л шампань (1403-L-Champagne)</name_ua>
+<vendor>Carbon</vendor>
+<vendorCode>1403-L-Champagne</vendorCode>
+<description>Валіза з поліпропілену Carbon 1403 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22&amp;ndash;25кг.</description>
+<description_ua>Валіза з поліпропілену Carbon 1403 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22&amp;ndash;25кг.</description_ua>
+<country_of_origin>Україна</country_of_origin>
+<param name="Колір">Шампань</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">L</param>
+<param name="Країна виробник">Україна</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="1403-L-RoseGold" available="true" group_id="1403-L-RoseGold">
+<url>https://sklad-valiz.com.ua/valiza-z-polipropilenu-carbon-1403-velyka-98l-rozheve-zoloto-1403-l-rosegold/</url>
+<price>2200</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/24/valiza-z-polipropilenu-carbon-1403-velyka-98l-rozheve-zoloto-1403-l-rosegold-24457732944869_+f377520df2.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан из полипропилена Carbon 1403 большой 98л розовое золото (1403-L-RoseGold)</name>
+<name_ua>Валіза з поліпропілену Carbon 1403 велика 98л рожеве золото (1403-L-RoseGold)</name_ua>
+<vendor>Carbon</vendor>
+<vendorCode>1403-L-RoseGold</vendorCode>
+<description>Валіза з поліпропілену Carbon 1403 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22&amp;ndash;25кг.</description>
+<description_ua>Валіза з поліпропілену Carbon 1403 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22&amp;ndash;25кг.</description_ua>
+<country_of_origin>Україна</country_of_origin>
+<param name="Колір">Рожеве золото</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">L</param>
+<param name="Країна виробник">Україна</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
 <offer id="42203-M-Purple" available="false" group_id="42203-M-Purple">
@@ -11637,6 +11709,663 @@
 <param name="Замок">З ключем / Кодовий</param>
 <param name="Розмір">S</param>
 <param name="Країна виробник">Франція</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="49403-S-White" available="true" group_id="49403-S-White">
+<url>https://sklad-valiz.com.ua/valiza-snowball-49403-mala-bila-49403-s-white/</url>
+<price>3600</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/1/valiza-snowball-49403-mala-bila-49403-s-white-92334496555986_+96a7630df9.png</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан Snowball 49403 малый 36л белый (49403-S-White)</name>
+<name_ua>Валіза Snowball 49403 мала 36л біла (49403-S-White)</name_ua>
+<vendor>Snowball</vendor>
+<vendorCode>49403-S-White</vendorCode>
+<description>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description>
+<description_ua>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
+<country_of_origin>Франція</country_of_origin>
+<param name="Колір">Білий</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Франція</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="94103-S-Green" available="false" group_id="94103-S-Green">
+<url>https://sklad-valiz.com.ua/valiza-snowball-94103-mala-46l-zelena-94103-s-green/</url>
+<price>4200</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/2/85129635603540_+431f2ac603.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/2/52314053851346_+762f297f2b.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/2/51550217536976_+cf71b7c30f.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/2/83870758981507_+c01cfd2ddd.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/2/15878527530996_+c5b00079bc.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/2/38637359237848_+3f4ae920ee.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/2/63940347890000_+35d4133ed2.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/2/50353066995244_+3fbaa100dc.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/2/64784322355076_+837dde02bd.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/2/99905122560398_+8d61bdc84c.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан Snowball 94103 малый 46л зеленый (94103-S-Green)</name>
+<name_ua>Валіза Snowball 94103 мала 46л зелена (94103-S-Green)</name_ua>
+<vendor>Snowball</vendor>
+<vendorCode>94103-S-Green</vendorCode>
+<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 449&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
+<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 449&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
+<country_of_origin>Франція</country_of_origin>
+<param name="Колір">Зелёный</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Франція</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="94103-S-Silver" available="true" group_id="94103-S-Silver">
+<url>https://sklad-valiz.com.ua/valiza-snowball-94103-mala-46l-sribna-94103-s-silver/</url>
+<price>4200</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/3/39197478157646_+d381310fbc.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/3/63847007730307_+35b07bb29b.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/3/35673989153784_+853b34e076.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/3/96195547151111_+75c07b8607.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/3/68947732661542_+60be76c137.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/3/32669516245779_+15c4305e95.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/3/98111010166472_+325e586a76.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/3/98955830178943_+43064ed138.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/3/60523739401106_+9fa533e51a.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан Snowball 94103 малый 46л серебряный (94103-S-Silver)</name>
+<name_ua>Валіза Snowball 94103 мала 46л срібна (94103-S-Silver)</name_ua>
+<vendor>Snowball</vendor>
+<vendorCode>94103-S-Silver</vendorCode>
+<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 450&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
+<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 450&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
+<country_of_origin>Франція</country_of_origin>
+<param name="Колір">Срібний</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Франція</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="CKT01-S-LightBlue" available="false" group_id="CKT01-S-LightBlue">
+<url>https://sklad-valiz.com.ua/valiza-wings-cockatiel-mala-blakytna-ckt01-s-lightblue/</url>
+<price>2450</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/6/44442895013444_+e3ee91417b.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/6/70530853062672_+095799b52c.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/6/12869779586867_+b3275cb2e3.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/6/73245176464722_+b0bbbb4eed.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/6/37111922188458_+cedcc55db5.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/6/76246817082468_+49df78023c.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/6/46958175839082_+fd33ec92e1.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/6/35931734889923_+6498e55d74.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/6/19592047510451_+3f76f6a376.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан Wings COCKATIEL малый голубой (CKT01-S-LightBlue)</name>
+<name_ua>Валіза Wings COCKATIEL мала блакитна (CKT01-S-LightBlue)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>CKT01-S-LightBlue</vendorCode>
+<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 453&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
+<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 453&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Блакитний</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="CKT01-S-WhitePink" available="false" group_id="CKT01-S-WhitePink">
+<url>https://sklad-valiz.com.ua/valiza-wings-cockatiel-mala-rozheva-ckt01-s-whitepink/</url>
+<price>2450</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/7/79402553080054_+31b25873e0.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/7/94668221185476_+9d587bd8e7.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/7/93789416587592_+3fcfd0fe81.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/7/73756159424116_+56f84e0d4a.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/7/11140953710605_+d5cdc6b162.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/7/17321755709884_+a5145624a7.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/7/41763515636995_+2f45d9aa46.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/7/73184688247238_+b2e9d386cd.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан Wings COCKATIEL малый розовый (CKT01-S-WhitePink)</name>
+<name_ua>Валіза Wings COCKATIEL мала рожева (CKT01-S-WhitePink)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>CKT01-S-WhitePink</vendorCode>
+<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 454&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
+<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 454&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Рожевий</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="CKT01-S-WhitePurple" available="false" group_id="CKT01-S-WhitePurple">
+<url>https://sklad-valiz.com.ua/valiza-wings-cockatiel-mala-fialkova-ckt01-s-whitepurple/</url>
+<price>2450</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/8/33048220122302_+d76f398313.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/8/91779894720267_+6794a84698.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/8/35489859107570_+fc5f486153.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/8/48370909901534_+1c271f9a37.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/8/82616319226088_+27e5496086.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/8/74448094096731_+3b6e61b584.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/8/99586905773383_+7990427721.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/8/82230549488237_+313c6bf45e.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/8/96538610698644_+80edca80d5.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/8/90835042737208_+69040574e7.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/8/79204410800359_+6caf477fb1.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/8/83702292904742_+eac0a3d10b.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан Wings COCKATIEL малый фиалковый (CKT01-S-WhitePurple)</name>
+<name_ua>Валіза Wings COCKATIEL мала фіалкова (CKT01-S-WhitePurple)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>CKT01-S-WhitePurple</vendorCode>
+<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 455&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
+<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 455&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Ліловий</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="HWF01-S-Black" available="false" group_id="HWF01-S-Black">
+<url>https://sklad-valiz.com.ua/valiza-wings-hwf01-mala-38l-chorna-hwf01-s-black/</url>
+<price>2200</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/9/80530080464998_+54278e040d.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/9/62616167422651_+fa6ed80527.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/9/88872380065243_+13d69f428a.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/9/25319738909731_+1be325490a.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/9/93262113677955_+97dae6b0f9.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/9/73075540148295_+f82a2c085a.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан Wings HWF01 малый 38л черный (HWF01-S-Black)</name>
+<name_ua>Валіза Wings HWF01 мала 38л чорна (HWF01-S-Black)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>HWF01-S-Black</vendorCode>
+<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 456&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
+<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 456&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Чорний</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="HWF01-S-Champagne" available="true" group_id="HWF01-S-Champagne">
+<url>https://sklad-valiz.com.ua/valiza-wings-hwf01-mala-38l-shampan-hwf01-s-champagne/</url>
+<price>2200</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-hwf01-mala-38l-shampan-hwf01-s-champagne-13384452545023_+cbc57ba134.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-hwf01-mala-38l-shampan-hwf01-s-champagne-57478365720492_+949d0bf133.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-hwf01-mala-38l-shampan-hwf01-s-champagne-31394652990229_+99e702641f.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-hwf01-mala-38l-shampan-hwf01-s-champagne-61626236499551_+8066c95829.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-hwf01-mala-38l-shampan-hwf01-s-champagne-67052470345372_+843e3d7163.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/10/valiza-wings-hwf01-mala-38l-shampan-hwf01-s-champagne-54623607527960_+965bd2580e.png</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан Wings HWF01 малый 38л шампань (HWF01-S-Champagne)</name>
+<name_ua>Валіза Wings HWF01 мала 38л шампань (HWF01-S-Champagne)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>HWF01-S-Champagne</vendorCode>
+<description>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description>
+<description_ua>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Шампань</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="MUR01-S-Champagne" available="false" group_id="MUR01-S-Champagne">
+<url>https://sklad-valiz.com.ua/valiza-wings-mur01-mala-40l-shampan-mur01-s-champagne/</url>
+<price>2600</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/11/valiza-wings-mur01-mala-40l-bezheva-mur01-s-beige-63120085949047_+f6c91e6203.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/11/valiza-wings-mur01-mala-40l-bezheva-mur01-s-beige-51910618719602_+8ebd802ca1.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/11/valiza-wings-mur01-mala-40l-bezheva-mur01-s-beige-53737085014095_+1f81408cf7.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/11/valiza-wings-mur01-mala-40l-bezheva-mur01-s-beige-92086251941658_+6348a0a843.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/11/valiza-wings-mur01-mala-40l-bezheva-mur01-s-beige-93513345778821_+018a082e84.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/11/valiza-wings-mur01-mala-40l-bezheva-mur01-s-beige-54659328542116_+267b65f89f.png</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан Wings MUR01 малый 40л шампань (MUR01-S-Champagne)</name>
+<name_ua>Валіза Wings MUR01 мала 40л шампань (MUR01-S-Champagne)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>MUR01-S-Champagne</vendorCode>
+<description>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description>
+<description_ua>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Шампань</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="MUR01-S-Black" available="false" group_id="MUR01-S-Black">
+<url>https://sklad-valiz.com.ua/valiza-wings-mur01-mala-40l-chorna-mur01-s-black/</url>
+<price>2600</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-mur01-mala-40l-chorna-mur01-s-black-13377887321968_+8d03df8fda.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-mur01-mala-40l-chorna-mur01-s-black-29247883182248_+643e4540b9.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-mur01-mala-40l-chorna-mur01-s-black-61354116931708_+05f52c28f7.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-mur01-mala-40l-chorna-mur01-s-black-14014681971940_+b6342abe6c.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-mur01-mala-40l-chorna-mur01-s-black-79060445177457_+22b2f8e7c9.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/12/valiza-wings-mur01-mala-40l-chorna-mur01-s-black-40176138150796_+8744747bd1.png</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан Wings MUR01 малый 40л черный (MUR01-S-Black)</name>
+<name_ua>Валіза Wings MUR01 мала 40л чорна (MUR01-S-Black)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>MUR01-S-Black</vendorCode>
+<description>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description>
+<description_ua>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Чорний</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="MUR01-S-TitanBlue" available="true" group_id="MUR01-S-TitanBlue">
+<url>https://sklad-valiz.com.ua/valiza-wings-mur01-mala-40l-synia-mur01-s-titanblue/</url>
+<price>2600</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-mur01-mala-40l-synia-mur01-s-titanblue-24055143093559_+401b1010d4.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-mur01-mala-40l-synia-mur01-s-titanblue-91181031535003_+bfdf3ec2ba.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-mur01-mala-40l-synia-mur01-s-titanblue-48588036181224_+759cc879d9.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-mur01-mala-40l-synia-mur01-s-titanblue-49818976694070_+bfb502c345.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-mur01-mala-40l-synia-mur01-s-titanblue-39837357135429_+b896bb0126.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/13/valiza-wings-mur01-mala-40l-synia-mur01-s-titanblue-86012897406533_+26c998dbf5.png</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан Wings MUR01 малый 40л синий (MUR01-S-TitanBlue)</name>
+<name_ua>Валіза Wings MUR01 мала 40л синя (MUR01-S-TitanBlue)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>MUR01-S-TitanBlue</vendorCode>
+<description>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description>
+<description_ua>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Синій</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="WN01-S-Champagne" available="false" group_id="WN01-S-Champagne">
+<url>https://sklad-valiz.com.ua/valiza-wings-wn01-s-38l-shampan-wn01-s-champagne/</url>
+<price>2050</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/14/valiza-wings-wn01-s-38l-shampan-wn01-s-champagne-86779628248654_+4255f28bcf.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/valiza-wings-wn01-s-38l-shampan-wn01-s-champagne-35082033682270_+251f8c7fb7.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/valiza-wings-wn01-s-38l-shampan-wn01-s-champagne-89096534718373_+3cddf69853.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/valiza-wings-wn01-s-38l-shampan-wn01-s-champagne-62163677891244_+7a153fd950.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/valiza-wings-wn01-s-38l-shampan-wn01-s-champagne-68167957193677_+3b60df0960.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/valiza-wings-wn01-s-38l-shampan-wn01-s-champagne-52443297279511_+1465784e22.png</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан Wings WN01 малый 38л шампань (WN01-S-Champagne)</name>
+<name_ua>Валіза Wings WN01 мала 38л шампань (WN01-S-Champagne)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>WN01-S-Champagne</vendorCode>
+<description>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал ABS + полікарбонат поєднує в собі міцність та легкість. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description>
+<description_ua>Розмір S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал ABS + полікарбонат поєднує в собі міцність та легкість. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Шампань</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Пластик</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="WN01-S-Champagne-ABS" available="true" group_id="WN01-S-Champagne-ABS">
+<url>https://sklad-valiz.com.ua/valiza-wings-wn01-mala-38l-shampan-wn01-s-champagne-abs/</url>
+<price>2050</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/15/78782094513321_+4dfb621f26.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/15/68495010647763_+eb87c43b30.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/15/91158152790642_+1c10ebaacb.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/15/21258848937092_+5d0da5485d.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/15/46515949196463_+df12455e6a.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/15/24958095653356_+58752f7473.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/15/14869527308373_+01f68def89.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/15/50790405175421_+bce21f3f6e.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/15/63204074629743_+82acf97635.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/15/94779652788628_+8ac4ce6050.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/15/86328900043967_+08ede66cdd.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан Wings WN01 малый 38л шампань (WN01-S-Champagne-ABS)</name>
+<name_ua>Валіза Wings WN01 мала 38л шампань (WN01-S-Champagne-ABS)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>WN01-S-Champagne-ABS</vendorCode>
+<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 462&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
+<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 462&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Шампань</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Пластик</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="WN01-S-Creme" available="true" group_id="WN01-S-Creme">
+<url>https://sklad-valiz.com.ua/valiza-wings-wn01-mala-38l-kremova-wn01-s-creme/</url>
+<price>2050</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/16/valiza-wings-wn01-mala-38l-kremova-wn01-s-creme-35728224795433_+e963505dc6.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/16/22132785899284_+8e0b41e6bb.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/16/52604594728470_+65acc0d7f6.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/16/95093727611349_+1d5e6dc6fc.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/16/96633820087938_+f703e37e2e.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/16/88188356337333_+001f93ec97.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/16/24752357661515_+9e05446362.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/16/87618302048138_+56ca283a86.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан Wings WN01 малый 38л кремовый (WN01-S-Creme)</name>
+<name_ua>Валіза Wings WN01 мала 38л кремова (WN01-S-Creme)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>WN01-S-Creme</vendorCode>
+<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 463&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
+<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 463&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Кремовий</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Пластик</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="WN01-S-Creme-ABS" available="false" group_id="WN01-S-Creme-ABS">
+<url>https://sklad-valiz.com.ua/valiza-wings-wn01-mala-33l-kremova-wn01-s-creme-abs/</url>
+<price>2050</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/17/71768398463220_+e7f789a907.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/17/78405035136859_+9645f5bd31.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/17/28282518317691_+61e7832ea0.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/17/48868506111363_+4d465e4729.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/17/36603635656711_+7fbb231b70.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/17/37229612936001_+108efebcf5.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/17/80524600765977_+559aa24274.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/17/92716520109277_+f8f7c5bd9f.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан Wings WN01 малый 33л кремовый (WN01-S-Creme-ABS)</name>
+<name_ua>Валіза Wings WN01 мала 33л кремова (WN01-S-Creme-ABS)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>WN01-S-Creme-ABS</vendorCode>
+<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 464&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
+<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 464&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Кремовий</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Пластик</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="WN01-S-RoseGold" available="false" group_id="WN01-S-RoseGold">
+<url>https://sklad-valiz.com.ua/valiza-wings-wn01-mala-38l-rozheve-zoloto-wn01-s-rosegold/</url>
+<price>2050</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/18/valiza-wings-wn01-mala-38l-rozheve-zoloto-wn01-s-rosegold-14315792605337_+8db07de94c.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/18/73479312406176_+6e5157e6ec.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/18/86980153862623_+df83761f19.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/18/59110848802142_+4b27cfe31f.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/18/17513213043893_+0522462548.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/18/24618537858670_+4c95d74c76.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/18/65353409689219_+605e4bb0d2.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/18/11456265905527_+1b3f4c1ab0.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/18/74811848919945_+e1a3c9b83f.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/18/58289368187418_+19e3758401.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/18/30480839145691_+0eca3740e5.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан Wings WN01 малый 38л розовое золото (WN01-S-RoseGold)</name>
+<name_ua>Валіза Wings WN01 мала 38л рожеве золото (WN01-S-RoseGold)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>WN01-S-RoseGold</vendorCode>
+<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 465&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
+<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 465&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Рожеве золото</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Пластик</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="WN01-S-RoseGold-ABS" available="false" group_id="WN01-S-RoseGold-ABS">
+<url>https://sklad-valiz.com.ua/valiza-wings-wn01-mala-38l-rozheve-zoloto-wn01-s-rosegold-abs/</url>
+<price>2050</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/19/66387255764577_+e51736fab9.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/47884191573455_+c7367bfa17.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/19018768213203_+1bbd6534f8.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/22459942153199_+a43ba9bc5c.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/65409822722214_+c29fab4bdc.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/83020362943513_+c69fc59584.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/84753500576428_+ca025117f5.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/23006833128727_+13074c574e.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/19088714588475_+9c362e1136.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/53606597796127_+3a82168fa6.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/56710437783846_+bf158580f6.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан Wings WN01 малый 38л розовое золото (WN01-S-RoseGold-ABS)</name>
+<name_ua>Валіза Wings WN01 мала 38л рожеве золото (WN01-S-RoseGold-ABS)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>WN01-S-RoseGold-ABS</vendorCode>
+<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 466&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
+<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 466&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Рожеве золото</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Пластик</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="AVC01-BC-Black" available="true" group_id="AVC01-BC-Black">
+<url>https://sklad-valiz.com.ua/dorozhnia-sumka-wings-avc01-20l-chorna-avc01-bc-black/</url>
+<salePrice>870</salePrice>
+<price>1450</price>
+<currencyId>UAH</currencyId>
+<categoryId>2016</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/20/92107366967343_+444e135801.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Дорожная сумка Wings AVC01 20л черная (AVC01-BC-Black)</name>
+<name_ua>Дорожня сумка Wings AVC01 20л чорна (AVC01-BC-Black)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>AVC01-BC-Black</vendorCode>
+<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 467&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
+<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 467&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Чорний</param>
+<param name="Тип">Сумка дорожная</param>
+<param name="Матеріал">Поліестер</param>
+<param name="Кількість коліс">Без колес</param>
+<param name="Замок">Ні</param>
+<param name="Розмір">XS</param>
+<param name="Країна виробник">Польща</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="AVC01-BC-Grey" available="false" group_id="AVC01-BC-Grey">
+<url>https://sklad-valiz.com.ua/dorozhnia-sumka-wings-avc01-20l-zhovta-avc01-bc-grey/</url>
+<price>1450</price>
+<currencyId>UAH</currencyId>
+<categoryId>2016</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/21/86057210909800_+8925eccb40.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Дорожная сумка Wings AVC01 20л желтая (AVC01-BC-Grey)</name>
+<name_ua>Дорожня сумка Wings AVC01 20л жовта (AVC01-BC-Grey)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>AVC01-BC-Grey</vendorCode>
+<description>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 468&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description>
+<description_ua>Міцна та практична валіза, виготовлена з якісних матеріалів, стійких до подряпин і ударів. Оснащена надійними колесами з поворотним механізмом 468&amp;deg;, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Сірий</param>
+<param name="Тип">Сумка дорожная</param>
+<param name="Матеріал">Поліестер</param>
+<param name="Кількість коліс">Без колес</param>
+<param name="Замок">Ні</param>
+<param name="Розмір">XS</param>
+<param name="Країна виробник">Польща</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="Kaiman-XS-Grey" available="false" group_id="Kaiman-XS-Grey">
+<url>https://sklad-valiz.com.ua/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey/</url>
+<price>1700</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-16241479231839_+d494835d52.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-96625072079058_+1c945fa09c.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-77767902636288_+0dc308033c.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-68963661382654_+ac9fe98bcb.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-44386821679257_+2d8530b555.png</picture>
+<picture>https://sklad-valiz.com.ua/content/images/32/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-sira-kaiman-xs-grey-51986756645781_+40a58028cb.png</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан для лоукоста Wizzair Kaiman мини 24л серый (Kaiman-XS-Grey)</name>
+<name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л сіра (Kaiman-XS-Grey)</name_ua>
+<vendor>Kaiman</vendor>
+<vendorCode>Kaiman-XS-Grey</vendorCode>
+<description>Розмір XS - ідеальний вибір для коротких поїздок на 1&amp;ndash;2 дні, бізнес-візитів або як перша власна валіза для дитини. Завдяки своїм гранично компактним габаритам, ця модель спеціально розроблена під найсуворіші параметри безкоштовної ручної поклажі лоукостерів, що гарантує вам спокій під час посадки та відсутність жодних доплат за багаж. Головною перевагою моделі є знімні колеса. Ця конструктивна особливість дозволяє миттєво адаптувати розмір валізи під вимоги авіаліній, щоб вона без зусиль проходила в контрольний калібратор або розміщувалася під сидінням літака. Корпус із поєднання ABS-пластику та полікарбонату забезпечує витривалість конструкції при екстремально малій вазі. Полікарбонатне покриття додає стійкості до зовнішніх пошкоджень, а продумана внутрішня організація з фіксаторами дозволяє надійно закріпити одяг, змінне взуття, документи та електроніку. Вага завантаження становить 5&amp;ndash;7 кг.</description>
+<description_ua>Розмір XS - ідеальний вибір для коротких поїздок на 1&amp;ndash;2 дні, бізнес-візитів або як перша власна валіза для дитини. Завдяки своїм гранично компактним габаритам, ця модель спеціально розроблена під найсуворіші параметри безкоштовної ручної поклажі лоукостерів, що гарантує вам спокій під час посадки та відсутність жодних доплат за багаж. Головною перевагою моделі є знімні колеса. Ця конструктивна особливість дозволяє миттєво адаптувати розмір валізи під вимоги авіаліній, щоб вона без зусиль проходила в контрольний калібратор або розміщувалася під сидінням літака. Корпус із поєднання ABS-пластику та полікарбонату забезпечує витривалість конструкції при екстремально малій вазі. Полікарбонатне покриття додає стійкості до зовнішніх пошкоджень, а продумана внутрішня організація з фіксаторами дозволяє надійно закріпити одяг, змінне взуття, документи та електроніку. Вага завантаження становить 5&amp;ndash;7 кг.</description_ua>
+<country_of_origin>Україна</country_of_origin>
+<param name="Колір">Сірий</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Пластик</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">XS</param>
+<param name="Країна виробник">Україна</param>
 <param name="Особливості">Висувна ручка</param>
 <param name="Тип коліс">Поворотні</param>
 <param name="Підходить для ручної поклажі">Так</param>
