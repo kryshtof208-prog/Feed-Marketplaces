@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-09T21:06:13.058Z">
+<yml_catalog date="2026-09-10T21:06:13.257Z">
   <shop>
     <categories>
       <category id="1061" portal_id="2273">Валізи</category>
@@ -116,7 +116,7 @@
         <param name="Об'єм">Великі (90 - 100 л)</param>
       </offer>
       <offer id="DPC-Brown-M" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чехол для чемодана дайвинг шоколадный DPC-Brown-M</name_ru>
         <name_ua>Чохол для валізи дайвінг шоколадний DPC-Brown-M</name_ua>
         <price>500</price>
@@ -399,7 +399,7 @@
         <param name="Матеріал корпусу">Поліестер</param>
       </offer>
       <offer id="ORG7-Beige" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>12</quantity_in_stock>
         <name_ru>Комплект органайзеров бежевый ORG7-Beige</name_ru>
         <name_ua>Комплект органайзерів бежевий ORG7-Beige</name_ua>
         <price>570</price>
@@ -781,6 +781,49 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
       </offer>
+      <offer id="SKU402-BC-Black" available="true">
+        <quantity_in_stock>3</quantity_in_stock>
+        <name_ru>Дорожная сумка SKU402 32л черная (SKU402-BC-Black)</name_ru>
+        <name_ua>Дорожня сумка SKU402 32л чорна (SKU402-BC-Black)</name_ua>
+        <price>1100</price>
+        <categoryId>1087</categoryId>
+        <country>Китай</country>
+        <description_ru>Дорожная сумка SKU402 32л черная (SKU402-BC-Black)</description_ru>
+        <description_ua>Стильна дорожня сумка - ідеальний варіант для подорожей та спорту. Модель поєднує лаконічний дизайн із місткістю, вміщуючи одяг, взуття та особисті речі. Міцні ручки та надійна фурнітура забезпечують зручність у використанні та довговічність виробу. Багато внутрішніх кишень, зокрема кишеня для вологих речей з водонепроникного матеріалу. Також сумка має окремий відсік для взуття та на задній стороні є ремінець, який можна зачепити за ручку валізи. Сумка відмінно підходить для коротких поїздок або як ручна поклажа.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/6/dorozhnia-sumka-sku402-32l-chorna-sku402-bc-black-91673123242632_+ccc5fff4db.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Сумка дорожная</param>
+        <param name="Матеріал корпусу">Текстиль</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="SKU823-BC-Grey" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Дорожная сумка SKU823 67л серая (SKU823-BC-Grey)</name_ru>
+        <name_ua>Дорожня сумка SKU823 67л сіра (SKU823-BC-Grey)</name_ua>
+        <price>1800</price>
+        <categoryId>1087</categoryId>
+        <country>Китай</country>
+        <description_ru>Дорожная сумка SKU823 67л серая (SKU823-BC-Grey)</description_ru>
+        <description_ua>Містка дорожня сумка об&amp;#39;ємом 67 літрів ідеально підходить для тривалих подорожей та активного використання, забезпечуючи надійність під час навантажень. Модель вирізняється практичним, універсальним дизайном, що підходить як для чоловіків, так і для жінок. Міцні матеріали, функціональні ручки та продумана конструкція гарантують зручність у транспортуванні речей. Також має гумові ніжки, щоб сумка не ковзала. Цей універсальний аксесуар забезпечує достатньо місця для організації багажу.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/7/dorozhnia-sumka-sku823-67l-sira-sku823-bc-grey-92134265596968_+57b87c15d5.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/dorozhnia-sumka-sku823-67l-sira-sku823-bc-grey-65918770043110_+e6089fc9ac.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/dorozhnia-sumka-sku823-67l-sira-sku823-bc-grey-45680722782895_+aa05061cc8.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/dorozhnia-sumka-sku823-67l-sira-sku823-bc-grey-69677011831604_+ab21a81c60.jpg</picture>
+        <param name="Колір">Серый</param>
+        <param name="Тип">Сумка дорожная</param>
+        <param name="Матеріал корпусу">Текстиль</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Середні (50 – 89.9 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
       <offer id="2501-L-Blue" available="true">
         <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан с расширением Wings 2501 большой 97л синий (2501-L-Blue)</name_ru>
@@ -837,34 +880,6 @@
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="2501-M-Blue" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан с расширением Wings 2501 средний 63л синий (2501-M-Blue)</name_ru>
-        <name_ua>Валіза з розширенням Wings 2501 середня 63л синя (2501-M-Blue)</name_ua>
-        <price>2900</price>
-        <categoryId>1083</categoryId>
-        <vendor>Wings</vendor>
-        <country>Польща</country>
-        <description_ru>Чемодан с расширением Wings 2501 средний 63л синий (2501-M-Blue)</description_ru>
-        <description_ua>Валіза з розширенням Wings 2501 в розмірі L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Валіза виготовлена з високоміцного поліестеру Cordura 1200D, який вирізняється легкістю, еластичністю та стійкістю до вологи й пошкоджень. Надійний внутрішній каркас дозволяє валізі відмінно тримати форму навіть при щільному наповненні, захищаючи ваші речі під час транспортування. Модель оснащена посиленою системою з 4 великих поліуретанових коліс на металевих підшипниках, що гарантує надійність при русі по будь-яких поверхнях. Для зручності передбачена телескопічна ручка з фіксацією. Продуманий внутрішній простір із фіксаторами та велика кількість зовнішніх кишень допоможуть ідеально організувати багаж, а функція розширення на 5 см дозволить збільшити об&amp;#39;єм, якщо це необхідно. Для безпеки передбачено вбудований кодовий замок. Вага завантаження становить 22-25 кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/11/valiza-wings-2501-serednia-63l-synia-2501-m-blue-55080051459091_+7b83e02f17.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-wings-2501-velyka-97l-synia-2501-l-blue-84867657195102_+b143532805.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-wings-2501-velyka-97l-synia-2501-l-blue-34327327127066_+c51b728750.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-wings-2501-velyka-97l-synia-2501-l-blue-22783176660803_+19cd334851.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-wings-2501-velyka-97l-synia-2501-l-blue-22331480701032_+b1300e97a3.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-wings-2501-velyka-97l-synia-2501-l-blue-86709226178617_+b2fbf6a37e.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-wings-2501-velyka-97l-synia-2501-l-blue-66866738268181_+c260100763.jpg</picture>
-        <param name="Колір">Синий</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліестер</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Середні (50 – 89.9 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">М'який</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
       <offer id="2501-M-Grey" available="true">
         <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан с расширением Wings 2501 средний 63л серый (2501-M-Grey)</name_ru>
@@ -894,7 +909,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="2501-S-Blue" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Чемодан с расширением Wings 2501 малый 38л синий (2501-S-Blue)</name_ru>
         <name_ua>Валіза з розширенням Wings 2501 мала 38л синя (2501-S-Blue)</name_ua>
         <price>1360</price>
@@ -952,7 +967,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="53103-L-Champagne" available="true">
-        <quantity_in_stock>21</quantity_in_stock>
+        <quantity_in_stock>22</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Madisson 53103 большой 102л шампань (53103-L-Champagne)</name_ru>
         <name_ua>Валіза з поліпропілену Madisson 53103 велика 102л шампань (53103-L-Champagne)</name_ua>
         <price>2450</price>
@@ -980,7 +995,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="53103-L-Gray" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>12</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Madisson 53103 большой 102л серый (53103-L-Gray)</name_ru>
         <name_ua>Валіза з поліпропілену Madisson 53103 велика 102л сіра (53103-L-Gray)</name_ua>
         <price>2450</price>
@@ -1036,7 +1051,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="53103-M-Champagne" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Madisson 53103 средний 65л шампань (53103-M-Champagne)</name_ru>
         <name_ua>Валіза з поліпропілену Madisson 53103 середня 65л шампань (53103-M-Champagne)</name_ua>
         <price>2350</price>
@@ -1064,7 +1079,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="53103-M-Gray" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Madisson 53103 средний 65л серый (53103-M-Gray)</name_ru>
         <name_ua>Валіза з поліпропілену Madisson 53103 середня 65л сіра (53103-M-Gray)</name_ua>
         <price>2350</price>
@@ -1092,7 +1107,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="53103-S-Champagne" available="true">
-        <quantity_in_stock>17</quantity_in_stock>
+        <quantity_in_stock>18</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Madisson 53103 малый 37л шампань (53103-S-Champagne)</name_ru>
         <name_ua>Валіза для ручної поклажі Madisson 53103 мала 37л шампань (53103-S-Champagne)</name_ua>
         <price>1850</price>
@@ -1120,7 +1135,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="53103-S-Gray" available="true">
-        <quantity_in_stock>20</quantity_in_stock>
+        <quantity_in_stock>24</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Madisson 53103 малый 37л серый (53103-S-Gray)</name_ru>
         <name_ua>Валіза для ручної поклажі Madisson 53103 мала 37л сіра (53103-S-Gray)</name_ua>
         <price>1850</price>
@@ -1176,7 +1191,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="Kaiman-XS-Champagne" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л шампань (Kaiman-XS-Champagne)</name_ru>
         <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л шампань (Kaiman-XS-Champagne)</name_ua>
         <price>1700</price>
@@ -1326,7 +1341,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="49103-S-White" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Чемодан Snowball 49103 малый 39л белый (49103-S-White)</name_ru>
         <name_ua>Валіза Snowball 49103 мала 39л біла (49103-S-White)</name_ua>
         <price>3600</price>
@@ -1352,8 +1367,35 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
+      <offer id="49103-M-White" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Чемодан Snowball 49103 средний 69л белый (49103-M-White)</name_ru>
+        <name_ua>Валіза Snowball 49103 середня 69л біла (49103-M-White)</name_ua>
+        <price>4950</price>
+        <categoryId>1083</categoryId>
+        <vendor>Snowball</vendor>
+        <country>Франція</country>
+        <description_ru>Чемодан Snowball 49103 средний 69л белый (49103-M-White)</description_ru>
+        <description_ua>Розмір L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-49103-serednia-69l-bila-49103-m-white-47626605144721_+b223a5b1fe.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-51183346908748_+6b2a7ca4d3.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-35575092317636_+04afcd0247.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-88337652533069_+dfcf16d87a.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-76295205426709_+2fa0c49102.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-92450410622205_+3abe7767c7.png</picture>
+        <param name="Колір">Белый</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Середні (50 – 89.9 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
       <offer id="49103-L-White" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Чемодан Snowball 49103 большой 112л белый (49103-L-White)</name_ru>
         <name_ua>Валіза Snowball 49103 велика 112л біла (49103-L-White)</name_ua>
         <price>5100</price>
@@ -1464,7 +1506,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="42203-S-Purple" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан с расширением Madisson 42203 малый 39л фиолетовый (42203-S-Purple)</name_ru>
         <name_ua>Валіза з розширенням Madisson 42203 мала 39л фіолетова (42203-S-Purple)</name_ua>
         <price>1500</price>
@@ -1492,7 +1534,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="42203-S-DarkBlue" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан с расширением Madisson 42203 малый 39л темно-синий (42203-S-DarkBlue)</name_ru>
         <name_ua>Валіза з розширенням Madisson 42203 мала 39л темно-синя (42203-S-DarkBlue)</name_ua>
         <price>1500</price>
@@ -1790,7 +1832,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="20303-L-Red" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 20303 большой 108л красный (20303-L-Red)</name_ru>
         <name_ua>Валіза з розширенням Snowball 20303 велика 108л червона (20303-L-Red)</name_ua>
         <price>4400</price>
@@ -1818,7 +1860,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="20303-M-Red" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 20303 средний 71л красный (20303-M-Red)</name_ru>
         <name_ua>Валіза з розширенням Snowball 20303 середня 71л червона (20303-M-Red)</name_ua>
         <price>4300</price>
@@ -1846,7 +1888,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="20303-S-Red" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Snowball 20303 малый 35л красный (20303-S-Red)</name_ru>
         <name_ua>Валіза для ручної поклажі Snowball 20303 мала 35л червона (20303-S-Red)</name_ua>
         <price>3350</price>
@@ -1874,7 +1916,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="49403-L-Red" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>9</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 49403 большой 113л красный (49403-L-Red)</name_ru>
         <name_ua>Валіза з розширенням Snowball 49403 велика 113л червона (49403-L-Red)</name_ua>
         <price>5300</price>
@@ -1895,8 +1937,30 @@
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
+      <offer id="49403-M-Red" available="true">
+        <quantity_in_stock>4</quantity_in_stock>
+        <name_ru>Чемодан с расширением Snowball 49403 средний 69л красный (49403-M-Red)</name_ru>
+        <name_ua>Валіза з розширенням Snowball 49403 середня 69л червона (49403-M-Red)</name_ua>
+        <price>4950</price>
+        <categoryId>1083</categoryId>
+        <vendor>Snowball</vendor>
+        <country>Франція</country>
+        <description_ru>Чемодан с расширением Snowball 49403 средний 69л красный (49403-M-Red)</description_ru>
+        <description_ua>Валіза з розширенням Snowball 49403 середня 69л червона (49403-M-Red)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/12/valiza-snowball-49403-serednia-69l-chervona-49403-m-red-94855403169988_+97f93a503a.jpg</picture>
+        <param name="Колір">Красный</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Середні (50 – 89.9 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
       <offer id="49403-S-Red" available="true">
-        <quantity_in_stock>9</quantity_in_stock>
+        <quantity_in_stock>13</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Snowball 49403 малый 36л красный (49403-S-Red)</name_ru>
         <name_ua>Валіза для ручної поклажі Snowball 49403 мала 36л червона (49403-S-Red)</name_ua>
         <price>3600</price>
@@ -1913,6 +1977,28 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="49403-Set-Red" available="true">
+        <quantity_in_stock>4</quantity_in_stock>
+        <name_ru>Набор чемоданов с расширением Snowball 49403 3 в 1 красный (49403-Set-Red)</name_ru>
+        <name_ua>Набір валіз з розширенням Snowball 49403 3 в 1 червоний (49403-Set-Red)</name_ua>
+        <price>11780</price>
+        <old_price>13850</old_price>
+        <categoryId>1092</categoryId>
+        <vendor>Snowball</vendor>
+        <country>Франція</country>
+        <description_ru>Набор чемоданов с расширением Snowball 49403 3 в 1 красный (49403-Set-Red)</description_ru>
+        <description_ua>Набір валіз з розширенням Snowball 49403 3 в 1 червоний (49403-Set-Red)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/14/nabir-valiz-snowball-49403-3v1-chervonyi-49403-3-red-20574996376611_+bf849f28d7.jpg</picture>
+        <param name="Колір">Красный</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
@@ -1962,7 +2048,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="scales-2404" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Весы для чемодана 2404 (scales-2404)</name_ru>
         <name_ua>Ваги для валізи 2404 (scales-2404)</name_ua>
         <price>230</price>
@@ -1971,6 +2057,38 @@
         <description_ua>Електронна вага для багажу є незамінним та бюджетним аксесуаром для кожного мандрівника, який допомагає уникнути переплат за надмірну вагу в аеропортах. Пристрій здатний витримувати максимальне навантаження до 50 кг і оснащений зручним цифровим дисплеєм із зеленим підсвічуванням для легкого зчитування результатів. Завдяки компактній конструкції з міцним текстильним ременем ваги легко зафіксувати на ручці будь-якої валізи чи сумки. Великою перевагою моделі є доступна ціна та батарейка, яка вже йде у комплекті для миттєвого використання.</description_ua>
         <picture>https://sklad-valiz.com.ua/content/images/17/vahy-dlia-valizy-2404-scales-2404-52830560617041_+2be39c3a01.png</picture>
         <param name="Колір">Серебристый</param>
+      </offer>
+      <offer id="scales-TL000180-56" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Весы для чемодана TL000180-56 (scales-TL000180-56)</name_ru>
+        <name_ua>Ваги для валізи TL000180-56 (scales-TL000180-56)</name_ua>
+        <price>575</price>
+        <categoryId>1086</categoryId>
+        <description_ru>Весы для чемодана TL000180-56 (scales-TL000180-56)</description_ru>
+        <description_ua>Німецькі електронні ваги для багажу - це надійний і ультракомпактний девайс вагою всього 50 грамів, створений для точного контролю ваги речей перед вильотом. Корпус пристрою виконаний зі сріблястого ABS-пластику та оснащений зручним ремінцем і чітким цифровим дисплеєм. Гаджет дозволяє самостійно зважувати валізи вагою до 40 кг і підтримує корисну функцію автоматичної фіксації фінального результату на екрані.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/18/vahy-dlia-valizy-tl000180-56-scales-tl000180-56-98130977877310_+fe91cd058e.png</picture>
+        <param name="Колір">Серебристый</param>
+      </offer>
+      <offer id="2204-XS-Frozen" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Детский чемодан 2204 мини 25л голубой (2204-XS-Frozen)</name_ru>
+        <name_ua>Дитяча валіза 2204 міні 25л блакитна (2204-XS-Frozen)</name_ua>
+        <price>1700</price>
+        <categoryId>1091</categoryId>
+        <country>Китай</country>
+        <description_ru>Детский чемодан 2204 мини 25л голубой (2204-XS-Frozen)</description_ru>
+        <description_ua>Яскрава дитяча валіза з улюбленими персонажами з Холодного Серця стане ідеальним супутником для маленького мандрівника під час будь-яких поїздок. Завдяки своїм компактним габаритам модель розрахована суто на індивідуальне використання дитиною і вміщує особисті речі на короткі подорожі чи канікули тривалістю від 3 до 5 днів. Розміри валізи повністю відповідають усім суворим стандартам ручної поклажі, тому її можна сміливо брати у салон літака, поїзда чи автобуса. Міцний і водночас гнучкий корпус надійно захищає вміст від ударів та випадкових падінь під час активних ігор на вокзалі чи в терміналі. Надійна система чотирьох коліс, що обертаються на 360 градусів, та зручна висувна ручка дозволяють малюкові легко і без зусиль котити свій багаж самостійно.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/20/dytiacha-valiza-2204-mini-25l-blakytna-2204-xs-frozen-37379242490029_+33d5d5a509.jpg</picture>
+        <param name="Колір">Голубой</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">ABS-пластик</param>
+        <param name="Стать">Для детей</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="YUA2-XS-Can-Kara" available="true">
         <quantity_in_stock>1</quantity_in_stock>
@@ -1993,6 +2111,26 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="HIMAWARI-XS-Gray" available="true">
+        <quantity_in_stock>10</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади HIMAWARI 17л серый (HIMAWARI-XS-Gray)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л сірий (HIMAWARI-XS-Gray)</name_ua>
+        <price>1595</price>
+        <categoryId>1089</categoryId>
+        <country>Китай</country>
+        <description_ru>Рюкзак для ручной клади HIMAWARI 17л серый (HIMAWARI-XS-Gray)</description_ru>
+        <description_ua>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/26/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siryi-himawari-xs-gray-90884605525874_+4eb2443238.png</picture>
+        <param name="Колір">Серый</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Нейлон</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
       </offer>
       <offer id="HIMAWARI-XS-Blue" available="true">
         <quantity_in_stock>1</quantity_in_stock>
@@ -2162,6 +2300,33 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
+      <offer id="49103-3-White" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Набор чемоданов Snowball 49103 3в1 белый (49103-3-White)</name_ru>
+        <name_ua>Набір валіз Snowball 49103 3в1 білий (49103-3-White)</name_ua>
+        <price>11580</price>
+        <old_price>13650</old_price>
+        <categoryId>1092</categoryId>
+        <vendor>Snowball</vendor>
+        <country>Франція</country>
+        <description_ru>Набор чемоданов Snowball 49103 3в1 белый (49103-3-White)</description_ru>
+        <description_ua>Розмір L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/39/nabir-valiz-snowball-49103-3v1-bilyi-49103-3-white-86013349159336_+759329bc9f.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-51183346908748_+6b2a7ca4d3.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-35575092317636_+04afcd0247.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-88337652533069_+dfcf16d87a.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-76295205426709_+2fa0c49102.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-92450410622205_+3abe7767c7.png</picture>
+        <param name="Колір">Белый</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
       <offer id="33703-S-Dark-green" available="true">
         <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Snowball 33703 малый 36л зеленый (33703-S-Dark-green)</name_ru>
@@ -2275,7 +2440,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="49203-L-Black" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 49203 большой 109л черный (49203-L-Black)</name_ru>
         <name_ua>Валіза з розширенням Snowball 49203 велика 109л чорна (49203-L-Black)</name_ua>
         <price>4800</price>
@@ -2298,6 +2463,62 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Великі (90 - 100 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="49203-M-Black" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Чемодан с расширением Snowball 49203 средний 71л черный (49203-M-Black)</name_ru>
+        <name_ua>Валіза з розширенням Snowball 49203 середня 71л чорна (49203-M-Black)</name_ua>
+        <price>4600</price>
+        <categoryId>1083</categoryId>
+        <vendor>Snowball</vendor>
+        <country>Франція</country>
+        <description_ru>Чемодан с расширением Snowball 49203 средний 71л черный (49203-M-Black)</description_ru>
+        <description_ua>Валіза з розширенням Snowball 49203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/50/valiza-z-rozshyrenniam-snowball-49203-serednia-71-l-chorna-49203-m-black-78155272675767_+3127fc69ee.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-84876645849610_+4943597679.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-15891242567742_+3abb8d0919.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-27911743465472_+34d041939f.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-28083441844226_+0c5d4b37bd.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-93177601542462_+ace0f4855a.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-92357572100284_+1afdc88079.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Середні (50 – 89.9 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="49203-S-Black" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Чемодан с расширением Snowball 49203 малый 39л черный (49203-S-Black)</name_ru>
+        <name_ua>Валіза з розширенням Snowball 49203 мала 39л чорна (49203-S-Black)</name_ua>
+        <price>3200</price>
+        <categoryId>1084</categoryId>
+        <vendor>Snowball</vendor>
+        <country>Франція</country>
+        <description_ru>Чемодан с расширением Snowball 49203 малый 39л черный (49203-S-Black)</description_ru>
+        <description_ua>Валіза з розширенням Snowball 49203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/1/valiza-dlia-ruchnoi-poklazhi-snowball-49203-mala-39-l-chorna-49203-s-black-62557525471451_+696eefea50.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-84876645849610_+4943597679.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-15891242567742_+3abb8d0919.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-27911743465472_+34d041939f.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-28083441844226_+0c5d4b37bd.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-93177601542462_+ace0f4855a.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-92357572100284_+1afdc88079.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
@@ -2358,28 +2579,6 @@
         <description_ua>Валіза Wings 19168 велика 97 л сіра (19168-L-Grey)</description_ua>
         <picture>https://sklad-valiz.com.ua/content/images/25/valiza-wings-19168-velyka-97-l-sira-19168-l-grey-37142602890561_+d595b1bfba.jpg</picture>
         <param name="Колір">Серый</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Полікарбонат</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Великі (90 - 100 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="19168-L-Dark-green" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан Wings 19168 большой 97 л зеленый (19168-L-Dark-green)</name_ru>
-        <name_ua>Валіза Wings 19168 велика 97 л зелена (19168-L-Dark-green)</name_ua>
-        <price>2600</price>
-        <categoryId>1094</categoryId>
-        <vendor>Wings</vendor>
-        <country>Польща</country>
-        <description_ru>Чемодан Wings 19168 большой 97 л зеленый (19168-L-Dark-green)</description_ru>
-        <description_ua>Валіза Wings 19168 велика 97 л зелена (19168-L-Dark-green)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/26/valiza-wings-19168-velyka-97-l-zelena-19168-l-dark-green-53474368205733_+e8dd6b1c40.jpg</picture>
-        <param name="Колір">Зелёный</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Полікарбонат</param>
         <param name="Стать">Унісекс</param>
@@ -2731,7 +2930,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="160PC-L-Silver" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Чемодан из поликарбоната Wings 160PC большой 97л серебряный (160PC-L-Silver)</name_ru>
         <name_ua>Валіза з полікарбонату Wings 160PC велика 97л срібна (160PC-L-Silver)</name_ua>
         <price>2800</price>
@@ -2815,7 +3014,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="20303-S-Black" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Snowball 20303 малый 35л черный (20303-S-Black)</name_ru>
         <name_ua>Валіза для ручної поклажі Snowball 20303 мала 35л чорна (20303-S-Black)</name_ua>
         <price>3350</price>
@@ -2842,8 +3041,36 @@
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="20303-L-Black" available="true">
+      <offer id="20303-M-Black" available="true">
         <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Чемодан с расширением Snowball 20303 средний 71л черный (20303-M-Black)</name_ru>
+        <name_ua>Валіза з розширенням Snowball 20303 середня 71л чорна (20303-M-Black)</name_ua>
+        <price>4300</price>
+        <categoryId>1083</categoryId>
+        <vendor>Snowball</vendor>
+        <country>Франція</country>
+        <description_ru>Чемодан с расширением Snowball 20303 средний 71л черный (20303-M-Black)</description_ru>
+        <description_ua>Валіза з розширенням Snowball 20303 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22&amp;ndash;25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/1/13075069025588_+c1c0fbe01a.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-47504440911563_+8ab97b2aba.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-95272947196055_+8485739569.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-29946722881430_+b2a402d2a6.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-25049252136242_+cd5a7ac7bd.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-81134316387452_+d2df4323fc.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-11816702502917_+e115c2c0aa.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Середні (50 – 89.9 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="20303-L-Black" available="true">
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 20303 большой 108л черный (20303-L-Black)</name_ru>
         <name_ua>Валіза з розширенням Snowball 20303 велика 108л чорна (20303-L-Black)</name_ua>
         <price>4400</price>
@@ -2953,7 +3180,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="2011-XS-Champagne" available="true">
-        <quantity_in_stock>11</quantity_in_stock>
+        <quantity_in_stock>10</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Wings 2011 мини 28л шампань (2011-XS-Champagne)</name_ru>
         <name_ua>Валіза для ручної поклажі Wings 2011 міні 28л шампань (2011-XS-Champagne)</name_ua>
         <price>996</price>
@@ -3065,7 +3292,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="131-S-LightBlue" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Fashion 131 малый 35л голубая (131-S-LightBlue)</name_ru>
         <name_ua>Валіза для ручної поклажі Fashion 131 мала 35л блакитна (131-S-LightBlue)</name_ua>
         <price>1600</price>
@@ -3092,7 +3319,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="131-S-Black" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Fashion 131 малый 35л черный (131-S-Black)</name_ru>
         <name_ua>Валіза для ручної поклажі Fashion 131 мала 35л чорна (131-S-Black)</name_ua>
         <price>1600</price>
@@ -3119,7 +3346,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="131-S-Beige" available="true">
-        <quantity_in_stock>12</quantity_in_stock>
+        <quantity_in_stock>14</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Fashion 131 малый 35л бежевый (131-S-Beige)</name_ru>
         <name_ua>Валіза для ручної поклажі Fashion 131 мала 35л бежева (131-S-Beige)</name_ua>
         <price>1360</price>
@@ -3142,6 +3369,33 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="131-M-LightBlue" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Чемодан Fashion 131 средний 62л голубой (131-M-LightBlue)</name_ru>
+        <name_ua>Валіза Fashion 131 середня 62л блакитна (131-M-LightBlue)</name_ua>
+        <price>2050</price>
+        <categoryId>1083</categoryId>
+        <vendor>Carbon</vendor>
+        <country>Україна</country>
+        <description_ru>Чемодан Fashion 131 средний 62л голубой (131-M-LightBlue)</description_ru>
+        <description_ua>Валіза Fashion 131 середня 62л блакитна (131-M-LightBlue)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-fashion-131-serednia-62l-blakytna-131-m-lightblue-82350605276656_+30c0afc46d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/21/valiza-fashion-131-velyka-92l-chorna-131-l-black-36901086841312_+d8966912af.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/21/valiza-fashion-131-velyka-92l-chorna-131-l-black-94837239660386_+fcdd84e7e2.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/21/valiza-fashion-131-velyka-92l-chorna-131-l-black-67105998327916_+2777fd8197.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/21/valiza-fashion-131-velyka-92l-chorna-131-l-black-59761817337919_+bcf82b43ea.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/21/valiza-fashion-131-velyka-92l-chorna-131-l-black-92515943739025_+68ad4b6c7e.png</picture>
+        <param name="Колір">Голубой</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Середні (50 – 89.9 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
@@ -3174,7 +3428,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="131-M-Beige" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Чемодан Fashion 131 средний 62л бежевый (131-M-Beige)</name_ru>
         <name_ua>Валіза Fashion 131 середня 62л бежева (131-M-Beige)</name_ua>
         <price>2050</price>
@@ -3201,7 +3455,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="131-L-LightBlue" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан Fashion 131 большой 92л голубой (131-L-LightBlue)</name_ru>
         <name_ua>Валіза Fashion 131 велика 92л блакитна (131-L-LightBlue)</name_ua>
         <price>2200</price>
@@ -3385,7 +3639,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="HIMAWARI-XS-Red" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади HIMAWARI 17л красный (HIMAWARI-XS-Red)</name_ru>
         <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л червоний (HIMAWARI-XS-Red)</name_ua>
         <price>1595</price>
@@ -3405,7 +3659,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="1010-Yellow" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Багажный ремень Snowball 160см желтый (1010-Yellow)</name_ru>
         <name_ua>Багажний ремінь Snowball 160см жовтий (1010-Yellow)</name_ua>
         <price>120</price>
@@ -3555,7 +3809,7 @@
         <param name="Об'єм">Великі (90 - 100 л)</param>
       </offer>
       <offer id="49203-S-LightBlue" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 49203 малый 39л голубой (49203-S-LightBlue)</name_ru>
         <name_ua>Валіза з розширенням Snowball 49203 мала 39л блакитна (49203-S-LightBlue)</name_ua>
         <price>3200</price>
@@ -3583,7 +3837,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="49203-M-LightBlue" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 49203 средний 71л голубой (49203-M-LightBlue)</name_ru>
         <name_ua>Валіза з розширенням Snowball 49203 середня 71л блакитна (49203-M-LightBlue)</name_ua>
         <price>4600</price>
@@ -3611,7 +3865,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="49203-L-LightBlue" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 49203 большой 109л голубой (49203-L-LightBlue)</name_ru>
         <name_ua>Валіза з розширенням Snowball 49203 велика 109л блакитна (49203-L-LightBlue)</name_ua>
         <price>4800</price>
@@ -3683,7 +3937,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="WN01PC-M-Silver" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан из поликарбоната Wings WN01 средний 63л серебряный (WN01PC-M-Silver)</name_ru>
         <name_ua>Валіза з полікарбонату Wings WN01 середня 63л срібна (WN01PC-M-Silver)</name_ua>
         <price>2700</price>
@@ -3727,7 +3981,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="Kaiman-XS-Pink" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л розовый (Kaiman-XS-Pink)</name_ru>
         <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л рожева (Kaiman-XS-Pink)</name_ua>
         <price>1700</price>
@@ -3760,7 +4014,7 @@
         <picture>https://sklad-valiz.com.ua/content/images/36/20407093547945_+bd6b925895.jpg</picture>
       </offer>
       <offer id="33703-Set-Black" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>11</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Snowball 33703 3 в 1 черный (33703-Set-Black)</name_ru>
         <name_ua>Набір валіз з поліпропілену Snowball 33703 3 в 1 чорний (33703-Set-Black)</name_ua>
         <price>7240</price>
@@ -3787,36 +4041,64 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="42203-M-Dark-green" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан с расширением Madisson 42203 средний 68л зеленый (42203-M-Dark-green)</name_ru>
-        <name_ua>Валіза з розширенням Madisson 42203 середня 68л зелена (42203-M-Dark-green)</name_ua>
-        <price>1950</price>
-        <categoryId>1083</categoryId>
-        <vendor>Madisson</vendor>
+      <offer id="20303-Set-Black" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Набор чемоданов из полипропилена Snowball 20303 3 в 1 черный (20303-Set-Black)</name_ru>
+        <name_ua>Набір валіз з поліпропілену Snowball 20303 3 в 1 чорний (20303-Set-Black)</name_ua>
+        <price>10185</price>
+        <old_price>12050</old_price>
+        <categoryId>1092</categoryId>
+        <vendor>Snowball</vendor>
         <country>Франція</country>
-        <description_ru>Чемодан с расширением Madisson 42203 средний 68л зеленый (42203-M-Dark-green)</description_ru>
-        <description_ua>Валіза з розширенням Madisson 42203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-rozshyrenniam-madisson-42203-serednia-68l-zelena-42203-m-dark-green-46730636217749_+d88b411190.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-madisson-42203-velyka-chorna-42203-l-black-93618913973897_+c7773b559a.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-madisson-42203-velyka-chorna-42203-l-black-79674525601841_+68c1e600e0.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-madisson-42203-velyka-chorna-42203-l-black-19364323439335_+3b76ed85da.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-madisson-42203-velyka-chorna-42203-l-black-93416297608353_+c05f3dd18f.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-madisson-42203-velyka-chorna-42203-l-black-55460974812227_+0c2332a3ff.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-madisson-42203-velyka-chorna-42203-l-black-47007962777501_+5f7ef04b45.jpg</picture>
-        <param name="Колір">Зелёный</param>
-        <param name="Тип">Валізи</param>
+        <description_ru>Набор чемоданов из полипропилена Snowball 20303 3 в 1 черный (20303-Set-Black)</description_ru>
+        <description_ua>Валіза з розширенням Snowball 20303 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22&amp;ndash;25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/9/48168048207689_+2a18c12c48.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-47504440911563_+8ab97b2aba.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-95272947196055_+8485739569.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-29946722881430_+b2a402d2a6.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-25049252136242_+cd5a7ac7bd.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-81134316387452_+d2df4323fc.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-11816702502917_+e115c2c0aa.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Набори валіз</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
         <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Середні (50 – 89.9 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="49203-Set-Black" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Набор чемоданов с расширением Snowball 49203 3 в 1 черный (49203-Set-Black)</name_ru>
+        <name_ua>Набір валіз з розширенням Snowball 49203 3 в 1 чорний (49203-Set-Black)</name_ua>
+        <price>10720</price>
+        <old_price>12600</old_price>
+        <categoryId>1092</categoryId>
+        <vendor>Snowball</vendor>
+        <country>Франція</country>
+        <description_ru>Набор чемоданов с расширением Snowball 49203 3 в 1 черный (49203-Set-Black)</description_ru>
+        <description_ua>Валіза з розширенням Snowball 49203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/11/nabir-valiz-z-rozshyrenniam-snowball-49203-3-v-1-chornyi-49203-set-black-58785451284484_+d3b4757821.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-84876645849610_+4943597679.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-15891242567742_+3abb8d0919.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-27911743465472_+34d041939f.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-28083441844226_+0c5d4b37bd.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-93177601542462_+ace0f4855a.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-92357572100284_+1afdc88079.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="42203-S-Dark-green" available="true">
-        <quantity_in_stock>10</quantity_in_stock>
+        <quantity_in_stock>9</quantity_in_stock>
         <name_ru>Чемодан с расширением Madisson 42203 малый 39л зеленый (42203-S-Dark-green)</name_ru>
         <name_ua>Валіза з розширенням Madisson 42203 мала 39л зелена (42203-S-Dark-green)</name_ua>
         <price>1350</price>
@@ -3900,7 +4182,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="63703-L-Brown" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан с расширением Madisson 63703 большой 100л коричневый (63703-L-Brown)</name_ru>
         <name_ua>Валіза з розширенням Madisson 63703 велика 100л коричнева (63703-L-Brown)</name_ua>
         <price>2650</price>
@@ -4043,7 +4325,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="43803-L-Black" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Snowball 43803 большой 116л черный (43803-L-Black)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 43803 велика 116л чорна (43803-L-Black)</name_ua>
         <price>3900</price>
@@ -4071,7 +4353,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="43803-M-Black" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 43803 средний 80л черный (43803-M-Black)</name_ru>
         <name_ua>Валіза з розширенням Snowball 43803 середня 80л чорна (43803-M-Black)</name_ua>
         <price>3800</price>
@@ -4127,7 +4409,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="43803-S-Black" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Snowball 43803 малый 34л черный (43803-S-Black)</name_ru>
         <name_ua>Валіза для ручної поклажі Snowball 43803 мала 34л чорна (43803-S-Black)</name_ua>
         <price>2900</price>
@@ -4239,7 +4521,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-S-RoseGold" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Snowball 33703 малый 36л розовое золото (33703-S-RoseGold)</name_ru>
         <name_ua>Валіза для ручної поклажі Snowball 33703 мала 36л рожеве золото (33703-S-RoseGold)</name_ua>
         <price>2300</price>
@@ -4267,7 +4549,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-M-RoseGold" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Snowball 33703 средний 69л розовое золото (33703-M-RoseGold)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 середня 69л рожеве золото (33703-M-RoseGold)</name_ua>
         <price>3100</price>
@@ -4295,7 +4577,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-L-RoseGold" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Snowball 33703 большой 101л розовое золото (33703-L-RoseGold)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 велика 101л рожеве золото (33703-L-RoseGold)</name_ua>
         <price>3150</price>
@@ -4323,7 +4605,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="51304-BC-Gray" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>12</quantity_in_stock>
         <name_ru>Кейс для чемодана из полипропилена Snowball 51304 16л серый (51304-BC-Gray)</name_ru>
         <name_ua>Кейс для валізи з поліпропілену Snowball 51304 16л сірий (51304-BC-Gray)</name_ua>
         <price>1000</price>
@@ -4351,7 +4633,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="51304-BC-Champagne" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>13</quantity_in_stock>
         <name_ru>Кейс для чемодана из полипропилена Snowball 51304 16л шампань (51304-BC-Champagne)</name_ru>
         <name_ua>Кейс для валізи з поліпропілену Snowball 51304 16л шампань (51304-BC-Champagne)</name_ua>
         <price>1000</price>
@@ -4407,7 +4689,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="51304-BC-RoseGold" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>14</quantity_in_stock>
         <name_ru>Кейс для чемодана из полипропилена Snowball 51304 16л розовое золото (51304-BC-RoseGold)</name_ru>
         <name_ua>Кейс для валізи з поліпропілену Snowball 51304 16л рожеве золото (51304-BC-RoseGold)</name_ua>
         <price>1000</price>
@@ -4490,8 +4772,36 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
+      <offer id="51304-S-Gray" available="true">
+        <quantity_in_stock>6</quantity_in_stock>
+        <name_ru>Чемодан с расширением Snowball 51304 малый 36л серый (51304-S-Gray)</name_ru>
+        <name_ua>Валіза з розширенням Snowball 51304 мала 36л сіра (51304-S-Gray)</name_ua>
+        <price>1850</price>
+        <categoryId>1084</categoryId>
+        <vendor>Snowball</vendor>
+        <country>Франція</country>
+        <description_ru>Чемодан с расширением Snowball 51304 малый 36л серый (51304-S-Gray)</description_ru>
+        <description_ua>Валіза з розширенням Snowball 51304 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/45/valiza-z-rozshyrenniam-snowball-51304-mala-36l-sira-51304-s-gray-91169260367555_+eb4f112a49.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-36849852849837_+3528273154.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-32395033838109_+67027afaaa.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-87614755776731_+b1d9169803.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-40402910549625_+380365abeb.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-37154909876681_+1d0cd97e7d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-14177746832685_+cc80787544.jpg</picture>
+        <param name="Колір">Серый</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
       <offer id="51304-S-Champagne" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>9</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 малый 36л шампань (51304-S-Champagne)</name_ru>
         <name_ua>Валіза з розширенням Snowball 51304 мала 36л шампань (51304-S-Champagne)</name_ua>
         <price>1850</price>
@@ -4519,7 +4829,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="51304-S-RoseGold" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>14</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 малый 36л розовое золото (51304-S-RoseGold)</name_ru>
         <name_ua>Валіза з розширенням Snowball 51304 мала 36л рожеве золото (51304-S-RoseGold)</name_ua>
         <price>1850</price>
@@ -4542,6 +4852,90 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="51304-M-Gray" available="true">
+        <quantity_in_stock>6</quantity_in_stock>
+        <name_ru>Чемодан с расширением Snowball 51304 средний 63л серый (51304-M-Gray)</name_ru>
+        <name_ua>Валіза з розширенням Snowball 51304 середня 63л сіра (51304-M-Gray)</name_ua>
+        <price>2350</price>
+        <categoryId>1083</categoryId>
+        <vendor>Snowball</vendor>
+        <country>Франція</country>
+        <description_ru>Чемодан с расширением Snowball 51304 средний 63л серый (51304-M-Gray)</description_ru>
+        <description_ua>Валіза з розширенням Snowball 51304 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/50/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-sira-51304-m-gray-73830537062373_+8059645d91.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-36849852849837_+3528273154.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-32395033838109_+67027afaaa.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-87614755776731_+b1d9169803.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-40402910549625_+380365abeb.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-37154909876681_+1d0cd97e7d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-14177746832685_+cc80787544.jpg</picture>
+        <param name="Колір">Серый</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Середні (50 – 89.9 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="51304-M-Champagne" available="true">
+        <quantity_in_stock>7</quantity_in_stock>
+        <name_ru>Чемодан с расширением Snowball 51304 средний 63л шампань (51304-M-Champagne)</name_ru>
+        <name_ua>Валіза з розширенням Snowball 51304 середня 63л шампань (51304-M-Champagne)</name_ua>
+        <price>2350</price>
+        <categoryId>1083</categoryId>
+        <vendor>Snowball</vendor>
+        <country>Франція</country>
+        <description_ru>Чемодан с расширением Snowball 51304 средний 63л шампань (51304-M-Champagne)</description_ru>
+        <description_ua>Валіза з розширенням Snowball 51304 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/1/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-shampan-51304-m-champagne-99528249442687_+96950abf46.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-36849852849837_+3528273154.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-32395033838109_+67027afaaa.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-87614755776731_+b1d9169803.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-40402910549625_+380365abeb.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-37154909876681_+1d0cd97e7d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-14177746832685_+cc80787544.jpg</picture>
+        <param name="Колір">Шампань</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Середні (50 – 89.9 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="51304-M-RoseGold" available="true">
+        <quantity_in_stock>9</quantity_in_stock>
+        <name_ru>Чемодан с расширением Snowball 51304 средний 63л розовое золото (51304-M-RoseGold)</name_ru>
+        <name_ua>Валіза з розширенням Snowball 51304 середня 63л рожеве золото (51304-M-RoseGold)</name_ua>
+        <price>2350</price>
+        <categoryId>1083</categoryId>
+        <vendor>Snowball</vendor>
+        <country>Франція</country>
+        <description_ru>Чемодан с расширением Snowball 51304 средний 63л розовое золото (51304-M-RoseGold)</description_ru>
+        <description_ua>Валіза з розширенням Snowball 51304 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-rozheve-zoloto-51304-m-rosegold-81423904631042_+43ddc17e88.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-36849852849837_+3528273154.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-32395033838109_+67027afaaa.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-87614755776731_+b1d9169803.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-40402910549625_+380365abeb.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-37154909876681_+1d0cd97e7d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-14177746832685_+cc80787544.jpg</picture>
+        <param name="Колір">Рожево-золотий</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Середні (50 – 89.9 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
@@ -4603,7 +4997,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="51304-L-RoseGold" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>13</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 большой 105л розовое золото (51304-L-RoseGold)</name_ru>
         <name_ua>Валіза з розширенням Snowball 51304 велика 105л рожеве золото (51304-L-RoseGold)</name_ua>
         <price>2450</price>
@@ -4631,7 +5025,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="51304-L-Champagne" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 большой 105л шампань (51304-L-Champagne)</name_ru>
         <name_ua>Валіза з розширенням Snowball 51304 велика 105л шампань (51304-L-Champagne)</name_ua>
         <price>2450</price>
@@ -4648,6 +5042,34 @@
         <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-37154909876681_+1d0cd97e7d.jpg</picture>
         <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-14177746832685_+cc80787544.jpg</picture>
         <param name="Колір">Шампань</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Великі (90 - 100 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="51304-L-Gray" available="true">
+        <quantity_in_stock>6</quantity_in_stock>
+        <name_ru>Чемодан с расширением Snowball 51304 большой 105л серый (51304-L-Gray)</name_ru>
+        <name_ua>Валіза з розширенням Snowball 51304 велика 105л сіра (51304-L-Gray)</name_ua>
+        <price>2450</price>
+        <categoryId>1082</categoryId>
+        <vendor>Snowball</vendor>
+        <country>Франція</country>
+        <description_ru>Чемодан с расширением Snowball 51304 большой 105л серый (51304-L-Gray)</description_ru>
+        <description_ua>Валіза з розширенням Snowball 51304 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-sira-51304-l-gray-73984162564611_+6d1a671950.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-36849852849837_+3528273154.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-32395033838109_+67027afaaa.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-87614755776731_+b1d9169803.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-40402910549625_+380365abeb.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-37154909876681_+1d0cd97e7d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-14177746832685_+cc80787544.jpg</picture>
+        <param name="Колір">Серый</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
         <param name="Стать">Унісекс</param>
@@ -4688,7 +5110,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="160PC-XS-Dark-green" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wings 160PC мини 23л зеленый (160PC-XS-Dark-green)</name_ru>
         <name_ua>Валіза для лоукосту Wings 160PC міні 23л зелена (160PC-XS-Dark-green)</name_ua>
         <price>1125</price>
@@ -4942,7 +5364,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-Set-Champagne" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>11</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Snowball 33703 3 в 1 шампань (33703-Set-Champagne)</name_ru>
         <name_ua>Набір валіз з поліпропілену Snowball 33703 3 в 1 шампань (33703-Set-Champagne)</name_ua>
         <price>7240</price>
@@ -5082,7 +5504,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-Set-Grey" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Snowball 33703 3 в 1 серый (33703-Set-Grey)</name_ru>
         <name_ua>Набір валіз з поліпропілену Snowball 33703 3 в 1 сірий (33703-Set-Grey)</name_ua>
         <price>7240</price>
@@ -5110,7 +5532,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-Set-RoseGold" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Snowball 33703 3 в 1 розовое золото (33703-Set-RoseGold)</name_ru>
         <name_ua>Набір валіз з поліпропілену Snowball 33703 3 в 1 рожеве золото (33703-Set-RoseGold)</name_ua>
         <price>7240</price>
@@ -5138,7 +5560,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="43803-Set-Black" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Snowball 43803 3 в 1 черный (43803-Set-Black)</name_ru>
         <name_ua>Набір валіз з поліпропілену Snowball 43803 3 в 1 чорний (43803-Set-Black)</name_ua>
         <price>8970</price>
@@ -5266,27 +5688,6 @@
         <description_ua>Дитяча валіза створена для того, щоб дарувати малюкам радість та комфорт під час перших самостійних подорожей. Завдяки надкомпактним габаритам модель ідеально підходить для коротких поїздок, сімейних вікендів або екскурсій тривалістю від 1 до 3 днів. Цей аксесуар розрахований суто на індивідуальне використання дитиною і за рахунок своєї компактності чудово проходить як ручна поклажа у більшості авіакомпаній, поїздів чи автобусів. Корпус виготовлений з ABS-пластику, що забезпечує ударостійкість, гнучкість та надійний захист речей вагою до 10 кг. Чотири прорезинені колеса з радіусом обертання 360 градусів та зручна висувна ручка з кількома положеннями фіксації дозволяють дитині котити свій багаж плавно і абсолютно без зусиль. Яскравий унікальний принт не лише виділяється серед іншого багажу, а й піднімає дитині настрій у дорозі.</description_ua>
         <picture>https://sklad-valiz.com.ua/content/images/40/dytiacha-valiza-d01-mini-29l-rozheva-d01-xs-mermaid-35083266802059_+87ea61520f.jpg</picture>
         <param name="Колір">Розовый</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">ABS-пластик</param>
-        <param name="Стать">Для детей</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="D01-XS-Elsa" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Детский чемодан D01 мини 29л розовато-голубой (D01-XS-Elsa)</name_ru>
-        <name_ua>Дитяча валіза D01 міні 29л рожево-блакитна (D01-XS-Elsa)</name_ua>
-        <price>1720</price>
-        <categoryId>1091</categoryId>
-        <country>Китай</country>
-        <description_ru>Детский чемодан D01 мини 29л розовато-голубой (D01-XS-Elsa)</description_ru>
-        <description_ua>Дитяча валіза створена для того, щоб дарувати малюкам радість та комфорт під час перших самостійних подорожей. Завдяки надкомпактним габаритам модель ідеально підходить для коротких поїздок, сімейних вікендів або екскурсій тривалістю від 1 до 3 днів. Цей аксесуар розрахований суто на індивідуальне використання дитиною і за рахунок своєї компактності чудово проходить як ручна поклажа у більшості авіакомпаній, поїздів чи автобусів. Корпус виготовлений з ABS-пластику, що забезпечує ударостійкість, гнучкість та надійний захист речей вагою до 10 кг. Чотири прорезинені колеса з радіусом обертання 360 градусів та зручна висувна ручка з кількома положеннями фіксації дозволяють дитині котити свій багаж плавно і абсолютно без зусиль. Яскравий унікальний принт не лише виділяється серед іншого багажу, а й піднімає дитині настрій у дорозі.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/41/dytiacha-valiza-d01-mini-29l-rozhevo-blakytna-d01-xs-elsa-86993336799194_+65acb22023.jpg</picture>
-        <param name="Колір">Ассорти</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">ABS-пластик</param>
         <param name="Стать">Для детей</param>
@@ -5459,7 +5860,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="49203-Set-LightBlue" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Snowball 49203 3 в 1 голубой (49203-Set-LightBlue)</name_ru>
         <name_ua>Набір валіз з розширенням Snowball 49203 3 в 1 блакитний (49203-Set-LightBlue)</name_ua>
         <price>10720</price>
@@ -6206,7 +6607,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="7898-Set-Champagne" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Carbon 7898 3 в 1 шампань (7898-Set-Champagne)</name_ru>
         <name_ua>Набір валіз з розширенням Carbon 7898 3 в 1 шампань (7898-Set-Champagne)</name_ua>
         <price>6915</price>
@@ -6234,7 +6635,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="7898-Set-Milk" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Carbon 7898 3 в 1 кремовый (7898-Set-Milk)</name_ru>
         <name_ua>Набір валіз з розширенням Carbon 7898 3 в 1 кремовий (7898-Set-Milk)</name_ua>
         <price>6915</price>
@@ -6318,50 +6719,6 @@
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">ABS-пластик</param>
         <param name="Стать">Для детей</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="PHX01-S-Gray" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан для ручной клади Wings PHX01 малый 38л серый (PHX01-S-Gray)</name_ru>
-        <name_ua>Валіза для ручної поклажі Wings PHX01 мала 38л сіра (PHX01-S-Gray)</name_ua>
-        <price>1700</price>
-        <categoryId>1084</categoryId>
-        <vendor>Wings</vendor>
-        <country>Польща</country>
-        <description_ru>Чемодан для ручной клади Wings PHX01 малый 38л серый (PHX01-S-Gray)</description_ru>
-        <description_ua>Валіза з поліпропілену Wings PHX01 - це ідеальне рішення для тривалих сімейних подорожей, переїздів або відпусток, коли необхідно взяти максимум речей. Вона з легкістю містить весь ваш гардероб і призначена для здачі в багажне відділення будь-якого транспорту. Корпус моделі виконаний із товстого високоякісного поліпропілену - надміцного та гнучкого пластику, який захищає багаж від деформацій, не тріскається при сильних ударах і дозволяє перевозити валізу напівпорожньою. Чотири подвійні поліуретанові колеса на підшипниках обертаються на 360 градусів, рівномірно розподіляючи навантаження та забезпечуючи плавний, безшумний рух навіть за повного завантаження. За безпеку цінних речей відповідає вбудований бічний кодовий замок, який надійно оберігає вміст від стороннього доступу. Внутрішній простір продуманий до дрібниць: два місткі відділення, внутрішні ремені-фіксатори та додаткова кишеня допомагають бездоганно організувати та закріпити одяг. Особливою перевагою є практична бічна ніжка у вигляді гачка, яка підвищує комфорт у дорозі, дозволяючи звільнити руки й підвісити дорожні аксесуари. Попри великі розміри, модель важить усього 4 кг, гармонійно поєднуючи преміальний стиль, максимальну функціональність і надійність. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/39/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-sira-phx01-s-gray-40529758604706_+6b0492e1fd.jpg</picture>
-        <param name="Колір">Серый</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="PHX01-S-Blue" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан для ручной клади Wings PHX01 малый 38л синий (PHX01-S-Blue)</name_ru>
-        <name_ua>Валіза для ручної поклажі Wings PHX01 мала 38л синя (PHX01-S-Blue)</name_ua>
-        <price>1700</price>
-        <categoryId>1084</categoryId>
-        <vendor>Wings</vendor>
-        <country>Польща</country>
-        <description_ru>Чемодан для ручной клади Wings PHX01 малый 38л синий (PHX01-S-Blue)</description_ru>
-        <description_ua>Валіза з поліпропілену Wings PHX01 - це ідеальне рішення для тривалих сімейних подорожей, переїздів або відпусток, коли необхідно взяти максимум речей. Вона з легкістю містить весь ваш гардероб і призначена для здачі в багажне відділення будь-якого транспорту. Корпус моделі виконаний із товстого високоякісного поліпропілену - надміцного та гнучкого пластику, який захищає багаж від деформацій, не тріскається при сильних ударах і дозволяє перевозити валізу напівпорожньою. Чотири подвійні поліуретанові колеса на підшипниках обертаються на 360 градусів, рівномірно розподіляючи навантаження та забезпечуючи плавний, безшумний рух навіть за повного завантаження. За безпеку цінних речей відповідає вбудований бічний кодовий замок, який надійно оберігає вміст від стороннього доступу. Внутрішній простір продуманий до дрібниць: два місткі відділення, внутрішні ремені-фіксатори та додаткова кишеня допомагають бездоганно організувати та закріпити одяг. Особливою перевагою є практична бічна ніжка у вигляді гачка, яка підвищує комфорт у дорозі, дозволяючи звільнити руки й підвісити дорожні аксесуари. Попри великі розміри, модель важить усього 4 кг, гармонійно поєднуючи преміальний стиль, максимальну функціональність і надійність. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-synia-phx01-s-blue-45641675764651_+0a62d19ec7.jpg</picture>
-        <param name="Колір">Синий</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
@@ -8215,49 +8572,6 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="SKU402-BC-Black" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Дорожная сумка SKU402 32л черная (SKU402-BC-Black)</name_ru>
-        <name_ua>Дорожня сумка SKU402 32л чорна (SKU402-BC-Black)</name_ua>
-        <price>1100</price>
-        <categoryId>1087</categoryId>
-        <country>Китай</country>
-        <description_ru>Дорожная сумка SKU402 32л черная (SKU402-BC-Black)</description_ru>
-        <description_ua>Стильна дорожня сумка - ідеальний варіант для подорожей та спорту. Модель поєднує лаконічний дизайн із місткістю, вміщуючи одяг, взуття та особисті речі. Міцні ручки та надійна фурнітура забезпечують зручність у використанні та довговічність виробу. Багато внутрішніх кишень, зокрема кишеня для вологих речей з водонепроникного матеріалу. Також сумка має окремий відсік для взуття та на задній стороні є ремінець, який можна зачепити за ручку валізи. Сумка відмінно підходить для коротких поїздок або як ручна поклажа.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/6/dorozhnia-sumka-sku402-32l-chorna-sku402-bc-black-91673123242632_+ccc5fff4db.jpg</picture>
-        <param name="Колір">Черный</param>
-        <param name="Тип">Сумка дорожная</param>
-        <param name="Матеріал корпусу">Текстиль</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">Без колес</param>
-        <param name="Вбудований замок">Без замку</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">М'який</param>
-      </offer>
-      <offer id="SKU823-BC-Grey" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Дорожная сумка SKU823 67л серая (SKU823-BC-Grey)</name_ru>
-        <name_ua>Дорожня сумка SKU823 67л сіра (SKU823-BC-Grey)</name_ua>
-        <price>1800</price>
-        <categoryId>1087</categoryId>
-        <country>Китай</country>
-        <description_ru>Дорожная сумка SKU823 67л серая (SKU823-BC-Grey)</description_ru>
-        <description_ua>Містка дорожня сумка об&amp;#39;ємом 67 літрів ідеально підходить для тривалих подорожей та активного використання, забезпечуючи надійність під час навантажень. Модель вирізняється практичним, універсальним дизайном, що підходить як для чоловіків, так і для жінок. Міцні матеріали, функціональні ручки та продумана конструкція гарантують зручність у транспортуванні речей. Також має гумові ніжки, щоб сумка не ковзала. Цей універсальний аксесуар забезпечує достатньо місця для організації багажу.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/7/dorozhnia-sumka-sku823-67l-sira-sku823-bc-grey-92134265596968_+57b87c15d5.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/dorozhnia-sumka-sku823-67l-sira-sku823-bc-grey-65918770043110_+e6089fc9ac.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/dorozhnia-sumka-sku823-67l-sira-sku823-bc-grey-45680722782895_+aa05061cc8.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/dorozhnia-sumka-sku823-67l-sira-sku823-bc-grey-69677011831604_+ab21a81c60.jpg</picture>
-        <param name="Колір">Серый</param>
-        <param name="Тип">Сумка дорожная</param>
-        <param name="Матеріал корпусу">Текстиль</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">Без колес</param>
-        <param name="Вбудований замок">Без замку</param>
-        <param name="Об'єм">Середні (50 – 89.9 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">М'який</param>
-      </offer>
       <offer id="2501-L-Coffe" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан с расширением Wings 2501 большой 97л кофейный (2501-L-Coffe)</name_ru>
@@ -8282,6 +8596,34 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Гігантські (більше 100 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="2501-M-Blue" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан с расширением Wings 2501 средний 63л синий (2501-M-Blue)</name_ru>
+        <name_ua>Валіза з розширенням Wings 2501 середня 63л синя (2501-M-Blue)</name_ua>
+        <price>2900</price>
+        <categoryId>1083</categoryId>
+        <vendor>Wings</vendor>
+        <country>Польща</country>
+        <description_ru>Чемодан с расширением Wings 2501 средний 63л синий (2501-M-Blue)</description_ru>
+        <description_ua>Валіза з розширенням Wings 2501 в розмірі L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Валіза виготовлена з високоміцного поліестеру Cordura 1200D, який вирізняється легкістю, еластичністю та стійкістю до вологи й пошкоджень. Надійний внутрішній каркас дозволяє валізі відмінно тримати форму навіть при щільному наповненні, захищаючи ваші речі під час транспортування. Модель оснащена посиленою системою з 4 великих поліуретанових коліс на металевих підшипниках, що гарантує надійність при русі по будь-яких поверхнях. Для зручності передбачена телескопічна ручка з фіксацією. Продуманий внутрішній простір із фіксаторами та велика кількість зовнішніх кишень допоможуть ідеально організувати багаж, а функція розширення на 5 см дозволить збільшити об&amp;#39;єм, якщо це необхідно. Для безпеки передбачено вбудований кодовий замок. Вага завантаження становить 22-25 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/11/valiza-wings-2501-serednia-63l-synia-2501-m-blue-55080051459091_+7b83e02f17.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-wings-2501-velyka-97l-synia-2501-l-blue-84867657195102_+b143532805.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-wings-2501-velyka-97l-synia-2501-l-blue-34327327127066_+c51b728750.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-wings-2501-velyka-97l-synia-2501-l-blue-22783176660803_+19cd334851.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-wings-2501-velyka-97l-synia-2501-l-blue-22331480701032_+b1300e97a3.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-wings-2501-velyka-97l-synia-2501-l-blue-86709226178617_+b2fbf6a37e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-wings-2501-velyka-97l-synia-2501-l-blue-66866738268181_+c260100763.jpg</picture>
+        <param name="Колір">Синий</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліестер</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Середні (50 – 89.9 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
@@ -9081,33 +9423,6 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="49103-M-White" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чемодан Snowball 49103 средний 69л белый (49103-M-White)</name_ru>
-        <name_ua>Валіза Snowball 49103 середня 69л біла (49103-M-White)</name_ua>
-        <price>4950</price>
-        <categoryId>1083</categoryId>
-        <vendor>Snowball</vendor>
-        <country>Франція</country>
-        <description_ru>Чемодан Snowball 49103 средний 69л белый (49103-M-White)</description_ru>
-        <description_ua>Розмір L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/16/valiza-snowball-49103-serednia-69l-bila-49103-m-white-47626605144721_+b223a5b1fe.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-51183346908748_+6b2a7ca4d3.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-35575092317636_+04afcd0247.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-88337652533069_+dfcf16d87a.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-76295205426709_+2fa0c49102.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-92450410622205_+3abe7767c7.png</picture>
-        <param name="Колір">Белый</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Середні (50 – 89.9 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
       <offer id="GDW01-XS-Burgundy" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Wings GDW01 мини 28л бордовый (GDW01-XS-Burgundy)</name_ru>
@@ -9584,61 +9899,6 @@
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="49403-M-Red" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чемодан с расширением Snowball 49403 средний 69л красный (49403-M-Red)</name_ru>
-        <name_ua>Валіза з розширенням Snowball 49403 середня 69л червона (49403-M-Red)</name_ua>
-        <price>4950</price>
-        <categoryId>1083</categoryId>
-        <vendor>Snowball</vendor>
-        <country>Франція</country>
-        <description_ru>Чемодан с расширением Snowball 49403 средний 69л красный (49403-M-Red)</description_ru>
-        <description_ua>Валіза з розширенням Snowball 49403 середня 69л червона (49403-M-Red)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/12/valiza-snowball-49403-serednia-69l-chervona-49403-m-red-94855403169988_+97f93a503a.jpg</picture>
-        <param name="Колір">Красный</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Середні (50 – 89.9 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">М'який</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="49403-Set-Red" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Набор чемоданов с расширением Snowball 49403 3 в 1 красный (49403-Set-Red)</name_ru>
-        <name_ua>Набір валіз з розширенням Snowball 49403 3 в 1 червоний (49403-Set-Red)</name_ua>
-        <price>11780</price>
-        <old_price>13850</old_price>
-        <categoryId>1092</categoryId>
-        <vendor>Snowball</vendor>
-        <country>Франція</country>
-        <description_ru>Набор чемоданов с расширением Snowball 49403 3 в 1 красный (49403-Set-Red)</description_ru>
-        <description_ua>Набір валіз з розширенням Snowball 49403 3 в 1 червоний (49403-Set-Red)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/14/nabir-valiz-snowball-49403-3v1-chervonyi-49403-3-red-20574996376611_+bf849f28d7.jpg</picture>
-        <param name="Колір">Красный</param>
-        <param name="Тип">Набори валіз</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">М'який</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="scales-TL000180-56" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Весы для чемодана TL000180-56 (scales-TL000180-56)</name_ru>
-        <name_ua>Ваги для валізи TL000180-56 (scales-TL000180-56)</name_ua>
-        <price>575</price>
-        <categoryId>1086</categoryId>
-        <description_ru>Весы для чемодана TL000180-56 (scales-TL000180-56)</description_ru>
-        <description_ua>Німецькі електронні ваги для багажу - це надійний і ультракомпактний девайс вагою всього 50 грамів, створений для точного контролю ваги речей перед вильотом. Корпус пристрою виконаний зі сріблястого ABS-пластику та оснащений зручним ремінцем і чітким цифровим дисплеєм. Гаджет дозволяє самостійно зважувати валізи вагою до 40 кг і підтримує корисну функцію автоматичної фіксації фінального результату на екрані.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/18/vahy-dlia-valizy-tl000180-56-scales-tl000180-56-98130977877310_+fe91cd058e.png</picture>
-        <param name="Колір">Серебристый</param>
-      </offer>
       <offer id="2204-XS-Stitch" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Детский чемодан 2204 мини 25л розовый (2204-XS-Stitch)</name_ru>
@@ -9654,27 +9914,6 @@
         <param name="Матеріал корпусу">ABS-пластик</param>
         <param name="Стать">Для детей</param>
         <param name="Кількість коліс">4 шт</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="2204-XS-Frozen" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Детский чемодан 2204 мини 25л голубой (2204-XS-Frozen)</name_ru>
-        <name_ua>Дитяча валіза 2204 міні 25л блакитна (2204-XS-Frozen)</name_ua>
-        <price>1700</price>
-        <categoryId>1091</categoryId>
-        <country>Китай</country>
-        <description_ru>Детский чемодан 2204 мини 25л голубой (2204-XS-Frozen)</description_ru>
-        <description_ua>Яскрава дитяча валіза з улюбленими персонажами з Холодного Серця стане ідеальним супутником для маленького мандрівника під час будь-яких поїздок. Завдяки своїм компактним габаритам модель розрахована суто на індивідуальне використання дитиною і вміщує особисті речі на короткі подорожі чи канікули тривалістю від 3 до 5 днів. Розміри валізи повністю відповідають усім суворим стандартам ручної поклажі, тому її можна сміливо брати у салон літака, поїзда чи автобуса. Міцний і водночас гнучкий корпус надійно захищає вміст від ударів та випадкових падінь під час активних ігор на вокзалі чи в терміналі. Надійна система чотирьох коліс, що обертаються на 360 градусів, та зручна висувна ручка дозволяють малюкові легко і без зусиль котити свій багаж самостійно.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/20/dytiacha-valiza-2204-mini-25l-blakytna-2204-xs-frozen-37379242490029_+33d5d5a509.jpg</picture>
-        <param name="Колір">Голубой</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">ABS-пластик</param>
-        <param name="Стать">Для детей</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
@@ -9763,26 +10002,6 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="HIMAWARI-XS-Gray" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Рюкзак для ручной клади HIMAWARI 17л серый (HIMAWARI-XS-Gray)</name_ru>
-        <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л сірий (HIMAWARI-XS-Gray)</name_ua>
-        <price>1595</price>
-        <categoryId>1089</categoryId>
-        <country>Китай</country>
-        <description_ru>Рюкзак для ручной клади HIMAWARI 17л серый (HIMAWARI-XS-Gray)</description_ru>
-        <description_ua>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/26/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siryi-himawari-xs-gray-90884605525874_+4eb2443238.png</picture>
-        <param name="Колір">Серый</param>
-        <param name="Тип">Рюкзак</param>
-        <param name="Матеріал корпусу">Нейлон</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">Без колес</param>
-        <param name="Вбудований замок">Без замку</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">М'який</param>
       </offer>
       <offer id="801-1-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -9955,33 +10174,6 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="49103-3-White" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Набор чемоданов Snowball 49103 3в1 белый (49103-3-White)</name_ru>
-        <name_ua>Набір валіз Snowball 49103 3в1 білий (49103-3-White)</name_ua>
-        <price>11580</price>
-        <old_price>13650</old_price>
-        <categoryId>1092</categoryId>
-        <vendor>Snowball</vendor>
-        <country>Франція</country>
-        <description_ru>Набор чемоданов Snowball 49103 3в1 белый (49103-3-White)</description_ru>
-        <description_ua>Розмір L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/39/nabir-valiz-snowball-49103-3v1-bilyi-49103-3-white-86013349159336_+759329bc9f.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-51183346908748_+6b2a7ca4d3.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-35575092317636_+04afcd0247.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-88337652533069_+dfcf16d87a.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-76295205426709_+2fa0c49102.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-snowball-49103-velyka-112l-bila-49103-l-white-92450410622205_+3abe7767c7.png</picture>
-        <param name="Колір">Белый</param>
-        <param name="Тип">Набори валіз</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
       <offer id="63703-3-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Набор чемоданов Madisson 63703 3в1 черный (63703-3-Black)</name_ru>
@@ -10115,62 +10307,6 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="49203-M-Black" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чемодан с расширением Snowball 49203 средний 71л черный (49203-M-Black)</name_ru>
-        <name_ua>Валіза з розширенням Snowball 49203 середня 71л чорна (49203-M-Black)</name_ua>
-        <price>4600</price>
-        <categoryId>1083</categoryId>
-        <vendor>Snowball</vendor>
-        <country>Франція</country>
-        <description_ru>Чемодан с расширением Snowball 49203 средний 71л черный (49203-M-Black)</description_ru>
-        <description_ua>Валіза з розширенням Snowball 49203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/50/valiza-z-rozshyrenniam-snowball-49203-serednia-71-l-chorna-49203-m-black-78155272675767_+3127fc69ee.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-84876645849610_+4943597679.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-15891242567742_+3abb8d0919.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-27911743465472_+34d041939f.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-28083441844226_+0c5d4b37bd.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-93177601542462_+ace0f4855a.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-92357572100284_+1afdc88079.jpg</picture>
-        <param name="Колір">Черный</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Середні (50 – 89.9 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="49203-S-Black" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чемодан с расширением Snowball 49203 малый 39л черный (49203-S-Black)</name_ru>
-        <name_ua>Валіза з розширенням Snowball 49203 мала 39л чорна (49203-S-Black)</name_ua>
-        <price>3200</price>
-        <categoryId>1084</categoryId>
-        <vendor>Snowball</vendor>
-        <country>Франція</country>
-        <description_ru>Чемодан с расширением Snowball 49203 малый 39л черный (49203-S-Black)</description_ru>
-        <description_ua>Валіза з розширенням Snowball 49203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/1/valiza-dlia-ruchnoi-poklazhi-snowball-49203-mala-39-l-chorna-49203-s-black-62557525471451_+696eefea50.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-84876645849610_+4943597679.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-15891242567742_+3abb8d0919.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-27911743465472_+34d041939f.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-28083441844226_+0c5d4b37bd.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-93177601542462_+ace0f4855a.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-92357572100284_+1afdc88079.jpg</picture>
-        <param name="Колір">Черный</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
@@ -10547,6 +10683,28 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
+      <offer id="19168-L-Dark-green" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан Wings 19168 большой 97 л зеленый (19168-L-Dark-green)</name_ru>
+        <name_ua>Валіза Wings 19168 велика 97 л зелена (19168-L-Dark-green)</name_ua>
+        <price>2600</price>
+        <categoryId>1094</categoryId>
+        <vendor>Wings</vendor>
+        <country>Польща</country>
+        <description_ru>Чемодан Wings 19168 большой 97 л зеленый (19168-L-Dark-green)</description_ru>
+        <description_ua>Валіза Wings 19168 велика 97 л зелена (19168-L-Dark-green)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/26/valiza-wings-19168-velyka-97-l-zelena-19168-l-dark-green-53474368205733_+e8dd6b1c40.jpg</picture>
+        <param name="Колір">Зелёный</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Полікарбонат</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Великі (90 - 100 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
       <offer id="19168-M-Dark-green" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан Wings 19168 средний 63 л зеленый (19168-M-Dark-green)</name_ru>
@@ -10677,34 +10835,6 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="20303-M-Black" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чемодан с расширением Snowball 20303 средний 71л черный (20303-M-Black)</name_ru>
-        <name_ua>Валіза з розширенням Snowball 20303 середня 71л чорна (20303-M-Black)</name_ua>
-        <price>4300</price>
-        <categoryId>1083</categoryId>
-        <vendor>Snowball</vendor>
-        <country>Франція</country>
-        <description_ru>Чемодан с расширением Snowball 20303 средний 71л черный (20303-M-Black)</description_ru>
-        <description_ua>Валіза з розширенням Snowball 20303 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22&amp;ndash;25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/1/13075069025588_+c1c0fbe01a.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-47504440911563_+8ab97b2aba.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-95272947196055_+8485739569.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-29946722881430_+b2a402d2a6.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-25049252136242_+cd5a7ac7bd.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-81134316387452_+d2df4323fc.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-11816702502917_+e115c2c0aa.jpg</picture>
-        <param name="Колір">Черный</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Середні (50 – 89.9 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">М'який</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
       <offer id="004-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Easy Move мини 20л черный (004-XS-Black)</name_ru>
@@ -10811,33 +10941,6 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="131-M-LightBlue" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чемодан Fashion 131 средний 62л голубой (131-M-LightBlue)</name_ru>
-        <name_ua>Валіза Fashion 131 середня 62л блакитна (131-M-LightBlue)</name_ua>
-        <price>2050</price>
-        <categoryId>1083</categoryId>
-        <vendor>Carbon</vendor>
-        <country>Україна</country>
-        <description_ru>Чемодан Fashion 131 средний 62л голубой (131-M-LightBlue)</description_ru>
-        <description_ua>Валіза Fashion 131 середня 62л блакитна (131-M-LightBlue)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-fashion-131-serednia-62l-blakytna-131-m-lightblue-82350605276656_+30c0afc46d.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/21/valiza-fashion-131-velyka-92l-chorna-131-l-black-36901086841312_+d8966912af.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/21/valiza-fashion-131-velyka-92l-chorna-131-l-black-94837239660386_+fcdd84e7e2.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/21/valiza-fashion-131-velyka-92l-chorna-131-l-black-67105998327916_+2777fd8197.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/21/valiza-fashion-131-velyka-92l-chorna-131-l-black-59761817337919_+bcf82b43ea.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/21/valiza-fashion-131-velyka-92l-chorna-131-l-black-92515943739025_+68ad4b6c7e.png</picture>
-        <param name="Колір">Голубой</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Середні (50 – 89.9 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="42203-S-LightBlue" available="false">
@@ -11069,34 +11172,6 @@
         <param name="Стать">Унісекс</param>
         <param name="Об'єм">Великі (90 - 100 л)</param>
       </offer>
-      <offer id="20303-Set-Black" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Набор чемоданов из полипропилена Snowball 20303 3 в 1 черный (20303-Set-Black)</name_ru>
-        <name_ua>Набір валіз з поліпропілену Snowball 20303 3 в 1 чорний (20303-Set-Black)</name_ua>
-        <price>10185</price>
-        <old_price>12050</old_price>
-        <categoryId>1092</categoryId>
-        <vendor>Snowball</vendor>
-        <country>Франція</country>
-        <description_ru>Набор чемоданов из полипропилена Snowball 20303 3 в 1 черный (20303-Set-Black)</description_ru>
-        <description_ua>Валіза з розширенням Snowball 20303 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22&amp;ndash;25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/9/48168048207689_+2a18c12c48.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-47504440911563_+8ab97b2aba.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-95272947196055_+8485739569.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-29946722881430_+b2a402d2a6.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-25049252136242_+cd5a7ac7bd.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-81134316387452_+d2df4323fc.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/2/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black-11816702502917_+e115c2c0aa.jpg</picture>
-        <param name="Колір">Черный</param>
-        <param name="Тип">Набори валіз</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">М'який</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
       <offer id="42203-Set-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Madisson 42203 3 в 1 черный (42203-Set-Black)</name_ru>
@@ -11115,34 +11190,6 @@
         <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-madisson-42203-velyka-chorna-42203-l-black-93416297608353_+c05f3dd18f.jpg</picture>
         <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-madisson-42203-velyka-chorna-42203-l-black-55460974812227_+0c2332a3ff.jpg</picture>
         <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-madisson-42203-velyka-chorna-42203-l-black-47007962777501_+5f7ef04b45.jpg</picture>
-        <param name="Колір">Черный</param>
-        <param name="Тип">Набори валіз</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="49203-Set-Black" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Набор чемоданов с расширением Snowball 49203 3 в 1 черный (49203-Set-Black)</name_ru>
-        <name_ua>Набір валіз з розширенням Snowball 49203 3 в 1 чорний (49203-Set-Black)</name_ua>
-        <price>10720</price>
-        <old_price>12600</old_price>
-        <categoryId>1092</categoryId>
-        <vendor>Snowball</vendor>
-        <country>Франція</country>
-        <description_ru>Набор чемоданов с расширением Snowball 49203 3 в 1 черный (49203-Set-Black)</description_ru>
-        <description_ua>Валіза з розширенням Snowball 49203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/11/nabir-valiz-z-rozshyrenniam-snowball-49203-3-v-1-chornyi-49203-set-black-58785451284484_+d3b4757821.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-84876645849610_+4943597679.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-15891242567742_+3abb8d0919.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-27911743465472_+34d041939f.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-28083441844226_+0c5d4b37bd.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-93177601542462_+ace0f4855a.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black-92357572100284_+1afdc88079.jpg</picture>
         <param name="Колір">Черный</param>
         <param name="Тип">Набори валіз</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -11205,6 +11252,34 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Великі (90 - 100 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="42203-M-Dark-green" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан с расширением Madisson 42203 средний 68л зеленый (42203-M-Dark-green)</name_ru>
+        <name_ua>Валіза з розширенням Madisson 42203 середня 68л зелена (42203-M-Dark-green)</name_ua>
+        <price>1950</price>
+        <categoryId>1083</categoryId>
+        <vendor>Madisson</vendor>
+        <country>Франція</country>
+        <description_ru>Чемодан с расширением Madisson 42203 средний 68л зеленый (42203-M-Dark-green)</description_ru>
+        <description_ua>Валіза з розширенням Madisson 42203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-rozshyrenniam-madisson-42203-serednia-68l-zelena-42203-m-dark-green-46730636217749_+d88b411190.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-madisson-42203-velyka-chorna-42203-l-black-93618913973897_+c7773b559a.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-madisson-42203-velyka-chorna-42203-l-black-79674525601841_+68c1e600e0.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-madisson-42203-velyka-chorna-42203-l-black-19364323439335_+3b76ed85da.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-madisson-42203-velyka-chorna-42203-l-black-93416297608353_+c05f3dd18f.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-madisson-42203-velyka-chorna-42203-l-black-55460974812227_+0c2332a3ff.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/valiza-z-rozshyrenniam-madisson-42203-velyka-chorna-42203-l-black-47007962777501_+5f7ef04b45.jpg</picture>
+        <param name="Колір">Зелёный</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Середні (50 – 89.9 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
@@ -11336,34 +11411,6 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="51304-S-Gray" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чемодан с расширением Snowball 51304 малый 36л серый (51304-S-Gray)</name_ru>
-        <name_ua>Валіза з розширенням Snowball 51304 мала 36л сіра (51304-S-Gray)</name_ua>
-        <price>1850</price>
-        <categoryId>1084</categoryId>
-        <vendor>Snowball</vendor>
-        <country>Франція</country>
-        <description_ru>Чемодан с расширением Snowball 51304 малый 36л серый (51304-S-Gray)</description_ru>
-        <description_ua>Валіза з розширенням Snowball 51304 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/45/valiza-z-rozshyrenniam-snowball-51304-mala-36l-sira-51304-s-gray-91169260367555_+eb4f112a49.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-36849852849837_+3528273154.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-32395033838109_+67027afaaa.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-87614755776731_+b1d9169803.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-40402910549625_+380365abeb.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-37154909876681_+1d0cd97e7d.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-14177746832685_+cc80787544.jpg</picture>
-        <param name="Колір">Серый</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
       <offer id="51304-S-Light-blue" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 малый 36л голубой (51304-S-Light-blue)</name_ru>
@@ -11420,62 +11467,6 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="51304-M-Gray" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чемодан с расширением Snowball 51304 средний 63л серый (51304-M-Gray)</name_ru>
-        <name_ua>Валіза з розширенням Snowball 51304 середня 63л сіра (51304-M-Gray)</name_ua>
-        <price>2350</price>
-        <categoryId>1083</categoryId>
-        <vendor>Snowball</vendor>
-        <country>Франція</country>
-        <description_ru>Чемодан с расширением Snowball 51304 средний 63л серый (51304-M-Gray)</description_ru>
-        <description_ua>Валіза з розширенням Snowball 51304 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/50/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-sira-51304-m-gray-73830537062373_+8059645d91.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-36849852849837_+3528273154.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-32395033838109_+67027afaaa.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-87614755776731_+b1d9169803.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-40402910549625_+380365abeb.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-37154909876681_+1d0cd97e7d.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-14177746832685_+cc80787544.jpg</picture>
-        <param name="Колір">Серый</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Середні (50 – 89.9 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="51304-M-Champagne" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чемодан с расширением Snowball 51304 средний 63л шампань (51304-M-Champagne)</name_ru>
-        <name_ua>Валіза з розширенням Snowball 51304 середня 63л шампань (51304-M-Champagne)</name_ua>
-        <price>2350</price>
-        <categoryId>1083</categoryId>
-        <vendor>Snowball</vendor>
-        <country>Франція</country>
-        <description_ru>Чемодан с расширением Snowball 51304 средний 63л шампань (51304-M-Champagne)</description_ru>
-        <description_ua>Валіза з розширенням Snowball 51304 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/1/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-shampan-51304-m-champagne-99528249442687_+96950abf46.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-36849852849837_+3528273154.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-32395033838109_+67027afaaa.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-87614755776731_+b1d9169803.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-40402910549625_+380365abeb.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-37154909876681_+1d0cd97e7d.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-14177746832685_+cc80787544.jpg</picture>
-        <param name="Колір">Шампань</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Середні (50 – 89.9 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
       <offer id="51304-M-Light-blue" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 средний 63л голубой (51304-M-Light-blue)</name_ru>
@@ -11500,62 +11491,6 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="51304-M-RoseGold" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чемодан с расширением Snowball 51304 средний 63л розовое золото (51304-M-RoseGold)</name_ru>
-        <name_ua>Валіза з розширенням Snowball 51304 середня 63л рожеве золото (51304-M-RoseGold)</name_ua>
-        <price>2350</price>
-        <categoryId>1083</categoryId>
-        <vendor>Snowball</vendor>
-        <country>Франція</country>
-        <description_ru>Чемодан с расширением Snowball 51304 средний 63л розовое золото (51304-M-RoseGold)</description_ru>
-        <description_ua>Валіза з розширенням Snowball 51304 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/3/valiza-z-rozshyrenniam-snowball-51304-serednia-63l-rozheve-zoloto-51304-m-rosegold-81423904631042_+43ddc17e88.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-36849852849837_+3528273154.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-32395033838109_+67027afaaa.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-87614755776731_+b1d9169803.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-40402910549625_+380365abeb.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-37154909876681_+1d0cd97e7d.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-14177746832685_+cc80787544.jpg</picture>
-        <param name="Колір">Рожево-золотий</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Середні (50 – 89.9 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="51304-L-Gray" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чемодан с расширением Snowball 51304 большой 105л серый (51304-L-Gray)</name_ru>
-        <name_ua>Валіза з розширенням Snowball 51304 велика 105л сіра (51304-L-Gray)</name_ua>
-        <price>2450</price>
-        <categoryId>1082</categoryId>
-        <vendor>Snowball</vendor>
-        <country>Франція</country>
-        <description_ru>Чемодан с расширением Snowball 51304 большой 105л серый (51304-L-Gray)</description_ru>
-        <description_ua>Валіза з розширенням Snowball 51304 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-sira-51304-l-gray-73984162564611_+6d1a671950.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-36849852849837_+3528273154.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-32395033838109_+67027afaaa.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-87614755776731_+b1d9169803.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-40402910549625_+380365abeb.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-37154909876681_+1d0cd97e7d.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/7/valiza-z-rozshyrenniam-snowball-51304-velyka-105l-shampan-51304-l-champagne-14177746832685_+cc80787544.jpg</picture>
-        <param name="Колір">Серый</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Великі (90 - 100 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
@@ -11812,6 +11747,27 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
+      <offer id="D01-XS-Elsa" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Детский чемодан D01 мини 29л розовато-голубой (D01-XS-Elsa)</name_ru>
+        <name_ua>Дитяча валіза D01 міні 29л рожево-блакитна (D01-XS-Elsa)</name_ua>
+        <price>1720</price>
+        <categoryId>1091</categoryId>
+        <country>Китай</country>
+        <description_ru>Детский чемодан D01 мини 29л розовато-голубой (D01-XS-Elsa)</description_ru>
+        <description_ua>Дитяча валіза створена для того, щоб дарувати малюкам радість та комфорт під час перших самостійних подорожей. Завдяки надкомпактним габаритам модель ідеально підходить для коротких поїздок, сімейних вікендів або екскурсій тривалістю від 1 до 3 днів. Цей аксесуар розрахований суто на індивідуальне використання дитиною і за рахунок своєї компактності чудово проходить як ручна поклажа у більшості авіакомпаній, поїздів чи автобусів. Корпус виготовлений з ABS-пластику, що забезпечує ударостійкість, гнучкість та надійний захист речей вагою до 10 кг. Чотири прорезинені колеса з радіусом обертання 360 градусів та зручна висувна ручка з кількома положеннями фіксації дозволяють дитині котити свій багаж плавно і абсолютно без зусиль. Яскравий унікальний принт не лише виділяється серед іншого багажу, а й піднімає дитині настрій у дорозі.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/41/dytiacha-valiza-d01-mini-29l-rozhevo-blakytna-d01-xs-elsa-86993336799194_+65acb22023.jpg</picture>
+        <param name="Колір">Ассорти</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">ABS-пластик</param>
+        <param name="Стать">Для детей</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
       <offer id="2204-XS-Hello-Kitty" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Детский чемодан 2204 мини 22л розовый (2204-XS-Hello-Kitty)</name_ru>
@@ -11894,6 +11850,50 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
+      <offer id="PHX01-S-Gray" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан для ручной клади Wings PHX01 малый 38л серый (PHX01-S-Gray)</name_ru>
+        <name_ua>Валіза для ручної поклажі Wings PHX01 мала 38л сіра (PHX01-S-Gray)</name_ua>
+        <price>1700</price>
+        <categoryId>1084</categoryId>
+        <vendor>Wings</vendor>
+        <country>Польща</country>
+        <description_ru>Чемодан для ручной клади Wings PHX01 малый 38л серый (PHX01-S-Gray)</description_ru>
+        <description_ua>Валіза з поліпропілену Wings PHX01 - це ідеальне рішення для тривалих сімейних подорожей, переїздів або відпусток, коли необхідно взяти максимум речей. Вона з легкістю містить весь ваш гардероб і призначена для здачі в багажне відділення будь-якого транспорту. Корпус моделі виконаний із товстого високоякісного поліпропілену - надміцного та гнучкого пластику, який захищає багаж від деформацій, не тріскається при сильних ударах і дозволяє перевозити валізу напівпорожньою. Чотири подвійні поліуретанові колеса на підшипниках обертаються на 360 градусів, рівномірно розподіляючи навантаження та забезпечуючи плавний, безшумний рух навіть за повного завантаження. За безпеку цінних речей відповідає вбудований бічний кодовий замок, який надійно оберігає вміст від стороннього доступу. Внутрішній простір продуманий до дрібниць: два місткі відділення, внутрішні ремені-фіксатори та додаткова кишеня допомагають бездоганно організувати та закріпити одяг. Особливою перевагою є практична бічна ніжка у вигляді гачка, яка підвищує комфорт у дорозі, дозволяючи звільнити руки й підвісити дорожні аксесуари. Попри великі розміри, модель важить усього 4 кг, гармонійно поєднуючи преміальний стиль, максимальну функціональність і надійність. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/39/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-sira-phx01-s-gray-40529758604706_+6b0492e1fd.jpg</picture>
+        <param name="Колір">Серый</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="PHX01-S-Blue" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан для ручной клади Wings PHX01 малый 38л синий (PHX01-S-Blue)</name_ru>
+        <name_ua>Валіза для ручної поклажі Wings PHX01 мала 38л синя (PHX01-S-Blue)</name_ua>
+        <price>1700</price>
+        <categoryId>1084</categoryId>
+        <vendor>Wings</vendor>
+        <country>Польща</country>
+        <description_ru>Чемодан для ручной клади Wings PHX01 малый 38л синий (PHX01-S-Blue)</description_ru>
+        <description_ua>Валіза з поліпропілену Wings PHX01 - це ідеальне рішення для тривалих сімейних подорожей, переїздів або відпусток, коли необхідно взяти максимум речей. Вона з легкістю містить весь ваш гардероб і призначена для здачі в багажне відділення будь-якого транспорту. Корпус моделі виконаний із товстого високоякісного поліпропілену - надміцного та гнучкого пластику, який захищає багаж від деформацій, не тріскається при сильних ударах і дозволяє перевозити валізу напівпорожньою. Чотири подвійні поліуретанові колеса на підшипниках обертаються на 360 градусів, рівномірно розподіляючи навантаження та забезпечуючи плавний, безшумний рух навіть за повного завантаження. За безпеку цінних речей відповідає вбудований бічний кодовий замок, який надійно оберігає вміст від стороннього доступу. Внутрішній простір продуманий до дрібниць: два місткі відділення, внутрішні ремені-фіксатори та додаткова кишеня допомагають бездоганно організувати та закріпити одяг. Особливою перевагою є практична бічна ніжка у вигляді гачка, яка підвищує комфорт у дорозі, дозволяючи звільнити руки й підвісити дорожні аксесуари. Попри великі розміри, модель важить усього 4 кг, гармонійно поєднуючи преміальний стиль, максимальну функціональність і надійність. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-synia-phx01-s-blue-45641675764651_+0a62d19ec7.jpg</picture>
+        <param name="Колір">Синий</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
       <offer id="PHX01-L-Gray" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Wings PHX01 большой 95л серый (PHX01-L-Gray)</name_ru>
@@ -11961,7 +11961,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-L-Black" available="true">
-        <quantity_in_stock>15</quantity_in_stock>
+        <quantity_in_stock>21</quantity_in_stock>
         <name_ru>Чемодан с полипропилена Snowball 33703 большой 101л черный (33703-L-Black)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 велика 101л чорна (33703-L-Black)</name_ua>
         <price>2678</price>
@@ -11990,7 +11990,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-L-Champagne" available="true">
-        <quantity_in_stock>19</quantity_in_stock>
+        <quantity_in_stock>28</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Snowball 33703 большой 101л шампань (33703-L-Champagne)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 велика 101л шампань (33703-L-Champagne)</name_ua>
         <price>2678</price>
@@ -12019,7 +12019,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-L-Grey" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>12</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Snowball 33703 большой 101л серый (33703-L-Grey)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 велика 101л сіра (33703-L-Grey)</name_ua>
         <price>3150</price>
@@ -12651,7 +12651,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-M-Black" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>9</quantity_in_stock>
         <name_ru>Чемодан с полипропилена Snowball 33703 средний 69л черный (33703-M-Black)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 середня 69л чорна (33703-M-Black)</name_ua>
         <price>3100</price>
@@ -12679,7 +12679,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-M-Grey" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Snowball 33703 средний 69л серый (33703-M-Grey)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 середня 69л сіра (33703-M-Grey)</name_ua>
         <price>3100</price>
@@ -12735,7 +12735,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-M-Champagne" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>12</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Snowball 33703 средний 69л шампань (33703-М-Champagne)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 середня 69л шампань (33703-М-Champagne)</name_ua>
         <price>3100</price>
@@ -13466,7 +13466,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-S-Black" available="true">
-        <quantity_in_stock>32</quantity_in_stock>
+        <quantity_in_stock>39</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Snowball 33703 малый 36л черный (33703-S-Black)</name_ru>
         <name_ua>Валіза для ручної поклажі Snowball 33703 мала 36л чорна (33703-S-Black)</name_ua>
         <price>1725</price>
@@ -13495,7 +13495,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-S-Champagne" available="true">
-        <quantity_in_stock>17</quantity_in_stock>
+        <quantity_in_stock>25</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Snowball 33703 малый 36л шампань (33703-S-Champagne)</name_ru>
         <name_ua>Валіза для ручної поклажі Snowball 33703 мала 36л шампань (33703-S-Champagne)</name_ua>
         <price>1725</price>
@@ -13524,7 +13524,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-S-Grey" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>12</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Snowball 33703 малый 36л серый (33703-S-Grey)</name_ru>
         <name_ua>Валіза для ручної поклажі Snowball 33703 мала 36л сіра (33703-S-Grey)</name_ua>
         <price>2300</price>
@@ -13689,8 +13689,8 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="44603-S-Champagne" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
+      <offer id="44603-S-Champagne" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан Madisson 44603 малый 38л шампань (44603-S-Champagne)</name_ru>
         <name_ua>Валіза Madisson 44603 мала 38л шампань (44603-S-Champagne)</name_ua>
         <price>1105</price>
@@ -14202,7 +14202,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="WN01-S-Creme" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан Wings WN01 малый 38л кремовый (WN01-S-Creme)</name_ru>
         <name_ua>Валіза Wings WN01 мала 38л кремова (WN01-S-Creme)</name_ua>
         <price>2050</price>
