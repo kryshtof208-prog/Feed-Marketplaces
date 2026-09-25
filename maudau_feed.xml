@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-24T21:06:13.328Z">
+<yml_catalog date="2026-09-25T05:06:23.433Z">
   <shop>
     <categories>
       <category id="1061" portal_id="Чемоданы">Валізи</category>
@@ -11,86 +11,6 @@
       <category id="1089" portal_id="Рюкзаки">Рюкзаки</category>
     </categories>
     <offers>
-      <offer id="DPC-Yellow-M" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
-        <name_ru>Чехол для чемодана дайвинг DPC-Yellow-M</name_ru>
-        <name_ua>Чохол для валізи дайвінг DPC-Yellow-M</name_ua>
-        <price>500</price>
-        <categoryId>1086</categoryId>
-        <country>Україна</country>
-        <description_ru>Чехол для чемодана дайвинг DPC-Yellow-M</description_ru>
-        <description_ua>Чохол для валізи дайвінг DPC-Yellow-M</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/48/67281803283937_+6f33487b36.jpg</picture>
-        <param name="Колір">Жёлтый</param>
-        <param name="Тип">Чехол</param>
-        <param name="Матеріал корпусу">Дайвинг</param>
-        <param name="Об'єм">Середні (50 – 89.9 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-      </offer>
-      <offer id="DPC-Blue-L" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
-        <name_ru>Чехол для чемодана дайвинг DPC-Blue-L</name_ru>
-        <name_ua>Чохол для валізи дайвінг DPC-Blue-L</name_ua>
-        <price>500</price>
-        <categoryId>1086</categoryId>
-        <country>Україна</country>
-        <description_ru>Чехол для чемодана дайвинг DPC-Blue-L</description_ru>
-        <description_ua>Чохол для валізи дайвінг DPC-Blue-L</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/49/28775790471695_+ff8b8ffb34.jpg</picture>
-        <param name="Колір">Темно-синий</param>
-        <param name="Тип">Чехол</param>
-        <param name="Матеріал корпусу">Дайвинг</param>
-        <param name="Об'єм">Великі (90 - 100 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-      </offer>
-      <offer id="DPC-Blue-M" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
-        <name_ru>Чехол для чемодана дайвинг DPC-Blue-M</name_ru>
-        <name_ua>Чохол для валізи дайвінг DPC-Blue-M</name_ua>
-        <price>500</price>
-        <categoryId>1086</categoryId>
-        <country>Україна</country>
-        <description_ru>Чехол для чемодана дайвинг DPC-Blue-M</description_ru>
-        <description_ua>Чохол для валізи дайвінг DPC-Blue-M</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/1/41808620605639_+f555d64f89.jpg</picture>
-        <param name="Колір">Темно-синий</param>
-        <param name="Тип">Чехол</param>
-        <param name="Матеріал корпусу">Дайвинг</param>
-        <param name="Об'єм">Середні (50 – 89.9 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-      </offer>
-      <offer id="DPC-Blue-S" available="true">
-        <quantity_in_stock>10</quantity_in_stock>
-        <name_ru>Чехол для чемодана дайвинг DPC-Blue-S</name_ru>
-        <name_ua>Чохол для валізи дайвінг DPC-Blue-S</name_ua>
-        <price>500</price>
-        <categoryId>1086</categoryId>
-        <country>Україна</country>
-        <description_ru>Чехол для чемодана дайвинг DPC-Blue-S</description_ru>
-        <description_ua>Чохол для валізи дайвінг DPC-Blue-S</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/3/14820154181061_+2a1185bdfe.jpg</picture>
-        <param name="Колір">Темно-синий</param>
-        <param name="Тип">Чехол</param>
-        <param name="Матеріал корпусу">Дайвинг</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-      </offer>
-      <offer id="DPC-Purple-S" available="true">
-        <quantity_in_stock>12</quantity_in_stock>
-        <name_ru>Чехол для чемодана дайвинг DPC-Purple-S</name_ru>
-        <name_ua>Чохол для валізи дайвінг DPC-Purple-S</name_ua>
-        <price>500</price>
-        <categoryId>1086</categoryId>
-        <country>Україна</country>
-        <description_ru>Чехол для чемодана дайвинг DPC-Purple-S</description_ru>
-        <description_ua>Чохол для валізи дайвінг DPC-Purple-S</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/4/99623006529559_+579e9f37ae.jpg</picture>
-        <param name="Колір">Сиреневый</param>
-        <param name="Тип">Чехол</param>
-        <param name="Матеріал корпусу">Дайвинг</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-      </offer>
       <offer id="NPC-Black-XS" available="true">
         <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен NPC-Black-XS</name_ru>
@@ -108,7 +28,7 @@
         <param name="Тип закриття">На блискавці</param>
       </offer>
       <offer id="NPC-Burgundy-S" available="true">
-        <quantity_in_stock>13</quantity_in_stock>
+        <quantity_in_stock>11</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен NPC-Burgundy-S</name_ru>
         <name_ua>Чохол для валізи неопрен NPC-Burgundy-S</name_ua>
         <price>600</price>
@@ -425,7 +345,7 @@
         <param name="Тип">Подушка</param>
       </offer>
       <offer id="TP01-Burgundy" available="true">
-        <quantity_in_stock>24</quantity_in_stock>
+        <quantity_in_stock>25</quantity_in_stock>
         <name_ru>Подушка для путешествий TP01-Burgundy</name_ru>
         <name_ua>Подушка для подорожей TP01-Burgundy</name_ua>
         <price>340</price>
@@ -519,7 +439,7 @@
         <param name="Матеріал корпусу">Поліестер</param>
       </offer>
       <offer id="42203-L-Purple" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан с расширением Madisson 42203 большой 103л фиолетовый (42203-L-Purple)</name_ru>
         <name_ua>Валіза з розширенням Madisson 42203 велика 103л фіолетова (42203-L-Purple)</name_ua>
         <price>2050</price>
@@ -1324,7 +1244,7 @@
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
       </offer>
       <offer id="49103-L-White" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан Snowball 49103 большой 112л белый (49103-L-White)</name_ru>
         <name_ua>Валіза Snowball 49103 велика 112л біла (49103-L-White)</name_ua>
         <price>5100</price>
@@ -1824,7 +1744,7 @@
         <param name="Вбудований замок">Кодовий</param>
       </offer>
       <offer id="Kaiman-XS-Mint" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л мятный (Kaiman-XS-Mint)</name_ru>
         <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л м'ятна (Kaiman-XS-Mint)</name_ua>
         <price>1700</price>
@@ -1916,7 +1836,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="HIMAWARI-XS-Gray" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади HIMAWARI 17л серый (HIMAWARI-XS-Gray)</name_ru>
         <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л сірий (HIMAWARI-XS-Gray)</name_ua>
         <price>1595</price>
@@ -2017,7 +1937,7 @@
         <param name="Вбудований замок">Кодовий</param>
       </offer>
       <offer id="49103-3-White" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Набор чемоданов Snowball 49103 3в1 белый (49103-3-White)</name_ru>
         <name_ua>Набір валіз Snowball 49103 3в1 білий (49103-3-White)</name_ua>
         <price>11580</price>
@@ -2231,7 +2151,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="19168-L-Grey" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан Wings 19168 большой 97 л серый (19168-L-Grey)</name_ru>
         <name_ua>Валіза Wings 19168 велика 97 л сіра (19168-L-Grey)</name_ua>
         <price>2600</price>
@@ -2310,7 +2230,7 @@
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
       </offer>
       <offer id="19168-S-Grey" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Wings 19168 малый 38 л серый (19168-S-Grey)</name_ru>
         <name_ua>Валіза для ручної поклажі Wings 19168 мала 38 л сіра (19168-S-Grey)</name_ua>
         <price>2000</price>
@@ -2333,7 +2253,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="19168-S-Champagne" available="true">
-        <quantity_in_stock>9</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Wings 19168 малый 38 л шампань (19168-S-Champagne)</name_ru>
         <name_ua>Валіза для ручної поклажі Wings 19168 мала 38 л шампань (19168-S-Champagne)</name_ua>
         <price>2000</price>
@@ -2911,7 +2831,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="131-L-Beige" available="true">
-        <quantity_in_stock>9</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Чемодан Fashion 131 большой 92л бежевый (131-L-Beige)</name_ru>
         <name_ua>Валіза Fashion 131 велика 92л бежева (131-L-Beige)</name_ua>
         <price>1870</price>
@@ -3006,27 +2926,6 @@
         <param name="Матеріал корпусу">Нейлон</param>
         <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">Без колес</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">М'який</param>
-      </offer>
-      <offer id="HIMAWARI-XS-Red" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Рюкзак для ручной клади HIMAWARI 17л красный (HIMAWARI-XS-Red)</name_ru>
-        <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л червоний (HIMAWARI-XS-Red)</name_ua>
-        <price>1595</price>
-        <categoryId>1089</categoryId>
-        <vendor>HIMAWARI</vendor>
-        <country>Япония</country>
-        <description_ru>Рюкзак для ручной клади HIMAWARI 17л красный (HIMAWARI-XS-Red)</description_ru>
-        <description_ua>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chervonyi-himawari-xs-red-70280970195137_+973a14fece.jpg</picture>
-        <param name="Колір">Красный</param>
-        <param name="Тип">Рюкзак</param>
-        <param name="Матеріал корпусу">Нейлон</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">Без колес</param>
-        <param name="Вбудований замок">Без замку</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
@@ -3141,7 +3040,7 @@
         <param name="Тип закриття">На блискавці</param>
       </offer>
       <offer id="NPC-Dark-Green-S" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен темно-зеленый NPC-Dark-Green-S</name_ru>
         <name_ua>Чохол для валізи неопрен темно-зелений NPC-Dark-Green-S</name_ua>
         <price>600</price>
@@ -3322,7 +3221,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="Kaiman-XS-Pink" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л розовый (Kaiman-XS-Pink)</name_ru>
         <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л рожева (Kaiman-XS-Pink)</name_ua>
         <price>1700</price>
@@ -3742,7 +3641,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="33703-M-Sea-wave" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Snowball 33703 средний 69л синий (33703-M-Sea-wave)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 середня 69л синя (33703-M-Sea-wave)</name_ua>
         <price>3100</price>
@@ -4043,7 +3942,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="51304-M-RoseGold" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 средний 63л розовое золото (51304-M-RoseGold)</name_ru>
         <name_ua>Валіза з розширенням Snowball 51304 середня 63л рожеве золото (51304-M-RoseGold)</name_ua>
         <price>2350</price>
@@ -4284,29 +4183,6 @@
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
-      <offer id="160PC-M-Black" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан из поликарбоната Wings 160PC средний 63л черный (160PC-M-Black)</name_ru>
-        <name_ua>Валіза з полікарбонату Wings 160PC середня 63л чорна (160PC-M-Black)</name_ua>
-        <price>2700</price>
-        <categoryId>1061</categoryId>
-        <vendor>Wings</vendor>
-        <description_ru>Чемодан из поликарбоната Wings 160PC средний 63л черный (160PC-M-Black)</description_ru>
-        <description_ua>Валіза з полікарбонату Wings 160PC в розмірі Л - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Завдяки використанню 100% полікарбонату валіза поєднує в собі виняткову міцність та гнучкість корпусних деталей. Така еластичність гарантує максимальну довговічність та надійний захист ваших речей у найекстремальніших умовах. Валіза оснащена посиленою системою поворотних коліс, що дозволяє плавно маневрувати навіть при повному завантаженні. Для безпеки передбачено вбудований кодовий замок, а продуманий внутрішній простір із фіксаторами допоможе акуратно організувати багаж. Вага завантаження становить 22-25 кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/15/87198512886104_+25556b3356.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/15/48754079387111_+1b06f0d747.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/15/53399774757678_+f397eb1524.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/15/17287642559878_+be85f2a040.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/15/18187528888144_+1acc6022fa.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/15/36153992174590_+e521d9158a.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/15/89146325740630_+7742e572bb.jpg</picture>
-        <param name="Колір">Черный</param>
-        <param name="Тип">Валізи</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Середні (50 – 89.9 л)</param>
-      </offer>
       <offer id="160PC-L-RoseGold" available="true">
         <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан из поликарбоната Wings 160PC большой 97л розовое золото (160PC-L-RoseGold)</name_ru>
@@ -4364,7 +4240,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-Set-Champagne" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Snowball 33703 3 в 1 шампань (33703-Set-Champagne)</name_ru>
         <name_ua>Набір валіз з поліпропілену Snowball 33703 3 в 1 шампань (33703-Set-Champagne)</name_ua>
         <price>7240</price>
@@ -4433,7 +4309,7 @@
         <param name="Вбудований замок">Кодовий</param>
       </offer>
       <offer id="33703-Set-Sea-wave" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Snowball 33703 3 в 1 синий (33703-Set-Sea-wave)</name_ru>
         <name_ua>Набір валіз з поліпропілену Snowball 33703 3 в 1 синій (33703-Set-Sea-wave)</name_ua>
         <price>7240</price>
@@ -4984,7 +4860,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="7898-S-Champagne" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 7898 малый 39л шампань (7898-S-Champagne)</name_ru>
         <name_ua>Валіза з розширенням Carbon 7898 мала 39л шампань (7898-S-Champagne)</name_ua>
         <price>2150</price>
@@ -5226,7 +5102,7 @@
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
       </offer>
       <offer id="PHX01-M-Blue" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Wings PHX01 средний 60л синий (PHX01-M-Blue)</name_ru>
         <name_ua>Валіза з поліпропілену Wings PHX01 середня 60л синя (PHX01-M-Blue)</name_ua>
         <price>2200</price>
@@ -5323,7 +5199,7 @@
         <param name="Вбудований замок">Кодовий</param>
       </offer>
       <offer id="PHX01-Set-Blue" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 синий (PHX01-Set-Blue)</name_ru>
         <name_ua>Набір валіз з поліпропілену Wings PHX01 3 в 1 синій (PHX01-Set-Blue)</name_ua>
         <price>5250</price>
@@ -5965,7 +5841,7 @@
         <param name="Вбудований замок">Кодовий</param>
       </offer>
       <offer id="1403-Set-Champagne" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Carbon 1403 3 в 1 шампань (1403-Set-Champagne)</name_ru>
         <name_ua>Набір валіз з поліпропілену Carbon 1403 3 в 1 шампань (1403-Set-Champagne)</name_ua>
         <price>5210</price>
@@ -6034,7 +5910,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="53103-M-Pink" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Madisson 53103 средний 65л розовый (53103-M-Pink)</name_ru>
         <name_ua>Валіза з поліпропілену Madisson 53103 середня 65л рожева (53103-M-Pink)</name_ua>
         <price>2350</price>
@@ -6107,21 +5983,159 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
       </offer>
-      <offer id="DPC-Elektryk-XS" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чехол для чемодана дайвинг DPC-Electric-XS</name_ru>
-        <name_ua>Чохол для валізи дайвінг DPC-Electric-XS</name_ua>
-        <price>450</price>
-        <categoryId>1086</categoryId>
-        <country>Україна</country>
-        <description_ru>Чехол для чемодана дайвинг DPC-Electric-XS</description_ru>
-        <description_ua>Чохол для валізи дайвінг DPC-Electric-XS</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/8/33569503093921_+6798f9fcdc.jpg</picture>
+      <offer id="JBBP285-XS-Blue" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади Bordlite 20л синий (JBBP285-XS-Blue)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі Bordlite 20л синій (JBBP285-XS-Blue)</name_ua>
+        <price>875</price>
+        <categoryId>1089</categoryId>
+        <country>Великобританія</country>
+        <description_ru>Рюкзак для ручной клади Bordlite 20л синий (JBBP285-XS-Blue)</description_ru>
+        <description_ua>Рюкзак Bordlite JBBP285 - це яскравий та надзвичайно функціональний аксесуар від британського бренду, створений для максимального комфорту в дорозі. Завдяки чітким габаритам 40&amp;times;30&amp;times;20 см та об&amp;#39;єму у 20 літрів, ця модель ідеально відповідає суворим стандартам безкоштовної ручної поклажі більшості лоукост-авіаліній. Корпус виготовлений зі зносостійкого поліестеру, який надійно захищає вміст, не пропускаючи всередину воду та вологу під час негоди. Внутрішній простір організовано дуже зручно і містить два просторі широкі відділи на блискавці. Для безпечного перенесення ваших гаджетів усередині передбачено спеціальний захисний відсік для ноутбука. Швидкий доступ до документів, квитків чи серветок забезпечують дві додаткові фронтальні кишені на блискавці. Конструктивна особливість моделі полягає у наявності як верхньої, так і міцної бічної ручки, що дозволяє зручно переносити рюкзак у руках як дорожню сумку. М&amp;#39;які анатомічні лямки легко регулюються за розміром, забезпечуючи правильний розподіл ваги та знімаючи навантаження з плечей. Це ультралегкий (всього 0,5 кг) та стильний вибір для тих, хто прагне подорожувати організовано та без жодних переплат.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/32/riukzak-dlia-ruchnoi-poklazhi-bordlite-20l-synii-jbbp285-xs-blue-35581725034520_+bec050ed76.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/32/riukzak-dlia-ruchnoi-poklazhi-bordlite-20l-synii-jbbp285-xs-blue-22540455241500_+94d517d4d4.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/32/riukzak-dlia-ruchnoi-poklazhi-bordlite-20l-synii-jbbp285-xs-blue-21585306238375_+4a48301a3b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/32/riukzak-dlia-ruchnoi-poklazhi-bordlite-20l-synii-jbbp285-xs-blue-32121765494618_+12d8adb972.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/32/riukzak-dlia-ruchnoi-poklazhi-bordlite-20l-synii-jbbp285-xs-blue-59506333506998_+d1c6be2d11.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/32/riukzak-dlia-ruchnoi-poklazhi-bordlite-20l-synii-jbbp285-xs-blue-82563770915039_+1aba5ec21d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/32/riukzak-dlia-ruchnoi-poklazhi-bordlite-20l-synii-jbbp285-xs-blue-61427597063258_+390f29a96e.jpg</picture>
         <param name="Колір">Синий</param>
-        <param name="Тип">Чехол</param>
-        <param name="Матеріал корпусу">Дайвинг</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Поліестер</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
         <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="JBBP285-XS-Black" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади Bordlite 20л черный (JBBP285-XS-Black)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі Bordlite 20л чорний (JBBP285-XS-Black)</name_ua>
+        <price>875</price>
+        <categoryId>1089</categoryId>
+        <country>Великобританія</country>
+        <description_ru>Рюкзак для ручной клади Bordlite 20л черный (JBBP285-XS-Black)</description_ru>
+        <description_ua>Рюкзак Bordlite JBBP285 - це яскравий та надзвичайно функціональний аксесуар від британського бренду, створений для максимального комфорту в дорозі. Завдяки чітким габаритам 40&amp;times;30&amp;times;20 см та об&amp;#39;єму у 20 літрів, ця модель ідеально відповідає суворим стандартам безкоштовної ручної поклажі більшості лоукост-авіаліній. Корпус виготовлений зі зносостійкого поліестеру, який надійно захищає вміст, не пропускаючи всередину воду та вологу під час негоди. Внутрішній простір організовано дуже зручно і містить два просторі широкі відділи на блискавці. Для безпечного перенесення ваших гаджетів усередині передбачено спеціальний захисний відсік для ноутбука. Швидкий доступ до документів, квитків чи серветок забезпечують дві додаткові фронтальні кишені на блискавці. Конструктивна особливість моделі полягає у наявності як верхньої, так і міцної бічної ручки, що дозволяє зручно переносити рюкзак у руках як дорожню сумку. М&amp;#39;які анатомічні лямки легко регулюються за розміром, забезпечуючи правильний розподіл ваги та знімаючи навантаження з плечей. Це ультралегкий (всього 0,5 кг) та стильний вибір для тих, хто прагне подорожувати організовано та без жодних переплат.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-dlia-ruchnoi-poklazhi-bordlite-20l-chornyi-jbbp285-xs-black-61968308440652_+d0bf933cfb.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-dlia-ruchnoi-poklazhi-bordlite-20l-chornyi-jbbp285-xs-black-82988613065670_+a6e860ec7b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-dlia-ruchnoi-poklazhi-bordlite-20l-chornyi-jbbp285-xs-black-66616487579158_+eb0aee70df.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-dlia-ruchnoi-poklazhi-bordlite-20l-chornyi-jbbp285-xs-black-19033285306055_+5a9ccee30b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-dlia-ruchnoi-poklazhi-bordlite-20l-chornyi-jbbp285-xs-black-46327272092800_+9fdeb94fbf.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-dlia-ruchnoi-poklazhi-bordlite-20l-chornyi-jbbp285-xs-black-14527074815770_+4245fc8034.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-dlia-ruchnoi-poklazhi-bordlite-20l-chornyi-jbbp285-xs-black-33832976935380_+a260bf2280.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Поліестер</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="Grant-XS-Black" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади Grant 35л черный (Grant-XS-Black)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі Grant 35л чорний (Grant-XS-Black)</name_ua>
+        <price>1073</price>
+        <categoryId>1089</categoryId>
+        <country>Китай</country>
+        <description_ru>Рюкзак для ручной клади Grant 35л черный (Grant-XS-Black)</description_ru>
+        <description_ua>Рюкзак Grant - це максимум простору, функціональності та надійності для подорожей. Завдяки значним розмірам (50х35х20 см) та солідному об&amp;#39;єму на 35 літрів, ця модель стане ідеальним вибором як для щоденних поїздок, так і для тривалих подорожей чи спорту. Головною перевагою рюкзака є його продумана ергономіка: конструкція налічує два просторих основних відділення та два додаткових малих відсіки для ідеального порядку. Всередині передбачена спеціальна захисна кишеня для ноутбука, а загальний об&amp;#39;єм дозволяє легко транспортувати документи та папки формату А4. Для дрібниць, які завжди мають бути під рукою, розроблені зручні фронтальні та бічні кишені. Рюкзак виконаний зі щільного водонепроникного поліестеру стриманого сірого кольору, що гарантує високу зносостійкість та захист ваших речей від будь-якої негоди. Особливу увагу приділено комфорту під час тривалого носіння завдяки анатомічній подушці на спині та системі вентиляції. Справжньою знахідкою для мандрівників стане інтегрована лямка для кріплення рюкзака на телескопічну ручку валізи. Це універсальне рішення у стилі унісекс, яке витримує навантаження до 5 кг та надійно підтримає вас у будь-якому життєвому ритмі.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-dlia-ruchnoi-poklazhi-grant-35l-chornyi-grant-xs-black-36523577611227_+1661ed63cb.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-dlia-ruchnoi-poklazhi-grant-35l-chornyi-grant-xs-black-25471440195556_+06b9f8dfaf.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-dlia-ruchnoi-poklazhi-grant-35l-chornyi-grant-xs-black-24865452520895_+c4a1aac499.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-dlia-ruchnoi-poklazhi-grant-35l-chornyi-grant-xs-black-55137666223158_+e499c4f635.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-dlia-ruchnoi-poklazhi-grant-35l-chornyi-grant-xs-black-59672770022717_+a4bbb00bfe.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-dlia-ruchnoi-poklazhi-grant-35l-chornyi-grant-xs-black-95860575246524_+e010195518.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-dlia-ruchnoi-poklazhi-grant-35l-chornyi-grant-xs-black-48576506117208_+35381ff6ac.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Поліестер</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="Grant-XS-Grey" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади Grant 35л серый (Grant-XS-Grey)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі Grant 35л сірий (Grant-XS-Grey)</name_ua>
+        <price>1073</price>
+        <categoryId>1089</categoryId>
+        <country>Китай</country>
+        <description_ru>Рюкзак для ручной клади Grant 35л серый (Grant-XS-Grey)</description_ru>
+        <description_ua>Рюкзак Grant - це максимум простору, функціональності та надійності для подорожей. Завдяки значним розмірам (50х35х20 см) та солідному об&amp;#39;єму на 35 літрів, ця модель стане ідеальним вибором як для щоденних поїздок, так і для тривалих подорожей чи спорту. Головною перевагою рюкзака є його продумана ергономіка: конструкція налічує два просторих основних відділення та два додаткових малих відсіки для ідеального порядку. Всередині передбачена спеціальна захисна кишеня для ноутбука, а загальний об&amp;#39;єм дозволяє легко транспортувати документи та папки формату А4. Для дрібниць, які завжди мають бути під рукою, розроблені зручні фронтальні та бічні кишені. Рюкзак виконаний зі щільного водонепроникного поліестеру стриманого сірого кольору, що гарантує високу зносостійкість та захист ваших речей від будь-якої негоди. Особливу увагу приділено комфорту під час тривалого носіння завдяки анатомічній подушці на спині та системі вентиляції. Справжньою знахідкою для мандрівників стане інтегрована лямка для кріплення рюкзака на телескопічну ручку валізи. Це універсальне рішення у стилі унісекс, яке витримує навантаження до 5 кг та надійно підтримає вас у будь-якому життєвому ритмі.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/35/riukzak-dlia-ruchnoi-poklazhi-grant-35l-siryi-grant-xs-grey-73596287183473_+7fbe026956.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/riukzak-dlia-ruchnoi-poklazhi-grant-35l-siryi-grant-xs-grey-75632785035244_+815afcccb4.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/riukzak-dlia-ruchnoi-poklazhi-grant-35l-siryi-grant-xs-grey-86778259729996_+0e368fa354.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/riukzak-dlia-ruchnoi-poklazhi-grant-35l-siryi-grant-xs-grey-32289026457029_+0a11be32a8.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/riukzak-dlia-ruchnoi-poklazhi-grant-35l-siryi-grant-xs-grey-31483994190498_+0a6dbd7cfd.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/riukzak-dlia-ruchnoi-poklazhi-grant-35l-siryi-grant-xs-grey-42430184827823_+d07c4939ae.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/riukzak-dlia-ruchnoi-poklazhi-grant-35l-siryi-grant-xs-grey-27715219576190_+d6c00029a8.jpg</picture>
+        <param name="Колір">Серый</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Поліестер</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="GoldBe-XS-Black" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади GoldBe 35л черный (GoldBe-XS-Black)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі GoldBe 35л чорний (GoldBe-XS-Black)</name_ua>
+        <price>1365</price>
+        <categoryId>1089</categoryId>
+        <country>Китай</country>
+        <description_ru>Рюкзак для ручной клади GoldBe 35л черный (GoldBe-XS-Black)</description_ru>
+        <description_ua>Рюкзак GoldBe - це втілення автентичного стилю, максимальної міцності та безкомпромісної практичності для щоденних викликів. Завдяки своїм значним габаритам (50х35х20 см) та солідному об&amp;#39;єму на 35 літрів, цей рюкзак стане незамінним супутником у динамічному міському ритмі, подорожах чи поїздках. Унікальною фішкою моделі є її матеріал - щільний і надійний брезент (джинсова тканина), який не лише надає виробу ефектного вигляду, але й гарантує феноменальну стійкість до зношування. Продумана ергономіка внутрішнього простору пропонує два великих основних відділення, де можна без зусиль розмежувати особисті речі від документів чи гаджетів. Організацію найдрібніших аксесуарів забезпечує унікальна система з шести додаткових малих відсіків, завдяки якій кожен предмет матиме своє фіксоване місце. Швидкий доступ до найважливіших речей гарантують місткі фронтальні кишені на блискавках та зручні бічні кишені для термочашки чи пляшки з водою. Особливу увагу конструктори приділили комфорту під час тривалого використання, забезпечивши модель м&amp;#39;якою тканинною спинкою. Головною перевагою для тих, хто переносить значну вагу, стане інтегрована грудна підтримка, яка рівномірно розподіляє навантаження та допомагає зберігати правильну поставу. Надійна фурнітура та міцні замки розраховані на активну експлуатацію в будь-яких погодних умовах. Цей універсальний варіант у стилі унісекс бездоганно підійде як для дорослих, так і для підлітків, які цінують невимушений кежуал-дизайн. Це бездоганний та стильний вибір для сучасної людини, яка прагне залишатися організованою та підкреслити свій сильний характер у будь-якій ситуації.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/36/riukzak-dlia-ruchnoi-poklazhi-goldbe-35l-chornyi-goldbe-xs-black-54647558282665_+d016c700e4.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/36/riukzak-dlia-ruchnoi-poklazhi-goldbe-35l-chornyi-goldbe-xs-black-12871885865434_+dff670cff5.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/36/riukzak-dlia-ruchnoi-poklazhi-goldbe-35l-chornyi-goldbe-xs-black-97196485371497_+1482622974.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/36/riukzak-dlia-ruchnoi-poklazhi-goldbe-35l-chornyi-goldbe-xs-black-24521191291769_+db3b53e847.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/36/riukzak-dlia-ruchnoi-poklazhi-goldbe-35l-chornyi-goldbe-xs-black-42786828501518_+1adafe23f3.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/36/riukzak-dlia-ruchnoi-poklazhi-goldbe-35l-chornyi-goldbe-xs-black-76733177692231_+ae6a8574dd.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Брезент</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="GoldBe-XS-Khaki" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади GoldBe 35л хаки (GoldBe-XS-Khaki)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі GoldBe 35л хакі (GoldBe-XS-Khaki)</name_ua>
+        <price>1365</price>
+        <categoryId>1089</categoryId>
+        <country>Китай</country>
+        <description_ru>Рюкзак для ручной клади GoldBe 35л хаки (GoldBe-XS-Khaki)</description_ru>
+        <description_ua>Рюкзак GoldBe - це втілення автентичного стилю, максимальної міцності та безкомпромісної практичності для щоденних викликів. Завдяки своїм значним габаритам (50х35х20 см) та солідному об&amp;#39;єму на 35 літрів, цей рюкзак стане незамінним супутником у динамічному міському ритмі, подорожах чи поїздках. Унікальною фішкою моделі є її матеріал - щільний і надійний брезент (джинсова тканина), який не лише надає виробу ефектного вигляду, але й гарантує феноменальну стійкість до зношування. Продумана ергономіка внутрішнього простору пропонує два великих основних відділення, де можна без зусиль розмежувати особисті речі від документів чи гаджетів. Організацію найдрібніших аксесуарів забезпечує унікальна система з шести додаткових малих відсіків, завдяки якій кожен предмет матиме своє фіксоване місце. Швидкий доступ до найважливіших речей гарантують місткі фронтальні кишені на блискавках та зручні бічні кишені для термочашки чи пляшки з водою. Особливу увагу конструктори приділили комфорту під час тривалого використання, забезпечивши модель м&amp;#39;якою тканинною спинкою. Головною перевагою для тих, хто переносить значну вагу, стане інтегрована грудна підтримка, яка рівномірно розподіляє навантаження та допомагає зберігати правильну поставу. Надійна фурнітура та міцні замки розраховані на активну експлуатацію в будь-яких погодних умовах. Цей універсальний варіант у стилі унісекс бездоганно підійде як для дорослих, так і для підлітків, які цінують невимушений кежуал-дизайн. Це бездоганний та стильний вибір для сучасної людини, яка прагне залишатися організованою та підкреслити свій сильний характер у будь-якій ситуації.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-goldbe-35l-khaki-goldbe-xs-khaki-85724824782452_+58caab5ad5.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-goldbe-35l-khaki-goldbe-xs-khaki-33544073715799_+e495f67df8.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-goldbe-35l-khaki-goldbe-xs-khaki-25129362963807_+ba6e56cd1d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-goldbe-35l-khaki-goldbe-xs-khaki-68580150094172_+37fd7072e7.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-goldbe-35l-khaki-goldbe-xs-khaki-75690682767272_+4cada7e4d9.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-goldbe-35l-khaki-goldbe-xs-khaki-78061654450547_+7dfc179787.jpg</picture>
+        <param name="Колір">Зелёный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Брезент</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
       </offer>
       <offer id="DPC-Burgundy-M" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -9619,6 +9633,27 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
       </offer>
+      <offer id="HIMAWARI-XS-Red" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади HIMAWARI 17л красный (HIMAWARI-XS-Red)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л червоний (HIMAWARI-XS-Red)</name_ua>
+        <price>1595</price>
+        <categoryId>1089</categoryId>
+        <vendor>HIMAWARI</vendor>
+        <country>Япония</country>
+        <description_ru>Рюкзак для ручной клади HIMAWARI 17л красный (HIMAWARI-XS-Red)</description_ru>
+        <description_ua>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chervonyi-himawari-xs-red-70280970195137_+973a14fece.jpg</picture>
+        <param name="Колір">Красный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Нейлон</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
       <offer id="NPC-Dark-Green-M" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен темно-зеленый NPC-Dark-Green-M</name_ru>
@@ -10059,6 +10094,29 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="160PC-M-Black" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан из поликарбоната Wings 160PC средний 63л черный (160PC-M-Black)</name_ru>
+        <name_ua>Валіза з полікарбонату Wings 160PC середня 63л чорна (160PC-M-Black)</name_ua>
+        <price>2700</price>
+        <categoryId>1061</categoryId>
+        <vendor>Wings</vendor>
+        <description_ru>Чемодан из поликарбоната Wings 160PC средний 63л черный (160PC-M-Black)</description_ru>
+        <description_ua>Валіза з полікарбонату Wings 160PC в розмірі Л - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Завдяки використанню 100% полікарбонату валіза поєднує в собі виняткову міцність та гнучкість корпусних деталей. Така еластичність гарантує максимальну довговічність та надійний захист ваших речей у найекстремальніших умовах. Валіза оснащена посиленою системою поворотних коліс, що дозволяє плавно маневрувати навіть при повному завантаженні. Для безпеки передбачено вбудований кодовий замок, а продуманий внутрішній простір із фіксаторами допоможе акуратно організувати багаж. Вага завантаження становить 22-25 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/15/87198512886104_+25556b3356.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/15/48754079387111_+1b06f0d747.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/15/53399774757678_+f397eb1524.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/15/17287642559878_+be85f2a040.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/15/18187528888144_+1acc6022fa.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/15/36153992174590_+e521d9158a.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/15/89146325740630_+7742e572bb.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Валізи</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Середні (50 – 89.9 л)</param>
       </offer>
       <offer id="160PC-M-RoseGold" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -10905,7 +10963,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-L-Black" available="true">
-        <quantity_in_stock>13</quantity_in_stock>
+        <quantity_in_stock>12</quantity_in_stock>
         <name_ru>Чемодан с полипропилена Snowball 33703 большой 101л черный (33703-L-Black)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 велика 101л чорна (33703-L-Black)</name_ua>
         <price>2678</price>
@@ -11489,7 +11547,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="WN01-L-Creme" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан Wings WN01 большой 97л кремовый (WN01-L-Creme)</name_ru>
         <name_ua>Валіза Wings WN01 велика 97л кремова (WN01-L-Creme)</name_ua>
         <price>2750</price>
@@ -11680,7 +11738,7 @@
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
       </offer>
       <offer id="33703-M-Champagne" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Snowball 33703 средний 69л шампань (33703-М-Champagne)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 середня 69л шампань (33703-М-Champagne)</name_ua>
         <price>3100</price>
@@ -12092,7 +12150,7 @@
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
       </offer>
       <offer id="HWF01-M-Champagne" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Чемодан Wings HWF01 средний 63л шампань (HWF01-M-Champagne)</name_ru>
         <name_ua>Валіза Wings HWF01 середня 63л шампань (HWF01-M-Champagne)</name_ua>
         <price>2800</price>
@@ -13385,7 +13443,7 @@
         <param name="Тип закриття">На блискавці</param>
       </offer>
       <offer id="VPC-Prozoryi-S" available="true">
-        <quantity_in_stock>12</quantity_in_stock>
+        <quantity_in_stock>13</quantity_in_stock>
         <name_ru>Чехол для чемодана винил VPC-Prozoryi-S</name_ru>
         <name_ua>Чохол для валізи вініл VPC-Prozoryi-S</name_ua>
         <price>400</price>
@@ -13433,7 +13491,7 @@
         <param name="Тип закриття">На блискавці</param>
       </offer>
       <offer id="NPC-Black-M" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен NPC-Black-M</name_ru>
         <name_ua>Чохол для валізи неопрен NPC-Black-M</name_ua>
         <price>600</price>
@@ -13509,6 +13567,102 @@
         <param name="Колір">Синий</param>
         <param name="Тип">Чехол</param>
         <param name="Матеріал корпусу">Неопрен</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+      </offer>
+      <offer id="DPC-Yellow-M" available="true">
+        <quantity_in_stock>6</quantity_in_stock>
+        <name_ru>Чехол для чемодана дайвинг DPC-Yellow-M</name_ru>
+        <name_ua>Чохол для валізи дайвінг DPC-Yellow-M</name_ua>
+        <price>500</price>
+        <categoryId>1086</categoryId>
+        <country>Україна</country>
+        <description_ru>Чехол для чемодана дайвинг DPC-Yellow-M</description_ru>
+        <description_ua>Чохол для валізи дайвінг DPC-Yellow-M</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/48/67281803283937_+6f33487b36.jpg</picture>
+        <param name="Колір">Жёлтый</param>
+        <param name="Тип">Чехол</param>
+        <param name="Матеріал корпусу">Дайвинг</param>
+        <param name="Об'єм">Середні (50 – 89.9 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+      </offer>
+      <offer id="DPC-Blue-L" available="true">
+        <quantity_in_stock>6</quantity_in_stock>
+        <name_ru>Чехол для чемодана дайвинг DPC-Blue-L</name_ru>
+        <name_ua>Чохол для валізи дайвінг DPC-Blue-L</name_ua>
+        <price>500</price>
+        <categoryId>1086</categoryId>
+        <country>Україна</country>
+        <description_ru>Чехол для чемодана дайвинг DPC-Blue-L</description_ru>
+        <description_ua>Чохол для валізи дайвінг DPC-Blue-L</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/49/28775790471695_+ff8b8ffb34.jpg</picture>
+        <param name="Колір">Темно-синий</param>
+        <param name="Тип">Чехол</param>
+        <param name="Матеріал корпусу">Дайвинг</param>
+        <param name="Об'єм">Великі (90 - 100 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+      </offer>
+      <offer id="DPC-Blue-M" available="true">
+        <quantity_in_stock>8</quantity_in_stock>
+        <name_ru>Чехол для чемодана дайвинг DPC-Blue-M</name_ru>
+        <name_ua>Чохол для валізи дайвінг DPC-Blue-M</name_ua>
+        <price>500</price>
+        <categoryId>1086</categoryId>
+        <country>Україна</country>
+        <description_ru>Чехол для чемодана дайвинг DPC-Blue-M</description_ru>
+        <description_ua>Чохол для валізи дайвінг DPC-Blue-M</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/1/41808620605639_+f555d64f89.jpg</picture>
+        <param name="Колір">Темно-синий</param>
+        <param name="Тип">Чехол</param>
+        <param name="Матеріал корпусу">Дайвинг</param>
+        <param name="Об'єм">Середні (50 – 89.9 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+      </offer>
+      <offer id="DPC-Blue-S" available="true">
+        <quantity_in_stock>10</quantity_in_stock>
+        <name_ru>Чехол для чемодана дайвинг DPC-Blue-S</name_ru>
+        <name_ua>Чохол для валізи дайвінг DPC-Blue-S</name_ua>
+        <price>500</price>
+        <categoryId>1086</categoryId>
+        <country>Україна</country>
+        <description_ru>Чехол для чемодана дайвинг DPC-Blue-S</description_ru>
+        <description_ua>Чохол для валізи дайвінг DPC-Blue-S</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/3/14820154181061_+2a1185bdfe.jpg</picture>
+        <param name="Колір">Темно-синий</param>
+        <param name="Тип">Чехол</param>
+        <param name="Матеріал корпусу">Дайвинг</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+      </offer>
+      <offer id="DPC-Purple-S" available="true">
+        <quantity_in_stock>12</quantity_in_stock>
+        <name_ru>Чехол для чемодана дайвинг DPC-Purple-S</name_ru>
+        <name_ua>Чохол для валізи дайвінг DPC-Purple-S</name_ua>
+        <price>500</price>
+        <categoryId>1086</categoryId>
+        <country>Україна</country>
+        <description_ru>Чехол для чемодана дайвинг DPC-Purple-S</description_ru>
+        <description_ua>Чохол для валізи дайвінг DPC-Purple-S</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/4/99623006529559_+579e9f37ae.jpg</picture>
+        <param name="Колір">Сиреневый</param>
+        <param name="Тип">Чехол</param>
+        <param name="Матеріал корпусу">Дайвинг</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+      </offer>
+      <offer id="DPC-Elektryk-XS" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чехол для чемодана дайвинг DPC-Electric-XS</name_ru>
+        <name_ua>Чохол для валізи дайвінг DPC-Electric-XS</name_ua>
+        <price>450</price>
+        <categoryId>1086</categoryId>
+        <country>Україна</country>
+        <description_ru>Чехол для чемодана дайвинг DPC-Electric-XS</description_ru>
+        <description_ua>Чохол для валізи дайвінг DPC-Electric-XS</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/8/33569503093921_+6798f9fcdc.jpg</picture>
+        <param name="Колір">Синий</param>
+        <param name="Тип">Чехол</param>
+        <param name="Матеріал корпусу">Дайвинг</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
         <param name="Тип закриття">На блискавці</param>
       </offer>
