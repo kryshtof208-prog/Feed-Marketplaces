@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-01 00:11">
+<yml_catalog date="2026-10-01 18:11">
   <offers>
     <offer id="33703-L-Black" available="true">
       <name lang="ru">Чемодан с полипропилена Snowball 33703 большой 101л черный (33703-L-Black)</name>
@@ -3290,7 +3290,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="HIMAWARI-XS-Blue" available="false">
+    <offer id="HIMAWARI-XS-Blue" available="true">
       <name lang="ru">Рюкзак для ручной клади HIMAWARI 17л синий (HIMAWARI-XS-Blue)</name>
       <name lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л синій (HIMAWARI-XS-Blue)</name>
       <price>1595</price>
@@ -3313,7 +3313,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="HIMAWARI-XS-Red" available="false">
+    <offer id="HIMAWARI-XS-Red" available="true">
       <name lang="ru">Рюкзак для ручной клади HIMAWARI 17л красный (HIMAWARI-XS-Red)</name>
       <name lang="ua">Рюкзак для ручної поклажі HIMAWARI 17л червоний (HIMAWARI-XS-Red)</name>
       <price>1595</price>
@@ -3434,7 +3434,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="Leon-XS-Black" available="false">
+    <offer id="Leon-XS-Black" available="true">
       <name lang="ru">Рюкзак для ручной клади Leon 24л черный (Leon-XS-Black)</name>
       <name lang="ua">Рюкзак для ручної поклажі Leon 24л чорний (Leon-XS-Black)</name>
       <price>2700</price>
@@ -8051,47 +8051,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="D01-XS-Sailor" available="false">
-      <name lang="ru">Детский чемодан D01 мини 29л желтый (D01-XS-Sailor)</name>
-      <name lang="ua">Дитяча валіза D01 міні 29л жовта (D01-XS-Sailor)</name>
-      <price>1500</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <description lang="ru">Детский чемодан D01 мини 29л динозаврик (D01-XS-Dinosaur)</description>
-      <description lang="ua">Дитяча валіза D01 міні 29л динозаврик (D01-XS-Dinosaur)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/23/24534662427440_+c82432a4c4.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/23/91729061267415_+e9b0bb6bee.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/23/81864485172934_+fe640cba0e.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/23/32034267761711_+0050f30912.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/23/82365911759538_+824d2213e5.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/23/82324652795786_+f3ff357fdd.png</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <weight>2000</weight>
-      <param name="Вага" paramcode="150">2</param>
-      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
-      <param name="Об'єм" paramcode="104">29</param>
-      <height>450</height>
-      <param name="Висота" paramcode="110">45</param>
-      <width>370</width>
-      <param name="Ширина" paramcode="111">37</param>
-      <length>240</length>
-      <param name="Глибина" paramcode="112">24</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="bb2cdbcc657af3ddad8c2eed3c72859c">жовтий</param>
-      <param name="Колір виробника" paramcode="78" valuecode="ji7xemhv">жовтий</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
-    <offer id="D01-XS-Mermaid" available="false">
+    <offer id="D01-XS-Mermaid" available="true">
       <name lang="ru">Детский чемодан D01 мини 29л розовый (D01-XS-Mermaid)</name>
       <name lang="ua">Дитяча валіза D01 міні 29л рожева (D01-XS-Mermaid)</name>
       <price>2233</price>
@@ -8126,7 +8086,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="D01-XS-Elsa" available="false">
+    <offer id="D01-XS-Elsa" available="true">
       <name lang="ru">Детский чемодан D01 мини 29л розовато-голубой (D01-XS-Elsa)</name>
       <name lang="ua">Дитяча валіза D01 міні 29л рожево-блакитна (D01-XS-Elsa)</name>
       <price>2233</price>
@@ -8159,7 +8119,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="D01-XS-Elsa-Blue" available="false">
+    <offer id="D01-XS-Elsa-Blue" available="true">
       <name lang="ru">Детский чемодан D01 мини 29л голубой (D01-XS-Elsa-Blue)</name>
       <name lang="ua">Дитяча валіза D01 міні 29л блакитна (D01-XS-Elsa-Blue)</name>
       <price>1985</price>
@@ -8183,6 +8143,46 @@
       <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
       <param name="Базовий колір" paramcode="12097" valuecode="1bb311a4e0544d0fd17fe471fa81299c">блакитний</param>
       <param name="Колір виробника" paramcode="78" valuecode="u2rqrf0q">блакитний</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="D01-XS-Sailor" available="false">
+      <name lang="ru">Детский чемодан D01 мини 29л желтый (D01-XS-Sailor)</name>
+      <name lang="ua">Дитяча валіза D01 міні 29л жовта (D01-XS-Sailor)</name>
+      <price>1500</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <description lang="ru">Детский чемодан D01 мини 29л динозаврик (D01-XS-Dinosaur)</description>
+      <description lang="ua">Дитяча валіза D01 міні 29л динозаврик (D01-XS-Dinosaur)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/23/24534662427440_+c82432a4c4.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/23/91729061267415_+e9b0bb6bee.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/23/81864485172934_+fe640cba0e.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/23/32034267761711_+0050f30912.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/23/82365911759538_+824d2213e5.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/23/82324652795786_+f3ff357fdd.png</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <weight>2000</weight>
+      <param name="Вага" paramcode="150">2</param>
+      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
+      <param name="Об'єм" paramcode="104">29</param>
+      <height>450</height>
+      <param name="Висота" paramcode="110">45</param>
+      <width>370</width>
+      <param name="Ширина" paramcode="111">37</param>
+      <length>240</length>
+      <param name="Глибина" paramcode="112">24</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="bb2cdbcc657af3ddad8c2eed3c72859c">жовтий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ji7xemhv">жовтий</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -8375,15 +8375,15 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="2204-XS-Elsa-Blue" available="true">
-      <name lang="ru">Детский чемодан 2204 мини 27л голубой (2204-XS-Elsa-Blue)</name>
-      <name lang="ua">Дитяча валіза 2204 міні 27л блакитна (2204-XS-Elsa-Blue)</name>
+    <offer id="2204-XS-Anna-Elsa" available="true">
+      <name lang="ru">Детский чемодан 2204 мини 27л розовый (2204-XS-Anna-Elsa)</name>
+      <name lang="ua">Дитяча валіза 2204 міні 27л рожева (2204-XS-Anna-Elsa)</name>
       <price>2035</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <description lang="ru">Детский чемодан 2204 мини 27л розовый (2204-XS-Anna-Elsa)</description>
       <description lang="ua">Дитяча валіза 2204 міні 27л рожева (2204-XS-Anna-Elsa)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/46/dytiacha-valiza-2204-mini-27l-blakytna-2204-xs-elsa-blue-22306281298049_+b39f62d206.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/45/dytiacha-valiza-2204-mini-27l-rozheva-2204-xs-anna-elsa-86486699004847_+66ca21da43.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <weight>1000</weight>
       <param name="Вага" paramcode="150">1</param>
@@ -8397,8 +8397,43 @@
       <param name="Глибина" paramcode="112">21</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="1bb311a4e0544d0fd17fe471fa81299c">блакитний</param>
-      <param name="Колір виробника" paramcode="78" valuecode="u2rqrf0q">блакитний</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="2204-XS-Hello-Kitty" available="true">
+      <name lang="ru">Детский чемодан 2204 мини 22л розовый (2204-XS-Hello-Kitty)</name>
+      <name lang="ua">Дитяча валіза 2204 міні 22л рожева (2204-XS-Hello-Kitty)</name>
+      <price>2035</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <description lang="ru">Детский чемодан 2204 мини 27л розовый (2204-XS-Anna-Elsa)</description>
+      <description lang="ua">Дитяча валіза 2204 міні 27л рожева (2204-XS-Anna-Elsa)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/47/dytiacha-valiza-2204-mini-22l-rozheva-2204-xs-hello-kitty-56573342218892_+fd7f2b2ef7.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <weight>1000</weight>
+      <param name="Вага" paramcode="150">1</param>
+      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
+      <param name="Об'єм" paramcode="104">22</param>
+      <height>410</height>
+      <param name="Висота" paramcode="110">41</param>
+      <width>270</width>
+      <param name="Ширина" paramcode="111">27</param>
+      <length>210</length>
+      <param name="Глибина" paramcode="112">21</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -8561,15 +8596,15 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="2204-XS-Anna-Elsa" available="false">
-      <name lang="ru">Детский чемодан 2204 мини 27л розовый (2204-XS-Anna-Elsa)</name>
-      <name lang="ua">Дитяча валіза 2204 міні 27л рожева (2204-XS-Anna-Elsa)</name>
+    <offer id="2204-XS-Elsa-Blue" available="false">
+      <name lang="ru">Детский чемодан 2204 мини 27л голубой (2204-XS-Elsa-Blue)</name>
+      <name lang="ua">Дитяча валіза 2204 міні 27л блакитна (2204-XS-Elsa-Blue)</name>
       <price>2035</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <description lang="ru">Детский чемодан 2204 мини 27л розовый (2204-XS-Anna-Elsa)</description>
       <description lang="ua">Дитяча валіза 2204 міні 27л рожева (2204-XS-Anna-Elsa)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/45/dytiacha-valiza-2204-mini-27l-rozheva-2204-xs-anna-elsa-86486699004847_+66ca21da43.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/46/dytiacha-valiza-2204-mini-27l-blakytna-2204-xs-elsa-blue-22306281298049_+b39f62d206.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <weight>1000</weight>
       <param name="Вага" paramcode="150">1</param>
@@ -8583,43 +8618,8 @@
       <param name="Глибина" paramcode="112">21</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
-      <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
-    <offer id="2204-XS-Hello-Kitty" available="false">
-      <name lang="ru">Детский чемодан 2204 мини 22л розовый (2204-XS-Hello-Kitty)</name>
-      <name lang="ua">Дитяча валіза 2204 міні 22л рожева (2204-XS-Hello-Kitty)</name>
-      <price>2035</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <description lang="ru">Детский чемодан 2204 мини 27л розовый (2204-XS-Anna-Elsa)</description>
-      <description lang="ua">Дитяча валіза 2204 міні 27л рожева (2204-XS-Anna-Elsa)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/47/dytiacha-valiza-2204-mini-22l-rozheva-2204-xs-hello-kitty-56573342218892_+fd7f2b2ef7.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <weight>1000</weight>
-      <param name="Вага" paramcode="150">1</param>
-      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
-      <param name="Об'єм" paramcode="104">22</param>
-      <height>410</height>
-      <param name="Висота" paramcode="110">41</param>
-      <width>270</width>
-      <param name="Ширина" paramcode="111">27</param>
-      <length>210</length>
-      <param name="Глибина" paramcode="112">21</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
-      <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="1bb311a4e0544d0fd17fe471fa81299c">блакитний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="u2rqrf0q">блакитний</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -9597,52 +9597,6 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="65903-L-Gray" available="true">
-      <name lang="ru">Чемодан с расширением Carbon 65903 большой 100л серый (65903-L-Gray)</name>
-      <name lang="ua">Валіза з розширенням Carbon 65903 велика 100л сіра (65903-L-Gray)</name>
-      <price>2850</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="yxbyyq66p0qdfqvq">Carbon</vendor>
-      <param name="Бренд" paramcode="5" valuecode="yxbyyq66p0qdfqvq">Carbon</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан с расширением Carbon 65903 большой 100л серый (65903-L-Gray)</description>
-      <description lang="ua">Валіза з розширенням Carbon 65903 велика 100л сіра (65903-L-Gray)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-92031405210698_+179507fc95.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-94706259234701_+c6bcb81803.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-43706488947424_+331fc10069.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-69432119749833_+7aba33420b.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-92985897987206_+deca6ffb6d.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-76072374202985_+ab3df2d7e5.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-72756014357993_+e34cf774ed.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <weight>4000</weight>
-      <param name="Вага" paramcode="150">4</param>
-      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
-      <param name="Об'єм" paramcode="104">100</param>
-      <height>750</height>
-      <param name="Висота" paramcode="110">75</param>
-      <width>500</width>
-      <param name="Ширина" paramcode="111">50</param>
-      <length>320</length>
-      <param name="Глибина" paramcode="112">32</param>
-      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
-      <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
     <offer id="65903-L-Milk" available="true">
       <name lang="ru">Чемодан с расширением Carbon 65903 большой 100л кремовый (65903-L-Milk)</name>
       <name lang="ua">Валіза з розширенням Carbon 65903 велика 100л кремова (65903-L-Milk)</name>
@@ -9724,6 +9678,52 @@
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
       <param name="Базовий колір" paramcode="12097" valuecode="1bb311a4e0544d0fd17fe471fa81299c">блакитний</param>
       <param name="Колір виробника" paramcode="78" valuecode="u2rqrf0q">блакитний</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="65903-L-Gray" available="false">
+      <name lang="ru">Чемодан с расширением Carbon 65903 большой 100л серый (65903-L-Gray)</name>
+      <name lang="ua">Валіза з розширенням Carbon 65903 велика 100л сіра (65903-L-Gray)</name>
+      <price>2850</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="yxbyyq66p0qdfqvq">Carbon</vendor>
+      <param name="Бренд" paramcode="5" valuecode="yxbyyq66p0qdfqvq">Carbon</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан с расширением Carbon 65903 большой 100л серый (65903-L-Gray)</description>
+      <description lang="ua">Валіза з розширенням Carbon 65903 велика 100л сіра (65903-L-Gray)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-92031405210698_+179507fc95.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-94706259234701_+c6bcb81803.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-43706488947424_+331fc10069.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-69432119749833_+7aba33420b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-92985897987206_+deca6ffb6d.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-76072374202985_+ab3df2d7e5.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-72756014357993_+e34cf774ed.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <weight>4000</weight>
+      <param name="Вага" paramcode="150">4</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Об'єм" paramcode="104">100</param>
+      <height>750</height>
+      <param name="Висота" paramcode="110">75</param>
+      <width>500</width>
+      <param name="Ширина" paramcode="111">50</param>
+      <length>320</length>
+      <param name="Глибина" paramcode="112">32</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -14656,6 +14656,50 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
+    <offer id="42203-S-DarkBlue" available="true">
+      <name lang="ru">Чемодан с расширением Madisson 42203 малый 39л темно-синий (42203-S-DarkBlue)</name>
+      <name lang="ua">Валіза з розширенням Madisson 42203 мала 39л темно-синя (42203-S-DarkBlue)</name>
+      <price>1500</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
+      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан с расширением Madisson 42203 большой 103л черный (42203-L-Black)</description>
+      <description lang="ua">Валіза з розширенням Madisson 42203 велика 103л чорна (42203-L-Black)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/27/58483992101181_+58159ebff2.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/24690353935543_+3485283f1b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/12647136890298_+c138c3c794.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/41851272957518_+5339390f05.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/64979647517897_+41faa8207d.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/43224821848339_+34a905d30b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/47023777775444_+dbdc3365c0.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <weight>3000</weight>
+      <param name="Вага" paramcode="150">3</param>
+      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
+      <param name="Об'єм" paramcode="104">39</param>
+      <height>550</height>
+      <param name="Висота" paramcode="110">55</param>
+      <width>380</width>
+      <param name="Ширина" paramcode="111">38</param>
+      <length>230</length>
+      <param name="Глибина" paramcode="112">23</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+      <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
     <offer id="42203-S-Dark-green" available="true">
       <name lang="ru">Чемодан с расширением Madisson 42203 малый 39л зеленый (42203-S-Dark-green)</name>
       <name lang="ua">Валіза з розширенням Madisson 42203 мала 39л зелена (42203-S-Dark-green)</name>
@@ -14734,50 +14778,6 @@
       <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
       <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
       <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
-    <offer id="42203-S-DarkBlue" available="false">
-      <name lang="ru">Чемодан с расширением Madisson 42203 малый 39л темно-синий (42203-S-DarkBlue)</name>
-      <name lang="ua">Валіза з розширенням Madisson 42203 мала 39л темно-синя (42203-S-DarkBlue)</name>
-      <price>1500</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
-      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан с расширением Madisson 42203 большой 103л черный (42203-L-Black)</description>
-      <description lang="ua">Валіза з розширенням Madisson 42203 велика 103л чорна (42203-L-Black)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/27/58483992101181_+58159ebff2.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/27/24690353935543_+3485283f1b.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/27/12647136890298_+c138c3c794.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/27/41851272957518_+5339390f05.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/27/64979647517897_+41faa8207d.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/27/43224821848339_+34a905d30b.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/27/47023777775444_+dbdc3365c0.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <weight>3000</weight>
-      <param name="Вага" paramcode="150">3</param>
-      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
-      <param name="Об'єм" paramcode="104">39</param>
-      <height>550</height>
-      <param name="Висота" paramcode="110">55</param>
-      <width>380</width>
-      <param name="Ширина" paramcode="111">38</param>
-      <length>230</length>
-      <param name="Глибина" paramcode="112">23</param>
-      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
-      <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -20552,7 +20552,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="65903-Set-Gray" available="true">
+    <offer id="65903-Set-Gray" available="false">
       <name lang="ru">Набор чемоданов с расширением Carbon 65903 4 в 1 серый (65903-Set-Gray)</name>
       <name lang="ua">Набір валіз з розширенням Carbon 65903 4 в 1 сірий (65903-Set-Gray)</name>
       <price>7125</price>
@@ -22685,7 +22685,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="PHX01-M-Blue" available="true">
+    <offer id="PHX01-M-Blue" available="false">
       <name lang="ru">Чемодан из полипропилена Wings PHX01 средний 60л синий (PHX01-M-Blue)</name>
       <name lang="ua">Валіза з поліпропілену Wings PHX01 середня 60л синя (PHX01-M-Blue)</name>
       <price>2200</price>
@@ -23140,7 +23140,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="PHX01-Set-Blue" available="true">
+    <offer id="PHX01-Set-Blue" available="false">
       <name lang="ru">Набор чемоданов из полипропилена Wings PHX01 3 в 1 синий (PHX01-Set-Blue)</name>
       <name lang="ua">Набір валіз з поліпропілену Wings PHX01 3 в 1 синій (PHX01-Set-Blue)</name>
       <price>5250</price>
@@ -24741,6 +24741,180 @@
       <picture>https://sklad-valiz.com.ua/content/images/40/riukzak-dlia-ruchnoi-poklazhi-809-1-23l-chornyi-809-1-xs-black-79980961767297_+cdf243df4c.jpg</picture>
       <param name="Об'єм" paramcode="104">23</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="Ryder-XS-Black" available="true">
+      <name lang="ru">Рюкзак для ручной клади Ryder 20л черный (Ryder-XS-Black)</name>
+      <name lang="ua">Рюкзак для ручної поклажі Ryder 20л чорний (Ryder-XS-Black)</name>
+      <price>2545</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <description lang="ru">Рюкзак для ручной клади Ryder 20л черный (Ryder-XS-Black)</description>
+      <description lang="ua">Рюкзак для ручної поклажі Ryder 20л чорний (Ryder-XS-Black)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/50/riukzak-dlia-ruchnoi-poklazhi-ryder-20l-chornyi-ryder-xs-black-63431343269388_+d43e78e20f.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/50/riukzak-dlia-ruchnoi-poklazhi-ryder-20l-chornyi-ryder-xs-black-79159094698446_+970965737e.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/50/riukzak-dlia-ruchnoi-poklazhi-ryder-20l-chornyi-ryder-xs-black-26816482756912_+fb5c42375a.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/50/riukzak-dlia-ruchnoi-poklazhi-ryder-20l-chornyi-ryder-xs-black-15147739052339_+776d4326f8.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/50/riukzak-dlia-ruchnoi-poklazhi-ryder-20l-chornyi-ryder-xs-black-36845158880867_+6cdec75735.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/50/riukzak-dlia-ruchnoi-poklazhi-ryder-20l-chornyi-ryder-xs-black-78220631172442_+f62b7eae19.jpg</picture>
+      <param name="Об'єм" paramcode="104">20</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="Eliot-XS-Black" available="true">
+      <name lang="ru">Рюкзак для ручной клади Eliot 22л черный (Eliot-XS-Black)</name>
+      <name lang="ua">Рюкзак для ручної поклажі Eliot 22л чорний (Eliot-XS-Black)</name>
+      <price>2360</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <description lang="ru">Рюкзак для ручной клади Eliot 22л черный (Eliot-XS-Black)</description>
+      <description lang="ua">Рюкзак для ручної поклажі Eliot 22л чорний (Eliot-XS-Black)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/1/riukzak-dlia-ruchnoi-poklazhi-eliot-22l-chornyi-eliot-xs-black-63344273226417_+28d744e220.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/riukzak-dlia-ruchnoi-poklazhi-eliot-22l-chornyi-eliot-xs-black-91256162644097_+c5a0804d21.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/riukzak-dlia-ruchnoi-poklazhi-eliot-22l-chornyi-eliot-xs-black-15297950114247_+a6ee71899a.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/riukzak-dlia-ruchnoi-poklazhi-eliot-22l-chornyi-eliot-xs-black-21691472916856_+083a57a0de.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/riukzak-dlia-ruchnoi-poklazhi-eliot-22l-chornyi-eliot-xs-black-89338007282526_+9d47d052b7.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/riukzak-dlia-ruchnoi-poklazhi-eliot-22l-chornyi-eliot-xs-black-12446378562439_+3cfdaeeec5.jpg</picture>
+      <param name="Об'єм" paramcode="104">22</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="Techno-XS-Black" available="true">
+      <name lang="ru">Рюкзак для ручной клади Techno 18л черный (Techno-XS-Black)</name>
+      <name lang="ua">Рюкзак для ручної поклажі Techno 18л чорний (Techno-XS-Black)</name>
+      <price>1995</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <description lang="ru">Рюкзак для ручной клади Techno 18л черный (Techno-XS-Black)</description>
+      <description lang="ua">Рюкзак для ручної поклажі Techno 18л чорний (Techno-XS-Black)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/2/riukzak-dlia-ruchnoi-poklazhi-techno-18l-chornyi-techno-xs-black-34166685479672_+f185019937.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/2/riukzak-dlia-ruchnoi-poklazhi-techno-18l-chornyi-techno-xs-black-63061343985344_+4cb9ca5146.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/2/riukzak-dlia-ruchnoi-poklazhi-techno-18l-chornyi-techno-xs-black-83301360404724_+31c0154d4a.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/2/riukzak-dlia-ruchnoi-poklazhi-techno-18l-chornyi-techno-xs-black-70202085035276_+ec8b46a9e7.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/2/riukzak-dlia-ruchnoi-poklazhi-techno-18l-chornyi-techno-xs-black-26702650922015_+bbcaa120c5.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/2/riukzak-dlia-ruchnoi-poklazhi-techno-18l-chornyi-techno-xs-black-11165005974202_+06c2fbd423.jpg</picture>
+      <param name="Об'єм" paramcode="104">18</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="Explorer-XS-Black" available="true">
+      <name lang="ru">Рюкзак для ручной клади Explorer 20л черный (Explorer-XS-Black)</name>
+      <name lang="ua">Рюкзак для ручної поклажі Explorer 20л чорний (Explorer-XS-Black)</name>
+      <price>2180</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <description lang="ru">Рюкзак для ручной клади Explorer 20л черный (Explorer-XS-Black)</description>
+      <description lang="ua">Рюкзак для ручної поклажі Explorer 20л чорний (Explorer-XS-Black)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-explorer-20l-chornyi-explorer-xs-black-76244065813583_+33c0af4f3e.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-explorer-20l-chornyi-explorer-xs-black-90562346056023_+87a13985b1.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-explorer-20l-chornyi-explorer-xs-black-48302312544506_+b9a2d24b70.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-explorer-20l-chornyi-explorer-xs-black-93213957520216_+4a87ddefc0.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-explorer-20l-chornyi-explorer-xs-black-68765663935408_+9fb414bd7e.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-explorer-20l-chornyi-explorer-xs-black-42449683545233_+b795126ea0.jpg</picture>
+      <param name="Об'єм" paramcode="104">20</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="Skin-XS-Black" available="true">
+      <name lang="ru">Рюкзак для ручной клади Skin 26л черный (Skin-XS-Black)</name>
+      <name lang="ua">Рюкзак для ручної поклажі Skin 26л чорний (Skin-XS-Black)</name>
+      <price>1905</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <description lang="ru">Рюкзак для ручной клади Skin 26л черный (Skin-XS-Black)</description>
+      <description lang="ua">Рюкзак для ручної поклажі Skin 26л чорний (Skin-XS-Black)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/4/riukzak-dlia-ruchnoi-poklazhi-skin-26l-chornyi-skin-xs-black-41786377286641_+6bd960e5ed.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/riukzak-dlia-ruchnoi-poklazhi-skin-26l-chornyi-skin-xs-black-65091594900257_+f87092d415.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/riukzak-dlia-ruchnoi-poklazhi-skin-26l-chornyi-skin-xs-black-74953790645655_+089e3c5370.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/riukzak-dlia-ruchnoi-poklazhi-skin-26l-chornyi-skin-xs-black-27007925765847_+3d96b6bba2.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/riukzak-dlia-ruchnoi-poklazhi-skin-26l-chornyi-skin-xs-black-87767475639094_+aef560890d.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/riukzak-dlia-ruchnoi-poklazhi-skin-26l-chornyi-skin-xs-black-61183325628568_+0aacf95a35.jpg</picture>
+      <param name="Об'єм" paramcode="104">26</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="Compact-XS-Black" available="true">
+      <name lang="ru">Рюкзак для ручной клади Compact 19л черный (Compact-XS-Black)</name>
+      <name lang="ua">Рюкзак для ручної поклажі Compact 19л чорний (Compact-XS-Black)</name>
+      <price>1635</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <description lang="ru">Рюкзак для ручной клади Compact 19л черный (Compact-XS-Black)</description>
+      <description lang="ua">Рюкзак для ручної поклажі Compact 19л чорний (Compact-XS-Black)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/5/riukzak-dlia-ruchnoi-poklazhi-compact-19l-chornyi-compact-xs-black-70532436912957_+0c4ea08e8a.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/5/riukzak-dlia-ruchnoi-poklazhi-compact-19l-chornyi-compact-xs-black-39528623318903_+5c76b7039b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/5/riukzak-dlia-ruchnoi-poklazhi-compact-19l-chornyi-compact-xs-black-33958489283092_+252dc09e93.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/5/riukzak-dlia-ruchnoi-poklazhi-compact-19l-chornyi-compact-xs-black-99932007038104_+71133bb4de.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/5/riukzak-dlia-ruchnoi-poklazhi-compact-19l-chornyi-compact-xs-black-53897471014194_+c3a7078532.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/5/riukzak-dlia-ruchnoi-poklazhi-compact-19l-chornyi-compact-xs-black-52283232637654_+6af91de4b2.jpg</picture>
+      <param name="Об'єм" paramcode="104">19</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
       <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
