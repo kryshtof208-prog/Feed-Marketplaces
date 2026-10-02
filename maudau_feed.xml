@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-02T05:06:13.215Z">
+<yml_catalog date="2026-10-02T21:06:14.260Z">
   <shop>
     <categories>
       <category id="1061" portal_id="Чемоданы">Валізи</category>
@@ -11,67 +11,6 @@
       <category id="1089" portal_id="Рюкзаки">Рюкзаки</category>
     </categories>
     <offers>
-      <offer id="DPC-Brown-S" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
-        <name_ru>Чехол для чемодана дайвинг шоколадный DPC-Brown-S</name_ru>
-        <name_ua>Чохол для валізи дайвінг шоколадний DPC-Brown-S</name_ua>
-        <price>500</price>
-        <categoryId>1086</categoryId>
-        <country>Україна</country>
-        <description_ru>Чехол для чемодана дайвинг шоколадный DPC-Brown-S</description_ru>
-        <description_ua>Чохол для валізи дайвінг шоколадний DPC-Brown-S</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/37/82893260979331_+e61cffda6b.jpg</picture>
-        <param name="Колір">Коричневый</param>
-        <param name="Тип">Чехол</param>
-        <param name="Матеріал корпусу">Дайвинг</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-      </offer>
-      <offer id="DPC-Brown-L" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чехол для чемодана дайвинг шоколадный DPC-Brown-L</name_ru>
-        <name_ua>Чохол для валізи дайвінг шоколадний DPC-Brown-L</name_ua>
-        <price>500</price>
-        <categoryId>1086</categoryId>
-        <country>Україна</country>
-        <description_ru>Чехол для чемодана дайвинг шоколадный DPC-Brown-L</description_ru>
-        <description_ua>Чохол для валізи дайвінг шоколадний DPC-Brown-L</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/38/53214856034506_+504872047d.jpg</picture>
-        <param name="Колір">Коричневый</param>
-        <param name="Тип">Чехол</param>
-        <param name="Матеріал корпусу">Дайвинг</param>
-        <param name="Об'єм">Великі (90 - 100 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-      </offer>
-      <offer id="PC001BLUE" available="true">
-        <quantity_in_stock>14</quantity_in_stock>
-        <name_ru>Органайзер для обуви PC001BLUE</name_ru>
-        <name_ua>Органайзер для взуття PC001BLUE</name_ua>
-        <price>80</price>
-        <categoryId>1086</categoryId>
-        <country>Україна</country>
-        <description_ru>Органайзер для обуви PC001BLUE</description_ru>
-        <description_ua>Органайзер для взуття PC001BLUE</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/39/84666209022882_+92acae4c89.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/39/22650133610071_+2282dc67e7.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/39/60924592442804_+c105eb7097.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/39/61547652826766_+df3f4d1c67.jpg</picture>
-        <param name="Колір">Темно-синий</param>
-        <param name="Тип">Органайзер</param>
-      </offer>
-      <offer id="TP01-Grey" available="true">
-        <quantity_in_stock>12</quantity_in_stock>
-        <name_ru>Подушка для путешествий TP01-Grey</name_ru>
-        <name_ua>Подушка для подорожей TP01-Grey</name_ua>
-        <price>340</price>
-        <categoryId>1086</categoryId>
-        <country>Україна</country>
-        <description_ru>Подушка для путешествий TP01-Grey</description_ru>
-        <description_ua>Подушка для подорожей TP01-Grey</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/40/25154961265153_+8cb7770c66.jpg</picture>
-        <param name="Колір">Серый</param>
-        <param name="Тип">Подушка</param>
-      </offer>
       <offer id="TP01-Burgundy" available="true">
         <quantity_in_stock>24</quantity_in_stock>
         <name_ru>Подушка для путешествий TP01-Burgundy</name_ru>
@@ -301,8 +240,30 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
+      <offer id="Kaiman-XS-Fuchsia" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л фуксия (Kaiman-XS-Fuchsia)</name_ru>
+        <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л фуксія (Kaiman-XS-Fuchsia)</name_ua>
+        <price>1700</price>
+        <categoryId>1061</categoryId>
+        <vendor>Kaiman</vendor>
+        <country>Україна</country>
+        <description_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л фуксия (Kaiman-XS-Fuchsia)</description_ru>
+        <description_ua>Розмір XS - ідеальний вибір для коротких поїздок на 1&amp;ndash;2 дні, бізнес-візитів або як перша власна валіза для дитини. Завдяки своїм гранично компактним габаритам, ця модель спеціально розроблена під найсуворіші параметри безкоштовної ручної поклажі лоукостерів, що гарантує вам спокій під час посадки та відсутність жодних доплат за багаж. Головною перевагою моделі є знімні колеса. Ця конструктивна особливість дозволяє миттєво адаптувати розмір валізи під вимоги авіаліній, щоб вона без зусиль проходила в контрольний калібратор або розміщувалася під сидінням літака. Корпус із поєднання ABS-пластику та полікарбонату забезпечує витривалість конструкції при екстремально малій вазі. Полікарбонатне покриття додає стійкості до зовнішніх пошкоджень, а продумана внутрішня організація з фіксаторами дозволяє надійно закріпити одяг, змінне взуття, документи та електроніку. Вага завантаження становить 5&amp;ndash;7 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/36/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-fuksiia-kaiman-xs-fuchsia-46365545644572_+895add093a.png</picture>
+        <param name="Колір">Розовый</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">ABS-пластик</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
       <offer id="HIMAWARI-XS-Black" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади HIMAWARI 17л черный (HIMAWARI-XS-Black)</name_ru>
         <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л чорний (HIMAWARI-XS-Black)</name_ua>
         <price>1495</price>
@@ -329,7 +290,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="HIMAWARI-XS-Gray-mint" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади HIMAWARI 17л серо-мятный (HIMAWARI-XS-Gray-mint)</name_ru>
         <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л сіро-мʼятний (HIMAWARI-XS-Gray-mint)</name_ua>
         <price>1495</price>
@@ -378,7 +339,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="HIMAWARI-XS-Beige" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади HIMAWARI 17л бежевый (HIMAWARI-XS-Beige)</name_ru>
         <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л бежевий (HIMAWARI-XS-Beige)</name_ua>
         <price>1495</price>
@@ -490,7 +451,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="2501-L-Blue" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан с расширением Wings 2501 большой 97л синий (2501-L-Blue)</name_ru>
         <name_ua>Валіза з розширенням Wings 2501 велика 97л синя (2501-L-Blue)</name_ua>
         <price>3100</price>
@@ -616,7 +577,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="2501-S-Grey" available="true">
-        <quantity_in_stock>16</quantity_in_stock>
+        <quantity_in_stock>15</quantity_in_stock>
         <name_ru>Чемодан с расширением Wings 2501 малый 38л серый (2501-S-Grey)</name_ru>
         <name_ua>Валіза з розширенням Wings 2501 мала 38л сіра (2501-S-Grey)</name_ua>
         <price>1360</price>
@@ -746,7 +707,7 @@
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
       </offer>
       <offer id="53103-M-Gray" available="true">
-        <quantity_in_stock>9</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Madisson 53103 средний 65л серый (53103-M-Gray)</name_ru>
         <name_ua>Валіза з поліпропілену Madisson 53103 середня 65л сіра (53103-M-Gray)</name_ua>
         <price>2350</price>
@@ -1512,7 +1473,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="scales-2404" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Весы для чемодана 2404 (scales-2404)</name_ru>
         <name_ua>Ваги для валізи 2404 (scales-2404)</name_ua>
         <price>230</price>
@@ -1597,7 +1558,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="HIMAWARI-XS-Blue" available="true">
-        <quantity_in_stock>10</quantity_in_stock>
+        <quantity_in_stock>11</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади HIMAWARI 17л синий (HIMAWARI-XS-Blue)</name_ru>
         <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л синій (HIMAWARI-XS-Blue)</name_ua>
         <price>1595</price>
@@ -1959,7 +1920,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="19168-L-Champagne" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Чемодан Wings 19168 большой 97 л шампань (19168-L-Champagne)</name_ru>
         <name_ua>Валіза Wings 19168 велика 97 л шампань (19168-L-Champagne)</name_ua>
         <price>2600</price>
@@ -2693,7 +2654,7 @@
         <param name="Стать">Унісекс</param>
       </offer>
       <offer id="1010-Dark-green" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Багажный ремень Snowball 160см зеленый (1010-Dark-green)</name_ru>
         <name_ua>Багажний ремінь Snowball 160см зелений (1010-Dark-green)</name_ua>
         <price>120</price>
@@ -2789,7 +2750,7 @@
         <param name="Тип закриття">На блискавці</param>
       </offer>
       <offer id="NPC-Fuchsia-L" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен фуксия NPC-Fuchsia-L</name_ru>
         <name_ua>Чохол для валізи неопрен фуксія NPC-Fuchsia-L</name_ua>
         <price>600</price>
@@ -3513,7 +3474,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="51304-BC-Champagne" available="true">
-        <quantity_in_stock>18</quantity_in_stock>
+        <quantity_in_stock>19</quantity_in_stock>
         <name_ru>Кейс для чемодана из полипропилена Snowball 51304 16л шампань (51304-BC-Champagne)</name_ru>
         <name_ua>Кейс для валізи з поліпропілену Snowball 51304 16л шампань (51304-BC-Champagne)</name_ua>
         <price>1000</price>
@@ -3668,7 +3629,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="51304-M-Gray" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 средний 63л серый (51304-M-Gray)</name_ru>
         <name_ua>Валіза з розширенням Snowball 51304 середня 63л сіра (51304-M-Gray)</name_ua>
         <price>2350</price>
@@ -3691,7 +3652,7 @@
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
       </offer>
       <offer id="51304-M-Champagne" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 средний 63л шампань (51304-M-Champagne)</name_ru>
         <name_ua>Валіза з розширенням Snowball 51304 середня 63л шампань (51304-M-Champagne)</name_ua>
         <price>2350</price>
@@ -3765,7 +3726,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="51304-L-Champagne" available="true">
-        <quantity_in_stock>12</quantity_in_stock>
+        <quantity_in_stock>13</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 большой 105л шампань (51304-L-Champagne)</name_ru>
         <name_ua>Валіза з розширенням Snowball 51304 велика 105л шампань (51304-L-Champagne)</name_ua>
         <price>2450</price>
@@ -4452,6 +4413,80 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
       </offer>
+      <offer id="89019-XS-Beige" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади Leadfas бежевый (89019-XS-Beige)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі Leadfas бежевий (89019-XS-Beige)</name_ua>
+        <price>1473</price>
+        <categoryId>1089</categoryId>
+        <description_ru>Рюкзак для ручной клади Leadfas бежевый (89019-XS-Beige)</description_ru>
+        <description_ua>Ідеальне поєднання стилю та практичності для тих, хто обожнює подорожі та постійно перебуває в русі. Рюкзак Leadfas створений спеціально для легких та комфортних мандрівок. Завдяки продуманим габаритам 40&amp;times;30&amp;times;20 см, він ідеально підходить під жорсткі стандарти ручної поклажі авіакомпаній, дозволяючи вам заощаджувати на багажі та подорожувати без зайвого клопоту. Ваші гаджети, документи та особисті речі завжди будуть впорядковані завдяки ергономічній організації внутрішнього простору. Міцні матеріали та надійна фурнітура захистять вміст під час поїздок, а зручні лямки забезпечать комфорт навіть під час тривалих прогулянок містом.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/1/riukzak-dlia-ruchnoi-poklazhi-leadfas-bezhevyi-89019-xs-beige-51220440447874_+03ad689589.jpg</picture>
+        <param name="Колір">Бежевый</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="89019-XS-Black" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади Leadfas черный (89019-XS-Black)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі Leadfas чорний (89019-XS-Black)</name_ua>
+        <price>1473</price>
+        <categoryId>1089</categoryId>
+        <description_ru>Рюкзак для ручной клади Leadfas черный (89019-XS-Black)</description_ru>
+        <description_ua>Ідеальне поєднання стилю та практичності для тих, хто обожнює подорожі та постійно перебуває в русі. Рюкзак Leadfas створений спеціально для легких та комфортних мандрівок. Завдяки продуманим габаритам 40&amp;times;30&amp;times;20 см, він ідеально підходить під жорсткі стандарти ручної поклажі авіакомпаній, дозволяючи вам заощаджувати на багажі та подорожувати без зайвого клопоту. Ваші гаджети, документи та особисті речі завжди будуть впорядковані завдяки ергономічній організації внутрішнього простору. Міцні матеріали та надійна фурнітура захистять вміст під час поїздок, а зручні лямки забезпечать комфорт навіть під час тривалих прогулянок містом.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/2/riukzak-dlia-ruchnoi-poklazhi-leadfas-chornyi-89019-xs-black-60528845063481_+9a0a5ab2ba.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="Catesigo-XS-Black" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади Catesigo 34л черный (Catesigo-XS-Black)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі Catesigo 34л чорний (Catesigo-XS-Black)</name_ua>
+        <price>1227</price>
+        <categoryId>1089</categoryId>
+        <country>Китай</country>
+        <description_ru>Рюкзак для ручной клади Catesigo 34л черный (Catesigo-XS-Black)</description_ru>
+        <description_ua>Рюкзак Catesigo на 34л - ідеальний супутник для динамічного життя та подорожей. Його габарити (48х35х20 см) та продуманий функціонал забезпечують максимальний комфорт у будь-якій дорозі. Завдяки великій місткості із двома основними та трьома малими відсіками ви зможете акуратно спакувати всі необхідні речі. Якісний водонепроникний нейлон гарантує безпеку документів і техніки формату А4 навіть під час раптової зливи. Вбудований USB-роз&amp;#39;єм допоможе завжди залишатися на зв&amp;rsquo;язку в терміналах вокзалів чи під час тривалих прогулянок. Особлива кишеня &amp;laquo;антизлодій&amp;raquo; на спині надійно захистить ваші найцінніші речі від кишенькових злодіїв у натовпі. Численні внутрішні органайзери, фронтальні та бічні кишені дозволять миттєво знайти потрібну дрібницю на ходу. Комфорт під час тривалого носіння забезпечує ергономічна спинка-подушка з вентиляцією та додаткова грудна стяжка. Це надійний, місткий та стильний вибір для тих, хто звик тримати все під контролем і подорожувати організовано.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-catesigo-34l-chornyi-catesigo-xs-black-43717286749607_+132848b2c4.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Нейлон</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="Catesigo-XS-Grey" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади Catesigo 24л серый (Catesigo-XS-Grey)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі Catesigo 24л сірий (Catesigo-XS-Grey)</name_ua>
+        <price>1227</price>
+        <categoryId>1089</categoryId>
+        <country>Китай</country>
+        <description_ru>Рюкзак для ручной клади Catesigo 24л серый (Catesigo-XS-Grey)</description_ru>
+        <description_ua>Рюкзак Catesigo на 34л - ідеальний супутник для динамічного життя та подорожей. Його габарити (48х35х20 см) та продуманий функціонал забезпечують максимальний комфорт у будь-якій дорозі. Завдяки великій місткості із двома основними та трьома малими відсіками ви зможете акуратно спакувати всі необхідні речі. Якісний водонепроникний нейлон гарантує безпеку документів і техніки формату А4 навіть під час раптової зливи. Вбудований USB-роз&amp;#39;єм допоможе завжди залишатися на зв&amp;rsquo;язку в терміналах вокзалів чи під час тривалих прогулянок. Особлива кишеня &amp;laquo;антизлодій&amp;raquo; на спині надійно захистить ваші найцінніші речі від кишенькових злодіїв у натовпі. Численні внутрішні органайзери, фронтальні та бічні кишені дозволять миттєво знайти потрібну дрібницю на ходу. Комфорт під час тривалого носіння забезпечує ергономічна спинка-подушка з вентиляцією та додаткова грудна стяжка. Це надійний, місткий та стильний вибір для тих, хто звик тримати все під контролем і подорожувати організовано.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/4/riukzak-dlia-ruchnoi-poklazhi-catesigo-24l-siryi-catesigo-xs-grey-53740805068195_+44f5f72f1c.jpg</picture>
+        <param name="Колір">Серый</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Нейлон</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
       <offer id="15108-XS-Beige" available="true">
         <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади Everyday 16л бежевый (15108-XS-Beige)</name_ru>
@@ -4609,7 +4644,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="65803-BC-Champagne" available="true">
-        <quantity_in_stock>10</quantity_in_stock>
+        <quantity_in_stock>9</quantity_in_stock>
         <name_ru>Кейс для чемодана из полипропилена Carbon 65803 12л шампань (65803-BC-Champagne)</name_ru>
         <name_ua>Кейс для валізи з поліпропілену Carbon 65803 12л шампань (65803-BC-Champagne)</name_ua>
         <price>950</price>
@@ -4677,7 +4712,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="65803-M-Champagne" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 65803 средний 67л шампань (65803-M-Champagne)</name_ru>
         <name_ua>Валіза з розширенням Carbon 65803 середня 67л шампань (65803-M-Champagne)</name_ua>
         <price>2400</price>
@@ -5202,7 +5237,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="PHX01-M-Burgundy" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Wings PHX01 средний 60л бордовый (PHX01-M-Burgundy)</name_ru>
         <name_ua>Валіза з поліпропілену Wings PHX01 середня 60л бордова (PHX01-M-Burgundy)</name_ua>
         <price>2200</price>
@@ -5258,7 +5293,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="PHX01-L-Burgundy" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Wings PHX01 большой 95л бордовый (PHX01-L-Burgundy)</name_ru>
         <name_ua>Валіза з поліпропілену Wings PHX01 велика 95л бордова (PHX01-L-Burgundy)</name_ua>
         <price>2300</price>
@@ -5466,7 +5501,7 @@
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
       </offer>
       <offer id="65903-M-Milk" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 65903 средний 67л кремовый (65903-M-Milk)</name_ru>
         <name_ua>Валіза з розширенням Carbon 65903 середня 67л кремова (65903-M-Milk)</name_ua>
         <price>2750</price>
@@ -5489,7 +5524,7 @@
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
       </offer>
       <offer id="65903-M-Light-blue" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 65903 средний 67л голубой (65903-M-Light-blue)</name_ru>
         <name_ua>Валіза з розширенням Carbon 65903 середня 67л блакитна (65903-M-Light-blue)</name_ua>
         <price>2750</price>
@@ -5568,7 +5603,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="65903-Set-Milk" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Carbon 65903 4 в 1 кремовый (65903-Set-Milk)</name_ru>
         <name_ua>Набір валіз з розширенням Carbon 65903 4 в 1 кремовий (65903-Set-Milk)</name_ua>
         <price>7125</price>
@@ -5591,7 +5626,7 @@
         <param name="Вбудований замок">Кодовий</param>
       </offer>
       <offer id="65903-Set-Light-blue" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Carbon 65903 4 в 1 голубой (65903-Set-Light-blue)</name_ru>
         <name_ua>Набір валіз з розширенням Carbon 65903 4 в 1 блакитний (65903-Set-Light-blue)</name_ua>
         <price>7125</price>
@@ -6008,7 +6043,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="Grant-XS-Black" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади Grant 35л черный (Grant-XS-Black)</name_ru>
         <name_ua>Рюкзак для ручної поклажі Grant 35л чорний (Grant-XS-Black)</name_ua>
         <price>1073</price>
@@ -6060,7 +6095,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="GoldBe-XS-Black" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади GoldBe 35л черный (GoldBe-XS-Black)</name_ru>
         <name_ua>Рюкзак для ручної поклажі GoldBe 35л чорний (GoldBe-XS-Black)</name_ua>
         <price>1365</price>
@@ -6085,7 +6120,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="GoldBe-XS-Khaki" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади GoldBe 35л хаки (GoldBe-XS-Khaki)</name_ru>
         <name_ua>Рюкзак для ручної поклажі GoldBe 35л хакі (GoldBe-XS-Khaki)</name_ua>
         <price>1365</price>
@@ -6585,6 +6620,106 @@
         <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">Без колес</param>
         <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="T-B9121-XS-Black" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади T-B9121 11л черный (T-B9121-XS-Black)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі T-B9121 11л чорний (T-B9121-XS-Black)</name_ua>
+        <price>3440</price>
+        <categoryId>1089</categoryId>
+        <country>Україна</country>
+        <description_ru>Рюкзак для ручной клади T-B9121 11л черный (T-B9121-XS-Black)</description_ru>
+        <description_ua>Рюкзак для ручної поклажі T-B9121 - це ідеальний баланс між мінімалістичним діловим стилем, технологічністю та щоденною міською практичністю. Базові компактні розміри (43х31х9 см) розраховані на тих, хто цінує максимальну ергономіку та легкість у динамічному ритмі життя. Головною фішкою цієї моделі є унікальна конструкція-трансформер, що дозволяє одним рухом розширити товщину з 9 до 16 см, збільшуючи об&amp;#39;єм з 11 до 20 літрів. Простір рюкзака продуманий до дрібниць завдяки 5 автономним відділенням, безлічі внутрішніх органайзерів та вбудованому карабіну для ключів. Спеціальний захищений відсік ідеально підходить для безпечного транспортування сучасних ноутбуків з діагоналлю до 15,6 дюймів. Якісний та щільний нейлон гарантує тривалу стійкість до зносу, захищаючи вміст від дрібного дощу та бруду. Спеціальна ортопедична спинка забезпечує правильний розподіл навантаження, тому власник не відчуватиме втоми навіть під час тривалого носіння. Для безпеки цінних речей у транспорті чи натовпі передбачена надійна потайна кишеня на тильній стороні виробу. Окрім того, цей ультратонкий наплічник стане незамінним компаньйоном у відрядженнях і подорожах, оскільки він легко проходить як ручна поклажа. Це бездоганний та ультрастильний вибір для сучасної людини, яка прагне залишатися організованою, мобільною та впевненою у будь-якій ситуації.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/6/riukzak-dlia-ruchnoi-poklazhi-t-b9121-11l-chornyi-t-b9121-xs-black-79550133271818_+b823ee0fdd.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/6/riukzak-dlia-ruchnoi-poklazhi-t-b9121-11l-chornyi-t-b9121-xs-black-54578589267347_+eba28ebd96.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/6/riukzak-dlia-ruchnoi-poklazhi-t-b9121-11l-chornyi-t-b9121-xs-black-43671825088666_+e73a687dfd.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/6/riukzak-dlia-ruchnoi-poklazhi-t-b9121-11l-chornyi-t-b9121-xs-black-66238158780146_+1fc35ca3a4.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/6/riukzak-dlia-ruchnoi-poklazhi-t-b9121-11l-chornyi-t-b9121-xs-black-66493361356056_+d4b44a27a0.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/6/riukzak-dlia-ruchnoi-poklazhi-t-b9121-11l-chornyi-t-b9121-xs-black-69244759619869_+1ce62ccd9f.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Нейлон</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="T-B3893-XS-Black" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади T-B3893 21л черный (T-B3893-XS-Black)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі T-B3893 21л чорний (T-B3893-XS-Black)</name_ua>
+        <price>2540</price>
+        <categoryId>1089</categoryId>
+        <country>Україна</country>
+        <description_ru>Рюкзак для ручной клади T-B3893 21л черный (T-B3893-XS-Black)</description_ru>
+        <description_ua>Рюкзак для ручної поклажі T-B3893 - це сучасний міський рюкзак, який вдало поєднує в собі спортивну функціональність, високу надійність та продуманий до дрібниць комфорт на кожен день. Оптимальні габарити (46х30х20 см) та місткість у 21 літр роблять його ідеальним вибором як для щоденних поїздок, так і для активного відпочинку. Головною відмінною особливістю дизайну є велика світловідбивна смуга на фронтальній частині, яка гарантує вашу безпеку в темну пору доби. Модель складається з 5 функціональних відділень, включаючи основний відсік із захищеною кишенею для ноутбука до 15,6 дюймів та додатковий відділ з безліччю органайзерів. Наявність зовнішнього USB-порту дозволяє зручно та швидко заряджати ваші ґаджети просто під час ходьби. Рюкзак пошитий з міцного водовідштовхувального матеріалу оксфорд, який стійкий до зносу і надійно захищає речі від негоди. Ергономічна ортопедична спинка у поєднанні з додатковою грудною лямкою забезпечує ідеальну посадку та мінімізує навантаження на хребет. З боків розташовані зручні сітчасті кишені, що чудово підійдуть для швидкого доступу до пляшки з водою або парасольки.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/7/riukzak-dlia-ruchnoi-poklazhi-t-b3893-21l-chornyi-t-b3893-xs-black-86203587806043_+616eef5f75.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/riukzak-dlia-ruchnoi-poklazhi-t-b3893-21l-chornyi-t-b3893-xs-black-61399432428466_+d7af5f424b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/riukzak-dlia-ruchnoi-poklazhi-t-b3893-21l-chornyi-t-b3893-xs-black-42493065177848_+120489f691.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/riukzak-dlia-ruchnoi-poklazhi-t-b3893-21l-chornyi-t-b3893-xs-black-78930172155567_+bb99c284a9.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/riukzak-dlia-ruchnoi-poklazhi-t-b3893-21l-chornyi-t-b3893-xs-black-92803650630468_+411945f2ec.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/7/riukzak-dlia-ruchnoi-poklazhi-t-b3893-21l-chornyi-t-b3893-xs-black-74761592782468_+f4a9535470.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Текстиль</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="T-B3331A-XS-Grey" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади T-B3331A 16л серый (T-B3331A-XS-Grey)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі T-B3331A 16л сірий (T-B3331A-XS-Grey)</name_ua>
+        <price>3150</price>
+        <categoryId>1089</categoryId>
+        <country>Україна</country>
+        <description_ru>Рюкзак для ручной клади T-B3331A 16л серый (T-B3331A-XS-Grey)</description_ru>
+        <description_ua>Рюкзак для ручної поклажі T-B3331A - це стильний міський наплічник, який вражає лаконічним дизайном, продуманою ергономікою та високим рівнем комфорту для щоденного використання. Завдяки компактним розмірам (42х30х13 см) та місткості у 16 літрів він є максимально легким, акуратним і не створює відчуття громіздкості за спиною. Внутрішній простір розділений на 4 функціональні відділення, які дозволяють чітко розсортувати особисті речі, документи та дрібні аксесуари. Головний відсік оснащений спеціальною вбудованою кишенею, що забезпечує надійну фіксацію та захист для ноутбука з діагоналлю до 15,6 дюймів, а також окремим місцем під планшет. Передня частина виробу представлена зручним відділенням-органайзером, всередині якого інтегровано практичний карабін для швидкого доступу до ключів. Технологічною перевагою моделі є наявність зовнішнього USB-порту та окремого роз&amp;#39;єму для навушників, що дозволяє слухати музику чи заряджати телефон просто на ходу. Рюкзак виготовлений із високоякісного матеріалу оксфорд, який відмінно протистоїть зносу, легко чиститься та надійно оберігає вміст від раптового дощу. Для безпечного зберігання найцінніших речей, грошей чи документів у спинці передбачена потайна кишеня з безпечним бічним розташуванням блискавки.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/8/riukzak-dlia-ruchnoi-poklazhi-t-b3331a-16l-siryi-t-b3331a-xs-grey-59213926397521_+c98ea1cc78.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/riukzak-dlia-ruchnoi-poklazhi-t-b3331a-16l-siryi-t-b3331a-xs-grey-58930168389100_+4345de2243.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/riukzak-dlia-ruchnoi-poklazhi-t-b3331a-16l-siryi-t-b3331a-xs-grey-60615591889669_+44e56611aa.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/riukzak-dlia-ruchnoi-poklazhi-t-b3331a-16l-siryi-t-b3331a-xs-grey-75644720843003_+af90c08419.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/riukzak-dlia-ruchnoi-poklazhi-t-b3331a-16l-siryi-t-b3331a-xs-grey-80059589025881_+81f7264c51.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/8/riukzak-dlia-ruchnoi-poklazhi-t-b3331a-16l-siryi-t-b3331a-xs-grey-23201651348355_+754fcd2f8d.jpg</picture>
+        <param name="Колір">Серый</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Текстиль</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="T-B3905-XS-Black" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади T-B3905 30л черный (T-B3905-XS-Black)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі T-B3905 30л чорний (T-B3905-XS-Black)</name_ua>
+        <price>3600</price>
+        <categoryId>1089</categoryId>
+        <country>Україна</country>
+        <description_ru>Рюкзак для ручной клади T-B3905 30л черный (T-B3905-XS-Black)</description_ru>
+        <description_ua>Рюкзак T-B3905 - це потужний і надзвичайно місткий міський рюкзак, який створений для тих, хто потребує максимуму простору, бездоганної надійності та безкомпромісного комфорту у тривалих поїздках чи відрядженнях. Завдяки солідним габаритам (50х34х22 см) та вражаючому об&amp;#39;єму у 38 літрів він легко замінює собою невелику дорожню валізу. Головною технологічною перевагою моделі є окремий захищений відсік з практичним бічним доступом, який розрахований на гігантські геймерські або професійні ноутбуки з діагоналлю до 18,4 дюйма. Основне відділення закривається на посилену подвійну блискавку, що забезпечує підвищений захист від злому та передчасного зносу під навантаженням. Внутрішня структура виробу вражає своєю продуманістю і складається з 8 автономних відділень, органайзерів для дрібниць та інтегрованого карабіна для ключів. Конструкція також оснащена зовнішнім USB-портом для заряджання ґаджетів на ходу та спеціальним виходом під дротові навушники. Наплічник виготовлений із надміцної тканини оксфорд, яка демонструє чудову стійкість до стирання та надійно оберігає техніку від проникнення вологи. Професійна ортопедична спинка у поєднанні з фіксуючою грудною лямкою гарантує ідеальну посадку, знімаючи напругу з хребта під час перенесення важких речей. Для максимальної безпеки та зручності власника в наявності є як секретна потайна кишеня на спинці, так і додатковий швидкодоступний відсік безпосередньо в плечовій лямці.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/9/riukzak-dlia-ruchnoi-poklazhi-t-b3905-30l-chornyi-t-b3905-xs-black-50263012567844_+d1f732ddc4.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/riukzak-dlia-ruchnoi-poklazhi-t-b3905-30l-chornyi-t-b3905-xs-black-81073236027829_+a49e263b47.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/riukzak-dlia-ruchnoi-poklazhi-t-b3905-30l-chornyi-t-b3905-xs-black-23982207797416_+51517b313e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/riukzak-dlia-ruchnoi-poklazhi-t-b3905-30l-chornyi-t-b3905-xs-black-46124414965964_+a365e471a4.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/riukzak-dlia-ruchnoi-poklazhi-t-b3905-30l-chornyi-t-b3905-xs-black-28473197255785_+e86da6cdab.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/riukzak-dlia-ruchnoi-poklazhi-t-b3905-30l-chornyi-t-b3905-xs-black-90212276128870_+bc3d1c7634.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Текстиль</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
@@ -7177,28 +7312,6 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
-      </offer>
-      <offer id="Kaiman-XS-Fuchsia" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л фуксия (Kaiman-XS-Fuchsia)</name_ru>
-        <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24л фуксія (Kaiman-XS-Fuchsia)</name_ua>
-        <price>1700</price>
-        <categoryId>1061</categoryId>
-        <vendor>Kaiman</vendor>
-        <country>Україна</country>
-        <description_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л фуксия (Kaiman-XS-Fuchsia)</description_ru>
-        <description_ua>Розмір XS - ідеальний вибір для коротких поїздок на 1&amp;ndash;2 дні, бізнес-візитів або як перша власна валіза для дитини. Завдяки своїм гранично компактним габаритам, ця модель спеціально розроблена під найсуворіші параметри безкоштовної ручної поклажі лоукостерів, що гарантує вам спокій під час посадки та відсутність жодних доплат за багаж. Головною перевагою моделі є знімні колеса. Ця конструктивна особливість дозволяє миттєво адаптувати розмір валізи під вимоги авіаліній, щоб вона без зусиль проходила в контрольний калібратор або розміщувалася під сидінням літака. Корпус із поєднання ABS-пластику та полікарбонату забезпечує витривалість конструкції при екстремально малій вазі. Полікарбонатне покриття додає стійкості до зовнішніх пошкоджень, а продумана внутрішня організація з фіксаторами дозволяє надійно закріпити одяг, змінне взуття, документи та електроніку. Вага завантаження становить 5&amp;ndash;7 кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/36/valiza-dlia-loukostu-wizzair-kaiman-mini-24l-fuksiia-kaiman-xs-fuchsia-46365545644572_+895add093a.png</picture>
-        <param name="Колір">Розовый</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">ABS-пластик</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="403020-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -10824,80 +10937,6 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="89019-XS-Beige" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Рюкзак для ручной клади Leadfas бежевый (89019-XS-Beige)</name_ru>
-        <name_ua>Рюкзак для ручної поклажі Leadfas бежевий (89019-XS-Beige)</name_ua>
-        <price>1473</price>
-        <categoryId>1089</categoryId>
-        <description_ru>Рюкзак для ручной клади Leadfas бежевый (89019-XS-Beige)</description_ru>
-        <description_ua>Ідеальне поєднання стилю та практичності для тих, хто обожнює подорожі та постійно перебуває в русі. Рюкзак Leadfas створений спеціально для легких та комфортних мандрівок. Завдяки продуманим габаритам 40&amp;times;30&amp;times;20 см, він ідеально підходить під жорсткі стандарти ручної поклажі авіакомпаній, дозволяючи вам заощаджувати на багажі та подорожувати без зайвого клопоту. Ваші гаджети, документи та особисті речі завжди будуть впорядковані завдяки ергономічній організації внутрішнього простору. Міцні матеріали та надійна фурнітура захистять вміст під час поїздок, а зручні лямки забезпечать комфорт навіть під час тривалих прогулянок містом.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/1/riukzak-dlia-ruchnoi-poklazhi-leadfas-bezhevyi-89019-xs-beige-51220440447874_+03ad689589.jpg</picture>
-        <param name="Колір">Бежевый</param>
-        <param name="Тип">Рюкзак</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">Без колес</param>
-        <param name="Вбудований замок">Без замку</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">М'який</param>
-      </offer>
-      <offer id="89019-XS-Black" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Рюкзак для ручной клади Leadfas черный (89019-XS-Black)</name_ru>
-        <name_ua>Рюкзак для ручної поклажі Leadfas чорний (89019-XS-Black)</name_ua>
-        <price>1473</price>
-        <categoryId>1089</categoryId>
-        <description_ru>Рюкзак для ручной клади Leadfas черный (89019-XS-Black)</description_ru>
-        <description_ua>Ідеальне поєднання стилю та практичності для тих, хто обожнює подорожі та постійно перебуває в русі. Рюкзак Leadfas створений спеціально для легких та комфортних мандрівок. Завдяки продуманим габаритам 40&amp;times;30&amp;times;20 см, він ідеально підходить під жорсткі стандарти ручної поклажі авіакомпаній, дозволяючи вам заощаджувати на багажі та подорожувати без зайвого клопоту. Ваші гаджети, документи та особисті речі завжди будуть впорядковані завдяки ергономічній організації внутрішнього простору. Міцні матеріали та надійна фурнітура захистять вміст під час поїздок, а зручні лямки забезпечать комфорт навіть під час тривалих прогулянок містом.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/2/riukzak-dlia-ruchnoi-poklazhi-leadfas-chornyi-89019-xs-black-60528845063481_+9a0a5ab2ba.jpg</picture>
-        <param name="Колір">Черный</param>
-        <param name="Тип">Рюкзак</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">Без колес</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">М'який</param>
-      </offer>
-      <offer id="Catesigo-XS-Black" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Рюкзак для ручной клади Catesigo 34л черный (Catesigo-XS-Black)</name_ru>
-        <name_ua>Рюкзак для ручної поклажі Catesigo 34л чорний (Catesigo-XS-Black)</name_ua>
-        <price>1227</price>
-        <categoryId>1089</categoryId>
-        <country>Китай</country>
-        <description_ru>Рюкзак для ручной клади Catesigo 34л черный (Catesigo-XS-Black)</description_ru>
-        <description_ua>Рюкзак Catesigo на 34л - ідеальний супутник для динамічного життя та подорожей. Його габарити (48х35х20 см) та продуманий функціонал забезпечують максимальний комфорт у будь-якій дорозі. Завдяки великій місткості із двома основними та трьома малими відсіками ви зможете акуратно спакувати всі необхідні речі. Якісний водонепроникний нейлон гарантує безпеку документів і техніки формату А4 навіть під час раптової зливи. Вбудований USB-роз&amp;#39;єм допоможе завжди залишатися на зв&amp;rsquo;язку в терміналах вокзалів чи під час тривалих прогулянок. Особлива кишеня &amp;laquo;антизлодій&amp;raquo; на спині надійно захистить ваші найцінніші речі від кишенькових злодіїв у натовпі. Численні внутрішні органайзери, фронтальні та бічні кишені дозволять миттєво знайти потрібну дрібницю на ходу. Комфорт під час тривалого носіння забезпечує ергономічна спинка-подушка з вентиляцією та додаткова грудна стяжка. Це надійний, місткий та стильний вибір для тих, хто звик тримати все під контролем і подорожувати організовано.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-catesigo-34l-chornyi-catesigo-xs-black-43717286749607_+132848b2c4.jpg</picture>
-        <param name="Колір">Черный</param>
-        <param name="Тип">Рюкзак</param>
-        <param name="Матеріал корпусу">Нейлон</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">Без колес</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">М'який</param>
-      </offer>
-      <offer id="Catesigo-XS-Grey" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Рюкзак для ручной клади Catesigo 24л серый (Catesigo-XS-Grey)</name_ru>
-        <name_ua>Рюкзак для ручної поклажі Catesigo 24л сірий (Catesigo-XS-Grey)</name_ua>
-        <price>1227</price>
-        <categoryId>1089</categoryId>
-        <country>Китай</country>
-        <description_ru>Рюкзак для ручной клади Catesigo 24л серый (Catesigo-XS-Grey)</description_ru>
-        <description_ua>Рюкзак Catesigo на 34л - ідеальний супутник для динамічного життя та подорожей. Його габарити (48х35х20 см) та продуманий функціонал забезпечують максимальний комфорт у будь-якій дорозі. Завдяки великій місткості із двома основними та трьома малими відсіками ви зможете акуратно спакувати всі необхідні речі. Якісний водонепроникний нейлон гарантує безпеку документів і техніки формату А4 навіть під час раптової зливи. Вбудований USB-роз&amp;#39;єм допоможе завжди залишатися на зв&amp;rsquo;язку в терміналах вокзалів чи під час тривалих прогулянок. Особлива кишеня &amp;laquo;антизлодій&amp;raquo; на спині надійно захистить ваші найцінніші речі від кишенькових злодіїв у натовпі. Численні внутрішні органайзери, фронтальні та бічні кишені дозволять миттєво знайти потрібну дрібницю на ходу. Комфорт під час тривалого носіння забезпечує ергономічна спинка-подушка з вентиляцією та додаткова грудна стяжка. Це надійний, місткий та стильний вибір для тих, хто звик тримати все під контролем і подорожувати організовано.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/4/riukzak-dlia-ruchnoi-poklazhi-catesigo-24l-siryi-catesigo-xs-grey-53740805068195_+44f5f72f1c.jpg</picture>
-        <param name="Колір">Серый</param>
-        <param name="Тип">Рюкзак</param>
-        <param name="Матеріал корпусу">Нейлон</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">Без колес</param>
-        <param name="Вбудований замок">Без замку</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">М'який</param>
-      </offer>
       <offer id="JBBP336-XS-Blue" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади Bordlite 20л синий (JBBP336-XS-Blue)</name_ru>
@@ -12637,7 +12676,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="33703-S-Champagne" available="true">
-        <quantity_in_stock>17</quantity_in_stock>
+        <quantity_in_stock>16</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Snowball 33703 малый 36л шампань (33703-S-Champagne)</name_ru>
         <name_ua>Валіза для ручної поклажі Snowball 33703 мала 36л шампань (33703-S-Champagne)</name_ua>
         <price>1725</price>
@@ -13678,7 +13717,7 @@
         <param name="Тип закриття">На блискавці</param>
       </offer>
       <offer id="VPC-Prozoryi-M" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чехол для чемодана винил VPC-Prozoryi-M</name_ru>
         <name_ua>Чохол для валізи вініл VPC-Prozoryi-M</name_ua>
         <price>400</price>
@@ -14062,7 +14101,7 @@
         <param name="Тип закриття">На блискавці</param>
       </offer>
       <offer id="NPC-Blue-M" available="true">
-        <quantity_in_stock>10</quantity_in_stock>
+        <quantity_in_stock>9</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен синий NPC-Blue-M</name_ru>
         <name_ua>Чохол для валізи неопрен синій NPC-Blue-M</name_ua>
         <price>600</price>
@@ -14204,6 +14243,67 @@
         <param name="Матеріал корпусу">Дайвинг</param>
         <param name="Об'єм">Великі (90 - 100 л)</param>
         <param name="Тип закриття">На блискавці</param>
+      </offer>
+      <offer id="DPC-Brown-S" available="true">
+        <quantity_in_stock>5</quantity_in_stock>
+        <name_ru>Чехол для чемодана дайвинг шоколадный DPC-Brown-S</name_ru>
+        <name_ua>Чохол для валізи дайвінг шоколадний DPC-Brown-S</name_ua>
+        <price>500</price>
+        <categoryId>1086</categoryId>
+        <country>Україна</country>
+        <description_ru>Чехол для чемодана дайвинг шоколадный DPC-Brown-S</description_ru>
+        <description_ua>Чохол для валізи дайвінг шоколадний DPC-Brown-S</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/37/82893260979331_+e61cffda6b.jpg</picture>
+        <param name="Колір">Коричневый</param>
+        <param name="Тип">Чехол</param>
+        <param name="Матеріал корпусу">Дайвинг</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+      </offer>
+      <offer id="DPC-Brown-L" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Чехол для чемодана дайвинг шоколадный DPC-Brown-L</name_ru>
+        <name_ua>Чохол для валізи дайвінг шоколадний DPC-Brown-L</name_ua>
+        <price>500</price>
+        <categoryId>1086</categoryId>
+        <country>Україна</country>
+        <description_ru>Чехол для чемодана дайвинг шоколадный DPC-Brown-L</description_ru>
+        <description_ua>Чохол для валізи дайвінг шоколадний DPC-Brown-L</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/38/53214856034506_+504872047d.jpg</picture>
+        <param name="Колір">Коричневый</param>
+        <param name="Тип">Чехол</param>
+        <param name="Матеріал корпусу">Дайвинг</param>
+        <param name="Об'єм">Великі (90 - 100 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+      </offer>
+      <offer id="PC001BLUE" available="true">
+        <quantity_in_stock>14</quantity_in_stock>
+        <name_ru>Органайзер для обуви PC001BLUE</name_ru>
+        <name_ua>Органайзер для взуття PC001BLUE</name_ua>
+        <price>80</price>
+        <categoryId>1086</categoryId>
+        <country>Україна</country>
+        <description_ru>Органайзер для обуви PC001BLUE</description_ru>
+        <description_ua>Органайзер для взуття PC001BLUE</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/39/84666209022882_+92acae4c89.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/22650133610071_+2282dc67e7.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/60924592442804_+c105eb7097.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/61547652826766_+df3f4d1c67.jpg</picture>
+        <param name="Колір">Темно-синий</param>
+        <param name="Тип">Органайзер</param>
+      </offer>
+      <offer id="TP01-Grey" available="true">
+        <quantity_in_stock>12</quantity_in_stock>
+        <name_ru>Подушка для путешествий TP01-Grey</name_ru>
+        <name_ua>Подушка для подорожей TP01-Grey</name_ua>
+        <price>340</price>
+        <categoryId>1086</categoryId>
+        <country>Україна</country>
+        <description_ru>Подушка для путешествий TP01-Grey</description_ru>
+        <description_ua>Подушка для подорожей TP01-Grey</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/40/25154961265153_+8cb7770c66.jpg</picture>
+        <param name="Колір">Серый</param>
+        <param name="Тип">Подушка</param>
       </offer>
     </offers>
   </shop>
