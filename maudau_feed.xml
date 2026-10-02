@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-01T13:06:13.608Z">
+<yml_catalog date="2026-10-02T05:06:13.215Z">
   <shop>
     <categories>
       <category id="1061" portal_id="Чемоданы">Валізи</category>
@@ -11,102 +11,6 @@
       <category id="1089" portal_id="Рюкзаки">Рюкзаки</category>
     </categories>
     <offers>
-      <offer id="DPC-Purple-L" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
-        <name_ru>Чехол для чемодана дайвинг баклажановый DPC-Purple-L</name_ru>
-        <name_ua>Чохол для валізи дайвінг баклажановий DPC-Purple-L</name_ua>
-        <price>500</price>
-        <categoryId>1086</categoryId>
-        <country>Україна</country>
-        <description_ru>Чехол для чемодана дайвинг баклажановый DPC-Purple-L</description_ru>
-        <description_ua>Чохол для валізи дайвінг баклажановий DPC-Purple-L</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/31/38703350881727_+c7d90193f7.jpg</picture>
-        <param name="Колір">Сиреневый</param>
-        <param name="Тип">Чехол</param>
-        <param name="Матеріал корпусу">Дайвинг</param>
-        <param name="Об'єм">Великі (90 - 100 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-      </offer>
-      <offer id="DPC-Elektryk-L" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
-        <name_ru>Чехол для чемодана дайвинг электрик DPC-Elektryk-L</name_ru>
-        <name_ua>Чохол для валізи дайвінг електрик DPC-Elektryk-L</name_ua>
-        <price>500</price>
-        <categoryId>1086</categoryId>
-        <country>Україна</country>
-        <description_ru>Чехол для чемодана дайвинг электрик DPC-Elektryk-L</description_ru>
-        <description_ua>Чохол для валізи дайвінг електрик DPC-Elektryk-L</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/32/58606138678115_+6ce1ece40c.jpg</picture>
-        <param name="Колір">Синий</param>
-        <param name="Тип">Чехол</param>
-        <param name="Матеріал корпусу">Дайвинг</param>
-        <param name="Об'єм">Великі (90 - 100 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-      </offer>
-      <offer id="DPC-Elektryk-S" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
-        <name_ru>Чехол для чемодана дайвинг электрик DPC-Elektryk-S</name_ru>
-        <name_ua>Чохол для валізи дайвінг електрик DPC-Elektryk-S</name_ua>
-        <price>500</price>
-        <categoryId>1086</categoryId>
-        <country>Україна</country>
-        <description_ru>Чехол для чемодана дайвинг электрик DPC-Elektryk-S</description_ru>
-        <description_ua>Чохол для валізи дайвінг електрик DPC-Elektryk-S</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/33/12512986833153_+55ea4418a6.jpg</picture>
-        <param name="Колір">Синий</param>
-        <param name="Тип">Чехол</param>
-        <param name="Матеріал корпусу">Дайвинг</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-      </offer>
-      <offer id="DPC-Green-L" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
-        <name_ru>Чехол для чемодана дайвинг салатовый DPC-Green-L</name_ru>
-        <name_ua>Чохол для валізи дайвінг салатовий DPC-Green-L</name_ua>
-        <price>500</price>
-        <categoryId>1086</categoryId>
-        <country>Україна</country>
-        <description_ru>Чехол для чемодана дайвинг салатовый DPC-Green-L</description_ru>
-        <description_ua>Чохол для валізи дайвінг салатовий DPC-Green-L</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/34/73600235771258_+2e0fc85921.jpg</picture>
-        <param name="Колір">Салатовый</param>
-        <param name="Тип">Чехол</param>
-        <param name="Матеріал корпусу">Дайвинг</param>
-        <param name="Об'єм">Великі (90 - 100 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-      </offer>
-      <offer id="DPC-Green-S" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
-        <name_ru>Чехол для чемодана дайвинг салатовый DPC-Green-S</name_ru>
-        <name_ua>Чохол для валізи дайвінг салатовий DPC-Green-S</name_ua>
-        <price>500</price>
-        <categoryId>1086</categoryId>
-        <country>Україна</country>
-        <description_ru>Чехол для чемодана дайвинг салатовый DPC-Green-S</description_ru>
-        <description_ua>Чохол для валізи дайвінг салатовий DPC-Green-S</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/35/84342578544629_+3c099dfa5e.jpg</picture>
-        <param name="Колір">Салатовый</param>
-        <param name="Тип">Чехол</param>
-        <param name="Матеріал корпусу">Дайвинг</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-      </offer>
-      <offer id="DPC-Black-L" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
-        <name_ru>Чехол для чемодана дайвинг черный DPC-Black-L</name_ru>
-        <name_ua>Чохол для валізи дайвінг чорний DPC-Black-L</name_ua>
-        <price>500</price>
-        <categoryId>1086</categoryId>
-        <country>Україна</country>
-        <description_ru>Чехол для чемодана дайвинг черный DPC-Black-L</description_ru>
-        <description_ua>Чохол для валізи дайвінг чорний DPC-Black-L</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/36/20407093547945_+bd6b925895.jpg</picture>
-        <param name="Колір">Черный</param>
-        <param name="Тип">Чехол</param>
-        <param name="Матеріал корпусу">Дайвинг</param>
-        <param name="Об'єм">Великі (90 - 100 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-      </offer>
       <offer id="DPC-Brown-S" available="true">
         <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Чехол для чемодана дайвинг шоколадный DPC-Brown-S</name_ru>
@@ -208,7 +112,7 @@
         <param name="Тип">Подушка</param>
       </offer>
       <offer id="OI01-Grey" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Подушка-рогалик для путешествий серая OI01-Grey</name_ru>
         <name_ua>Подушка-рогалик для подорожей сіра OI01-Grey</name_ua>
         <price>500</price>
@@ -221,7 +125,7 @@
         <param name="Тип">Подушка</param>
       </offer>
       <offer id="ORG7-Pink" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Комплект органайзеров розовый ORG7-Pink</name_ru>
         <name_ua>Комплект органайзерів рожевий ORG7-Pink</name_ua>
         <price>570</price>
@@ -249,7 +153,7 @@
         <param name="Матеріал корпусу">Поліестер</param>
       </offer>
       <offer id="ORG7-Beige" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>9</quantity_in_stock>
         <name_ru>Комплект органайзеров бежевый ORG7-Beige</name_ru>
         <name_ua>Комплект органайзерів бежевий ORG7-Beige</name_ua>
         <price>570</price>
@@ -398,7 +302,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="HIMAWARI-XS-Black" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади HIMAWARI 17л черный (HIMAWARI-XS-Black)</name_ru>
         <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л чорний (HIMAWARI-XS-Black)</name_ua>
         <price>1495</price>
@@ -425,7 +329,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="HIMAWARI-XS-Gray-mint" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади HIMAWARI 17л серо-мятный (HIMAWARI-XS-Gray-mint)</name_ru>
         <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л сіро-мʼятний (HIMAWARI-XS-Gray-mint)</name_ua>
         <price>1495</price>
@@ -489,6 +393,30 @@
         <param name="Колір">Бежевый</param>
         <param name="Тип">Рюкзак</param>
         <param name="Матеріал корпусу">Нейлон</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="Leon-XS-Black" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади Leon 24л черный (Leon-XS-Black)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі Leon 24л чорний (Leon-XS-Black)</name_ua>
+        <price>2700</price>
+        <categoryId>1089</categoryId>
+        <country>Україна</country>
+        <description_ru>Рюкзак для ручной клади Leon 24л черный (Leon-XS-Black)</description_ru>
+        <description_ua>Компактний рюкзак розроблений спеціально під стандарти малої ручної поклажі лоукостів. Модель виготовлена з щільного водовідштовхувального матеріалу з PU-покриттям, а ущільнені стінки та посилене дно надійно тримають форму. Внутрішній простір оптимізовано для ноутбука до 15.6&amp;Prime; та організовано за допомогою системи функціональних кишень. Для безпеки ваших речей передбачено потайне відділення на спинці, а для дрібниць - швидкий доступ через кишеню на лямці. Максимальний комфорт забезпечують дихаюча спинка, м&amp;rsquo;які лямки та нагрудна стяжка, що правильно розподіляє вагу. Бокові кишені зручні для води чи парасолі, а спеціальне кріплення дозволяє легко зафіксувати рюкзак на ручці валізи. Використання преміальної фурнітури гарантує довговічність навіть при інтенсивних поїздках. Це продумане рішення для подорожей без стресу, де кожен сантиметр працює на вас.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/45/riukzak-dlia-ruchnoi-poklazhi-leon-24l-chornyi-leon-xs-black-98875377078264_+2d00d57b14.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/45/riukzak-dlia-ruchnoi-poklazhi-leon-24l-chornyi-leon-xs-black-19218923968229_+4732abc8ae.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/45/riukzak-dlia-ruchnoi-poklazhi-leon-24l-chornyi-leon-xs-black-19433911466491_+214ca0201c.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/45/riukzak-dlia-ruchnoi-poklazhi-leon-24l-chornyi-leon-xs-black-57461126636442_+15c18d77f6.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/45/riukzak-dlia-ruchnoi-poklazhi-leon-24l-chornyi-leon-xs-black-70489793779358_+cfc3c38007.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Поліестер</param>
         <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">Без колес</param>
         <param name="Вбудований замок">Без замку</param>
@@ -664,7 +592,7 @@
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
       </offer>
       <offer id="2501-S-Blue" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан с расширением Wings 2501 малый 38л синий (2501-S-Blue)</name_ru>
         <name_ua>Валіза з розширенням Wings 2501 мала 38л синя (2501-S-Blue)</name_ua>
         <price>1360</price>
@@ -1190,6 +1118,29 @@
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
+      <offer id="42203-S-DarkBlue" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Чемодан с расширением Madisson 42203 малый 39л темно-синий (42203-S-DarkBlue)</name_ru>
+        <name_ua>Валіза з розширенням Madisson 42203 мала 39л темно-синя (42203-S-DarkBlue)</name_ua>
+        <price>1500</price>
+        <categoryId>1061</categoryId>
+        <vendor>Madisson</vendor>
+        <description_ru>Чемодан с расширением Madisson 42203 малый 39л темно-синий (42203-S-DarkBlue)</description_ru>
+        <description_ua>Валіза з розширенням Madisson 42203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/27/58483992101181_+58159ebff2.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/27/24690353935543_+3485283f1b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/27/12647136890298_+c138c3c794.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/27/41851272957518_+5339390f05.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/27/64979647517897_+41faa8207d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/27/43224821848339_+34a905d30b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/27/47023777775444_+dbdc3365c0.jpg</picture>
+        <param name="Колір">Темно-синий</param>
+        <param name="Тип">Валізи</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+      </offer>
       <offer id="TL096277-01-BC-Black" available="true">
         <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Дорожная сумка TL096277-01 большая 89л черная (TL096277-01-BC-Black)</name_ru>
@@ -1620,7 +1571,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="HIMAWARI-XS-Gray" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>15</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади HIMAWARI 17л серый (HIMAWARI-XS-Gray)</name_ru>
         <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л сірий (HIMAWARI-XS-Gray)</name_ua>
         <price>1595</price>
@@ -1636,6 +1587,27 @@
         <picture>https://sklad-valiz.com.ua/content/images/26/38744496351670_+40bf65a910.png</picture>
         <picture>https://sklad-valiz.com.ua/content/images/26/95292917509638_+4cc41683f4.png</picture>
         <param name="Колір">Серый</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Нейлон</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="HIMAWARI-XS-Blue" available="true">
+        <quantity_in_stock>10</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади HIMAWARI 17л синий (HIMAWARI-XS-Blue)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л синій (HIMAWARI-XS-Blue)</name_ua>
+        <price>1595</price>
+        <categoryId>1089</categoryId>
+        <vendor>HIMAWARI</vendor>
+        <country>Япония</country>
+        <description_ru>Рюкзак для ручной клади HIMAWARI 17л синий (HIMAWARI-XS-Blue)</description_ru>
+        <description_ua>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/27/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-synii-himawari-xs-blue-92293649144052_+73619321de.png</picture>
+        <param name="Колір">Синий</param>
         <param name="Тип">Рюкзак</param>
         <param name="Матеріал корпусу">Нейлон</param>
         <param name="Стать">Унісекс</param>
@@ -1959,7 +1931,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="19168-L-Grey" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан Wings 19168 большой 97 л серый (19168-L-Grey)</name_ru>
         <name_ua>Валіза Wings 19168 велика 97 л сіра (19168-L-Grey)</name_ua>
         <price>2600</price>
@@ -2504,7 +2476,7 @@
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
       </offer>
       <offer id="131-M-Beige" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан Fashion 131 средний 62л бежевый (131-M-Beige)</name_ru>
         <name_ua>Валіза Fashion 131 середня 62л бежева (131-M-Beige)</name_ua>
         <price>2050</price>
@@ -2665,6 +2637,27 @@
         <param name="Матеріал корпусу">Нейлон</param>
         <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">Без колес</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="HIMAWARI-XS-Red" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади HIMAWARI 17л красный (HIMAWARI-XS-Red)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л червоний (HIMAWARI-XS-Red)</name_ua>
+        <price>1595</price>
+        <categoryId>1089</categoryId>
+        <vendor>HIMAWARI</vendor>
+        <country>Япония</country>
+        <description_ru>Рюкзак для ручной клади HIMAWARI 17л красный (HIMAWARI-XS-Red)</description_ru>
+        <description_ua>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chervonyi-himawari-xs-red-70280970195137_+973a14fece.jpg</picture>
+        <param name="Колір">Красный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Нейлон</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
@@ -4111,7 +4104,7 @@
         <param name="Вбудований замок">Кодовий</param>
       </offer>
       <offer id="33703-Set-Grey" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Snowball 33703 3 в 1 серый (33703-Set-Grey)</name_ru>
         <name_ua>Набір валіз з поліпропілену Snowball 33703 3 в 1 сірий (33703-Set-Grey)</name_ua>
         <price>7240</price>
@@ -4243,6 +4236,48 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
+      <offer id="D01-XS-Mermaid" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Детский чемодан D01 мини 29л розовый (D01-XS-Mermaid)</name_ru>
+        <name_ua>Дитяча валіза D01 міні 29л рожева (D01-XS-Mermaid)</name_ua>
+        <price>2233</price>
+        <categoryId>1061</categoryId>
+        <country>Китай</country>
+        <description_ru>Детский чемодан D01 мини 29л розовый (D01-XS-Mermaid)</description_ru>
+        <description_ua>Дитяча валіза створена для того, щоб дарувати малюкам радість та комфорт під час перших самостійних подорожей. Завдяки надкомпактним габаритам модель ідеально підходить для коротких поїздок, сімейних вікендів або екскурсій тривалістю від 1 до 3 днів. Цей аксесуар розрахований суто на індивідуальне використання дитиною і за рахунок своєї компактності чудово проходить як ручна поклажа у більшості авіакомпаній, поїздів чи автобусів. Корпус виготовлений з ABS-пластику, що забезпечує ударостійкість, гнучкість та надійний захист речей вагою до 10 кг. Чотири прорезинені колеса з радіусом обертання 360 градусів та зручна висувна ручка з кількома положеннями фіксації дозволяють дитині котити свій багаж плавно і абсолютно без зусиль. Яскравий унікальний принт не лише виділяється серед іншого багажу, а й піднімає дитині настрій у дорозі.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/40/dytiacha-valiza-d01-mini-29l-rozheva-d01-xs-mermaid-35083266802059_+87ea61520f.jpg</picture>
+        <param name="Колір">Розовый</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">ABS-пластик</param>
+        <param name="Стать">Для детей</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="D01-XS-Elsa" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Детский чемодан D01 мини 29л розовато-голубой (D01-XS-Elsa)</name_ru>
+        <name_ua>Дитяча валіза D01 міні 29л рожево-блакитна (D01-XS-Elsa)</name_ua>
+        <price>2233</price>
+        <categoryId>1061</categoryId>
+        <country>Китай</country>
+        <description_ru>Детский чемодан D01 мини 29л розовато-голубой (D01-XS-Elsa)</description_ru>
+        <description_ua>Дитяча валіза створена для того, щоб дарувати малюкам радість та комфорт під час перших самостійних подорожей. Завдяки надкомпактним габаритам модель ідеально підходить для коротких поїздок, сімейних вікендів або екскурсій тривалістю від 1 до 3 днів. Цей аксесуар розрахований суто на індивідуальне використання дитиною і за рахунок своєї компактності чудово проходить як ручна поклажа у більшості авіакомпаній, поїздів чи автобусів. Корпус виготовлений з ABS-пластику, що забезпечує ударостійкість, гнучкість та надійний захист речей вагою до 10 кг. Чотири прорезинені колеса з радіусом обертання 360 градусів та зручна висувна ручка з кількома положеннями фіксації дозволяють дитині котити свій багаж плавно і абсолютно без зусиль. Яскравий унікальний принт не лише виділяється серед іншого багажу, а й піднімає дитині настрій у дорозі.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/41/dytiacha-valiza-d01-mini-29l-rozhevo-blakytna-d01-xs-elsa-86993336799194_+65acb22023.jpg</picture>
+        <param name="Колір">Мультиколор</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">ABS-пластик</param>
+        <param name="Стать">Для детей</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
       <offer id="2204-XS-Minnie-Mouse" available="true">
         <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Детский чемодан 2204 мини 27л розовый (2204-XS-Minnie-Mouse)</name_ru>
@@ -4259,6 +4294,27 @@
         <param name="Стать">Для детей</param>
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="D01-XS-Elsa-Blue" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Детский чемодан D01 мини 29л голубой (D01-XS-Elsa-Blue)</name_ru>
+        <name_ua>Дитяча валіза D01 міні 29л блакитна (D01-XS-Elsa-Blue)</name_ua>
+        <price>1985</price>
+        <categoryId>1061</categoryId>
+        <country>Китай</country>
+        <description_ru>Детский чемодан D01 мини 29л голубой (D01-XS-Elsa-Blue)</description_ru>
+        <description_ua>Дитяча валіза створена для того, щоб дарувати малюкам радість та комфорт під час перших самостійних подорожей. Завдяки надкомпактним габаритам модель ідеально підходить для коротких поїздок, сімейних вікендів або екскурсій тривалістю від 1 до 3 днів. Цей аксесуар розрахований суто на індивідуальне використання дитиною і за рахунок своєї компактності чудово проходить як ручна поклажа у більшості авіакомпаній, поїздів чи автобусів. Корпус виготовлений з ABS-пластику, що забезпечує ударостійкість, гнучкість та надійний захист речей вагою до 10 кг. Чотири прорезинені колеса з радіусом обертання 360 градусів та зручна висувна ручка з кількома положеннями фіксації дозволяють дитині котити свій багаж плавно і абсолютно без зусиль. Яскравий унікальний принт не лише виділяється серед іншого багажу, а й піднімає дитині настрій у дорозі.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/43/dytiacha-valiza-d01-mini-29l-blakytna-d01-xs-elsa-blue-93067220323312_+2fa31e0cb9.jpg</picture>
+        <param name="Колір">Голубой</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">ABS-пластик</param>
+        <param name="Стать">Для детей</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
@@ -4285,17 +4341,38 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="2204-XS-Elsa-Blue" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Детский чемодан 2204 мини 27л голубой (2204-XS-Elsa-Blue)</name_ru>
-        <name_ua>Дитяча валіза 2204 міні 27л блакитна (2204-XS-Elsa-Blue)</name_ua>
+      <offer id="2204-XS-Anna-Elsa" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Детский чемодан 2204 мини 27л розовый (2204-XS-Anna-Elsa)</name_ru>
+        <name_ua>Дитяча валіза 2204 міні 27л рожева (2204-XS-Anna-Elsa)</name_ua>
         <price>2035</price>
         <categoryId>1061</categoryId>
         <country>Китай</country>
-        <description_ru>Детский чемодан 2204 мини 27л голубой (2204-XS-Elsa-Blue)</description_ru>
+        <description_ru>Детский чемодан 2204 мини 27л розовый (2204-XS-Anna-Elsa)</description_ru>
         <description_ua>Яскрава дитяча валіза з улюбленими персонажами з Холодного Серця стане ідеальним супутником для маленького мандрівника під час будь-яких поїздок. Завдяки своїм компактним габаритам модель розрахована суто на індивідуальне використання дитиною і вміщує особисті речі на короткі подорожі чи канікули тривалістю від 3 до 5 днів. Розміри валізи повністю відповідають усім суворим стандартам ручної поклажі, тому її можна сміливо брати у салон літака, поїзда чи автобуса. Міцний і водночас гнучкий корпус надійно захищає вміст від ударів та випадкових падінь під час активних ігор на вокзалі чи в терміналі. Надійна система чотирьох коліс, що обертаються на 360 градусів, та зручна висувна ручка дозволяють малюкові легко і без зусиль котити свій багаж самостійно.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/46/dytiacha-valiza-2204-mini-27l-blakytna-2204-xs-elsa-blue-22306281298049_+b39f62d206.jpg</picture>
-        <param name="Колір">Голубой</param>
+        <picture>https://sklad-valiz.com.ua/content/images/45/dytiacha-valiza-2204-mini-27l-rozheva-2204-xs-anna-elsa-86486699004847_+66ca21da43.jpg</picture>
+        <param name="Колір">Розовый</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">ABS-пластик</param>
+        <param name="Стать">Для детей</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="2204-XS-Hello-Kitty" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Детский чемодан 2204 мини 22л розовый (2204-XS-Hello-Kitty)</name_ru>
+        <name_ua>Дитяча валіза 2204 міні 22л рожева (2204-XS-Hello-Kitty)</name_ua>
+        <price>2035</price>
+        <categoryId>1061</categoryId>
+        <country>Китай</country>
+        <description_ru>Детский чемодан 2204 мини 22л розовый (2204-XS-Hello-Kitty)</description_ru>
+        <description_ua>Яскрава дитяча валіза з улюбленими персонажами з Холодного Серця стане ідеальним супутником для маленького мандрівника під час будь-яких поїздок. Завдяки своїм компактним габаритам модель розрахована суто на індивідуальне використання дитиною і вміщує особисті речі на короткі подорожі чи канікули тривалістю від 3 до 5 днів. Розміри валізи повністю відповідають усім суворим стандартам ручної поклажі, тому її можна сміливо брати у салон літака, поїзда чи автобуса. Міцний і водночас гнучкий корпус надійно захищає вміст від ударів та випадкових падінь під час активних ігор на вокзалі чи в терміналі. Надійна система чотирьох коліс, що обертаються на 360 градусів, та зручна висувна ручка дозволяють малюкові легко і без зусиль котити свій багаж самостійно.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/47/dytiacha-valiza-2204-mini-22l-rozheva-2204-xs-hello-kitty-56573342218892_+fd7f2b2ef7.jpg</picture>
+        <param name="Колір">Розовый</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">ABS-пластик</param>
         <param name="Стать">Для детей</param>
@@ -4644,7 +4721,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="65803-Set-Black" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Carbon 65803 3 в 1 черный (65803-Set-Black)</name_ru>
         <name_ua>Набір валіз з розширенням Carbon 65803 3 в 1 чорний (65803-Set-Black)</name_ua>
         <price>4585</price>
@@ -4678,7 +4755,7 @@
         <param name="Вбудований замок">Кодовий</param>
       </offer>
       <offer id="65803-Set-Champagne" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Carbon 65803 3 в 1 шампань (65803-Set-Champagne)</name_ru>
         <name_ua>Набір валіз з розширенням Carbon 65803 3 в 1 шампань (65803-Set-Champagne)</name_ua>
         <price>4585</price>
@@ -5069,7 +5146,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="PHX01-S-Blue" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Wings PHX01 малый 38л синий (PHX01-S-Blue)</name_ru>
         <name_ua>Валіза для ручної поклажі Wings PHX01 мала 38л синя (PHX01-S-Blue)</name_ua>
         <price>1700</price>
@@ -5120,34 +5197,6 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="PHX01-M-Blue" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан из полипропилена Wings PHX01 средний 60л синий (PHX01-M-Blue)</name_ru>
-        <name_ua>Валіза з поліпропілену Wings PHX01 середня 60л синя (PHX01-M-Blue)</name_ua>
-        <price>2200</price>
-        <categoryId>1061</categoryId>
-        <vendor>Wings</vendor>
-        <country>Польща</country>
-        <description_ru>Чемодан из полипропилена Wings PHX01 средний 60л синий (PHX01-M-Blue)</description_ru>
-        <description_ua>Валіза з поліпропілену Wings PHX01 в розмірі М - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360°, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18-20 кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/43/valiza-z-polipropilenu-wings-phx01-serednia-60l-synia-phx01-m-blue-32678022756658_+def44a1732.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/43/valiza-z-polipropilenu-wings-phx01-serednia-60l-synia-phx01-m-blue-88688636053707_+78a709757f.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/43/valiza-z-polipropilenu-wings-phx01-serednia-60l-synia-phx01-m-blue-38799192774450_+c37b6a78fd.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/43/valiza-z-polipropilenu-wings-phx01-serednia-60l-synia-phx01-m-blue-34668551279108_+1b62481272.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/43/valiza-z-polipropilenu-wings-phx01-serednia-60l-synia-phx01-m-blue-84706415816145_+038bfd4c34.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/43/valiza-z-polipropilenu-wings-phx01-serednia-60l-synia-phx01-m-blue-86618398456449_+605f142ec8.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/43/valiza-z-polipropilenu-wings-phx01-serednia-60l-synia-phx01-m-blue-59319142601464_+a45f734376.jpg</picture>
-        <param name="Колір">Синий</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Середні (50 – 89.9 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
@@ -5232,34 +5281,6 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Великі (90 - 100 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="PHX01-Set-Blue" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 синий (PHX01-Set-Blue)</name_ru>
-        <name_ua>Набір валіз з поліпропілену Wings PHX01 3 в 1 синій (PHX01-Set-Blue)</name_ua>
-        <price>5250</price>
-        <old_price>6200</old_price>
-        <categoryId>1061</categoryId>
-        <vendor>Wings</vendor>
-        <country>Польща</country>
-        <description_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 синий (PHX01-Set-Blue)</description_ru>
-        <description_ua>Валізи з поліпропілену Wings PHX01 - це ідеальний вибір для будь-яких подорожей, від коротких вікендів до тривалих сімейних відпусток. Набір містить три моделі різних розмірів, що робить його універсальним для пересування літаком, поїздом чи автомобілем. При цьому найменшу валізу можна брати на борт літака як ручну поклажу. Корпус виготовлений зі поліпропілену - надзвичайно гнучкого та міцного матеріалу, який не розбивається від сильних ударів під час завантаження. Надійний захист речей від негоди гарантує спеціальна блискавка, що не піддається впливу води та вологи. Кожна валіза оснащена надійними подвійними колесами з поворотним механізмом на 360 градусів, що забезпечують плавний та зручний рух у будь-якому напрямку. Вбудований кодовий замок гарантує максимальну безпеку та спокій під час перевезення ваших особистих речей. Продуманий внутрішній простір розділений на два зручні відділи з перегородкою та ременями для надійної фіксації багажу. Телескопічна алюмінієва ручка фіксується у кількох положеннях, дозволяючи легко підлаштувати її під свій зріст. Вага завантаження: розмір S - 12-15 кг, розмір М - 18-20 кг, розмір L - 22-25 кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-synii-phx01-set-blue-62208654810235_+8dbfeaf405.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-synii-phx01-set-blue-60987682226460_+49f2b85420.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-synii-phx01-set-blue-83835487696333_+acaca0d7ac.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-synii-phx01-set-blue-38832299157703_+f2f75650c1.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-synii-phx01-set-blue-95469908003228_+5694220068.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-synii-phx01-set-blue-11633276676101_+39d65a1607.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-synii-phx01-set-blue-12590591539476_+cd36c7459d.jpg</picture>
-        <param name="Колір">Синий</param>
-        <param name="Тип">Набори валіз</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
@@ -5490,34 +5511,6 @@
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
       </offer>
-      <offer id="65903-L-Gray" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан с расширением Carbon 65903 большой 100л серый (65903-L-Gray)</name_ru>
-        <name_ua>Валіза з розширенням Carbon 65903 велика 100л сіра (65903-L-Gray)</name_ua>
-        <price>2850</price>
-        <categoryId>1061</categoryId>
-        <vendor>Carbon</vendor>
-        <country>Україна</country>
-        <description_ru>Чемодан с расширением Carbon 65903 большой 100л серый (65903-L-Gray)</description_ru>
-        <description_ua>Валіза з розширенням Carbon 65903 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-92031405210698_+179507fc95.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-94706259234701_+c6bcb81803.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-43706488947424_+331fc10069.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-69432119749833_+7aba33420b.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-92985897987206_+deca6ffb6d.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-76072374202985_+ab3df2d7e5.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-72756014357993_+e34cf774ed.jpg</picture>
-        <param name="Колір">Серый</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Великі (90 - 100 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
       <offer id="65903-L-Milk" available="true">
         <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 65903 большой 100л кремовый (65903-L-Milk)</name_ru>
@@ -5573,29 +5566,6 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="65903-Set-Gray" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Набор чемоданов с расширением Carbon 65903 4 в 1 серый (65903-Set-Gray)</name_ru>
-        <name_ua>Набір валіз з розширенням Carbon 65903 4 в 1 сірий (65903-Set-Gray)</name_ua>
-        <price>7125</price>
-        <old_price>8200</old_price>
-        <categoryId>1061</categoryId>
-        <vendor>Carbon</vendor>
-        <description_ru>Набор чемоданов с расширением Carbon 65903 4 в 1 серый (65903-Set-Gray)</description_ru>
-        <description_ua>Валіза з розширенням Carbon 65903 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/13/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-siryi-65903-set-gray-93877218443577_+053f9a3033.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/13/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-siryi-65903-set-gray-65211406610165_+09b3f2b5f6.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/13/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-siryi-65903-set-gray-98660830377984_+bba8d9c7f3.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/13/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-siryi-65903-set-gray-40927823067243_+8823990ffb.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/13/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-siryi-65903-set-gray-20207410196608_+44117e4587.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/13/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-siryi-65903-set-gray-80808011129846_+75a91f5960.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/13/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-siryi-65903-set-gray-74773055685901_+087139d3a3.jpg</picture>
-        <param name="Колір">Серый</param>
-        <param name="Тип">Набори валіз</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
       </offer>
       <offer id="65903-Set-Milk" available="true">
         <quantity_in_stock>3</quantity_in_stock>
@@ -6469,6 +6439,156 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
+      <offer id="Ryder-XS-Black" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади Ryder 20л черный (Ryder-XS-Black)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі Ryder 20л чорний (Ryder-XS-Black)</name_ua>
+        <price>2545</price>
+        <categoryId>1089</categoryId>
+        <country>Україна</country>
+        <description_ru>Рюкзак для ручной клади Ryder 20л черный (Ryder-XS-Black)</description_ru>
+        <description_ua>Рюкзак для ручної поклажі Ryder - ідеальний баланс між сучасним вуличним стилем, надійністю та щоденною практичністю. Оптимальні розміри (39х28х12 см) та місткість у 20 літрів розраховані на тих, хто цінує функціональність у міському ритмі. Унікальною фішкою цієї моделі у стилі Rolltop є вбудовані лямки для зручної зміни загального об&amp;#39;єму під ваші потреби. Основне відділення на міцній блискавці доповнене великими внутрішніми кишенями-органайзерами для гаджетів. Рюкзак ідеально підходить для безпечного транспортування великих ноутбуків з діагоналлю до 15,6 дюймів. Щільний високоякісний матеріал гарантує тривалу стійкість до зносу та дарує приємні тактильні відчуття. Застібки надійно оберігають ваші цінні речі та техніку від небажаної вологи. Анатомічна форма та дихаюча спинка дозволяють власнику не відчувати жодного дискомфорту при повсякденному використанні. Швидкий доступ до важливих дрібниць забезпечує додаткова горизонтальна кишеня на фронтальній частині виробу. Бічні відсіки захищені водонепроникними блискавками та чудово підійдуть для пляшки води або ключів. Окрім того, цей наплічник стане незамінним компаньйоном у подорожах, адже він легко проходить як ручна поклажа. Це бездоганний та ультрастильний вибір від українського виробника для сучасної людини, яка прагне залишатися організованою у будь-якій ситуації.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/50/riukzak-dlia-ruchnoi-poklazhi-ryder-20l-chornyi-ryder-xs-black-63431343269388_+d43e78e20f.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/50/riukzak-dlia-ruchnoi-poklazhi-ryder-20l-chornyi-ryder-xs-black-79159094698446_+970965737e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/50/riukzak-dlia-ruchnoi-poklazhi-ryder-20l-chornyi-ryder-xs-black-26816482756912_+fb5c42375a.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/50/riukzak-dlia-ruchnoi-poklazhi-ryder-20l-chornyi-ryder-xs-black-15147739052339_+776d4326f8.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/50/riukzak-dlia-ruchnoi-poklazhi-ryder-20l-chornyi-ryder-xs-black-36845158880867_+6cdec75735.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/50/riukzak-dlia-ruchnoi-poklazhi-ryder-20l-chornyi-ryder-xs-black-78220631172442_+f62b7eae19.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Поліестер</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="Eliot-XS-Black" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади Eliot 22л черный (Eliot-XS-Black)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі Eliot 22л чорний (Eliot-XS-Black)</name_ua>
+        <price>2360</price>
+        <categoryId>1089</categoryId>
+        <country>Україна</country>
+        <description_ru>Рюкзак для ручной клади Eliot 22л черный (Eliot-XS-Black)</description_ru>
+        <description_ua>Рюкзак для ручної поклажі Eliot - це баланс між сучасним міським стилем, максимальною надійністю та щоденною практичністю. Оптимальні розміри з довжиною 42 см, шириною 27 см та об&amp;#39;ємом 22 літри, лаконічний дизайн без зайвих деталей. Унікальною фішкою цієї моделі є комплектація двома верхніми застібками, що гарантує бездоганний захист усього вмісту. Продуманий внутрішній простір пропонує два незалежні відділення для зручного розділення особистих речей та робочих гаджетів. Головний відсік приємно здивує своєю місткістю та надійно захистить ноутбук з діагоналлю до 15,6 дюймів стінкою з піноматеріалу. Додаткова передня секція обладнана двома меншими кишенями, де блокнот або павербанк матимуть своє фіксоване місце. Щільний високоякісний матеріал стійкий до перепадів температур і забезпечує бездоганну стійкість до зносу. Усі блискавки та замки захищені від негоди, тому пил чи волога ніяк не досягнуть ваших цінних речей. Анатомічна спинка та лямки з вентиляційною сіткою Air-Mesh дозволяють не відчувати дискомфорту при повсякденному використанні. Спеціальні світловідбиваючі елементи дбають про додаткову безпеку та видимість у темну пору доби.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/1/riukzak-dlia-ruchnoi-poklazhi-eliot-22l-chornyi-eliot-xs-black-63344273226417_+28d744e220.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/1/riukzak-dlia-ruchnoi-poklazhi-eliot-22l-chornyi-eliot-xs-black-91256162644097_+c5a0804d21.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/1/riukzak-dlia-ruchnoi-poklazhi-eliot-22l-chornyi-eliot-xs-black-15297950114247_+a6ee71899a.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/1/riukzak-dlia-ruchnoi-poklazhi-eliot-22l-chornyi-eliot-xs-black-21691472916856_+083a57a0de.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/1/riukzak-dlia-ruchnoi-poklazhi-eliot-22l-chornyi-eliot-xs-black-89338007282526_+9d47d052b7.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/1/riukzak-dlia-ruchnoi-poklazhi-eliot-22l-chornyi-eliot-xs-black-12446378562439_+3cfdaeeec5.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Поліестер</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="Techno-XS-Black" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади Techno 18л черный (Techno-XS-Black)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі Techno 18л чорний (Techno-XS-Black)</name_ua>
+        <price>1995</price>
+        <categoryId>1089</categoryId>
+        <country>Україна</country>
+        <description_ru>Рюкзак для ручной клади Techno 18л черный (Techno-XS-Black)</description_ru>
+        <description_ua>Рюкзак для ручної поклажі Techno - це надійна функціональність та щоденна практичність втілені в одному дизайні. Оптимальні розміри з довжиною 34 см, шириною 27 см та загальним об&amp;#39;ємом 18 літрів створені для активного міського життя. Унікальною фішкою цієї моделі є продумана конструкція з трьома основними відділами та виходом для кабелів. Головне відділення фіксується міцною блискавкою з магнітним кріпленням і містить великі кишені-органайзери для гаджетів. Внутрішній простір ідеально підходить для безпечного транспортування негабаритних ноутбуків з діагоналлю до 14 дюймів. Наплічник виготовлений із міцного поліестеру та якісної водовідштовхувальної тканини чорного кольору. Усі блискавки мають водонепроникне покриття, яке надійно захищає техніку та цінні речі від негоди. Неймовірно зручна ергономічна форма та дихаюча спинка забезпечують максимальний комфорт під час повсякденного використання. Для швидкого доступу до дрібниць на передній частині вбудовані зручні додаткові кишені. Фірмове рефлективне брендування &amp;laquo;1702&amp;raquo; виступає ось цим стильним елементом та додає помітності у темну пору доби. Спеціальні бічні кишені дозволяють легко збільшити загальну місткість рюкзака на 20%. Це бездоганний вибір від українського виробника для прогресивної молоді, яка прагне залишатися організованою в будь-якій ситуації.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/2/riukzak-dlia-ruchnoi-poklazhi-techno-18l-chornyi-techno-xs-black-34166685479672_+f185019937.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/riukzak-dlia-ruchnoi-poklazhi-techno-18l-chornyi-techno-xs-black-63061343985344_+4cb9ca5146.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/riukzak-dlia-ruchnoi-poklazhi-techno-18l-chornyi-techno-xs-black-83301360404724_+31c0154d4a.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/riukzak-dlia-ruchnoi-poklazhi-techno-18l-chornyi-techno-xs-black-70202085035276_+ec8b46a9e7.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/riukzak-dlia-ruchnoi-poklazhi-techno-18l-chornyi-techno-xs-black-26702650922015_+bbcaa120c5.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/riukzak-dlia-ruchnoi-poklazhi-techno-18l-chornyi-techno-xs-black-11165005974202_+06c2fbd423.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Поліестер</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="Explorer-XS-Black" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади Explorer 20л черный (Explorer-XS-Black)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі Explorer 20л чорний (Explorer-XS-Black)</name_ua>
+        <price>2180</price>
+        <categoryId>1089</categoryId>
+        <country>Україна</country>
+        <description_ru>Рюкзак для ручной клади Explorer 20л черный (Explorer-XS-Black)</description_ru>
+        <description_ua>Рюкзак для ручної поклажі Explorer має оптимальні розміри (38х26х16 см) та місткість у 20 літрів розраховані на тих, хто цінує свободу рухів під час активних поїздок чи міських прогулянок. Унікальною фішкою цієї моделі є вбудована задня резинка для надійного кріплення рюкзака на валізній ручці під час подорожей. Два основні відділення оснащені міцними блискавками, великими кишенями-органайзерами та стінками, що ідеально захищають ноутбук з діагоналлю до 15,6 дюймів. Високоякісна водовідштовхувальна тканина чорного кольору в поєднанні з укріпленим дном із екошкіри гарантує бездоганну стійкість до зносу. Анатомічна дихаюча спинка та додаткові ремені із застібкою на лямках допомагають вдало розподілити навантаження без жодного дискомфорту. Для швидкого доступу до дрібниць передбачені фронтальна кишеня та бічні відсіки, які надійно захищені водонепроникними застібками від вологи. Фірмове рефлективне брендування &amp;laquo;1702&amp;raquo; додає виробу оригінальності та гарантує вищу безпеку власника у темну пору доби.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-explorer-20l-chornyi-explorer-xs-black-76244065813583_+33c0af4f3e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-explorer-20l-chornyi-explorer-xs-black-90562346056023_+87a13985b1.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-explorer-20l-chornyi-explorer-xs-black-48302312544506_+b9a2d24b70.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-explorer-20l-chornyi-explorer-xs-black-93213957520216_+4a87ddefc0.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-explorer-20l-chornyi-explorer-xs-black-68765663935408_+9fb414bd7e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-explorer-20l-chornyi-explorer-xs-black-42449683545233_+b795126ea0.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Поліестер</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="Skin-XS-Black" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади Skin 26л черный (Skin-XS-Black)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі Skin 26л чорний (Skin-XS-Black)</name_ua>
+        <price>1905</price>
+        <categoryId>1089</categoryId>
+        <country>Україна</country>
+        <description_ru>Рюкзак для ручной клади Skin 26л черный (Skin-XS-Black)</description_ru>
+        <description_ua>Рюкзак для ручної поклажі Skin - це преміальний міський стиль, вражаюча міцність та щоденна практичність втілені в одному сміливому дизайні. Внушительні розміри з довжиною 42 см, шириною 30 см та великим об&amp;#39;ємом 26 літрів створені для тих, хто потребує максимуму вільного простору. Головною візуальною фішкою цієї моделі є якісна екошкіра з фактурою крокодила, яка додає образу особливого характеру та виділяє з натовпу. Два основні відділення закриваються на надійні блискавки та пропонують великі кишені-органайзери для безпечного транспортування ваших гаджетів. Завдяки водовідштовхувальній тканині та водонепроникним застібкам, вміст рюкзака гарантовано залишиться сухим за будь-якої негоди. Неймовірно зручна анатомічна форма та дихаюча спинка забезпечують абсолютний комфорт, нівелюючи дискомфорт під час довгих прогулянок. Додаткова горизонтальна кишеня на передній частині дозволяє миттєво дістати найважливіші речі чи документи.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/4/riukzak-dlia-ruchnoi-poklazhi-skin-26l-chornyi-skin-xs-black-41786377286641_+6bd960e5ed.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/4/riukzak-dlia-ruchnoi-poklazhi-skin-26l-chornyi-skin-xs-black-65091594900257_+f87092d415.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/4/riukzak-dlia-ruchnoi-poklazhi-skin-26l-chornyi-skin-xs-black-74953790645655_+089e3c5370.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/4/riukzak-dlia-ruchnoi-poklazhi-skin-26l-chornyi-skin-xs-black-27007925765847_+3d96b6bba2.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/4/riukzak-dlia-ruchnoi-poklazhi-skin-26l-chornyi-skin-xs-black-87767475639094_+aef560890d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/4/riukzak-dlia-ruchnoi-poklazhi-skin-26l-chornyi-skin-xs-black-61183325628568_+0aacf95a35.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Экокожа</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="Compact-XS-Black" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади Compact 19л черный (Compact-XS-Black)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі Compact 19л чорний (Compact-XS-Black)</name_ua>
+        <price>1635</price>
+        <categoryId>1089</categoryId>
+        <country>Україна</country>
+        <description_ru>Рюкзак для ручной клади Compact 19л черный (Compact-XS-Black)</description_ru>
+        <description_ua>Рюкзак Compact - це елегантний міський стиль, компактні форми та висока повсякденна практичність гармонійно поєдналися в одній моделі. Оптимальні розміри з довжиною 38 см, шириною 27 см та об&amp;#39;ємом 19 літрів ідеально розраховані на тих, хто цінує мінімалізм без зайвих деталей. Головне відділення наплічника закривається на міцну та надійну застібку-блискавку для захисту ваших речей. Внутрішня конструкція має два основні відділи, що дозволяє легко та акуратно розім&amp;#39;яти особисті речі. Всередині передбачено додаткову спеціальну кишеню, яка чудово підходить для планшета або невеликого ноутбука з діагоналлю до 14 дюймів. Рюкзак повністю виготовлений з якісної, щільної та приємної на дотик екошкіри чорного кольору. Надійна водовідштовхувальна тканина основи гарантує бездоганну стійкість до зносу та впевнено захищає вміст від негоди. Неймовірно зручна анатомічна форма та додатково укріплена спинка дозволяють власнику забути про дискомфорт під час щоденного використання та подорожей.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/5/riukzak-dlia-ruchnoi-poklazhi-compact-19l-chornyi-compact-xs-black-70532436912957_+0c4ea08e8a.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/5/riukzak-dlia-ruchnoi-poklazhi-compact-19l-chornyi-compact-xs-black-39528623318903_+5c76b7039b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/5/riukzak-dlia-ruchnoi-poklazhi-compact-19l-chornyi-compact-xs-black-33958489283092_+252dc09e93.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/5/riukzak-dlia-ruchnoi-poklazhi-compact-19l-chornyi-compact-xs-black-99932007038104_+71133bb4de.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/5/riukzak-dlia-ruchnoi-poklazhi-compact-19l-chornyi-compact-xs-black-53897471014194_+c3a7078532.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/5/riukzak-dlia-ruchnoi-poklazhi-compact-19l-chornyi-compact-xs-black-52283232637654_+6af91de4b2.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Экокожа</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
       <offer id="TPFN-02-Grey" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Подушка для путешествий под шею TPFN-02-Grey</name_ru>
@@ -7155,30 +7275,6 @@
         <param name="Колір">Черный</param>
         <param name="Тип">Рюкзак</param>
         <param name="Матеріал корпусу">Текстиль</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">Без колес</param>
-        <param name="Вбудований замок">Без замку</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">М'який</param>
-      </offer>
-      <offer id="Leon-XS-Black" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Рюкзак для ручной клади Leon 24л черный (Leon-XS-Black)</name_ru>
-        <name_ua>Рюкзак для ручної поклажі Leon 24л чорний (Leon-XS-Black)</name_ua>
-        <price>2700</price>
-        <categoryId>1089</categoryId>
-        <country>Україна</country>
-        <description_ru>Рюкзак для ручной клади Leon 24л черный (Leon-XS-Black)</description_ru>
-        <description_ua>Компактний рюкзак розроблений спеціально під стандарти малої ручної поклажі лоукостів. Модель виготовлена з щільного водовідштовхувального матеріалу з PU-покриттям, а ущільнені стінки та посилене дно надійно тримають форму. Внутрішній простір оптимізовано для ноутбука до 15.6&amp;Prime; та організовано за допомогою системи функціональних кишень. Для безпеки ваших речей передбачено потайне відділення на спинці, а для дрібниць - швидкий доступ через кишеню на лямці. Максимальний комфорт забезпечують дихаюча спинка, м&amp;rsquo;які лямки та нагрудна стяжка, що правильно розподіляє вагу. Бокові кишені зручні для води чи парасолі, а спеціальне кріплення дозволяє легко зафіксувати рюкзак на ручці валізи. Використання преміальної фурнітури гарантує довговічність навіть при інтенсивних поїздках. Це продумане рішення для подорожей без стресу, де кожен сантиметр працює на вас.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/45/riukzak-dlia-ruchnoi-poklazhi-leon-24l-chornyi-leon-xs-black-98875377078264_+2d00d57b14.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/45/riukzak-dlia-ruchnoi-poklazhi-leon-24l-chornyi-leon-xs-black-19218923968229_+4732abc8ae.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/45/riukzak-dlia-ruchnoi-poklazhi-leon-24l-chornyi-leon-xs-black-19433911466491_+214ca0201c.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/45/riukzak-dlia-ruchnoi-poklazhi-leon-24l-chornyi-leon-xs-black-57461126636442_+15c18d77f6.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/45/riukzak-dlia-ruchnoi-poklazhi-leon-24l-chornyi-leon-xs-black-70489793779358_+cfc3c38007.jpg</picture>
-        <param name="Колір">Черный</param>
-        <param name="Тип">Рюкзак</param>
-        <param name="Матеріал корпусу">Поліестер</param>
         <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">Без колес</param>
         <param name="Вбудований замок">Без замку</param>
@@ -8222,29 +8318,6 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
       </offer>
-      <offer id="42203-S-DarkBlue" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Чемодан с расширением Madisson 42203 малый 39л темно-синий (42203-S-DarkBlue)</name_ru>
-        <name_ua>Валіза з розширенням Madisson 42203 мала 39л темно-синя (42203-S-DarkBlue)</name_ua>
-        <price>1500</price>
-        <categoryId>1061</categoryId>
-        <vendor>Madisson</vendor>
-        <description_ru>Чемодан с расширением Madisson 42203 малый 39л темно-синий (42203-S-DarkBlue)</description_ru>
-        <description_ua>Валіза з розширенням Madisson 42203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/27/58483992101181_+58159ebff2.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/27/24690353935543_+3485283f1b.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/27/12647136890298_+c138c3c794.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/27/41851272957518_+5339390f05.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/27/64979647517897_+41faa8207d.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/27/43224821848339_+34a905d30b.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/27/47023777775444_+dbdc3365c0.jpg</picture>
-        <param name="Колір">Темно-синий</param>
-        <param name="Тип">Валізи</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-      </offer>
       <offer id="1106-BCM-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Дорожная сумка Wings средняя 60л черная (1106-BCM-Black)</name_ru>
@@ -8789,27 +8862,6 @@
         <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
-      </offer>
-      <offer id="HIMAWARI-XS-Blue" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Рюкзак для ручной клади HIMAWARI 17л синий (HIMAWARI-XS-Blue)</name_ru>
-        <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л синій (HIMAWARI-XS-Blue)</name_ua>
-        <price>1595</price>
-        <categoryId>1089</categoryId>
-        <vendor>HIMAWARI</vendor>
-        <country>Япония</country>
-        <description_ru>Рюкзак для ручной клади HIMAWARI 17л синий (HIMAWARI-XS-Blue)</description_ru>
-        <description_ua>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/27/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-synii-himawari-xs-blue-92293649144052_+73619321de.png</picture>
-        <param name="Колір">Синий</param>
-        <param name="Тип">Рюкзак</param>
-        <param name="Матеріал корпусу">Нейлон</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">Без колес</param>
-        <param name="Вбудований замок">Без замку</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">М'який</param>
       </offer>
       <offer id="801-1-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -10048,27 +10100,6 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
       </offer>
-      <offer id="HIMAWARI-XS-Red" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Рюкзак для ручной клади HIMAWARI 17л красный (HIMAWARI-XS-Red)</name_ru>
-        <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л червоний (HIMAWARI-XS-Red)</name_ua>
-        <price>1595</price>
-        <categoryId>1089</categoryId>
-        <vendor>HIMAWARI</vendor>
-        <country>Япония</country>
-        <description_ru>Рюкзак для ручной клади HIMAWARI 17л красный (HIMAWARI-XS-Red)</description_ru>
-        <description_ua>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chervonyi-himawari-xs-red-70280970195137_+973a14fece.jpg</picture>
-        <param name="Колір">Красный</param>
-        <param name="Тип">Рюкзак</param>
-        <param name="Матеріал корпусу">Нейлон</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">Без колес</param>
-        <param name="Вбудований замок">Без замку</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">М'який</param>
-      </offer>
       <offer id="NPC-Dark-Green-M" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен темно-зеленый NPC-Dark-Green-M</name_ru>
@@ -10772,101 +10803,17 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="D01-XS-Mermaid" available="false">
+      <offer id="2204-XS-Elsa-Blue" available="false">
         <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Детский чемодан D01 мини 29л розовый (D01-XS-Mermaid)</name_ru>
-        <name_ua>Дитяча валіза D01 міні 29л рожева (D01-XS-Mermaid)</name_ua>
-        <price>2233</price>
+        <name_ru>Детский чемодан 2204 мини 27л голубой (2204-XS-Elsa-Blue)</name_ru>
+        <name_ua>Дитяча валіза 2204 міні 27л блакитна (2204-XS-Elsa-Blue)</name_ua>
+        <price>2035</price>
         <categoryId>1061</categoryId>
         <country>Китай</country>
-        <description_ru>Детский чемодан D01 мини 29л розовый (D01-XS-Mermaid)</description_ru>
-        <description_ua>Дитяча валіза створена для того, щоб дарувати малюкам радість та комфорт під час перших самостійних подорожей. Завдяки надкомпактним габаритам модель ідеально підходить для коротких поїздок, сімейних вікендів або екскурсій тривалістю від 1 до 3 днів. Цей аксесуар розрахований суто на індивідуальне використання дитиною і за рахунок своєї компактності чудово проходить як ручна поклажа у більшості авіакомпаній, поїздів чи автобусів. Корпус виготовлений з ABS-пластику, що забезпечує ударостійкість, гнучкість та надійний захист речей вагою до 10 кг. Чотири прорезинені колеса з радіусом обертання 360 градусів та зручна висувна ручка з кількома положеннями фіксації дозволяють дитині котити свій багаж плавно і абсолютно без зусиль. Яскравий унікальний принт не лише виділяється серед іншого багажу, а й піднімає дитині настрій у дорозі.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/40/dytiacha-valiza-d01-mini-29l-rozheva-d01-xs-mermaid-35083266802059_+87ea61520f.jpg</picture>
-        <param name="Колір">Розовый</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">ABS-пластик</param>
-        <param name="Стать">Для детей</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="D01-XS-Elsa" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Детский чемодан D01 мини 29л розовато-голубой (D01-XS-Elsa)</name_ru>
-        <name_ua>Дитяча валіза D01 міні 29л рожево-блакитна (D01-XS-Elsa)</name_ua>
-        <price>2233</price>
-        <categoryId>1061</categoryId>
-        <country>Китай</country>
-        <description_ru>Детский чемодан D01 мини 29л розовато-голубой (D01-XS-Elsa)</description_ru>
-        <description_ua>Дитяча валіза створена для того, щоб дарувати малюкам радість та комфорт під час перших самостійних подорожей. Завдяки надкомпактним габаритам модель ідеально підходить для коротких поїздок, сімейних вікендів або екскурсій тривалістю від 1 до 3 днів. Цей аксесуар розрахований суто на індивідуальне використання дитиною і за рахунок своєї компактності чудово проходить як ручна поклажа у більшості авіакомпаній, поїздів чи автобусів. Корпус виготовлений з ABS-пластику, що забезпечує ударостійкість, гнучкість та надійний захист речей вагою до 10 кг. Чотири прорезинені колеса з радіусом обертання 360 градусів та зручна висувна ручка з кількома положеннями фіксації дозволяють дитині котити свій багаж плавно і абсолютно без зусиль. Яскравий унікальний принт не лише виділяється серед іншого багажу, а й піднімає дитині настрій у дорозі.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/41/dytiacha-valiza-d01-mini-29l-rozhevo-blakytna-d01-xs-elsa-86993336799194_+65acb22023.jpg</picture>
-        <param name="Колір">Мультиколор</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">ABS-пластик</param>
-        <param name="Стать">Для детей</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="D01-XS-Elsa-Blue" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Детский чемодан D01 мини 29л голубой (D01-XS-Elsa-Blue)</name_ru>
-        <name_ua>Дитяча валіза D01 міні 29л блакитна (D01-XS-Elsa-Blue)</name_ua>
-        <price>1985</price>
-        <categoryId>1061</categoryId>
-        <country>Китай</country>
-        <description_ru>Детский чемодан D01 мини 29л голубой (D01-XS-Elsa-Blue)</description_ru>
-        <description_ua>Дитяча валіза створена для того, щоб дарувати малюкам радість та комфорт під час перших самостійних подорожей. Завдяки надкомпактним габаритам модель ідеально підходить для коротких поїздок, сімейних вікендів або екскурсій тривалістю від 1 до 3 днів. Цей аксесуар розрахований суто на індивідуальне використання дитиною і за рахунок своєї компактності чудово проходить як ручна поклажа у більшості авіакомпаній, поїздів чи автобусів. Корпус виготовлений з ABS-пластику, що забезпечує ударостійкість, гнучкість та надійний захист речей вагою до 10 кг. Чотири прорезинені колеса з радіусом обертання 360 градусів та зручна висувна ручка з кількома положеннями фіксації дозволяють дитині котити свій багаж плавно і абсолютно без зусиль. Яскравий унікальний принт не лише виділяється серед іншого багажу, а й піднімає дитині настрій у дорозі.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/43/dytiacha-valiza-d01-mini-29l-blakytna-d01-xs-elsa-blue-93067220323312_+2fa31e0cb9.jpg</picture>
+        <description_ru>Детский чемодан 2204 мини 27л голубой (2204-XS-Elsa-Blue)</description_ru>
+        <description_ua>Яскрава дитяча валіза з улюбленими персонажами з Холодного Серця стане ідеальним супутником для маленького мандрівника під час будь-яких поїздок. Завдяки своїм компактним габаритам модель розрахована суто на індивідуальне використання дитиною і вміщує особисті речі на короткі подорожі чи канікули тривалістю від 3 до 5 днів. Розміри валізи повністю відповідають усім суворим стандартам ручної поклажі, тому її можна сміливо брати у салон літака, поїзда чи автобуса. Міцний і водночас гнучкий корпус надійно захищає вміст від ударів та випадкових падінь під час активних ігор на вокзалі чи в терміналі. Надійна система чотирьох коліс, що обертаються на 360 градусів, та зручна висувна ручка дозволяють малюкові легко і без зусиль котити свій багаж самостійно.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/46/dytiacha-valiza-2204-mini-27l-blakytna-2204-xs-elsa-blue-22306281298049_+b39f62d206.jpg</picture>
         <param name="Колір">Голубой</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">ABS-пластик</param>
-        <param name="Стать">Для детей</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="2204-XS-Anna-Elsa" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Детский чемодан 2204 мини 27л розовый (2204-XS-Anna-Elsa)</name_ru>
-        <name_ua>Дитяча валіза 2204 міні 27л рожева (2204-XS-Anna-Elsa)</name_ua>
-        <price>2035</price>
-        <categoryId>1061</categoryId>
-        <country>Китай</country>
-        <description_ru>Детский чемодан 2204 мини 27л розовый (2204-XS-Anna-Elsa)</description_ru>
-        <description_ua>Яскрава дитяча валіза з улюбленими персонажами з Холодного Серця стане ідеальним супутником для маленького мандрівника під час будь-яких поїздок. Завдяки своїм компактним габаритам модель розрахована суто на індивідуальне використання дитиною і вміщує особисті речі на короткі подорожі чи канікули тривалістю від 3 до 5 днів. Розміри валізи повністю відповідають усім суворим стандартам ручної поклажі, тому її можна сміливо брати у салон літака, поїзда чи автобуса. Міцний і водночас гнучкий корпус надійно захищає вміст від ударів та випадкових падінь під час активних ігор на вокзалі чи в терміналі. Надійна система чотирьох коліс, що обертаються на 360 градусів, та зручна висувна ручка дозволяють малюкові легко і без зусиль котити свій багаж самостійно.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/45/dytiacha-valiza-2204-mini-27l-rozheva-2204-xs-anna-elsa-86486699004847_+66ca21da43.jpg</picture>
-        <param name="Колір">Розовый</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">ABS-пластик</param>
-        <param name="Стать">Для детей</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Без замку</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="2204-XS-Hello-Kitty" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Детский чемодан 2204 мини 22л розовый (2204-XS-Hello-Kitty)</name_ru>
-        <name_ua>Дитяча валіза 2204 міні 22л рожева (2204-XS-Hello-Kitty)</name_ua>
-        <price>2035</price>
-        <categoryId>1061</categoryId>
-        <country>Китай</country>
-        <description_ru>Детский чемодан 2204 мини 22л розовый (2204-XS-Hello-Kitty)</description_ru>
-        <description_ua>Яскрава дитяча валіза з улюбленими персонажами з Холодного Серця стане ідеальним супутником для маленького мандрівника під час будь-яких поїздок. Завдяки своїм компактним габаритам модель розрахована суто на індивідуальне використання дитиною і вміщує особисті речі на короткі подорожі чи канікули тривалістю від 3 до 5 днів. Розміри валізи повністю відповідають усім суворим стандартам ручної поклажі, тому її можна сміливо брати у салон літака, поїзда чи автобуса. Міцний і водночас гнучкий корпус надійно захищає вміст від ударів та випадкових падінь під час активних ігор на вокзалі чи в терміналі. Надійна система чотирьох коліс, що обертаються на 360 градусів, та зручна висувна ручка дозволяють малюкові легко і без зусиль котити свій багаж самостійно.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/47/dytiacha-valiza-2204-mini-22l-rozheva-2204-xs-hello-kitty-56573342218892_+fd7f2b2ef7.jpg</picture>
-        <param name="Колір">Розовый</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">ABS-пластик</param>
         <param name="Стать">Для детей</param>
@@ -11057,6 +11004,34 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
+      <offer id="PHX01-M-Blue" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан из полипропилена Wings PHX01 средний 60л синий (PHX01-M-Blue)</name_ru>
+        <name_ua>Валіза з поліпропілену Wings PHX01 середня 60л синя (PHX01-M-Blue)</name_ua>
+        <price>2200</price>
+        <categoryId>1061</categoryId>
+        <vendor>Wings</vendor>
+        <country>Польща</country>
+        <description_ru>Чемодан из полипропилена Wings PHX01 средний 60л синий (PHX01-M-Blue)</description_ru>
+        <description_ua>Валіза з поліпропілену Wings PHX01 в розмірі М - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360°, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18-20 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/43/valiza-z-polipropilenu-wings-phx01-serednia-60l-synia-phx01-m-blue-32678022756658_+def44a1732.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/43/valiza-z-polipropilenu-wings-phx01-serednia-60l-synia-phx01-m-blue-88688636053707_+78a709757f.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/43/valiza-z-polipropilenu-wings-phx01-serednia-60l-synia-phx01-m-blue-38799192774450_+c37b6a78fd.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/43/valiza-z-polipropilenu-wings-phx01-serednia-60l-synia-phx01-m-blue-34668551279108_+1b62481272.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/43/valiza-z-polipropilenu-wings-phx01-serednia-60l-synia-phx01-m-blue-84706415816145_+038bfd4c34.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/43/valiza-z-polipropilenu-wings-phx01-serednia-60l-synia-phx01-m-blue-86618398456449_+605f142ec8.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/43/valiza-z-polipropilenu-wings-phx01-serednia-60l-synia-phx01-m-blue-59319142601464_+a45f734376.jpg</picture>
+        <param name="Колір">Синий</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Середні (50 – 89.9 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
       <offer id="PHX01-L-Gray" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Wings PHX01 большой 95л серый (PHX01-L-Gray)</name_ru>
@@ -11112,6 +11087,85 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="PHX01-Set-Blue" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 синий (PHX01-Set-Blue)</name_ru>
+        <name_ua>Набір валіз з поліпропілену Wings PHX01 3 в 1 синій (PHX01-Set-Blue)</name_ua>
+        <price>5250</price>
+        <old_price>6200</old_price>
+        <categoryId>1061</categoryId>
+        <vendor>Wings</vendor>
+        <country>Польща</country>
+        <description_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 синий (PHX01-Set-Blue)</description_ru>
+        <description_ua>Валізи з поліпропілену Wings PHX01 - це ідеальний вибір для будь-яких подорожей, від коротких вікендів до тривалих сімейних відпусток. Набір містить три моделі різних розмірів, що робить його універсальним для пересування літаком, поїздом чи автомобілем. При цьому найменшу валізу можна брати на борт літака як ручну поклажу. Корпус виготовлений зі поліпропілену - надзвичайно гнучкого та міцного матеріалу, який не розбивається від сильних ударів під час завантаження. Надійний захист речей від негоди гарантує спеціальна блискавка, що не піддається впливу води та вологи. Кожна валіза оснащена надійними подвійними колесами з поворотним механізмом на 360 градусів, що забезпечують плавний та зручний рух у будь-якому напрямку. Вбудований кодовий замок гарантує максимальну безпеку та спокій під час перевезення ваших особистих речей. Продуманий внутрішній простір розділений на два зручні відділи з перегородкою та ременями для надійної фіксації багажу. Телескопічна алюмінієва ручка фіксується у кількох положеннях, дозволяючи легко підлаштувати її під свій зріст. Вага завантаження: розмір S - 12-15 кг, розмір М - 18-20 кг, розмір L - 22-25 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-synii-phx01-set-blue-62208654810235_+8dbfeaf405.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-synii-phx01-set-blue-60987682226460_+49f2b85420.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-synii-phx01-set-blue-83835487696333_+acaca0d7ac.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-synii-phx01-set-blue-38832299157703_+f2f75650c1.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-synii-phx01-set-blue-95469908003228_+5694220068.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-synii-phx01-set-blue-11633276676101_+39d65a1607.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/49/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-synii-phx01-set-blue-12590591539476_+cd36c7459d.jpg</picture>
+        <param name="Колір">Синий</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="65903-L-Gray" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан с расширением Carbon 65903 большой 100л серый (65903-L-Gray)</name_ru>
+        <name_ua>Валіза з розширенням Carbon 65903 велика 100л сіра (65903-L-Gray)</name_ua>
+        <price>2850</price>
+        <categoryId>1061</categoryId>
+        <vendor>Carbon</vendor>
+        <country>Україна</country>
+        <description_ru>Чемодан с расширением Carbon 65903 большой 100л серый (65903-L-Gray)</description_ru>
+        <description_ua>Валіза з розширенням Carbon 65903 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-92031405210698_+179507fc95.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-94706259234701_+c6bcb81803.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-43706488947424_+331fc10069.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-69432119749833_+7aba33420b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-92985897987206_+deca6ffb6d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-76072374202985_+ab3df2d7e5.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-carbon-65903-velyka-100l-sira-65903-l-gray-72756014357993_+e34cf774ed.jpg</picture>
+        <param name="Колір">Серый</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Великі (90 - 100 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="65903-Set-Gray" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Набор чемоданов с расширением Carbon 65903 4 в 1 серый (65903-Set-Gray)</name_ru>
+        <name_ua>Набір валіз з розширенням Carbon 65903 4 в 1 сірий (65903-Set-Gray)</name_ua>
+        <price>7125</price>
+        <old_price>8200</old_price>
+        <categoryId>1061</categoryId>
+        <vendor>Carbon</vendor>
+        <description_ru>Набор чемоданов с расширением Carbon 65903 4 в 1 серый (65903-Set-Gray)</description_ru>
+        <description_ua>Валіза з розширенням Carbon 65903 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/13/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-siryi-65903-set-gray-93877218443577_+053f9a3033.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/13/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-siryi-65903-set-gray-65211406610165_+09b3f2b5f6.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/13/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-siryi-65903-set-gray-98660830377984_+bba8d9c7f3.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/13/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-siryi-65903-set-gray-40927823067243_+8823990ffb.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/13/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-siryi-65903-set-gray-20207410196608_+44117e4587.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/13/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-siryi-65903-set-gray-80808011129846_+75a91f5960.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/13/nabir-valiz-z-rozshyrenniam-carbon-65903-4-v-1-siryi-65903-set-gray-74773055685901_+087139d3a3.jpg</picture>
+        <param name="Колір">Серый</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
       </offer>
       <offer id="53103-M-Pink" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -11889,7 +11943,7 @@
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
       </offer>
       <offer id="33703-M-Grey" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Snowball 33703 средний 69л серый (33703-M-Grey)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 середня 69л сіра (33703-M-Grey)</name_ua>
         <price>3100</price>
@@ -12607,7 +12661,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="33703-S-Grey" available="true">
-        <quantity_in_stock>12</quantity_in_stock>
+        <quantity_in_stock>11</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Snowball 33703 малый 36л серый (33703-S-Grey)</name_ru>
         <name_ua>Валіза для ручної поклажі Snowball 33703 мала 36л сіра (33703-S-Grey)</name_ua>
         <price>2300</price>
@@ -13896,7 +13950,7 @@
         <param name="Тип закриття">На блискавці</param>
       </offer>
       <offer id="NPC-Burgundy-M" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен NPC-Burgundy-M</name_ru>
         <name_ua>Чохол для валізи неопрен NPC-Burgundy-M</name_ua>
         <price>600</price>
@@ -14024,7 +14078,7 @@
         <param name="Тип закриття">На блискавці</param>
       </offer>
       <offer id="NPC-Blue-S" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен синий NPC-Blue-S</name_ru>
         <name_ua>Чохол для валізи неопрен синій NPC-Blue-S</name_ua>
         <price>600</price>
@@ -14052,6 +14106,102 @@
         <param name="Колір">Темно-синий</param>
         <param name="Тип">Чехол</param>
         <param name="Матеріал корпусу">Неопрен</param>
+        <param name="Об'єм">Великі (90 - 100 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+      </offer>
+      <offer id="DPC-Purple-L" available="true">
+        <quantity_in_stock>4</quantity_in_stock>
+        <name_ru>Чехол для чемодана дайвинг баклажановый DPC-Purple-L</name_ru>
+        <name_ua>Чохол для валізи дайвінг баклажановий DPC-Purple-L</name_ua>
+        <price>500</price>
+        <categoryId>1086</categoryId>
+        <country>Україна</country>
+        <description_ru>Чехол для чемодана дайвинг баклажановый DPC-Purple-L</description_ru>
+        <description_ua>Чохол для валізи дайвінг баклажановий DPC-Purple-L</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/31/38703350881727_+c7d90193f7.jpg</picture>
+        <param name="Колір">Сиреневый</param>
+        <param name="Тип">Чехол</param>
+        <param name="Матеріал корпусу">Дайвинг</param>
+        <param name="Об'єм">Великі (90 - 100 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+      </offer>
+      <offer id="DPC-Elektryk-L" available="true">
+        <quantity_in_stock>5</quantity_in_stock>
+        <name_ru>Чехол для чемодана дайвинг электрик DPC-Elektryk-L</name_ru>
+        <name_ua>Чохол для валізи дайвінг електрик DPC-Elektryk-L</name_ua>
+        <price>500</price>
+        <categoryId>1086</categoryId>
+        <country>Україна</country>
+        <description_ru>Чехол для чемодана дайвинг электрик DPC-Elektryk-L</description_ru>
+        <description_ua>Чохол для валізи дайвінг електрик DPC-Elektryk-L</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/32/58606138678115_+6ce1ece40c.jpg</picture>
+        <param name="Колір">Синий</param>
+        <param name="Тип">Чехол</param>
+        <param name="Матеріал корпусу">Дайвинг</param>
+        <param name="Об'єм">Великі (90 - 100 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+      </offer>
+      <offer id="DPC-Elektryk-S" available="true">
+        <quantity_in_stock>7</quantity_in_stock>
+        <name_ru>Чехол для чемодана дайвинг электрик DPC-Elektryk-S</name_ru>
+        <name_ua>Чохол для валізи дайвінг електрик DPC-Elektryk-S</name_ua>
+        <price>500</price>
+        <categoryId>1086</categoryId>
+        <country>Україна</country>
+        <description_ru>Чехол для чемодана дайвинг электрик DPC-Elektryk-S</description_ru>
+        <description_ua>Чохол для валізи дайвінг електрик DPC-Elektryk-S</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/33/12512986833153_+55ea4418a6.jpg</picture>
+        <param name="Колір">Синий</param>
+        <param name="Тип">Чехол</param>
+        <param name="Матеріал корпусу">Дайвинг</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+      </offer>
+      <offer id="DPC-Green-L" available="true">
+        <quantity_in_stock>5</quantity_in_stock>
+        <name_ru>Чехол для чемодана дайвинг салатовый DPC-Green-L</name_ru>
+        <name_ua>Чохол для валізи дайвінг салатовий DPC-Green-L</name_ua>
+        <price>500</price>
+        <categoryId>1086</categoryId>
+        <country>Україна</country>
+        <description_ru>Чехол для чемодана дайвинг салатовый DPC-Green-L</description_ru>
+        <description_ua>Чохол для валізи дайвінг салатовий DPC-Green-L</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/34/73600235771258_+2e0fc85921.jpg</picture>
+        <param name="Колір">Салатовый</param>
+        <param name="Тип">Чехол</param>
+        <param name="Матеріал корпусу">Дайвинг</param>
+        <param name="Об'єм">Великі (90 - 100 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+      </offer>
+      <offer id="DPC-Green-S" available="true">
+        <quantity_in_stock>7</quantity_in_stock>
+        <name_ru>Чехол для чемодана дайвинг салатовый DPC-Green-S</name_ru>
+        <name_ua>Чохол для валізи дайвінг салатовий DPC-Green-S</name_ua>
+        <price>500</price>
+        <categoryId>1086</categoryId>
+        <country>Україна</country>
+        <description_ru>Чехол для чемодана дайвинг салатовый DPC-Green-S</description_ru>
+        <description_ua>Чохол для валізи дайвінг салатовий DPC-Green-S</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/35/84342578544629_+3c099dfa5e.jpg</picture>
+        <param name="Колір">Салатовый</param>
+        <param name="Тип">Чехол</param>
+        <param name="Матеріал корпусу">Дайвинг</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+      </offer>
+      <offer id="DPC-Black-L" available="true">
+        <quantity_in_stock>3</quantity_in_stock>
+        <name_ru>Чехол для чемодана дайвинг черный DPC-Black-L</name_ru>
+        <name_ua>Чохол для валізи дайвінг чорний DPC-Black-L</name_ua>
+        <price>500</price>
+        <categoryId>1086</categoryId>
+        <country>Україна</country>
+        <description_ru>Чехол для чемодана дайвинг черный DPC-Black-L</description_ru>
+        <description_ua>Чохол для валізи дайвінг чорний DPC-Black-L</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/36/20407093547945_+bd6b925895.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Чехол</param>
+        <param name="Матеріал корпусу">Дайвинг</param>
         <param name="Об'єм">Великі (90 - 100 л)</param>
         <param name="Тип закриття">На блискавці</param>
       </offer>
