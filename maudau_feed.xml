@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-03T05:06:13.035Z">
+<yml_catalog date="2026-10-03T13:06:13.598Z">
   <shop>
     <categories>
       <category id="1061" portal_id="Чемоданы">Валізи</category>
@@ -11,32 +11,6 @@
       <category id="1089" portal_id="Рюкзаки">Рюкзаки</category>
     </categories>
     <offers>
-      <offer id="TP01-Burgundy" available="true">
-        <quantity_in_stock>24</quantity_in_stock>
-        <name_ru>Подушка для путешествий TP01-Burgundy</name_ru>
-        <name_ua>Подушка для подорожей TP01-Burgundy</name_ua>
-        <price>340</price>
-        <categoryId>1086</categoryId>
-        <country>Україна</country>
-        <description_ru>Подушка для путешествий TP01-Burgundy</description_ru>
-        <description_ua>Подушка для подорожей TP01-Burgundy</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/41/86418226650225_+b3e14982a2.jpg</picture>
-        <param name="Колір">Бордовый</param>
-        <param name="Тип">Подушка</param>
-      </offer>
-      <offer id="OI01-Pink" available="true">
-        <quantity_in_stock>29</quantity_in_stock>
-        <name_ru>Подушка-рогалик для путешествий розовая OI01-Pink</name_ru>
-        <name_ua>Подушка-рогалик для подорожей рожева OI01-Pink</name_ua>
-        <price>500</price>
-        <categoryId>1086</categoryId>
-        <country>Україна</country>
-        <description_ru>Подушка-рогалик для путешествий розовая OI01-Pink</description_ru>
-        <description_ua>Подушка-рогалик для подорожей рожева OI01-Pink</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/45/43816965068624_+78fc0b1001.jpg</picture>
-        <param name="Колір">Розовый</param>
-        <param name="Тип">Подушка</param>
-      </offer>
       <offer id="OI01-Blue" available="true">
         <quantity_in_stock>12</quantity_in_stock>
         <name_ru>Подушка-рогалик для путешествий синяя OI01-Blue</name_ru>
@@ -263,7 +237,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="HIMAWARI-XS-Black" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади HIMAWARI 17л черный (HIMAWARI-XS-Black)</name_ru>
         <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л чорний (HIMAWARI-XS-Black)</name_ua>
         <price>1495</price>
@@ -776,7 +750,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="53103-S-Purple" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Madisson 53103 малый 37л фиолетовый (53103-S-Purple)</name_ru>
         <name_ua>Валіза для ручної поклажі Madisson 53103 мала 37л фіолетова (53103-S-Purple)</name_ua>
         <price>1850</price>
@@ -1308,7 +1282,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="20303-M-Red" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 20303 средний 71л красный (20303-M-Red)</name_ru>
         <name_ua>Валіза з розширенням Snowball 20303 середня 71л червона (20303-M-Red)</name_ua>
         <price>4300</price>
@@ -1631,7 +1605,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="53103-Set-Gray" available="true">
-        <quantity_in_stock>9</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Madisson 53103 3 в 1 серый (53103-Set-Gray)</name_ru>
         <name_ua>Набір валіз з поліпропілену Madisson 53103 3 в 1 сірий (53103-Set-Gray)</name_ua>
         <price>5625</price>
@@ -1700,7 +1674,7 @@
         <param name="Вбудований замок">Кодовий</param>
       </offer>
       <offer id="49103-3-White" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Snowball 49103 3в1 белый (49103-3-White)</name_ru>
         <name_ua>Набір валіз з поліпропілену Snowball 49103 3в1 білий (49103-3-White)</name_ua>
         <price>11580</price>
@@ -2347,15 +2321,26 @@
         <price>1600</price>
         <categoryId>1061</categoryId>
         <vendor>Carbon</vendor>
+        <country>Україна</country>
         <description_ru>Чемодан для ручной клади Fashion 131 малый 35л голубая (131-S-LightBlue)</description_ru>
-        <description_ua>Валіза для ручної поклажі Fashion 131 мала 35л блакитна (131-S-LightBlue)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/14/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-blakytna-131-s-lightblue-41166484737313_+5428220334.jpg</picture>
+        <description_ua>Валіза з поліпропілену Fashion 131 в розмірі S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/14/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-blakytna-131-s-lightblue-27538370723584_+12dbdb6ea7.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/14/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-blakytna-131-s-lightblue-88047699989715_+1f3cadcce5.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/14/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-blakytna-131-s-lightblue-41126490266931_+e8cd0f6718.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/14/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-blakytna-131-s-lightblue-52384239679907_+b5d262a95d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/14/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-blakytna-131-s-lightblue-14374468070535_+164e3876b5.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/14/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-blakytna-131-s-lightblue-89780551632397_+3269c74443.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/14/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-blakytna-131-s-lightblue-72010371190832_+26cc81a803.jpg</picture>
         <param name="Колір">Голубой</param>
         <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
         <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="131-S-Black" available="true">
         <quantity_in_stock>8</quantity_in_stock>
@@ -2364,20 +2349,26 @@
         <price>1600</price>
         <categoryId>1061</categoryId>
         <vendor>Carbon</vendor>
+        <country>Україна</country>
         <description_ru>Чемодан для ручной клади Fashion 131 малый 35л черный (131-S-Black)</description_ru>
-        <description_ua>Валіза для ручної поклажі Fashion 131 мала 35л чорна (131-S-Black)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/15/84972387053641_+6cc0404d74.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/15/62462605584635_+ae878075a2.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/15/83200518376739_+9cab0eebab.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/15/44949644274323_+bc8c7bb4d5.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/15/27692162141966_+bf39ac427d.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/15/90832712860331_+e34f1f7803.png</picture>
+        <description_ua>Валіза з поліпропілену Fashion 131 в розмірі S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/15/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-chorna-131-s-black-32211516102807_+1f7244eb2a.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/15/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-chorna-131-s-black-87789108255456_+1fbac111b7.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/15/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-chorna-131-s-black-50751780256635_+f200fa2351.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/15/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-chorna-131-s-black-52278031251684_+dd96d31efc.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/15/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-chorna-131-s-black-27231396259909_+367372944b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/15/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-chorna-131-s-black-21781483323956_+533c339b05.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/15/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-chorna-131-s-black-35791349237075_+a01787a410.jpg</picture>
         <param name="Колір">Черный</param>
         <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
         <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="131-S-Beige" available="true">
         <quantity_in_stock>13</quantity_in_stock>
@@ -2387,32 +2378,54 @@
         <old_price>1600</old_price>
         <categoryId>1061</categoryId>
         <vendor>Carbon</vendor>
+        <country>Україна</country>
         <description_ru>Чемодан для ручной клади Fashion 131 малый 35л бежевый (131-S-Beige)</description_ru>
-        <description_ua>Валіза для ручної поклажі Fashion 131 мала 35л бежева (131-S-Beige)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/16/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-bezheva-131-s-beige-49258398474322_+506ca3c129.jpg</picture>
+        <description_ua>Валіза з поліпропілену Fashion 131 в розмірі S - компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/16/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-bezheva-131-s-beige-56245831912522_+640663bb38.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/16/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-bezheva-131-s-beige-54681519264756_+5130013bea.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/16/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-bezheva-131-s-beige-86894510665378_+8468e2a0ab.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/16/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-bezheva-131-s-beige-38709246341110_+2d84fab0cc.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/16/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-bezheva-131-s-beige-75450111428556_+74d7896e4d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/16/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-bezheva-131-s-beige-83253731865191_+fca9d9a72f.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/16/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-bezheva-131-s-beige-89000146263845_+81cf28957b.jpg</picture>
         <param name="Колір">Бежевый</param>
         <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
         <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="131-M-LightBlue" available="true">
         <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан Fashion 131 средний 62л голубой (131-M-LightBlue)</name_ru>
-        <name_ua>Валіза Fashion 131 середня 62л блакитна (131-M-LightBlue)</name_ua>
+        <name_ru>Чемодан из полипропилена Fashion 131 средний 62л голубой (131-M-LightBlue)</name_ru>
+        <name_ua>Валіза з поліпропілену Fashion 131 середня 62л блакитна (131-M-LightBlue)</name_ua>
         <price>2050</price>
         <categoryId>1061</categoryId>
         <vendor>Carbon</vendor>
-        <description_ru>Чемодан Fashion 131 средний 62л голубой (131-M-LightBlue)</description_ru>
-        <description_ua>Валіза Fashion 131 середня 62л блакитна (131-M-LightBlue)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-fashion-131-serednia-62l-blakytna-131-m-lightblue-82350605276656_+30c0afc46d.jpg</picture>
+        <country>Україна</country>
+        <description_ru>Чемодан из полипропилена Fashion 131 средний 62л голубой (131-M-LightBlue)</description_ru>
+        <description_ua>Валіза з поліпропілену Fashion 131 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360°, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-fashion-131-serednia-62l-blakytna-131-m-lightblue-63260884143190_+f79ab9a732.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-fashion-131-serednia-62l-blakytna-131-m-lightblue-84411639951724_+653748c071.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-fashion-131-serednia-62l-blakytna-131-m-lightblue-18706575221870_+4d4e8c59fb.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-fashion-131-serednia-62l-blakytna-131-m-lightblue-58046661856484_+ab708b834e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-fashion-131-serednia-62l-blakytna-131-m-lightblue-54210492946268_+8187ddf131.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-fashion-131-serednia-62l-blakytna-131-m-lightblue-60795819701971_+69c4ec56a6.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/17/valiza-fashion-131-serednia-62l-blakytna-131-m-lightblue-24206556257546_+365c6f1f99.jpg</picture>
         <param name="Колір">Голубой</param>
         <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
         <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="131-M-Black" available="true">
         <quantity_in_stock>4</quantity_in_stock>
@@ -2421,49 +2434,72 @@
         <price>2050</price>
         <categoryId>1061</categoryId>
         <vendor>Carbon</vendor>
+        <country>Україна</country>
         <description_ru>Чемодан с полипропилена Fashion 131 средний 62л черный (131-M-Black)</description_ru>
-        <description_ua>Валіза з поліпропілену Fashion 131 середня 62л чорна (131-M-Black)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/18/74789768068316_+8979279fd5.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/18/12942742260801_+5572599d24.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/18/58256573189306_+40cc756fbf.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/18/20357996533044_+645a0f8052.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/18/86672622209097_+dc74436057.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/18/71811373861124_+54c5d55a89.png</picture>
+        <description_ua>Валіза з поліпропілену Fashion 131 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360°, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/18/valiza-fashion-131-serednia-62l-chorna-131-m-black-72962233455366_+d7173108fe.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/18/valiza-fashion-131-serednia-62l-chorna-131-m-black-75865279251387_+eb37feda58.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/18/valiza-fashion-131-serednia-62l-chorna-131-m-black-42900065008926_+a48277e41f.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/18/valiza-fashion-131-serednia-62l-chorna-131-m-black-55459625767690_+2dba4236a9.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/18/valiza-fashion-131-serednia-62l-chorna-131-m-black-82638081141816_+96a2bea01c.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/18/valiza-fashion-131-serednia-62l-chorna-131-m-black-97872004650326_+c654e80447.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/18/valiza-fashion-131-serednia-62l-chorna-131-m-black-53246778247897_+f18af70add.jpg</picture>
         <param name="Колір">Черный</param>
         <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
         <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="131-M-Beige" available="true">
         <quantity_in_stock>3</quantity_in_stock>
-        <name_ru>Чемодан Fashion 131 средний 62л бежевый (131-M-Beige)</name_ru>
-        <name_ua>Валіза Fashion 131 середня 62л бежева (131-M-Beige)</name_ua>
+        <name_ru>Чемодан из полипропилена Fashion 131 средний 62л бежевый (131-M-Beige)</name_ru>
+        <name_ua>Валіза з поліпропілену Fashion 131 середня 62л бежева (131-M-Beige)</name_ua>
         <price>2050</price>
         <categoryId>1061</categoryId>
         <vendor>Carbon</vendor>
-        <description_ru>Чемодан Fashion 131 средний 62л бежевый (131-M-Beige)</description_ru>
-        <description_ua>Валіза Fashion 131 середня 62л бежева (131-M-Beige)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/19/valiza-fashion-131-serednia-62l-bezheva-131-m-beige-25675722723396_+c7037180e0.jpg</picture>
+        <country>Україна</country>
+        <description_ru>Чемодан из полипропилена Fashion 131 средний 62л бежевый (131-M-Beige)</description_ru>
+        <description_ua>Валіза з поліпропілену Fashion 131 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360°, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/19/valiza-fashion-131-serednia-62l-bezheva-131-m-beige-85299605782491_+0bdc172a65.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/19/valiza-fashion-131-serednia-62l-bezheva-131-m-beige-39517369949889_+25b75f483d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/19/valiza-fashion-131-serednia-62l-bezheva-131-m-beige-32132722799415_+26b34cafdb.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/19/valiza-fashion-131-serednia-62l-bezheva-131-m-beige-92074346107079_+09bddc01c4.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/19/valiza-fashion-131-serednia-62l-bezheva-131-m-beige-75302606208051_+f4adbca3e2.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/19/valiza-fashion-131-serednia-62l-bezheva-131-m-beige-67055238125525_+76ffbdc86a.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/19/valiza-fashion-131-serednia-62l-bezheva-131-m-beige-38254474579882_+3cdbcc3fae.jpg</picture>
         <param name="Колір">Бежевый</param>
         <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
         <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="131-L-LightBlue" available="true">
         <quantity_in_stock>7</quantity_in_stock>
-        <name_ru>Чемодан Fashion 131 большой 92л голубой (131-L-LightBlue)</name_ru>
-        <name_ua>Валіза Fashion 131 велика 92л блакитна (131-L-LightBlue)</name_ua>
+        <name_ru>Чемодан из полипропилена Fashion 131 большой 92л голубой (131-L-LightBlue)</name_ru>
+        <name_ua>Валіза з поліпропілену Fashion 131 велика 92л блакитна (131-L-LightBlue)</name_ua>
         <price>2200</price>
         <categoryId>1061</categoryId>
         <vendor>Carbon</vendor>
         <country>Україна</country>
-        <description_ru>Чемодан Fashion 131 большой 92л голубой (131-L-LightBlue)</description_ru>
-        <description_ua>Валіза Fashion 131 велика 92л блакитна (131-L-LightBlue)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/20/valiza-fashion-131-velyka-92l-blakytna-131-l-lightblue-44572901510056_+7992e529b5.jpg</picture>
+        <description_ru>Чемодан из полипропилена Fashion 131 большой 92л голубой (131-L-LightBlue)</description_ru>
+        <description_ua>Валіза з поліпропілену Fashion 131 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22&amp;ndash;25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/20/valiza-fashion-131-velyka-92l-blakytna-131-l-lightblue-89797038101419_+f89b02233b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/20/valiza-fashion-131-velyka-92l-blakytna-131-l-lightblue-53734740321564_+9d1d19e96c.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/20/valiza-fashion-131-velyka-92l-blakytna-131-l-lightblue-12142890854724_+b74f0adbe8.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/20/valiza-fashion-131-velyka-92l-blakytna-131-l-lightblue-47100199280157_+ff931c159b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/20/valiza-fashion-131-velyka-92l-blakytna-131-l-lightblue-70313396194295_+63fe38ec17.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/20/valiza-fashion-131-velyka-92l-blakytna-131-l-lightblue-82485673224342_+b7c0bd4bb4.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/20/valiza-fashion-131-velyka-92l-blakytna-131-l-lightblue-13283918475576_+4a5455566f.jpg</picture>
         <param name="Колір">Голубой</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -2484,13 +2520,14 @@
         <vendor>Carbon</vendor>
         <country>Україна</country>
         <description_ru>Чемодан с полипропилена Fashion 131 большой 92л черный (131-L-Black)</description_ru>
-        <description_ua>Валіза з поліпропілену Fashion 131 велика 92л чорна (131-L-Black)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/21/44598733259494_+72496b2bbf.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/21/38854186804552_+7454062a6b.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/21/42007645662213_+8879afd153.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/21/59824631990119_+3767522ee5.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/21/29867200956937_+57e275231f.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/21/28498838525507_+75d5256aed.png</picture>
+        <description_ua>Валіза з поліпропілену Fashion 131 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22&amp;ndash;25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/21/valiza-fashion-131-velyka-92l-chorna-131-l-black-52449037339513_+52d8ac09c3.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/21/valiza-fashion-131-velyka-92l-chorna-131-l-black-22216876911214_+aca077049f.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/21/valiza-fashion-131-velyka-92l-chorna-131-l-black-57796719272717_+c14e8dfa3e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/21/valiza-fashion-131-velyka-92l-chorna-131-l-black-25262888885491_+87b8c29236.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/21/valiza-fashion-131-velyka-92l-chorna-131-l-black-64286677802137_+3f3e81378d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/21/valiza-fashion-131-velyka-92l-chorna-131-l-black-62585434793385_+fd2d0d00ea.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/21/valiza-fashion-131-velyka-92l-chorna-131-l-black-22269094630570_+632c43c7a5.jpg</picture>
         <param name="Колір">Черный</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -2504,16 +2541,22 @@
       </offer>
       <offer id="131-L-Beige" available="true">
         <quantity_in_stock>8</quantity_in_stock>
-        <name_ru>Чемодан Fashion 131 большой 92л бежевый (131-L-Beige)</name_ru>
-        <name_ua>Валіза Fashion 131 велика 92л бежева (131-L-Beige)</name_ua>
+        <name_ru>Чемодан из полипропилена Fashion 131 большой 92л бежевый (131-L-Beige)</name_ru>
+        <name_ua>Валіза з поліпропілену Fashion 131 велика 92л бежева (131-L-Beige)</name_ua>
         <price>1870</price>
         <old_price>2200</old_price>
         <categoryId>1061</categoryId>
         <vendor>Carbon</vendor>
         <country>Україна</country>
-        <description_ru>Чемодан Fashion 131 большой 92л бежевый (131-L-Beige)</description_ru>
-        <description_ua>Валіза Fashion 131 велика 92л бежева (131-L-Beige)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-34915396832621_+531010c2d7.jpg</picture>
+        <description_ru>Чемодан из полипропилена Fashion 131 большой 92л бежевый (131-L-Beige)</description_ru>
+        <description_ua>Валіза з поліпропілену Fashion 131 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22&amp;ndash;25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-80450677549921_+574a8b8f91.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-68931981246707_+60e65c38f3.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-51257255310402_+8d67dcdc60.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-50879182783183_+bdaa8455d7.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-28565549778606_+38edab29c7.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-75151168200595_+b77f12e593.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/22/valiza-fashion-131-velyka-92l-bezheva-131-l-beige-62894692045327_+1c53c9e244.jpg</picture>
         <param name="Колір">Бежевый</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -2750,7 +2793,7 @@
         <param name="Тип закриття">На блискавці</param>
       </offer>
       <offer id="NPC-Fuchsia-L" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен фуксия NPC-Fuchsia-L</name_ru>
         <name_ua>Чохол для валізи неопрен фуксія NPC-Fuchsia-L</name_ua>
         <price>600</price>
@@ -3652,7 +3695,7 @@
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
       </offer>
       <offer id="51304-M-Champagne" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 средний 63л шампань (51304-M-Champagne)</name_ru>
         <name_ua>Валіза з розширенням Snowball 51304 середня 63л шампань (51304-M-Champagne)</name_ua>
         <price>2350</price>
@@ -4432,7 +4475,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="89019-XS-Black" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади Leadfas черный (89019-XS-Black)</name_ru>
         <name_ua>Рюкзак для ручної поклажі Leadfas чорний (89019-XS-Black)</name_ua>
         <price>1473</price>
@@ -4712,7 +4755,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="65803-M-Champagne" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 65803 средний 67л шампань (65803-M-Champagne)</name_ru>
         <name_ua>Валіза з розширенням Carbon 65803 середня 67л шампань (65803-M-Champagne)</name_ua>
         <price>2400</price>
@@ -4756,7 +4799,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="65803-Set-Black" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Carbon 65803 3 в 1 черный (65803-Set-Black)</name_ru>
         <name_ua>Набір валіз з розширенням Carbon 65803 3 в 1 чорний (65803-Set-Black)</name_ua>
         <price>4585</price>
@@ -4790,7 +4833,7 @@
         <param name="Вбудований замок">Кодовий</param>
       </offer>
       <offer id="65803-Set-Champagne" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Carbon 65803 3 в 1 шампань (65803-Set-Champagne)</name_ru>
         <name_ua>Набір валіз з розширенням Carbon 65803 3 в 1 шампань (65803-Set-Champagne)</name_ua>
         <price>4585</price>
@@ -4990,7 +5033,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="7898-L-Champagne" available="true">
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 7898 большой 98л шампань (7898-L-Champagne)</name_ru>
         <name_ua>Валіза з розширенням Carbon 7898 велика 98л шампань (7898-L-Champagne)</name_ua>
         <price>3050</price>
@@ -5237,7 +5280,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="PHX01-M-Burgundy" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Wings PHX01 средний 60л бордовый (PHX01-M-Burgundy)</name_ru>
         <name_ua>Валіза з поліпропілену Wings PHX01 середня 60л бордова (PHX01-M-Burgundy)</name_ua>
         <price>2200</price>
@@ -5316,34 +5359,6 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Великі (90 - 100 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="PHX01-Set-Burgundy" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
-        <name_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 бордовый (PHX01-Set-Burgundy)</name_ru>
-        <name_ua>Набір валіз з поліпропілену Wings PHX01 3 в 1 бордовий (PHX01-Set-Burgundy)</name_ua>
-        <price>5250</price>
-        <old_price>6200</old_price>
-        <categoryId>1061</categoryId>
-        <vendor>Wings</vendor>
-        <country>Польща</country>
-        <description_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 бордовый (PHX01-Set-Burgundy)</description_ru>
-        <description_ua>Валізи з поліпропілену Wings PHX01 - це ідеальний вибір для будь-яких подорожей, від коротких вікендів до тривалих сімейних відпусток. Набір містить три моделі різних розмірів, що робить його універсальним для пересування літаком, поїздом чи автомобілем. При цьому найменшу валізу можна брати на борт літака як ручну поклажу. Корпус виготовлений зі поліпропілену - надзвичайно гнучкого та міцного матеріалу, який не розбивається від сильних ударів під час завантаження. Надійний захист речей від негоди гарантує спеціальна блискавка, що не піддається впливу води та вологи. Кожна валіза оснащена надійними подвійними колесами з поворотним механізмом на 360 градусів, що забезпечують плавний та зручний рух у будь-якому напрямку. Вбудований кодовий замок гарантує максимальну безпеку та спокій під час перевезення ваших особистих речей. Продуманий внутрішній простір розділений на два зручні відділи з перегородкою та ременями для надійної фіксації багажу. Телескопічна алюмінієва ручка фіксується у кількох положеннях, дозволяючи легко підлаштувати її під свій зріст. Вага завантаження: розмір S - 12-15 кг, розмір М - 18-20 кг, розмір L - 22-25 кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/50/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-bordovyi-phx01-set-burgundy-29400884495230_+2420a08604.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-bordovyi-phx01-set-burgundy-36399511253896_+d37770c63c.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-bordovyi-phx01-set-burgundy-28609792829670_+ac4e344b9e.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-bordovyi-phx01-set-burgundy-36489409201677_+6112e4d04e.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-bordovyi-phx01-set-burgundy-80631227411624_+7730112bd2.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-bordovyi-phx01-set-burgundy-77346849630972_+d50b690180.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/50/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-bordovyi-phx01-set-burgundy-77666959169382_+408331924d.jpg</picture>
-        <param name="Колір">Красный</param>
-        <param name="Тип">Набори валіз</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
@@ -5432,7 +5447,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="65903-S-Milk" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 65903 малый 39л кремовый (65903-S-Milk)</name_ru>
         <name_ua>Валіза з розширенням Carbon 65903 мала 39л кремова (65903-S-Milk)</name_ua>
         <price>1750</price>
@@ -5478,7 +5493,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="65903-M-Gray" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 65903 средний 67л серый (65903-M-Gray)</name_ru>
         <name_ua>Валіза з розширенням Carbon 65903 середня 67л сіра (65903-M-Gray)</name_ua>
         <price>2750</price>
@@ -5741,7 +5756,7 @@
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
       </offer>
       <offer id="1403-M-Champagne" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Carbon 1403 средний 65л шампань (1403-M-Champagne)</name_ru>
         <name_ua>Валіза з поліпропілену Carbon 1403 середня 65л шампань (1403-M-Champagne)</name_ua>
         <price>2100</price>
@@ -6279,7 +6294,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="PHX01-S-Yellow" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Wings PHX01 малый 38л желтый (PHX01-S-Yellow)</name_ru>
         <name_ua>Валіза для ручної поклажі Wings PHX01 мала 38л жовта (PHX01-S-Yellow)</name_ua>
         <price>1700</price>
@@ -6307,7 +6322,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="PHX01-S-Purple" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Wings PHX01 малый 38л сиреневый (PHX01-S-Purple)</name_ru>
         <name_ua>Валіза для ручної поклажі Wings PHX01 мала 38л бузкова (PHX01-S-Purple)</name_ua>
         <price>1700</price>
@@ -6391,7 +6406,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="PHX01-L-Yellow" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Wings PHX01 большой 95л желтый (PHX01-L-Yellow)</name_ru>
         <name_ua>Валіза з поліпропілену Wings PHX01 велика 95л жовта (PHX01-L-Yellow)</name_ua>
         <price>2300</price>
@@ -6419,7 +6434,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="PHX01-L-Purple" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Wings PHX01 большой 95л сиреневый (PHX01-L-Purple)</name_ru>
         <name_ua>Валіза з поліпропілену Wings PHX01 велика 95л бузкова (PHX01-L-Purple)</name_ua>
         <price>2300</price>
@@ -6724,18 +6739,89 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
       </offer>
-      <offer id="TPFN-02-Grey" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Подушка для путешествий под шею TPFN-02-Grey</name_ru>
-        <name_ua>Подушка для подорожей під шию TPFN-02-Grey</name_ua>
-        <price>320</price>
-        <categoryId>1086</categoryId>
+      <offer id="131-Set-Beige" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Набор чемоданов из полипропилена Fashion 131 3 в 1 бежевый (131-Set-Beige)</name_ru>
+        <name_ua>Набір валіз з поліпропілену Fashion 131 3 в 1 бежевий (131-Set-Beige)</name_ua>
+        <price>4960</price>
+        <old_price>5850</old_price>
+        <categoryId>1092</categoryId>
+        <vendor>Carbon</vendor>
         <country>Україна</country>
-        <description_ru>Подушка для путешествий под шею TPFN-02-Grey</description_ru>
-        <description_ua>Подушка для подорожей під шию TPFN-02-Grey</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/42/86471957444024_+2addd31f2e.jpg</picture>
-        <param name="Колір">Серый</param>
-        <param name="Тип">Подушка</param>
+        <description_ru>Набор чемоданов из полипропилена Fashion 131 3 в 1 бежевый (131-Set-Beige)</description_ru>
+        <description_ua>Валізи Fashion 131 виготовлені з міцного та гнучкого матеріалу, який витримує удари й навантаження та не тріскається навіть при неповному завантаженні. Усі моделі оснащені поворотними колесами 360°, кодовим замком для захисту речей та продуманим внутрішнім простором із фіксаторами багажу. Розмір S - компактний варіант для коротких поїздок на 3-5 днів. Підходить для авіаперельотів як ручна поклажа, а також для подорожей потягом, автобусом чи автомобілем. Вага завантаження 12-15 кг. Розмір M - універсальний варіант для поїздок на 5-10 днів. Оптимальний для авіаперельотів як багаж, а також для подорожей потягом, автобусом чи автомобілем. Оснащений безшумними колесами для комфортного переміщення. Вага завантаження 18-20кг. Розмір L - максимально місткий варіант для подорожей від 10 днів та сімейних поїздок. Призначений для перевезення в багажному відділенні, а також підходить для потягів, автобусів та автомобілів. Посилені колеса забезпечують легке керування важким багажем. Вага завантаження 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/10/nabir-valiz-z-polipropilenu-fashion-131-3-v-1-bezhevyi-131-set-beige-57112095963672_+3e0fb4d1af.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/nabir-valiz-z-polipropilenu-fashion-131-3-v-1-bezhevyi-131-set-beige-66739829351779_+38824f55dd.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/nabir-valiz-z-polipropilenu-fashion-131-3-v-1-bezhevyi-131-set-beige-51033169312701_+b8c6f7990c.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/nabir-valiz-z-polipropilenu-fashion-131-3-v-1-bezhevyi-131-set-beige-48862150768366_+fe1cb696b3.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/nabir-valiz-z-polipropilenu-fashion-131-3-v-1-bezhevyi-131-set-beige-35772010010613_+93181090ed.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/nabir-valiz-z-polipropilenu-fashion-131-3-v-1-bezhevyi-131-set-beige-20615324487938_+fdcd79de87.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/10/nabir-valiz-z-polipropilenu-fashion-131-3-v-1-bezhevyi-131-set-beige-67150468388479_+46a808fded.jpg</picture>
+        <param name="Колір">Бежевый</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="131-Set-Black" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Набор чемоданов из полипропилена Fashion 131 3 в 1 черный (131-Set-Black)</name_ru>
+        <name_ua>Набір валіз з поліпропілену Fashion 131 3 в 1 чорний (131-Set-Black)</name_ua>
+        <price>4960</price>
+        <old_price>5850</old_price>
+        <categoryId>1092</categoryId>
+        <vendor>Carbon</vendor>
+        <country>Україна</country>
+        <description_ru>Набор чемоданов из полипропилена Fashion 131 3 в 1 черный (131-Set-Black)</description_ru>
+        <description_ua>Валізи Fashion 131 виготовлені з міцного та гнучкого матеріалу, який витримує удари й навантаження та не тріскається навіть при неповному завантаженні. Усі моделі оснащені поворотними колесами 360°, кодовим замком для захисту речей та продуманим внутрішнім простором із фіксаторами багажу. Розмір S - компактний варіант для коротких поїздок на 3-5 днів. Підходить для авіаперельотів як ручна поклажа, а також для подорожей потягом, автобусом чи автомобілем. Вага завантаження 12-15 кг. Розмір M - універсальний варіант для поїздок на 5-10 днів. Оптимальний для авіаперельотів як багаж, а також для подорожей потягом, автобусом чи автомобілем. Оснащений безшумними колесами для комфортного переміщення. Вага завантаження 18-20кг. Розмір L - максимально місткий варіант для подорожей від 10 днів та сімейних поїздок. Призначений для перевезення в багажному відділенні, а також підходить для потягів, автобусів та автомобілів. Посилені колеса забезпечують легке керування важким багажем. Вага завантаження 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/11/nabir-valiz-z-polipropilenu-fashion-131-3-v-1-chornyi-131-set-black-16058107986022_+c01642d30f.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/11/nabir-valiz-z-polipropilenu-fashion-131-3-v-1-chornyi-131-set-black-43613108861541_+3bf71e62cd.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/11/nabir-valiz-z-polipropilenu-fashion-131-3-v-1-chornyi-131-set-black-58247065140014_+ca81d18982.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/11/nabir-valiz-z-polipropilenu-fashion-131-3-v-1-chornyi-131-set-black-93356097254617_+86fa87ebf3.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/11/nabir-valiz-z-polipropilenu-fashion-131-3-v-1-chornyi-131-set-black-81284685817968_+cf7b0a83bb.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/11/nabir-valiz-z-polipropilenu-fashion-131-3-v-1-chornyi-131-set-black-59115202841315_+2d2184980a.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/11/nabir-valiz-z-polipropilenu-fashion-131-3-v-1-chornyi-131-set-black-44344138247003_+9442354cd0.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="131-Set-LightBlue" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Набор чемоданов из полипропилена Fashion 131 3 в 1 голубой (131-Set-LightBlue)</name_ru>
+        <name_ua>Набір валіз з поліпропілену Fashion 131 3 в 1 блакитний (131-Set-LightBlue)</name_ua>
+        <price>4960</price>
+        <old_price>5850</old_price>
+        <categoryId>1092</categoryId>
+        <vendor>Carbon</vendor>
+        <country>Україна</country>
+        <description_ru>Набор чемоданов из полипропилена Fashion 131 3 в 1 голубой (131-Set-LightBlue)</description_ru>
+        <description_ua>Валізи Fashion 131 виготовлені з міцного та гнучкого матеріалу, який витримує удари й навантаження та не тріскається навіть при неповному завантаженні. Усі моделі оснащені поворотними колесами 360°, кодовим замком для захисту речей та продуманим внутрішнім простором із фіксаторами багажу. Розмір S - компактний варіант для коротких поїздок на 3-5 днів. Підходить для авіаперельотів як ручна поклажа, а також для подорожей потягом, автобусом чи автомобілем. Вага завантаження 12-15 кг. Розмір M - універсальний варіант для поїздок на 5-10 днів. Оптимальний для авіаперельотів як багаж, а також для подорожей потягом, автобусом чи автомобілем. Оснащений безшумними колесами для комфортного переміщення. Вага завантаження 18-20кг. Розмір L - максимально місткий варіант для подорожей від 10 днів та сімейних поїздок. Призначений для перевезення в багажному відділенні, а також підходить для потягів, автобусів та автомобілів. Посилені колеса забезпечують легке керування важким багажем. Вага завантаження 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/12/nabir-valiz-z-polipropilenu-fashion-131-3-v-1-blakytnyi-131-set-lightblue-99360415158784_+c8896c5988.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/12/nabir-valiz-z-polipropilenu-fashion-131-3-v-1-blakytnyi-131-set-lightblue-78234698759310_+3ac153a41d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/12/nabir-valiz-z-polipropilenu-fashion-131-3-v-1-blakytnyi-131-set-lightblue-19553482520967_+12b73c443d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/12/nabir-valiz-z-polipropilenu-fashion-131-3-v-1-blakytnyi-131-set-lightblue-48230993886374_+0150a7ba14.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/12/nabir-valiz-z-polipropilenu-fashion-131-3-v-1-blakytnyi-131-set-lightblue-83323651465130_+76ece7dd94.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/12/nabir-valiz-z-polipropilenu-fashion-131-3-v-1-blakytnyi-131-set-lightblue-45882144195573_+28f92970fd.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/12/nabir-valiz-z-polipropilenu-fashion-131-3-v-1-blakytnyi-131-set-lightblue-44136407504872_+327ff3c370.jpg</picture>
+        <param name="Колір">Голубой</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="42203-M-Purple" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -11155,6 +11241,34 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
+      <offer id="PHX01-Set-Burgundy" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 бордовый (PHX01-Set-Burgundy)</name_ru>
+        <name_ua>Набір валіз з поліпропілену Wings PHX01 3 в 1 бордовий (PHX01-Set-Burgundy)</name_ua>
+        <price>5250</price>
+        <old_price>6200</old_price>
+        <categoryId>1061</categoryId>
+        <vendor>Wings</vendor>
+        <country>Польща</country>
+        <description_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 бордовый (PHX01-Set-Burgundy)</description_ru>
+        <description_ua>Валізи з поліпропілену Wings PHX01 - це ідеальний вибір для будь-яких подорожей, від коротких вікендів до тривалих сімейних відпусток. Набір містить три моделі різних розмірів, що робить його універсальним для пересування літаком, поїздом чи автомобілем. При цьому найменшу валізу можна брати на борт літака як ручну поклажу. Корпус виготовлений зі поліпропілену - надзвичайно гнучкого та міцного матеріалу, який не розбивається від сильних ударів під час завантаження. Надійний захист речей від негоди гарантує спеціальна блискавка, що не піддається впливу води та вологи. Кожна валіза оснащена надійними подвійними колесами з поворотним механізмом на 360 градусів, що забезпечують плавний та зручний рух у будь-якому напрямку. Вбудований кодовий замок гарантує максимальну безпеку та спокій під час перевезення ваших особистих речей. Продуманий внутрішній простір розділений на два зручні відділи з перегородкою та ременями для надійної фіксації багажу. Телескопічна алюмінієва ручка фіксується у кількох положеннях, дозволяючи легко підлаштувати її під свій зріст. Вага завантаження: розмір S - 12-15 кг, розмір М - 18-20 кг, розмір L - 22-25 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/50/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-bordovyi-phx01-set-burgundy-29400884495230_+2420a08604.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/50/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-bordovyi-phx01-set-burgundy-36399511253896_+d37770c63c.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/50/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-bordovyi-phx01-set-burgundy-28609792829670_+ac4e344b9e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/50/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-bordovyi-phx01-set-burgundy-36489409201677_+6112e4d04e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/50/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-bordovyi-phx01-set-burgundy-80631227411624_+7730112bd2.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/50/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-bordovyi-phx01-set-burgundy-77346849630972_+d50b690180.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/50/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-bordovyi-phx01-set-burgundy-77666959169382_+408331924d.jpg</picture>
+        <param name="Колір">Красный</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
       <offer id="65903-L-Gray" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 65903 большой 100л серый (65903-L-Gray)</name_ru>
@@ -11282,7 +11396,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-L-Champagne" available="true">
-        <quantity_in_stock>24</quantity_in_stock>
+        <quantity_in_stock>23</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Snowball 33703 большой 101л шампань (33703-L-Champagne)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 велика 101л шампань (33703-L-Champagne)</name_ua>
         <price>2678</price>
@@ -13733,7 +13847,7 @@
         <param name="Тип закриття">На блискавці</param>
       </offer>
       <offer id="VPC-Prozoryi-S" available="true">
-        <quantity_in_stock>12</quantity_in_stock>
+        <quantity_in_stock>11</quantity_in_stock>
         <name_ru>Чехол для чемодана винил VPC-Prozoryi-S</name_ru>
         <name_ua>Чохол для валізи вініл VPC-Prozoryi-S</name_ua>
         <price>400</price>
@@ -14133,7 +14247,7 @@
         <param name="Тип закриття">На блискавці</param>
       </offer>
       <offer id="NPC-Blue-L" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен синий NPC-Blue-L</name_ru>
         <name_ua>Чохол для валізи неопрен синій NPC-Blue-L</name_ua>
         <price>600</price>
@@ -14277,7 +14391,7 @@
         <param name="Тип закриття">На блискавці</param>
       </offer>
       <offer id="PC001BLUE" available="true">
-        <quantity_in_stock>14</quantity_in_stock>
+        <quantity_in_stock>12</quantity_in_stock>
         <name_ru>Органайзер для обуви PC001BLUE</name_ru>
         <name_ua>Органайзер для взуття PC001BLUE</name_ua>
         <price>80</price>
@@ -14303,6 +14417,45 @@
         <description_ua>Подушка для подорожей TP01-Grey</description_ua>
         <picture>https://sklad-valiz.com.ua/content/images/40/25154961265153_+8cb7770c66.jpg</picture>
         <param name="Колір">Серый</param>
+        <param name="Тип">Подушка</param>
+      </offer>
+      <offer id="TP01-Burgundy" available="true">
+        <quantity_in_stock>24</quantity_in_stock>
+        <name_ru>Подушка для путешествий TP01-Burgundy</name_ru>
+        <name_ua>Подушка для подорожей TP01-Burgundy</name_ua>
+        <price>340</price>
+        <categoryId>1086</categoryId>
+        <country>Україна</country>
+        <description_ru>Подушка для путешествий TP01-Burgundy</description_ru>
+        <description_ua>Подушка для подорожей TP01-Burgundy</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/41/86418226650225_+b3e14982a2.jpg</picture>
+        <param name="Колір">Бордовый</param>
+        <param name="Тип">Подушка</param>
+      </offer>
+      <offer id="TPFN-02-Grey" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Подушка для путешествий под шею TPFN-02-Grey</name_ru>
+        <name_ua>Подушка для подорожей під шию TPFN-02-Grey</name_ua>
+        <price>320</price>
+        <categoryId>1086</categoryId>
+        <country>Україна</country>
+        <description_ru>Подушка для путешествий под шею TPFN-02-Grey</description_ru>
+        <description_ua>Подушка для подорожей під шию TPFN-02-Grey</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/42/86471957444024_+2addd31f2e.jpg</picture>
+        <param name="Колір">Серый</param>
+        <param name="Тип">Подушка</param>
+      </offer>
+      <offer id="OI01-Pink" available="true">
+        <quantity_in_stock>29</quantity_in_stock>
+        <name_ru>Подушка-рогалик для путешествий розовая OI01-Pink</name_ru>
+        <name_ua>Подушка-рогалик для подорожей рожева OI01-Pink</name_ua>
+        <price>500</price>
+        <categoryId>1086</categoryId>
+        <country>Україна</country>
+        <description_ru>Подушка-рогалик для путешествий розовая OI01-Pink</description_ru>
+        <description_ua>Подушка-рогалик для подорожей рожева OI01-Pink</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/45/43816965068624_+78fc0b1001.jpg</picture>
+        <param name="Колір">Розовый</param>
         <param name="Тип">Подушка</param>
       </offer>
     </offers>
