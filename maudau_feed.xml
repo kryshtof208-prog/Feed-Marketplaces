@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-03T21:06:14.096Z">
+<yml_catalog date="2026-10-04T05:06:13.905Z">
   <shop>
     <categories>
       <category id="1061" portal_id="Чемоданы">Валізи</category>
@@ -66,7 +66,7 @@
         <param name="Матеріал корпусу">Поліестер</param>
       </offer>
       <offer id="ORG7-Beige" available="true">
-        <quantity_in_stock>9</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Комплект органайзеров бежевый ORG7-Beige</name_ru>
         <name_ua>Комплект органайзерів бежевий ORG7-Beige</name_ua>
         <price>570</price>
@@ -164,34 +164,6 @@
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
-      <offer id="53103-L-Blue" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан из полипропилена Madisson 53103 большой 102л синий (53103-L-Blue)</name_ru>
-        <name_ua>Валіза з поліпропілену Madisson 53103 велика 102л синя (53103-L-Blue)</name_ua>
-        <price>2450</price>
-        <categoryId>1061</categoryId>
-        <vendor>Madisson</vendor>
-        <country>Франція</country>
-        <description_ru>Чемодан из полипропилена Madisson 53103 большой 102л синий (53103-L-Blue)</description_ru>
-        <description_ua>Валіза Madisson 53103 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/34/47109822899968_+a3795cc7f9.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/34/88082599085665_+6994aff2b6.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/34/55541505873366_+81f1aaab6f.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/34/88756443801321_+35e375fb46.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/34/35614118363506_+cf26036bb7.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/34/23893290720123_+4d4fca5dc0.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/34/21681711614066_+0bdb4507ff.jpg</picture>
-        <param name="Колір">Синий</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Великі (90 - 100 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
       <offer id="Kaiman-XS-Yellow" available="true">
         <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24л желтый (Kaiman-XS-Yellow)</name_ru>
@@ -237,7 +209,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="HIMAWARI-XS-Black" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади HIMAWARI 17л черный (HIMAWARI-XS-Black)</name_ru>
         <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л чорний (HIMAWARI-XS-Black)</name_ua>
         <price>1495</price>
@@ -290,7 +262,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="HIMAWARI-XS-Blue-Beige" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади HIMAWARI 17л голубовато-бежевый (HIMAWARI-XS-Blue-Beige)</name_ru>
         <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л блакитно-бежевий (HIMAWARI-XS-Blue-Beige)</name_ua>
         <price>1495</price>
@@ -527,7 +499,7 @@
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
       </offer>
       <offer id="2501-S-Blue" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан с расширением Wings 2501 малый 38л синий (2501-S-Blue)</name_ru>
         <name_ua>Валіза з розширенням Wings 2501 мала 38л синя (2501-S-Blue)</name_ua>
         <price>1360</price>
@@ -630,7 +602,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="53103-L-Purple" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Madisson 53103 большой 102л фиолетовый (53103-L-Purple)</name_ru>
         <name_ua>Валіза з поліпропілену Madisson 53103 велика 102л фіолетова (53103-L-Purple)</name_ua>
         <price>2450</price>
@@ -1822,7 +1794,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="Kaiman-XS-Green" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wizzair Kaiman мини 24 л зеленый (Kaiman-XS-Green)</name_ru>
         <name_ua>Валіза для лоукосту Wizzair Kaiman міні 24 л зелена (Kaiman-XS-Green)</name_ua>
         <price>1700</price>
@@ -2014,7 +1986,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="19168-XS-Dark-green" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Wings 19168 мини 28 л зеленый (19168-XS-Dark-green)</name_ru>
         <name_ua>Валіза для ручної поклажі Wings 19168 міні 28 л зелена (19168-XS-Dark-green)</name_ua>
         <price>1013</price>
@@ -2697,7 +2669,7 @@
         <param name="Стать">Унісекс</param>
       </offer>
       <offer id="1010-Dark-green" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Багажный ремень Snowball 160см зеленый (1010-Dark-green)</name_ru>
         <name_ua>Багажний ремінь Snowball 160см зелений (1010-Dark-green)</name_ua>
         <price>120</price>
@@ -2979,7 +2951,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="DPC-Purple-M" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чехол для чемодана дайвинг баклажановый DPC-Purple-M, Чехол, Средний</name_ru>
         <name_ua>Чохол для валізи дайвінг баклажановий DPC-Purple-M, Чохол, Середній</name_ua>
         <price>500</price>
@@ -3133,7 +3105,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="65803-BC-Gray" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Кейс для чемодана из полипропилена Carbon 65803 12л серый (65803-BC-Gray)</name_ru>
         <name_ua>Кейс для валізи з поліпропілену Carbon 65803 12л сірий (65803-BC-Gray)</name_ua>
         <price>950</price>
@@ -3187,40 +3159,6 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="65803-BC-Coffee" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Кейс для чемодана из полипропилена Carbon 65803 12л кофейный (65803-BC-Coffee)</name_ru>
-        <name_ua>Кейс для валізи з поліпропілену Carbon 65803 12л кавовий (65803-BC-Coffee)</name_ua>
-        <price>950</price>
-        <categoryId>1061</categoryId>
-        <vendor>Carbon</vendor>
-        <description_ru>Кейс для чемодана из полипропилена Carbon 65803 12л кофейный (65803-BC-Coffee)</description_ru>
-        <description_ua>Валіза з розширенням Carbon 65803 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360°, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/24/keis-dlia-valizy-z-polipropilenu-carbon-65803-12l-kavovyi-65803-bc-coffee-84657646246103_+5f789a5dea.jpg</picture>
-        <param name="Колір">Коричневый</param>
-        <param name="Тип">Кейс</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">Без колес</param>
-        <param name="Вбудований замок">Без замку</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-      </offer>
-      <offer id="65803-S-Coffee" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан с расширением Carbon 65803 малый 40л кофейный (65803-S-Coffee)</name_ru>
-        <name_ua>Валіза з розширенням Carbon 65803 мала 40л кавова (65803-S-Coffee)</name_ua>
-        <price>1900</price>
-        <categoryId>1061</categoryId>
-        <vendor>Carbon</vendor>
-        <description_ru>Чемодан с расширением Carbon 65803 малый 40л кофейный (65803-S-Coffee)</description_ru>
-        <description_ua>Валіза з розширенням Carbon 65803 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360°, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/25/valiza-z-rozshyrenniam-carbon-65803-mala-40l-kavova-65803-s-coffee-99104422262455_+3dad6f8d80.jpg</picture>
-        <param name="Колір">Коричневый</param>
-        <param name="Тип">Валізи</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="43803-L-White" available="true">
         <quantity_in_stock>2</quantity_in_stock>
@@ -3325,7 +3263,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="43803-S-Black" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Snowball 43803 малый 34л черный (43803-S-Black)</name_ru>
         <name_ua>Валіза для ручної поклажі Snowball 43803 мала 34л чорна (43803-S-Black)</name_ua>
         <price>2900</price>
@@ -3394,7 +3332,7 @@
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
       </offer>
       <offer id="33703-L-Sea-wave" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Snowball 33703 большой 101л синий (33703-L-Sea-wave)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 велика 101л синя (33703-L-Sea-wave)</name_ua>
         <price>3150</price>
@@ -3672,7 +3610,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="51304-M-Gray" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 средний 63л серый (51304-M-Gray)</name_ru>
         <name_ua>Валіза з розширенням Snowball 51304 середня 63л сіра (51304-M-Gray)</name_ua>
         <price>2350</price>
@@ -3797,7 +3735,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="51304-L-Gray" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 большой 105л серый (51304-L-Gray)</name_ru>
         <name_ua>Валіза з розширенням Snowball 51304 велика 105л сіра (51304-L-Gray)</name_ua>
         <price>2450</price>
@@ -4016,7 +3954,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-Set-Champagne" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Snowball 33703 3 в 1 шампань (33703-Set-Champagne)</name_ru>
         <name_ua>Набір валіз з поліпропілену Snowball 33703 3 в 1 шампань (33703-Set-Champagne)</name_ua>
         <price>7240</price>
@@ -4108,7 +4046,7 @@
         <param name="Вбудований замок">Кодовий</param>
       </offer>
       <offer id="33703-Set-Grey" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Snowball 33703 3 в 1 серый (33703-Set-Grey)</name_ru>
         <name_ua>Набір валіз з поліпропілену Snowball 33703 3 в 1 сірий (33703-Set-Grey)</name_ua>
         <price>7240</price>
@@ -4457,7 +4395,7 @@
         <param name="Вбудований замок">Кодовий</param>
       </offer>
       <offer id="89019-XS-Beige" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади Leadfas бежевый (89019-XS-Beige)</name_ru>
         <name_ua>Рюкзак для ручної поклажі Leadfas бежевий (89019-XS-Beige)</name_ua>
         <price>1473</price>
@@ -4721,7 +4659,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="65803-S-Black" available="true">
-        <quantity_in_stock>9</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 65803 малый 40л черный (65803-S-Black)</name_ru>
         <name_ua>Валіза з розширенням Carbon 65803 мала 40л чорна (65803-S-Black)</name_ua>
         <price>1900</price>
@@ -4777,7 +4715,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="65803-M-Black" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 65803 средний 67л черный (65803-M-Black)</name_ru>
         <name_ua>Валіза з розширенням Carbon 65803 середня 67л чорна (65803-M-Black)</name_ua>
         <price>2400</price>
@@ -5308,7 +5246,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="PHX01-L-Blue" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Wings PHX01 большой 95л синий (PHX01-L-Blue)</name_ru>
         <name_ua>Валіза з поліпропілену Wings PHX01 велика 95л синя (PHX01-L-Blue)</name_ua>
         <price>2300</price>
@@ -5618,7 +5556,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="65903-Set-Milk" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Carbon 65903 4 в 1 кремовый (65903-Set-Milk)</name_ru>
         <name_ua>Набір валіз з розширенням Carbon 65903 4 в 1 кремовий (65903-Set-Milk)</name_ua>
         <price>7125</price>
@@ -7398,6 +7336,34 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
+      </offer>
+      <offer id="53103-L-Blue" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан из полипропилена Madisson 53103 большой 102л синий (53103-L-Blue)</name_ru>
+        <name_ua>Валіза з поліпропілену Madisson 53103 велика 102л синя (53103-L-Blue)</name_ua>
+        <price>2450</price>
+        <categoryId>1061</categoryId>
+        <vendor>Madisson</vendor>
+        <country>Франція</country>
+        <description_ru>Чемодан из полипропилена Madisson 53103 большой 102л синий (53103-L-Blue)</description_ru>
+        <description_ua>Валіза Madisson 53103 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/34/47109822899968_+a3795cc7f9.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/88082599085665_+6994aff2b6.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/55541505873366_+81f1aaab6f.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/88756443801321_+35e375fb46.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/35614118363506_+cf26036bb7.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/23893290720123_+4d4fca5dc0.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/21681711614066_+0bdb4507ff.jpg</picture>
+        <param name="Колір">Синий</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Великі (90 - 100 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="403020-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -10509,6 +10475,40 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
+      <offer id="65803-BC-Coffee" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Кейс для чемодана из полипропилена Carbon 65803 12л кофейный (65803-BC-Coffee)</name_ru>
+        <name_ua>Кейс для валізи з поліпропілену Carbon 65803 12л кавовий (65803-BC-Coffee)</name_ua>
+        <price>950</price>
+        <categoryId>1061</categoryId>
+        <vendor>Carbon</vendor>
+        <description_ru>Кейс для чемодана из полипропилена Carbon 65803 12л кофейный (65803-BC-Coffee)</description_ru>
+        <description_ua>Валіза з розширенням Carbon 65803 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360°, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/24/keis-dlia-valizy-z-polipropilenu-carbon-65803-12l-kavovyi-65803-bc-coffee-84657646246103_+5f789a5dea.jpg</picture>
+        <param name="Колір">Коричневый</param>
+        <param name="Тип">Кейс</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+      </offer>
+      <offer id="65803-S-Coffee" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан с расширением Carbon 65803 малый 40л кофейный (65803-S-Coffee)</name_ru>
+        <name_ua>Валіза з розширенням Carbon 65803 мала 40л кавова (65803-S-Coffee)</name_ua>
+        <price>1900</price>
+        <categoryId>1061</categoryId>
+        <vendor>Carbon</vendor>
+        <description_ru>Чемодан с расширением Carbon 65803 малый 40л кофейный (65803-S-Coffee)</description_ru>
+        <description_ua>Валіза з розширенням Carbon 65803 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360°, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/25/valiza-z-rozshyrenniam-carbon-65803-mala-40l-kavova-65803-s-coffee-99104422262455_+3dad6f8d80.jpg</picture>
+        <param name="Колір">Коричневый</param>
+        <param name="Тип">Валізи</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+      </offer>
       <offer id="65803-M-Coffee" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 65803 средний 67л кофейный (65803-M-Coffee)</name_ru>
@@ -11425,7 +11425,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-L-Grey" available="true">
-        <quantity_in_stock>9</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Snowball 33703 большой 101л серый (33703-L-Grey)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 велика 101л сіра (33703-L-Grey)</name_ua>
         <price>3150</price>
@@ -12073,7 +12073,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-M-Black" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Чемодан с полипропилена Snowball 33703 средний 69л черный (33703-M-Black)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 середня 69л чорна (33703-M-Black)</name_ua>
         <price>3100</price>
@@ -12096,7 +12096,7 @@
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
       </offer>
       <offer id="33703-M-Grey" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Snowball 33703 средний 69л серый (33703-M-Grey)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 середня 69л сіра (33703-M-Grey)</name_ua>
         <price>3100</price>
@@ -12142,7 +12142,7 @@
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
       </offer>
       <offer id="33703-M-Champagne" available="true">
-        <quantity_in_stock>9</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Snowball 33703 средний 69л шампань (33703-М-Champagne)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 середня 69л шампань (33703-М-Champagne)</name_ua>
         <price>3100</price>
@@ -12790,7 +12790,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="33703-S-Champagne" available="true">
-        <quantity_in_stock>16</quantity_in_stock>
+        <quantity_in_stock>15</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Snowball 33703 малый 36л шампань (33703-S-Champagne)</name_ru>
         <name_ua>Валіза для ручної поклажі Snowball 33703 мала 36л шампань (33703-S-Champagne)</name_ua>
         <price>1725</price>
@@ -13631,7 +13631,7 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
       </offer>
       <offer id="WN01-BC-RoseGold-ABS" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Кейс для чемоданов Wings WN01-BC 15л розовое золото (WN01-BC-RoseGold-ABS)</name_ru>
         <name_ua>Кейс для валіз Wings WN01-BC 15л рожеве золото (WN01-BC-RoseGold-ABS)</name_ua>
         <price>1250</price>
@@ -13927,7 +13927,7 @@
         <param name="Тип закриття">На блискавці</param>
       </offer>
       <offer id="NPC-Jeans-L" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен NPC-Jeans-L</name_ru>
         <name_ua>Чохол для валізи неопрен NPC-Jeans-L</name_ua>
         <price>600</price>
@@ -14407,7 +14407,7 @@
         <param name="Тип">Органайзер</param>
       </offer>
       <offer id="TP01-Grey" available="true">
-        <quantity_in_stock>12</quantity_in_stock>
+        <quantity_in_stock>11</quantity_in_stock>
         <name_ru>Подушка для путешествий TP01-Grey</name_ru>
         <name_ua>Подушка для подорожей TP01-Grey</name_ua>
         <price>340</price>
