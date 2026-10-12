@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-12 00:11">
+<yml_catalog date="2026-10-12 06:11">
   <offers>
     <offer id="33703-L-Black" available="true">
       <name lang="ru">Чемодан с полипропилена Snowball 33703 большой 101л черный (33703-L-Black)</name>
@@ -2427,29 +2427,6 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="DPC-Brown-L" available="true">
-      <name lang="ru">Чехол для чемодана дайвинг шоколадный DPC-Brown-L</name>
-      <name lang="ua">Чохол для валізи дайвінг шоколадний DPC-Brown-L</name>
-      <price>500</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <description lang="ru">Чехол для чемодана дайвинг черный DPC-Black-L</description>
-      <description lang="ua">Чохол для валізи дайвінг чорний DPC-Black-L</description>
-      <picture>https://sklad-valiz.com.ua/content/images/38/53214856034506_+504872047d.jpg</picture>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="2e96b43de658554c4bcc7b6edae777c2">коричневий</param>
-      <param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
     <offer id="DPC-Purple-M" available="true">
       <name lang="ru">Чехол для чемодана дайвинг баклажановый DPC-Purple-M</name>
       <name lang="ua">Чохол для валізи дайвінг баклажановий DPC-Purple-M</name>
@@ -2527,6 +2504,29 @@
       <description lang="ua">Чохол для валізи дайвінг чорний DPC-Black-L</description>
       <picture>https://sklad-valiz.com.ua/content/images/25/35139147837040_+0a93a1aa5a.jpg</picture>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="DPC-Brown-L" available="false">
+      <name lang="ru">Чехол для чемодана дайвинг шоколадный DPC-Brown-L</name>
+      <name lang="ua">Чохол для валізи дайвінг шоколадний DPC-Brown-L</name>
+      <price>500</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <description lang="ru">Чехол для чемодана дайвинг черный DPC-Black-L</description>
+      <description lang="ua">Чохол для валізи дайвінг чорний DPC-Black-L</description>
+      <picture>https://sklad-valiz.com.ua/content/images/38/53214856034506_+504872047d.jpg</picture>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="2e96b43de658554c4bcc7b6edae777c2">коричневий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -4410,48 +4410,6 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="1106-BCS-Black" available="true">
-      <name lang="ru">Дорожная сумка Wings малая 48л черная (1106-BCS-Black)</name>
-      <name lang="ua">Дорожня сумка Wings мала 48л чорна (1106-BCS-Black)</name>
-      <price>1300</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
-      <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Дорожная сумка Wings малая 48л черная (1106-BCS-Black)</description>
-      <description lang="ua">Дорожня сумка Wings мала 48л чорна (1106-BCS-Black)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/33/23845081862547_+70fb34dbd9.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/33/50002341153173_+52b628ad49.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/33/62131243711845_+40878cfb1c.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/33/15354254022673_+1dd143507a.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/33/15516734236230_+64b06d1fd9.png</picture>
-      <weight>2000</weight>
-      <param name="Вага" paramcode="150">2</param>
-      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
-      <param name="Об'єм" paramcode="104">48</param>
-      <height>310</height>
-      <param name="Висота" paramcode="110">31</param>
-      <width>550</width>
-      <param name="Ширина" paramcode="111">55</param>
-      <length>300</length>
-      <param name="Глибина" paramcode="112">30</param>
-      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
-      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
     <offer id="1106-BCM-Grey" available="false">
       <name lang="ru">Дорожная сумка Wings средняя 60л серая (1106-BCM-Grey)</name>
       <name lang="ua">Дорожня сумка Wings середня 60л сіра (1106-BCM-Grey)</name>
@@ -4521,6 +4479,48 @@
       <param name="Ширина" paramcode="111">61</param>
       <length>320</length>
       <param name="Глибина" paramcode="112">32</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="1106-BCS-Black" available="false">
+      <name lang="ru">Дорожная сумка Wings малая 48л черная (1106-BCS-Black)</name>
+      <name lang="ua">Дорожня сумка Wings мала 48л чорна (1106-BCS-Black)</name>
+      <price>1300</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
+      <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Дорожная сумка Wings малая 48л черная (1106-BCS-Black)</description>
+      <description lang="ua">Дорожня сумка Wings мала 48л чорна (1106-BCS-Black)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/33/23845081862547_+70fb34dbd9.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/50002341153173_+52b628ad49.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/62131243711845_+40878cfb1c.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/15354254022673_+1dd143507a.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/15516734236230_+64b06d1fd9.png</picture>
+      <weight>2000</weight>
+      <param name="Вага" paramcode="150">2</param>
+      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
+      <param name="Об'єм" paramcode="104">48</param>
+      <height>310</height>
+      <param name="Висота" paramcode="110">31</param>
+      <width>550</width>
+      <param name="Ширина" paramcode="111">55</param>
+      <length>300</length>
+      <param name="Глибина" paramcode="112">30</param>
       <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
       <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
@@ -7160,42 +7160,6 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="41403L-Purple" available="true">
-      <name lang="ru">Сумка для ручной клади Snowball 41403L большая 32л фиолетовая (41403L-Purple)</name>
-      <name lang="ua">Сумка для ручної поклажі Snowball 41403L велика 32л фіолетова (41403L-Purple)</name>
-      <price>1890</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
-      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Сумка для ручной клади Snowball 41403L большая 32л фиолетовая (41403L-Purple)</description>
-      <description lang="ua">Сумка для ручної поклажі Snowball 41403L велика 32л фіолетова (41403L-Purple)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/33/sumka-dlia-ruchnoi-poklazhi-snowball-41403l-velyka-32l-fioletova-41403l-purple-83671468415357_+519d8a5364.jpg</picture>
-      <weight>1000</weight>
-      <param name="Вага" paramcode="150">1</param>
-      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
-      <param name="Об'єм" paramcode="104">32</param>
-      <height>340</height>
-      <param name="Висота" paramcode="110">34</param>
-      <width>450</width>
-      <param name="Ширина" paramcode="111">45</param>
-      <length>210</length>
-      <param name="Глибина" paramcode="112">21</param>
-      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
     <offer id="41403S-Gray" available="true">
       <name lang="ru">Сумка для ручной клади Snowball 41403S малая 13л серая (41403S-Gray)</name>
       <name lang="ua">Сумка для ручної поклажі Snowball 41403S мала 13л сіра (41403S-Gray)</name>
@@ -7295,6 +7259,42 @@
       <param name="Ширина" paramcode="111">37</param>
       <length>180</length>
       <param name="Глибина" paramcode="112">18</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="41403L-Purple" available="false">
+      <name lang="ru">Сумка для ручной клади Snowball 41403L большая 32л фиолетовая (41403L-Purple)</name>
+      <name lang="ua">Сумка для ручної поклажі Snowball 41403L велика 32л фіолетова (41403L-Purple)</name>
+      <price>1890</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Сумка для ручной клади Snowball 41403L большая 32л фиолетовая (41403L-Purple)</description>
+      <description lang="ua">Сумка для ручної поклажі Snowball 41403L велика 32л фіолетова (41403L-Purple)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/33/sumka-dlia-ruchnoi-poklazhi-snowball-41403l-velyka-32l-fioletova-41403l-purple-83671468415357_+519d8a5364.jpg</picture>
+      <weight>1000</weight>
+      <param name="Вага" paramcode="150">1</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Об'єм" paramcode="104">32</param>
+      <height>340</height>
+      <param name="Висота" paramcode="110">34</param>
+      <width>450</width>
+      <param name="Ширина" paramcode="111">45</param>
+      <length>210</length>
+      <param name="Глибина" paramcode="112">21</param>
       <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
@@ -9382,52 +9382,6 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="PHX01-L-Blue" available="true">
-      <name lang="ru">Чемодан из полипропилена Wings PHX01 большой 95л синий (PHX01-L-Blue)</name>
-      <name lang="ua">Валіза з поліпропілену Wings PHX01 велика 95л синя (PHX01-L-Blue)</name>
-      <price>2300</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
-      <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан из полипропилена Wings PHX01 большой 95л синий (PHX01-L-Blue)</description>
-      <description lang="ua">Валіза з поліпропілену Wings PHX01 велика 95л синя (PHX01-L-Blue)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-polipropilenu-wings-phx01-velyka-95l-synia-phx01-l-blue-97068079866056_+04d6db8fc0.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-polipropilenu-wings-phx01-velyka-95l-synia-phx01-l-blue-47339554358341_+cd82629017.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-polipropilenu-wings-phx01-velyka-95l-synia-phx01-l-blue-50645908009319_+ff49c01585.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-polipropilenu-wings-phx01-velyka-95l-synia-phx01-l-blue-72944784703417_+80f671ef59.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-polipropilenu-wings-phx01-velyka-95l-synia-phx01-l-blue-98252353075614_+e0a724960c.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-polipropilenu-wings-phx01-velyka-95l-synia-phx01-l-blue-46206317196253_+cb2f47c55a.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-polipropilenu-wings-phx01-velyka-95l-synia-phx01-l-blue-48867563898156_+4f28077efc.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <weight>4000</weight>
-      <param name="Вага" paramcode="150">4</param>
-      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
-      <param name="Об'єм" paramcode="104">95</param>
-      <height>750</height>
-      <param name="Висота" paramcode="110">75</param>
-      <width>480</width>
-      <param name="Ширина" paramcode="111">48</param>
-      <length>300</length>
-      <param name="Глибина" paramcode="112">30</param>
-      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
-      <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
     <offer id="PHX01-L-Burgundy" available="true">
       <name lang="ru">Чемодан из полипропилена Wings PHX01 большой 95л бордовый (PHX01-L-Burgundy)</name>
       <name lang="ua">Валіза з поліпропілену Wings PHX01 велика 95л бордова (PHX01-L-Burgundy)</name>
@@ -9599,6 +9553,52 @@
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
       <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
       <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="PHX01-L-Blue" available="false">
+      <name lang="ru">Чемодан из полипропилена Wings PHX01 большой 95л синий (PHX01-L-Blue)</name>
+      <name lang="ua">Валіза з поліпропілену Wings PHX01 велика 95л синя (PHX01-L-Blue)</name>
+      <price>2300</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
+      <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан из полипропилена Wings PHX01 большой 95л синий (PHX01-L-Blue)</description>
+      <description lang="ua">Валіза з поліпропілену Wings PHX01 велика 95л синя (PHX01-L-Blue)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-polipropilenu-wings-phx01-velyka-95l-synia-phx01-l-blue-97068079866056_+04d6db8fc0.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-polipropilenu-wings-phx01-velyka-95l-synia-phx01-l-blue-47339554358341_+cd82629017.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-polipropilenu-wings-phx01-velyka-95l-synia-phx01-l-blue-50645908009319_+ff49c01585.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-polipropilenu-wings-phx01-velyka-95l-synia-phx01-l-blue-72944784703417_+80f671ef59.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-polipropilenu-wings-phx01-velyka-95l-synia-phx01-l-blue-98252353075614_+e0a724960c.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-polipropilenu-wings-phx01-velyka-95l-synia-phx01-l-blue-46206317196253_+cb2f47c55a.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/46/valiza-z-polipropilenu-wings-phx01-velyka-95l-synia-phx01-l-blue-48867563898156_+4f28077efc.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <weight>4000</weight>
+      <param name="Вага" paramcode="150">4</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Об'єм" paramcode="104">95</param>
+      <height>750</height>
+      <param name="Висота" paramcode="110">75</param>
+      <width>480</width>
+      <param name="Ширина" paramcode="111">48</param>
+      <length>300</length>
+      <param name="Глибина" paramcode="112">30</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+      <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -14665,48 +14665,6 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="42203-S-Purple" available="true">
-      <name lang="ru">Чемодан с расширением Madisson 42203 малый 39л фиолетовый (42203-S-Purple)</name>
-      <name lang="ua">Валіза з розширенням Madisson 42203 мала 39л фіолетова (42203-S-Purple)</name>
-      <price>1500</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
-      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан с расширением Madisson 42203 большой 103л черный (42203-L-Black)</description>
-      <description lang="ua">Валіза з розширенням Madisson 42203 велика 103л чорна (42203-L-Black)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/26/31958530044215_+c3057f2b36.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/26/73681151800990_+64ed64afeb.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/26/77346982979214_+820de6c626.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/26/58428417321434_+cb95b2f0b7.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/26/34477126535995_+14441d47a6.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/26/96124357726235_+b49fcf4b5a.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/26/34824162401165_+7b953ee147.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <weight>3000</weight>
-      <param name="Вага" paramcode="150">3</param>
-      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
-      <param name="Об'єм" paramcode="104">39</param>
-      <height>550</height>
-      <param name="Висота" paramcode="110">55</param>
-      <width>380</width>
-      <param name="Ширина" paramcode="111">38</param>
-      <length>230</length>
-      <param name="Глибина" paramcode="112">23</param>
-      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
     <offer id="42203-S-Dark-green" available="true">
       <name lang="ru">Чемодан с расширением Madisson 42203 малый 39л зеленый (42203-S-Dark-green)</name>
       <name lang="ua">Валіза з розширенням Madisson 42203 мала 39л зелена (42203-S-Dark-green)</name>
@@ -14741,6 +14699,48 @@
       <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
       <param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
       <param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="42203-S-Purple" available="false">
+      <name lang="ru">Чемодан с расширением Madisson 42203 малый 39л фиолетовый (42203-S-Purple)</name>
+      <name lang="ua">Валіза з розширенням Madisson 42203 мала 39л фіолетова (42203-S-Purple)</name>
+      <price>1500</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
+      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан с расширением Madisson 42203 большой 103л черный (42203-L-Black)</description>
+      <description lang="ua">Валіза з розширенням Madisson 42203 велика 103л чорна (42203-L-Black)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/26/31958530044215_+c3057f2b36.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/26/73681151800990_+64ed64afeb.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/26/77346982979214_+820de6c626.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/26/58428417321434_+cb95b2f0b7.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/26/34477126535995_+14441d47a6.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/26/96124357726235_+b49fcf4b5a.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/26/34824162401165_+7b953ee147.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <weight>3000</weight>
+      <param name="Вага" paramcode="150">3</param>
+      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
+      <param name="Об'єм" paramcode="104">39</param>
+      <height>550</height>
+      <param name="Висота" paramcode="110">55</param>
+      <width>380</width>
+      <param name="Ширина" paramcode="111">38</param>
+      <length>230</length>
+      <param name="Глибина" paramcode="112">23</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -17768,94 +17768,6 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="51304-M-Gray" available="true">
-      <name lang="ru">Чемодан с расширением Snowball 51304 средний 63л серый (51304-M-Gray)</name>
-      <name lang="ua">Валіза з розширенням Snowball 51304 середня 63л сіра (51304-M-Gray)</name>
-      <price>2350</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
-      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан с расширением Snowball 51304 большой 105л шампань (51304-L-Champagne)</description>
-      <description lang="ua">Валіза з розширенням Snowball 51304 велика 105л шампань (51304-L-Champagne)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/50/31454387298447_+0557870ee7.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/50/61619415777217_+6572e8b5af.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/50/83063657278747_+e60d011b25.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/50/75052774826555_+3e70831b81.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/50/57674585956793_+74f4179d2a.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/50/17010967587738_+f4abc5bb92.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/50/42761570349797_+fcaac6ec7f.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <weight>3000</weight>
-      <param name="Вага" paramcode="150">3</param>
-      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
-      <param name="Об'єм" paramcode="104">63</param>
-      <height>650</height>
-      <param name="Висота" paramcode="110">65</param>
-      <width>430</width>
-      <param name="Ширина" paramcode="111">43</param>
-      <length>250</length>
-      <param name="Глибина" paramcode="112">25</param>
-      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
-      <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
-    <offer id="51304-M-Champagne" available="true">
-      <name lang="ru">Чемодан с расширением Snowball 51304 средний 63л шампань (51304-M-Champagne)</name>
-      <name lang="ua">Валіза з розширенням Snowball 51304 середня 63л шампань (51304-M-Champagne)</name>
-      <price>2350</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
-      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан с расширением Snowball 51304 большой 105л шампань (51304-L-Champagne)</description>
-      <description lang="ua">Валіза з розширенням Snowball 51304 велика 105л шампань (51304-L-Champagne)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/1/40688021640192_+44a5d9e186.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/1/79556003131651_+c292f99762.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/1/98802074499148_+a734eb5d92.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/1/40307411130632_+8f9fc60a8b.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/1/56615944817550_+1739751eaf.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/1/18893056957516_+9f0d9d9633.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/1/95456330655348_+616657bf5a.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <weight>3000</weight>
-      <param name="Вага" paramcode="150">3</param>
-      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
-      <param name="Об'єм" paramcode="104">63</param>
-      <height>650</height>
-      <param name="Висота" paramcode="110">65</param>
-      <width>430</width>
-      <param name="Ширина" paramcode="111">43</param>
-      <length>250</length>
-      <param name="Глибина" paramcode="112">25</param>
-      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
-      <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
     <offer id="51304-M-RoseGold" available="true">
       <name lang="ru">Чемодан с расширением Snowball 51304 средний 63л розовое золото (51304-M-RoseGold)</name>
       <name lang="ua">Валіза з розширенням Snowball 51304 середня 63л рожеве золото (51304-M-RoseGold)</name>
@@ -17931,6 +17843,94 @@
       <length>250</length>
       <param name="Глибина" paramcode="112">25</param>
       <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="51304-M-Gray" available="false">
+      <name lang="ru">Чемодан с расширением Snowball 51304 средний 63л серый (51304-M-Gray)</name>
+      <name lang="ua">Валіза з розширенням Snowball 51304 середня 63л сіра (51304-M-Gray)</name>
+      <price>2350</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан с расширением Snowball 51304 большой 105л шампань (51304-L-Champagne)</description>
+      <description lang="ua">Валіза з розширенням Snowball 51304 велика 105л шампань (51304-L-Champagne)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/50/31454387298447_+0557870ee7.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/50/61619415777217_+6572e8b5af.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/50/83063657278747_+e60d011b25.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/50/75052774826555_+3e70831b81.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/50/57674585956793_+74f4179d2a.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/50/17010967587738_+f4abc5bb92.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/50/42761570349797_+fcaac6ec7f.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <weight>3000</weight>
+      <param name="Вага" paramcode="150">3</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Об'єм" paramcode="104">63</param>
+      <height>650</height>
+      <param name="Висота" paramcode="110">65</param>
+      <width>430</width>
+      <param name="Ширина" paramcode="111">43</param>
+      <length>250</length>
+      <param name="Глибина" paramcode="112">25</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="51304-M-Champagne" available="false">
+      <name lang="ru">Чемодан с расширением Snowball 51304 средний 63л шампань (51304-M-Champagne)</name>
+      <name lang="ua">Валіза з розширенням Snowball 51304 середня 63л шампань (51304-M-Champagne)</name>
+      <price>2350</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="fd299cb827124e31a3c1765637d797bd">Snowball</vendor>
+      <param name="Бренд" paramcode="5" valuecode="fd299cb827124e31a3c1765637d797bd">Snowball</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан с расширением Snowball 51304 большой 105л шампань (51304-L-Champagne)</description>
+      <description lang="ua">Валіза з розширенням Snowball 51304 велика 105л шампань (51304-L-Champagne)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/1/40688021640192_+44a5d9e186.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/79556003131651_+c292f99762.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/98802074499148_+a734eb5d92.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/40307411130632_+8f9fc60a8b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/56615944817550_+1739751eaf.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/18893056957516_+9f0d9d9633.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/1/95456330655348_+616657bf5a.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <weight>3000</weight>
+      <param name="Вага" paramcode="150">3</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Об'єм" paramcode="104">63</param>
+      <height>650</height>
+      <param name="Висота" paramcode="110">65</param>
+      <width>430</width>
+      <param name="Ширина" paramcode="111">43</param>
+      <length>250</length>
+      <param name="Глибина" paramcode="112">25</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -20559,7 +20559,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="65903-M-Light-blue" available="true">
+    <offer id="65903-M-Light-blue" available="false">
       <name lang="ru">Чемодан с расширением Carbon 65903 средний 67л голубой (65903-M-Light-blue)</name>
       <name lang="ua">Валіза з розширенням Carbon 65903 середня 67л блакитна (65903-M-Light-blue)</name>
       <price>2750</price>
@@ -20689,7 +20689,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="65903-Set-Light-blue" available="true">
+    <offer id="65903-Set-Light-blue" available="false">
       <name lang="ru">Набор чемоданов с расширением Carbon 65903 4 в 1 голубой (65903-Set-Light-blue)</name>
       <name lang="ua">Набір валіз з розширенням Carbon 65903 4 в 1 блакитний (65903-Set-Light-blue)</name>
       <price>7125</price>
@@ -25417,6 +25417,590 @@
       <param name="Ширина" paramcode="111">55</param>
       <length>230</length>
       <param name="Глибина" paramcode="112">23</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="KM5503-M-Black-and-blue" available="true">
+      <name lang="ru">Дорожная сумка KM5503 средняя черно-синяя (KM5503-M-Black-and-blue)</name>
+      <name lang="ua">Дорожня сумка KM5503 середня чорно-синя (KM5503-M-Black-and-blue)</name>
+      <price>710</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="1d88596f66c94a00b173ce687d9598c6">KAIMAN</vendor>
+      <param name="Бренд" paramcode="5" valuecode="1d88596f66c94a00b173ce687d9598c6">KAIMAN</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Дорожная сумка KM5503 средняя черно-синяя (KM5503-M-Black-and-blue)</description>
+      <description lang="ua">Дорожня сумка KM5503 середня чорно-синя (KM5503-M-Black-and-blue)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/18/dorozhnia-sumka-km5503-serednia-chorna-km5503-m-black-61138669817863_+470cd9332b.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/18/dorozhnia-sumka-km5503-serednia-chorna-km5503-m-black-95144192749381_+0dc0bead45.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/18/dorozhnia-sumka-km5503-serednia-chorna-km5503-m-black-84018521475093_+ec774d1613.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/18/dorozhnia-sumka-km5503-serednia-chorna-km5503-m-black-96022279921036_+1de337811e.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/18/dorozhnia-sumka-km5503-serednia-chorna-km5503-m-black-19317375964112_+59b7fad81a.jpeg</picture>
+      <weight>0</weight>
+      <param name="Вага" paramcode="150">0</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Об'єм" paramcode="104">40</param>
+      <height>550</height>
+      <param name="Висота" paramcode="110">55</param>
+      <width>250</width>
+      <param name="Ширина" paramcode="111">25</param>
+      <length>290</length>
+      <param name="Глибина" paramcode="112">29</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="KM5503-M-Black-and-green" available="true">
+      <name lang="ru">Дорожная сумка KM5503 средняя черно-зеленая (KM5503-M-Black-and-green)</name>
+      <name lang="ua">Дорожня сумка KM5503 середня чорно-зелена (KM5503-M-Black-and-green)</name>
+      <price>710</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="1d88596f66c94a00b173ce687d9598c6">KAIMAN</vendor>
+      <param name="Бренд" paramcode="5" valuecode="1d88596f66c94a00b173ce687d9598c6">KAIMAN</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Дорожная сумка KM5503 средняя черно-зеленая (KM5503-M-Black-and-green)</description>
+      <description lang="ua">Дорожня сумка KM5503 середня чорно-зелена (KM5503-M-Black-and-green)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/19/dorozhnia-sumka-km5503-serednia-chorno-zelena-km5503-m-black-and-green-69398218354550_+d8e33b8e62.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/19/dorozhnia-sumka-km5503-serednia-chorno-zelena-km5503-m-black-and-green-38016330446818_+4935577e8f.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/19/dorozhnia-sumka-km5503-serednia-chorno-zelena-km5503-m-black-and-green-66141139268031_+8fad95f238.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/19/dorozhnia-sumka-km5503-serednia-chorno-zelena-km5503-m-black-and-green-33942007220643_+68a3177a87.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/19/dorozhnia-sumka-km5503-serednia-chorno-zelena-km5503-m-black-and-green-68175638308196_+aaf3f6111d.jpeg</picture>
+      <weight>0</weight>
+      <param name="Вага" paramcode="150">0</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Об'єм" paramcode="104">40</param>
+      <height>550</height>
+      <param name="Висота" paramcode="110">55</param>
+      <width>250</width>
+      <param name="Ширина" paramcode="111">25</param>
+      <length>290</length>
+      <param name="Глибина" paramcode="112">29</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="4808A-M-Blue" available="true">
+      <name lang="ru">Дорожная сумка 4808А средняя синяя (4808A-M-Blue)</name>
+      <name lang="ua">Дорожня сумка 4808А середня синя (4808A-M-Blue)</name>
+      <price>875</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="1d88596f66c94a00b173ce687d9598c6">KAIMAN</vendor>
+      <param name="Бренд" paramcode="5" valuecode="1d88596f66c94a00b173ce687d9598c6">KAIMAN</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Дорожная сумка 4808А средняя синяя (4808A-M-Blue)</description>
+      <description lang="ua">Дорожня сумка 4808А середня синя (4808A-M-Blue)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/20/dorozhnia-sumka-4808a-serednia-chorna-4808a-m-blue-80525142052175_+8dc0743f46.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/20/dorozhnia-sumka-4808a-serednia-chorna-4808a-m-blue-16028749173554_+670c46a876.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/20/dorozhnia-sumka-4808a-serednia-chorna-4808a-m-blue-49660835877284_+3b03852361.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/20/dorozhnia-sumka-4808a-serednia-chorna-4808a-m-blue-64672093036350_+2933ea4273.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/20/dorozhnia-sumka-4808a-serednia-chorna-4808a-m-blue-51430647950509_+a8b4c299a3.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/20/dorozhnia-sumka-4808a-serednia-chorna-4808a-m-blue-13945590762477_+0adf669583.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/20/dorozhnia-sumka-4808a-serednia-chorna-4808a-m-blue-69440994663133_+857637d45a.jpeg</picture>
+      <weight>0</weight>
+      <param name="Вага" paramcode="150">0</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Об'єм" paramcode="104">39</param>
+      <height>280</height>
+      <param name="Висота" paramcode="110">28</param>
+      <width>500</width>
+      <param name="Ширина" paramcode="111">50</param>
+      <length>280</length>
+      <param name="Глибина" paramcode="112">28</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+      <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="4808A-M-Black" available="true">
+      <name lang="ru">Дорожная сумка 4808А средняя черная (4808A-M-Black)</name>
+      <name lang="ua">Дорожня сумка 4808А середня чорна (4808A-M-Black)</name>
+      <price>875</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="1d88596f66c94a00b173ce687d9598c6">KAIMAN</vendor>
+      <param name="Бренд" paramcode="5" valuecode="1d88596f66c94a00b173ce687d9598c6">KAIMAN</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Дорожная сумка 4808А средняя черная (4808A-M-Black)</description>
+      <description lang="ua">Дорожня сумка 4808А середня чорна (4808A-M-Black)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/21/dorozhnia-sumka-4808a-serednia-chorna-4808a-m-blueid-66903796350848_+5a019f0b07.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/21/dorozhnia-sumka-4808a-serednia-chorna-4808a-m-blueid-48733417636125_+83e1a8bd3f.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/21/dorozhnia-sumka-4808a-serednia-chorna-4808a-m-blueid-63195323093380_+de22475ccd.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/21/dorozhnia-sumka-4808a-serednia-chorna-4808a-m-blueid-11695332139277_+9a510c5573.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/21/dorozhnia-sumka-4808a-serednia-chorna-4808a-m-blueid-87460810573127_+47dc5b0279.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/21/dorozhnia-sumka-4808a-serednia-chorna-4808a-m-blueid-97095879732627_+d02469eb2a.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/21/dorozhnia-sumka-4808a-serednia-chorna-4808a-m-blueid-74223790154728_+1d9902d2a6.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/21/dorozhnia-sumka-4808a-serednia-chorna-4808a-m-blueid-57444197197877_+7e5535a154.jpeg</picture>
+      <weight>0</weight>
+      <param name="Вага" paramcode="150">0</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Об'єм" paramcode="104">39</param>
+      <height>280</height>
+      <param name="Висота" paramcode="110">28</param>
+      <width>500</width>
+      <param name="Ширина" paramcode="111">50</param>
+      <length>280</length>
+      <param name="Глибина" paramcode="112">28</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="6007-M-Blue" available="true">
+      <name lang="ru">Дорожная сумка Kaiman 6007 60л средняя синяя (6007-M-Blue)</name>
+      <name lang="ua">Дорожня сумка Kaiman 6007 60л середня синя (6007-M-Blue)</name>
+      <price>800</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <description lang="ru">Дорожная сумка Kaiman 6007 60л средняя синяя (6007-M-Blue)</description>
+      <description lang="ua">Дорожня сумка Kaiman 6007 60л середня синя (6007-M-Blue)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/22/dorozhnia-sumka-kaiman-6007-60l-serednia-synia-6007-m-blue-86802305061204_+6c58b498f5.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/22/dorozhnia-sumka-kaiman-6007-60l-serednia-synia-6007-m-blue-73581648901305_+a891e6c0bf.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/22/dorozhnia-sumka-kaiman-6007-60l-serednia-synia-6007-m-blue-92744862678722_+4941b862fd.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/22/dorozhnia-sumka-kaiman-6007-60l-serednia-synia-6007-m-blue-64542513205456_+5b94a0bcae.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/22/dorozhnia-sumka-kaiman-6007-60l-serednia-synia-6007-m-blue-25027834102910_+68e17a4c6e.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/22/dorozhnia-sumka-kaiman-6007-60l-serednia-synia-6007-m-blue-73562250079840_+524a99bca9.jpeg</picture>
+      <weight>0</weight>
+      <param name="Вага" paramcode="150">0</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Об'єм" paramcode="104">60</param>
+      <height>330</height>
+      <param name="Висота" paramcode="110">33</param>
+      <width>600</width>
+      <param name="Ширина" paramcode="111">60</param>
+      <length>300</length>
+      <param name="Глибина" paramcode="112">30</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+      <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="6007-M-Black" available="true">
+      <name lang="ru">Дорожная сумка Kaiman 6007 60л средняя черная (6007-M-Black)</name>
+      <name lang="ua">Дорожня сумка Kaiman 6007 60л середня чорна (6007-M-Black)</name>
+      <price>800</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="1d88596f66c94a00b173ce687d9598c6">KAIMAN</vendor>
+      <param name="Бренд" paramcode="5" valuecode="1d88596f66c94a00b173ce687d9598c6">KAIMAN</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Дорожная сумка Kaiman 6007 60л средняя черная (6007-M-Black)</description>
+      <description lang="ua">Дорожня сумка Kaiman 6007 60л середня чорна (6007-M-Black)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/23/dorozhnia-sumka-kaiman-6007-60l-serednia-chorna-6007-m-black-97762930836463_+f9a0f4353f.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/23/dorozhnia-sumka-kaiman-6007-60l-serednia-chorna-6007-m-black-52514663374449_+f6bb63b31f.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/23/dorozhnia-sumka-kaiman-6007-60l-serednia-chorna-6007-m-black-20378742609115_+df6e9c49a7.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/23/dorozhnia-sumka-kaiman-6007-60l-serednia-chorna-6007-m-black-40765222333461_+8758c19c58.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/23/dorozhnia-sumka-kaiman-6007-60l-serednia-chorna-6007-m-black-45819989814132_+41eef1f378.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/23/dorozhnia-sumka-kaiman-6007-60l-serednia-chorna-6007-m-black-59077891601936_+2676919d60.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/23/dorozhnia-sumka-kaiman-6007-60l-serednia-chorna-6007-m-black-27565362440391_+e46546935e.jpeg</picture>
+      <weight>0</weight>
+      <param name="Вага" paramcode="150">0</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Об'єм" paramcode="104">60</param>
+      <height>330</height>
+      <param name="Висота" paramcode="110">33</param>
+      <width>300</width>
+      <param name="Ширина" paramcode="111">30</param>
+      <length>600</length>
+      <param name="Глибина" paramcode="112">60</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="6004-M-Black" available="true">
+      <name lang="ru">Дорожная сумка Kaiman 6004 60л средняя черная (6004-M-Black)</name>
+      <name lang="ua">Дорожня сумка Kaiman 6004 60л середня чорна (6004-M-Black)</name>
+      <price>800</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="1d88596f66c94a00b173ce687d9598c6">KAIMAN</vendor>
+      <param name="Бренд" paramcode="5" valuecode="1d88596f66c94a00b173ce687d9598c6">KAIMAN</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Дорожная сумка Kaiman 6004 60л средняя черная (6004-M-Black)</description>
+      <description lang="ua">Дорожня сумка Kaiman 6004 60л середня чорна (6004-M-Black)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/24/dorozhnia-sumka-kaiman-6004-60l-serednia-chorna-6004-m-black-66256200753380_+f9f6e1cd3d.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/24/dorozhnia-sumka-kaiman-6004-60l-serednia-chorna-6004-m-black-76894072701375_+dbea930dea.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/24/dorozhnia-sumka-kaiman-6004-60l-serednia-chorna-6004-m-black-21724255238288_+b80ba1bc11.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/24/dorozhnia-sumka-kaiman-6004-60l-serednia-chorna-6004-m-black-23236084162555_+7c0f58f5da.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/24/dorozhnia-sumka-kaiman-6004-60l-serednia-chorna-6004-m-black-82811317508455_+c2faac475d.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/24/dorozhnia-sumka-kaiman-6004-60l-serednia-chorna-6004-m-black-16534276868572_+1fe0f6a2b2.jpeg</picture>
+      <weight>0</weight>
+      <param name="Вага" paramcode="150">0</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Об'єм" paramcode="104">60</param>
+      <height>330</height>
+      <param name="Висота" paramcode="110">33</param>
+      <width>600</width>
+      <param name="Ширина" paramcode="111">60</param>
+      <length>300</length>
+      <param name="Глибина" paramcode="112">30</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="6004-M-Blue" available="true">
+      <name lang="ru">Дорожная сумка Kaiman 6004 60л средняя синяя (6004-M-Blue)</name>
+      <name lang="ua">Дорожня сумка Kaiman 6004 60л середня синя (6004-M-Blue)</name>
+      <price>800</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="1d88596f66c94a00b173ce687d9598c6">KAIMAN</vendor>
+      <param name="Бренд" paramcode="5" valuecode="1d88596f66c94a00b173ce687d9598c6">KAIMAN</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Дорожная сумка Kaiman 6004 60л средняя синяя (6004-M-Blue)</description>
+      <description lang="ua">Дорожня сумка Kaiman 6004 60л середня синя (6004-M-Blue)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/25/dorozhnia-sumka-kaiman-6004-60l-serednia-synia-6004-m-blue-19539336095339_+5e6d82432a.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/25/dorozhnia-sumka-kaiman-6004-60l-serednia-synia-6004-m-blue-80561572354077_+295d069fa5.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/25/dorozhnia-sumka-kaiman-6004-60l-serednia-synia-6004-m-blue-29261584767062_+68a761cd8b.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/25/dorozhnia-sumka-kaiman-6004-60l-serednia-synia-6004-m-blue-20953879397416_+45ab07b645.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/25/dorozhnia-sumka-kaiman-6004-60l-serednia-synia-6004-m-blue-47871197121682_+b5e923bd49.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/25/dorozhnia-sumka-kaiman-6004-60l-serednia-synia-6004-m-blue-92918433830641_+b3e7378a9d.jpeg</picture>
+      <weight>0</weight>
+      <param name="Вага" paramcode="150">0</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Об'єм" paramcode="104">60</param>
+      <height>330</height>
+      <param name="Висота" paramcode="110">33</param>
+      <width>600</width>
+      <param name="Ширина" paramcode="111">60</param>
+      <length>330</length>
+      <param name="Глибина" paramcode="112">33</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+      <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="4808B-M-Black" available="true">
+      <name lang="ru">Дорожная сумка Kaiman 4808B 61л средняя черная (4808B-M-Black)</name>
+      <name lang="ua">Дорожня сумка Kaiman 4808B 61л середня чорна (4808B-M-Black)</name>
+      <price>965</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="1d88596f66c94a00b173ce687d9598c6">KAIMAN</vendor>
+      <param name="Бренд" paramcode="5" valuecode="1d88596f66c94a00b173ce687d9598c6">KAIMAN</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Дорожная сумка Kaiman 4808B 61л средняя черная (4808B-M-Black)</description>
+      <description lang="ua">Дорожня сумка Kaiman 4808B 61л середня чорна (4808B-M-Black)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/27/dorozhnia-sumka-kaiman-4808b-61l-serednia-chorna-4808b-m-black-28369105955245_+e8cd732920.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/dorozhnia-sumka-kaiman-4808b-61l-serednia-chorna-4808b-m-black-47014552155629_+0f2dc94c1f.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/dorozhnia-sumka-kaiman-4808b-61l-serednia-chorna-4808b-m-black-27325827455144_+84cc92cd1b.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/dorozhnia-sumka-kaiman-4808b-61l-serednia-chorna-4808b-m-black-15370942118161_+06fea88fa7.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/dorozhnia-sumka-kaiman-4808b-61l-serednia-chorna-4808b-m-black-44500727338245_+c6fea47659.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/dorozhnia-sumka-kaiman-4808b-61l-serednia-chorna-4808b-m-black-18193806439726_+c1ea8cfbc1.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/dorozhnia-sumka-kaiman-4808b-61l-serednia-chorna-4808b-m-black-91808690984452_+f659a4d2b9.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/27/dorozhnia-sumka-kaiman-4808b-61l-serednia-chorna-4808b-m-black-40539979821223_+a8e346e3ea.jpeg</picture>
+      <weight>0</weight>
+      <param name="Вага" paramcode="150">0</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Об'єм" paramcode="104">61</param>
+      <height>320</height>
+      <param name="Висота" paramcode="110">32</param>
+      <width>600</width>
+      <param name="Ширина" paramcode="111">60</param>
+      <length>320</length>
+      <param name="Глибина" paramcode="112">32</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="J292-M-Black" available="true">
+      <name lang="ru">Саквояж из экокожи J292 средний черный (J292-M-Black)</name>
+      <name lang="ua">Саквояж з екошкіри J292 середній чорний (J292-M-Black)</name>
+      <price>1200</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <description lang="ru">Саквояж из экокожи J292 средний черный (J292-M-Black)</description>
+      <description lang="ua">Саквояж з екошкіри J292 середній чорний (J292-M-Black)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/28/sakvoiazh-z-ekoshkiry-j292-serednii-chornyi-j292-m-black-19593632441611_+fafc7c4e3c.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/28/sakvoiazh-z-ekoshkiry-j292-serednii-chornyi-j292-m-black-19996576517411_+2cc0129dc1.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/28/sakvoiazh-z-ekoshkiry-j292-serednii-chornyi-j292-m-black-83873085162563_+ea81eb5de7.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/28/sakvoiazh-z-ekoshkiry-j292-serednii-chornyi-j292-m-black-65850971096854_+fe5931ef69.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/28/sakvoiazh-z-ekoshkiry-j292-serednii-chornyi-j292-m-black-64066823966712_+0c7f8ec75a.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/28/sakvoiazh-z-ekoshkiry-j292-serednii-chornyi-j292-m-black-49197557559095_+05e2788bbe.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/28/sakvoiazh-z-ekoshkiry-j292-serednii-chornyi-j292-m-black-25137582889615_+178a5cd237.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/28/sakvoiazh-z-ekoshkiry-j292-serednii-chornyi-j292-m-black-49344253585283_+cf82c038d3.jpeg</picture>
+      <weight>0</weight>
+      <param name="Вага" paramcode="150">0</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Об'єм" paramcode="104">38</param>
+      <height>300</height>
+      <param name="Висота" paramcode="110">30</param>
+      <width>500</width>
+      <param name="Ширина" paramcode="111">50</param>
+      <length>250</length>
+      <param name="Глибина" paramcode="112">25</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="142-1-M-Black" available="true">
+      <name lang="ru">Саквояж из экокожи 141-1 средний черный (142-1-M-Black)</name>
+      <name lang="ua">Саквояж з екошкіри 141-1 середній чорний (142-1-M-Black)</name>
+      <price>875</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <description lang="ru">Саквояж из экокожи 141-1 средний черный (142-1-M-Black)</description>
+      <description lang="ua">Саквояж з екошкіри 141-1 середній чорний (142-1-M-Black)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/29/sakvoiazh-z-ekoshkiry-141-1-serednii-chornyi-142-1-m-black-57402804428471_+9e01e162af.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/29/sakvoiazh-z-ekoshkiry-141-1-serednii-chornyi-142-1-m-black-22851912138951_+567f58a739.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/29/sakvoiazh-z-ekoshkiry-141-1-serednii-chornyi-142-1-m-black-81295202543450_+11d8bcb687.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/29/sakvoiazh-z-ekoshkiry-141-1-serednii-chornyi-142-1-m-black-92698944361643_+1bcc5d50b9.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/29/sakvoiazh-z-ekoshkiry-141-1-serednii-chornyi-142-1-m-black-62954214749888_+e78d614320.jpeg</picture>
+      <weight>0</weight>
+      <param name="Вага" paramcode="150">0</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Об'єм" paramcode="104">36</param>
+      <height>280</height>
+      <param name="Висота" paramcode="110">28</param>
+      <width>500</width>
+      <param name="Ширина" paramcode="111">50</param>
+      <length>260</length>
+      <param name="Глибина" paramcode="112">26</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="142-1-M-Brown" available="true">
+      <name lang="ru">Саквояж из экокожи 141-1 средний коричневый (142-1-M-Brown)</name>
+      <name lang="ua">Саквояж з екошкіри 141-1 середній коричневий (142-1-M-Brown)</name>
+      <price>875</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <description lang="ru">Саквояж из экокожи 141-1 средний коричневый (142-1-M-Brown)</description>
+      <description lang="ua">Саквояж з екошкіри 141-1 середній коричневий (142-1-M-Brown)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/30/sakvoiazh-z-ekoshkiry-141-1-serednii-korychnevyi-142-1-m-brown-71408597968780_+081f79a792.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/30/sakvoiazh-z-ekoshkiry-141-1-serednii-korychnevyi-142-1-m-brown-35766884218195_+ec6b937566.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/30/sakvoiazh-z-ekoshkiry-141-1-serednii-korychnevyi-142-1-m-brown-39650323698988_+70183f4d3e.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/30/sakvoiazh-z-ekoshkiry-141-1-serednii-korychnevyi-142-1-m-brown-14787030188931_+caba149cbf.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/30/sakvoiazh-z-ekoshkiry-141-1-serednii-korychnevyi-142-1-m-brown-56728078336123_+11c0f8d518.jpeg</picture>
+      <weight>0</weight>
+      <param name="Вага" paramcode="150">0</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Об'єм" paramcode="104">36</param>
+      <height>280</height>
+      <param name="Висота" paramcode="110">28</param>
+      <width>500</width>
+      <param name="Ширина" paramcode="111">50</param>
+      <length>260</length>
+      <param name="Глибина" paramcode="112">26</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="2e96b43de658554c4bcc7b6edae777c2">коричневий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="166-M-Brown" available="true">
+      <name lang="ru">Дорожная сумка 166 средняя коричневая (166-M-Brown)</name>
+      <name lang="ua">Дорожня сумка 166 середня коричнева (166-M-Brown)</name>
+      <price>1090</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <description lang="ru">Дорожная сумка 166 средняя коричневая (166-M-Brown)</description>
+      <description lang="ua">Дорожня сумка 166 середня коричнева (166-M-Brown)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/31/dorozhnia-sumka-166-serednia-korychneva-166-m-brown-99676772174005_+31877ba8d0.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/31/dorozhnia-sumka-166-serednia-korychneva-166-m-brown-85383307013838_+b9f2086a5d.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/31/dorozhnia-sumka-166-serednia-korychneva-166-m-brown-92477268749346_+f3574c0b3f.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/31/dorozhnia-sumka-166-serednia-korychneva-166-m-brown-50203863789353_+c1fb249343.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/31/dorozhnia-sumka-166-serednia-korychneva-166-m-brown-95203273268938_+a40aed344b.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/31/dorozhnia-sumka-166-serednia-korychneva-166-m-brown-50068763124447_+e21ba747aa.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/31/dorozhnia-sumka-166-serednia-korychneva-166-m-brown-80890201122010_+ddb9a7c7f2.jpeg</picture>
+      <weight>0</weight>
+      <param name="Вага" paramcode="150">0</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Об'єм" paramcode="104">22</param>
+      <height>450</height>
+      <param name="Висота" paramcode="110">45</param>
+      <width>330</width>
+      <param name="Ширина" paramcode="111">33</param>
+      <length>150</length>
+      <param name="Глибина" paramcode="112">15</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="2e96b43de658554c4bcc7b6edae777c2">коричневий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="166-M-Black" available="true">
+      <name lang="ru">Дорожня сумка 166 середня коричнева (166-M-Black)</name>
+      <name lang="ua">Дорожня сумка 166 середня коричнева (166-M-Black)</name>
+      <price>1090</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <description lang="ru">Дорожная сумка 166 средняя коричневая (166-M-Black)</description>
+      <description lang="ua">Дорожня сумка 166 середня коричнева (166-M-Black)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/32/dorozhnia-sumka-166-serednia-korychneva-166-m-black-13637311270042_+57b22dde66.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/32/dorozhnia-sumka-166-serednia-korychneva-166-m-black-29639080469432_+3734ef6e04.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/32/dorozhnia-sumka-166-serednia-korychneva-166-m-black-88034609258200_+e6046e693b.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/32/dorozhnia-sumka-166-serednia-korychneva-166-m-black-52899376739980_+4065a0ac2b.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/32/dorozhnia-sumka-166-serednia-korychneva-166-m-black-30345386304014_+4af84f4094.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/32/dorozhnia-sumka-166-serednia-korychneva-166-m-black-84903277102860_+572040bec6.jpeg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/32/dorozhnia-sumka-166-serednia-korychneva-166-m-black-32335182430143_+5f04dd4af4.jpeg</picture>
+      <weight>0</weight>
+      <param name="Вага" paramcode="150">0</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Об'єм" paramcode="104">22</param>
+      <height>450</height>
+      <param name="Висота" paramcode="110">45</param>
+      <width>330</width>
+      <param name="Ширина" paramcode="111">33</param>
+      <length>150</length>
+      <param name="Глибина" paramcode="112">15</param>
       <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
       <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
