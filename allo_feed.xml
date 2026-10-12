@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-12 00:16">
+<yml_catalog date="2026-10-12 06:16">
 <shop>
 <name>Sklad Valiz</name>
 <company>Sklad Valiz</company>
@@ -346,6 +346,40 @@
 <param name="Колір">Сірий</param>
 <param name="Стан">Новий</param>
 </offer>
+<offer id="2501-L-Blue" available="true" group_id="2501-L-Blue">
+<url>https://sklad-valiz.com.ua/valiza-wings-2501-velyka-97l-synia-2501-l-blue/</url>
+<price>3100</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/8/36730521698961_+296ee90868.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/8/43802954612899_+923e84fac4.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/8/37273783927205_+6e3d9f3c2e.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/8/24724358169857_+977ece89d3.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/8/57756403566139_+a636cf9c8b.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/8/84113813663187_+35798c61b7.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/8/67347299470743_+575dfba5a3.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан с расширением Wings 2501 большой 97л синий (2501-L-Blue)</name>
+<name_ua>Валіза з розширенням Wings 2501 велика 97л синя (2501-L-Blue)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>2501-L-Blue</vendorCode>
+<description>Валіза з розширенням Wings 2501 в розмірі L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Валіза виготовлена з високоміцного поліестеру Cordura 1200D, який вирізняється легкістю, еластичністю та стійкістю до вологи й пошкоджень. Надійний внутрішній каркас дозволяє валізі відмінно тримати форму навіть при щільному наповненні, захищаючи ваші речі під час транспортування. Модель оснащена посиленою системою з 4 великих поліуретанових коліс на металевих підшипниках, що гарантує надійність при русі по будь-яких поверхнях. Для зручності передбачена телескопічна ручка з фіксацією. Продуманий внутрішній простір із фіксаторами та велика кількість зовнішніх кишень допоможуть ідеально організувати багаж, а функція розширення на 5 см дозволить збільшити об&amp;#39;єм, якщо це необхідно. Для безпеки передбачено вбудований кодовий замок. Вага завантаження становить 22-25 кг.</description>
+<description_ua>Валіза з розширенням Wings 2501 в розмірі L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Валіза виготовлена з високоміцного поліестеру Cordura 1200D, який вирізняється легкістю, еластичністю та стійкістю до вологи й пошкоджень. Надійний внутрішній каркас дозволяє валізі відмінно тримати форму навіть при щільному наповненні, захищаючи ваші речі під час транспортування. Модель оснащена посиленою системою з 4 великих поліуретанових коліс на металевих підшипниках, що гарантує надійність при русі по будь-яких поверхнях. Для зручності передбачена телескопічна ручка з фіксацією. Продуманий внутрішній простір із фіксаторами та велика кількість зовнішніх кишень допоможуть ідеально організувати багаж, а функція розширення на 5 см дозволить збільшити об&amp;#39;єм, якщо це необхідно. Для безпеки передбачено вбудований кодовий замок. Вага завантаження становить 22-25 кг.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Синій</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліестер</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">L</param>
+<param name="Країна виробник">Польща</param>
+<param name="Колір">Синій</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
 <offer id="2501-L-Grey" available="true" group_id="2501-L-Grey">
 <url>https://sklad-valiz.com.ua/valiza-wings-2501-velyka-97l-sira-2501-l-grey/</url>
 <price>3100</price>
@@ -440,6 +474,38 @@
 <param name="Особливості">Висувна ручка</param>
 <param name="Тип коліс">Поворотні</param>
 <param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="2501-S-Blue" available="true" group_id="2501-S-Blue">
+<url>https://sklad-valiz.com.ua/valiza-wings-2501-mala-38l-synia-2501-s-blue/</url>
+<salePrice>1360</salePrice>
+<price>1700</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/14/12211494036359_+ab4d528473.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/81611528558667_+9b1467f413.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/37009325832438_+d2cbe34a05.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/50727075923695_+e98c75847b.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/65102888438210_+401c87c5eb.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/47546407211727_+e1b196040f.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/44338831066003_+c939986681.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан с расширением Wings 2501 малый 38л синий (2501-S-Blue)</name>
+<name_ua>Валіза з розширенням Wings 2501 мала 38л синя (2501-S-Blue)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>2501-S-Blue</vendorCode>
+<description>Валіза з розширенням Wings 2501 в розмірі L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Валіза виготовлена з високоміцного поліестеру Cordura 1200D, який вирізняється легкістю, еластичністю та стійкістю до вологи й пошкоджень. Надійний внутрішній каркас дозволяє валізі відмінно тримати форму навіть при щільному наповненні, захищаючи ваші речі під час транспортування. Модель оснащена посиленою системою з 4 великих поліуретанових коліс на металевих підшипниках, що гарантує надійність при русі по будь-яких поверхнях. Для зручності передбачена телескопічна ручка з фіксацією. Продуманий внутрішній простір із фіксаторами та велика кількість зовнішніх кишень допоможуть ідеально організувати багаж, а функція розширення на 5 см дозволить збільшити об&amp;#39;єм, якщо це необхідно. Для безпеки передбачено вбудований кодовий замок. Вага завантаження становить 22-25 кг.</description>
+<description_ua>Валіза з розширенням Wings 2501 в розмірі L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Валіза виготовлена з високоміцного поліестеру Cordura 1200D, який вирізняється легкістю, еластичністю та стійкістю до вологи й пошкоджень. Надійний внутрішній каркас дозволяє валізі відмінно тримати форму навіть при щільному наповненні, захищаючи ваші речі під час транспортування. Модель оснащена посиленою системою з 4 великих поліуретанових коліс на металевих підшипниках, що гарантує надійність при русі по будь-яких поверхнях. Для зручності передбачена телескопічна ручка з фіксацією. Продуманий внутрішній простір із фіксаторами та велика кількість зовнішніх кишень допоможуть ідеально організувати багаж, а функція розширення на 5 см дозволить збільшити об&amp;#39;єм, якщо це необхідно. Для безпеки передбачено вбудований кодовий замок. Вага завантаження становить 22-25 кг.</description_ua>
+<param name="Колір">Синій</param>
+<param name="Тип">Валізи</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Колір">Синій</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
 <param name="Стан">Новий</param>
 </offer>
 <offer id="2501-S-Grey" available="true" group_id="2501-S-Grey">
@@ -1066,37 +1132,6 @@
 <param name="Замок">Кодовий</param>
 <param name="Розмір">S</param>
 <param name="Колір">Сиреневый</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="42203-S-DarkBlue" available="true" group_id="42203-S-DarkBlue">
-<url>https://sklad-valiz.com.ua/valiza-madisson-42203-mala-39l-temno-synia-42203-s-darkblue/</url>
-<price>1500</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/27/58483992101181_+58159ebff2.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/27/24690353935543_+3485283f1b.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/27/12647136890298_+c138c3c794.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/27/41851272957518_+5339390f05.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/27/64979647517897_+41faa8207d.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/27/43224821848339_+34a905d30b.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/27/47023777775444_+dbdc3365c0.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан с расширением Madisson 42203 малый 39л темно-синий (42203-S-DarkBlue)</name>
-<name_ua>Валіза з розширенням Madisson 42203 мала 39л темно-синя (42203-S-DarkBlue)</name_ua>
-<vendor>Madisson</vendor>
-<vendorCode>42203-S-DarkBlue</vendorCode>
-<description>Валіза з розширенням Madisson 42203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description>
-<description_ua>Валіза з розширенням Madisson 42203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-<param name="Колір">Темно-синій</param>
-<param name="Тип">Валізи</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">Кодовий</param>
-<param name="Розмір">S</param>
-<param name="Колір">Темно-синій</param>
 <param name="Особливості">Висувна ручка</param>
 <param name="Тип коліс">Поворотні</param>
 <param name="Підходить для ручної поклажі">Так</param>
@@ -4516,38 +4551,6 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="33703-Set-Sea-wave" available="true" group_id="33703-Set-Sea-wave">
-<url>https://sklad-valiz.com.ua/nabir-valiz-z-polipropilenu-snowball-33703-3-v-1-synii-33703-set-sea-wave/</url>
-<salePrice>7240</salePrice>
-<price>8550</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/28/64641405896894_+4c9b24ad48.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/28/34165583520532_+2a4b2d70ce.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/28/78691639840198_+3b2f91efc1.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/28/82467110079661_+c3c935b98d.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/28/70469338113529_+93750c7112.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/28/57469929983280_+d454161c25.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/28/40527181394301_+a1b16b24a8.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Набор чемоданов из полипропилена Snowball 33703 3 в 1 синий (33703-Set-Sea-wave)</name>
-<name_ua>Набір валіз з поліпропілену Snowball 33703 3 в 1 синій (33703-Set-Sea-wave)</name_ua>
-<vendor>Snowball</vendor>
-<vendorCode>33703-Set-Sea-wave</vendorCode>
-<description>Валізи Snowball 33703 виготовлені з міцного та гнучкого матеріалу, який витримує удари й навантаження та не тріскається навіть при неповному завантаженні. Усі моделі оснащені поворотними колесами 360 &amp;deg; , кодовим замком для захисту речей та продуманим внутрішнім простором із фіксаторами багажу. Розмір S - компактний варіант для коротких поїздок на 3-5 днів. Підходить для авіаперельотів як ручна поклажа, а також для подорожей потягом, автобусом чи автомобілем. Вага завантаження 12-15 кг. Розмір M - універсальний варіант для поїздок на 5-10 днів. Оптимальний для авіаперельотів як багаж, а також для подорожей потягом, автобусом чи автомобілем. Оснащений безшумними колесами для комфортного переміщення. Вага завантаження 18-20кг. Розмір L - максимально місткий варіант для подорожей від 10 днів та сімейних поїздок. Призначений для перевезення в багажному відділенні, а також підходить для потягів, автобусів та автомобілів. Посилені колеса забезпечують легке керування важким багажем. Вага завантаження 22-25кг.</description>
-<description_ua>Валізи Snowball 33703 виготовлені з міцного та гнучкого матеріалу, який витримує удари й навантаження та не тріскається навіть при неповному завантаженні. Усі моделі оснащені поворотними колесами 360 &amp;deg; , кодовим замком для захисту речей та продуманим внутрішнім простором із фіксаторами багажу. Розмір S - компактний варіант для коротких поїздок на 3-5 днів. Підходить для авіаперельотів як ручна поклажа, а також для подорожей потягом, автобусом чи автомобілем. Вага завантаження 12-15 кг. Розмір M - універсальний варіант для поїздок на 5-10 днів. Оптимальний для авіаперельотів як багаж, а також для подорожей потягом, автобусом чи автомобілем. Оснащений безшумними колесами для комфортного переміщення. Вага завантаження 18-20кг. Розмір L - максимально місткий варіант для подорожей від 10 днів та сімейних поїздок. Призначений для перевезення в багажному відділенні, а також підходить для потягів, автобусів та автомобілів. Посилені колеса забезпечують легке керування важким багажем. Вага завантаження 22-25кг.</description_ua>
-<param name="Колір">Синій</param>
-<param name="Тип">Комплект чемоданов</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">Комплект</param>
-<param name="Колір">Синій</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Ні</param>
-<param name="Стан">Новий</param>
-</offer>
 <offer id="33703-Set-RoseGold" available="true" group_id="33703-Set-RoseGold">
 <url>https://sklad-valiz.com.ua/nabir-valiz-z-polipropilenu-snowball-33703-3-v-1-rozheve-zoloto-33703-set-rosegold/</url>
 <salePrice>7240</salePrice>
@@ -7597,6 +7600,148 @@
 <param name="Колір">Чорний</param>
 <param name="Стан">Новий</param>
 </offer>
+<offer id="4001-S-Black" available="true" group_id="4001-S-Black">
+<url>https://sklad-valiz.com.ua/dorozhnia-sumka-kaiman-4001-13l-chorna-4001-s-black/</url>
+<price>530</price>
+<currencyId>UAH</currencyId>
+<categoryId>2016</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/13/dorozhnia-sumka-kaiman-4001-13l-chorna-4001-s-black-30896934939790_+4e592d2fda.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/13/dorozhnia-sumka-kaiman-4001-13l-chorna-4001-s-black-83265677724986_+9285f86c6d.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/13/dorozhnia-sumka-kaiman-4001-13l-chorna-4001-s-black-89391442056053_+ee63ea60b6.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/13/dorozhnia-sumka-kaiman-4001-13l-chorna-4001-s-black-72970334834602_+4731d9930e.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/13/dorozhnia-sumka-kaiman-4001-13l-chorna-4001-s-black-60244929744644_+096b71039d.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/13/dorozhnia-sumka-kaiman-4001-13l-chorna-4001-s-black-22513104718427_+794a7332ee.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/13/dorozhnia-sumka-kaiman-4001-13l-chorna-4001-s-black-46008080627378_+a84a53fb8b.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/13/dorozhnia-sumka-kaiman-4001-13l-chorna-4001-s-black-77126562365294_+acc0d77d31.jpeg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Дорожная сумка Kaiman 4001 13л черная (4001-S-Black)</name>
+<name_ua>Дорожня сумка Kaiman 4001 13л чорна (4001-S-Black)</name_ua>
+<vendor>Kaiman</vendor>
+<vendorCode>4001-S-Black</vendorCode>
+<description>Стильна дорожня сумка - ідеальний варіант для подорожей та спорту. Модель поєднує лаконічний дизайн із місткістю, вміщуючи одяг, взуття та особисті речі. Сумка зроблена з міцного, зносостійкого матеріалу, а конструкція (прошиті до дна ручки) дає змогу підіймати та переносити вантажі великої ваги.Сумка відмінно підходить для коротких поїздок або як ручна поклажа.</description>
+<description_ua>Стильна дорожня сумка - ідеальний варіант для подорожей та спорту. Модель поєднує лаконічний дизайн із місткістю, вміщуючи одяг, взуття та особисті речі. Сумка зроблена з міцного, зносостійкого матеріалу, а конструкція (прошиті до дна ручки) дає змогу підіймати та переносити вантажі великої ваги.Сумка відмінно підходить для коротких поїздок або як ручна поклажа.</description_ua>
+<country_of_origin>Китай</country_of_origin>
+<param name="Колір">Чорний</param>
+<param name="Тип">Сумка дорожная</param>
+<param name="Матеріал">Неопрен</param>
+<param name="Кількість коліс">Без колес</param>
+<param name="Замок">Ні</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Китай</param>
+<param name="Колір">Чорний</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="4001-S-Blue" available="true" group_id="4001-S-Blue">
+<url>https://sklad-valiz.com.ua/dorozhnia-sumka-kaiman-4001-13l-synia-4001-s-blue/</url>
+<price>530</price>
+<currencyId>UAH</currencyId>
+<categoryId>2016</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/14/dorozhnia-sumka-kaiman-4001-13l-synia-4001-s-blue-30308966098666_+1f59590ab1.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/dorozhnia-sumka-kaiman-4001-13l-synia-4001-s-blue-41733683194405_+d575f99ecf.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/dorozhnia-sumka-kaiman-4001-13l-synia-4001-s-blue-44342388566843_+2b19f6df2a.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/dorozhnia-sumka-kaiman-4001-13l-synia-4001-s-blue-28711730757847_+9835a6b1fa.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/dorozhnia-sumka-kaiman-4001-13l-synia-4001-s-blue-21668777638202_+ccb8cd47a2.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/dorozhnia-sumka-kaiman-4001-13l-synia-4001-s-blue-64476771012330_+da9fdf0f5b.jpeg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Дорожня сумка Kaiman 4001 13л синяя (4001-S-Blue)</name>
+<name_ua>Дорожня сумка Kaiman 4001 13л синя (4001-S-Blue)</name_ua>
+<vendor>Kaiman</vendor>
+<vendorCode>4001-S-Blue</vendorCode>
+<description>Стильна дорожня сумка - ідеальний варіант для подорожей та спорту. Модель поєднує лаконічний дизайн із місткістю, вміщуючи одяг, взуття та особисті речі. Сумка зроблена з міцного, зносостійкого матеріалу, а конструкція (прошиті до дна ручки) дає змогу підіймати та переносити вантажі великої ваги.Сумка відмінно підходить для коротких поїздок або як ручна поклажа.</description>
+<description_ua>Стильна дорожня сумка - ідеальний варіант для подорожей та спорту. Модель поєднує лаконічний дизайн із місткістю, вміщуючи одяг, взуття та особисті речі. Сумка зроблена з міцного, зносостійкого матеріалу, а конструкція (прошиті до дна ручки) дає змогу підіймати та переносити вантажі великої ваги.Сумка відмінно підходить для коротких поїздок або як ручна поклажа.</description_ua>
+<country_of_origin>Китай</country_of_origin>
+<param name="Колір">Синій</param>
+<param name="Тип">Сумка дорожная</param>
+<param name="Матеріал">Неопрен</param>
+<param name="Кількість коліс">Без колес</param>
+<param name="Замок">Ні</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Китай</param>
+<param name="Колір">Синій</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="17505-M-Black" available="true" group_id="17505-M-Black">
+<url>https://sklad-valiz.com.ua/dorozhnia-sumka-catesigo-17505-b-33l-chorna-17505-b/</url>
+<price>880</price>
+<currencyId>UAH</currencyId>
+<categoryId>2016</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/15/dorozhnia-sumka-catesigo-17505-b-33l-chorna-17505-b-65666072829721_+fc5b3bd0ad.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/15/dorozhnia-sumka-catesigo-17505-b-33l-chorna-17505-b-71619466229058_+09b7d245cb.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/15/dorozhnia-sumka-catesigo-17505-b-33l-chorna-17505-b-38800543799789_+eb55fee5e6.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/15/dorozhnia-sumka-catesigo-17505-b-33l-chorna-17505-b-48655808865258_+37367e4bfd.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/15/dorozhnia-sumka-catesigo-17505-b-33l-chorna-17505-b-84555602749215_+7ad464612b.jpeg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Дорожная сумка Catesigo 17505 средняя 33л черная (17505-M-Black)</name>
+<name_ua>Дорожня сумка Catesigo 17505 середня 33л чорна (17505-M-Black)</name_ua>
+<vendorCode>17505-M-Black</vendorCode>
+<description>Стильна та практична дорожня сумка Catesigo &amp;mdash; чудовий вибір для подорожей, відряджень і занять спортом. Містке основне відділення дозволяє зручно розмістити одяг, взуття та особисті речі. Міцний, зносостійкий матеріал і надійні ручки, прошиті до дна, забезпечують довговічність і зручність у використанні. Ідеально підходить для коротких поїздок і активного способу життя.</description>
+<description_ua>Стильна та практична дорожня сумка Catesigo &amp;mdash; чудовий вибір для подорожей, відряджень і занять спортом. Містке основне відділення дозволяє зручно розмістити одяг, взуття та особисті речі. Міцний, зносостійкий матеріал і надійні ручки, прошиті до дна, забезпечують довговічність і зручність у використанні. Ідеально підходить для коротких поїздок і активного способу життя.</description_ua>
+<country_of_origin>Китай</country_of_origin>
+<param name="Колір">Чорний</param>
+<param name="Тип">Сумка дорожная</param>
+<param name="Матеріал">Нейлон</param>
+<param name="Кількість коліс">Без колес</param>
+<param name="Замок">Ні</param>
+<param name="Розмір">M</param>
+<param name="Країна виробник">Китай</param>
+<param name="Колір">Чорний</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="17505-M-Blue" available="true" group_id="17505-M-Blue">
+<url>https://sklad-valiz.com.ua/dorozhnia-sumka-catesigo-17505-s-33l-synia-17505-s/</url>
+<price>880</price>
+<currencyId>UAH</currencyId>
+<categoryId>2016</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/16/dorozhnia-sumka-catesigo-17505-s-33l-synia-17505-s-47624896296966_+9f520ab83a.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/16/dorozhnia-sumka-catesigo-17505-s-33l-synia-17505-s-50844293407383_+76a896247d.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/16/dorozhnia-sumka-catesigo-17505-s-33l-synia-17505-s-52000552108251_+4b99f6733d.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/16/dorozhnia-sumka-catesigo-17505-s-33l-synia-17505-s-25218348128479_+704efb491b.jpeg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Дорожная сумка Catesigo 17505 средняя 33л синяя (17505-M-Blue)</name>
+<name_ua>Дорожня сумка Catesigo 17505 середня 33л синя (17505-M-Blue)</name_ua>
+<vendorCode>17505-M-Blue</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Колір">Синій</param>
+<param name="Тип">Сумка дорожная</param>
+<param name="Матеріал">Нейлон</param>
+<param name="Кількість коліс">Без колес</param>
+<param name="Замок">Ні</param>
+<param name="Розмір">M</param>
+<param name="Країна виробник">Китай</param>
+<param name="Колір">Синій</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="869-M-Black" available="true" group_id="869-M-Black">
+<url>https://sklad-valiz.com.ua/sakvoiazh-z-ekoshkiry-860-serednii-chornyi-869-m-black/</url>
+<price>1200</price>
+<currencyId>UAH</currencyId>
+<categoryId>2016</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/17/sakvoiazh-z-ekoshkiry-860-serednii-chornyi-869-m-black-21425941542654_+4f5c19e01e.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/17/sakvoiazh-z-ekoshkiry-860-serednii-chornyi-869-m-black-90066103367520_+05b96aa264.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/17/sakvoiazh-z-ekoshkiry-860-serednii-chornyi-869-m-black-40728061949615_+644de37a80.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/17/sakvoiazh-z-ekoshkiry-860-serednii-chornyi-869-m-black-86497418249274_+55499eb274.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/17/sakvoiazh-z-ekoshkiry-860-serednii-chornyi-869-m-black-53017651033946_+2fea5cac19.jpeg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/17/sakvoiazh-z-ekoshkiry-860-serednii-chornyi-869-m-black-54955968760914_+81b8e1cd68.jpeg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Саквояж из экокожи 860 средний черный (869-M-Black)</name>
+<name_ua>Саквояж з екошкіри 860 середній чорний (869-M-Black)</name_ua>
+<vendorCode>869-M-Black</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Колір">Чорний</param>
+<param name="Тип">Сумка дорожная</param>
+<param name="Матеріал">Экокожа</param>
+<param name="Кількість коліс">Без колес</param>
+<param name="Замок">Ні</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Китай</param>
+<param name="Колір">Чорний</param>
+<param name="Стан">Новий</param>
+</offer>
 <offer id="42203-M-Purple" available="false" group_id="42203-M-Purple">
 <url>https://sklad-valiz.com.ua/valiza-madisson-42203-serednia-68l-fioletova-42203-m-purple/</url>
 <price>1950</price>
@@ -8809,40 +8954,6 @@
 <param name="Підходить для ручної поклажі">Так</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="2501-L-Blue" available="false" group_id="2501-L-Blue">
-<url>https://sklad-valiz.com.ua/valiza-wings-2501-velyka-97l-synia-2501-l-blue/</url>
-<price>3100</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/8/36730521698961_+296ee90868.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/8/43802954612899_+923e84fac4.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/8/37273783927205_+6e3d9f3c2e.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/8/24724358169857_+977ece89d3.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/8/57756403566139_+a636cf9c8b.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/8/84113813663187_+35798c61b7.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/8/67347299470743_+575dfba5a3.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан с расширением Wings 2501 большой 97л синий (2501-L-Blue)</name>
-<name_ua>Валіза з розширенням Wings 2501 велика 97л синя (2501-L-Blue)</name_ua>
-<vendor>Wings</vendor>
-<vendorCode>2501-L-Blue</vendorCode>
-<description>Валіза з розширенням Wings 2501 в розмірі L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Валіза виготовлена з високоміцного поліестеру Cordura 1200D, який вирізняється легкістю, еластичністю та стійкістю до вологи й пошкоджень. Надійний внутрішній каркас дозволяє валізі відмінно тримати форму навіть при щільному наповненні, захищаючи ваші речі під час транспортування. Модель оснащена посиленою системою з 4 великих поліуретанових коліс на металевих підшипниках, що гарантує надійність при русі по будь-яких поверхнях. Для зручності передбачена телескопічна ручка з фіксацією. Продуманий внутрішній простір із фіксаторами та велика кількість зовнішніх кишень допоможуть ідеально організувати багаж, а функція розширення на 5 см дозволить збільшити об&amp;#39;єм, якщо це необхідно. Для безпеки передбачено вбудований кодовий замок. Вага завантаження становить 22-25 кг.</description>
-<description_ua>Валіза з розширенням Wings 2501 в розмірі L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Валіза виготовлена з високоміцного поліестеру Cordura 1200D, який вирізняється легкістю, еластичністю та стійкістю до вологи й пошкоджень. Надійний внутрішній каркас дозволяє валізі відмінно тримати форму навіть при щільному наповненні, захищаючи ваші речі під час транспортування. Модель оснащена посиленою системою з 4 великих поліуретанових коліс на металевих підшипниках, що гарантує надійність при русі по будь-яких поверхнях. Для зручності передбачена телескопічна ручка з фіксацією. Продуманий внутрішній простір із фіксаторами та велика кількість зовнішніх кишень допоможуть ідеально організувати багаж, а функція розширення на 5 см дозволить збільшити об&amp;#39;єм, якщо це необхідно. Для безпеки передбачено вбудований кодовий замок. Вага завантаження становить 22-25 кг.</description_ua>
-<country_of_origin>Польща</country_of_origin>
-<param name="Колір">Синій</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">Кодовий</param>
-<param name="Розмір">L</param>
-<param name="Країна виробник">Польща</param>
-<param name="Колір">Синій</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Ні</param>
-<param name="Стан">Новий</param>
-</offer>
 <offer id="2501-L-Coffe" available="false" group_id="2501-L-Coffe">
 <url>https://sklad-valiz.com.ua/valiza-wings-2501-velyka-97l-kavova-2501-l-coffe/</url>
 <price>3100</price>
@@ -8906,38 +9017,6 @@
 <param name="Особливості">Висувна ручка</param>
 <param name="Тип коліс">Поворотні</param>
 <param name="Підходить для ручної поклажі">Ні</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="2501-S-Blue" available="false" group_id="2501-S-Blue">
-<url>https://sklad-valiz.com.ua/valiza-wings-2501-mala-38l-synia-2501-s-blue/</url>
-<salePrice>1360</salePrice>
-<price>1700</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/14/12211494036359_+ab4d528473.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/81611528558667_+9b1467f413.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/37009325832438_+d2cbe34a05.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/50727075923695_+e98c75847b.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/65102888438210_+401c87c5eb.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/47546407211727_+e1b196040f.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/44338831066003_+c939986681.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан с расширением Wings 2501 малый 38л синий (2501-S-Blue)</name>
-<name_ua>Валіза з розширенням Wings 2501 мала 38л синя (2501-S-Blue)</name_ua>
-<vendor>Wings</vendor>
-<vendorCode>2501-S-Blue</vendorCode>
-<description>Валіза з розширенням Wings 2501 в розмірі L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Валіза виготовлена з високоміцного поліестеру Cordura 1200D, який вирізняється легкістю, еластичністю та стійкістю до вологи й пошкоджень. Надійний внутрішній каркас дозволяє валізі відмінно тримати форму навіть при щільному наповненні, захищаючи ваші речі під час транспортування. Модель оснащена посиленою системою з 4 великих поліуретанових коліс на металевих підшипниках, що гарантує надійність при русі по будь-яких поверхнях. Для зручності передбачена телескопічна ручка з фіксацією. Продуманий внутрішній простір із фіксаторами та велика кількість зовнішніх кишень допоможуть ідеально організувати багаж, а функція розширення на 5 см дозволить збільшити об&amp;#39;єм, якщо це необхідно. Для безпеки передбачено вбудований кодовий замок. Вага завантаження становить 22-25 кг.</description>
-<description_ua>Валіза з розширенням Wings 2501 в розмірі L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Валіза виготовлена з високоміцного поліестеру Cordura 1200D, який вирізняється легкістю, еластичністю та стійкістю до вологи й пошкоджень. Надійний внутрішній каркас дозволяє валізі відмінно тримати форму навіть при щільному наповненні, захищаючи ваші речі під час транспортування. Модель оснащена посиленою системою з 4 великих поліуретанових коліс на металевих підшипниках, що гарантує надійність при русі по будь-яких поверхнях. Для зручності передбачена телескопічна ручка з фіксацією. Продуманий внутрішній простір із фіксаторами та велика кількість зовнішніх кишень допоможуть ідеально організувати багаж, а функція розширення на 5 см дозволить збільшити об&amp;#39;єм, якщо це необхідно. Для безпеки передбачено вбудований кодовий замок. Вага завантаження становить 22-25 кг.</description_ua>
-<param name="Колір">Синій</param>
-<param name="Тип">Валізи</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">Кодовий</param>
-<param name="Розмір">S</param>
-<param name="Колір">Синій</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
 <param name="Стан">Новий</param>
 </offer>
 <offer id="2501-S-Coffe" available="false" group_id="2501-S-Coffe">
@@ -10021,6 +10100,37 @@
 <param name="Розмір">XS</param>
 <param name="Країна виробник">Китай</param>
 <param name="Колір">Бежевий</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="42203-S-DarkBlue" available="false" group_id="42203-S-DarkBlue">
+<url>https://sklad-valiz.com.ua/valiza-madisson-42203-mala-39l-temno-synia-42203-s-darkblue/</url>
+<price>1500</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/27/58483992101181_+58159ebff2.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/27/24690353935543_+3485283f1b.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/27/12647136890298_+c138c3c794.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/27/41851272957518_+5339390f05.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/27/64979647517897_+41faa8207d.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/27/43224821848339_+34a905d30b.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/27/47023777775444_+dbdc3365c0.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан с расширением Madisson 42203 малый 39л темно-синий (42203-S-DarkBlue)</name>
+<name_ua>Валіза з розширенням Madisson 42203 мала 39л темно-синя (42203-S-DarkBlue)</name_ua>
+<vendor>Madisson</vendor>
+<vendorCode>42203-S-DarkBlue</vendorCode>
+<description>Валіза з розширенням Madisson 42203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description>
+<description_ua>Валіза з розширенням Madisson 42203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+<param name="Колір">Темно-синій</param>
+<param name="Тип">Валізи</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Колір">Темно-синій</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
 <param name="Стан">Новий</param>
 </offer>
 <offer id="1106-BCM-Grey" available="false" group_id="1106-BCM-Grey">
@@ -13330,6 +13440,38 @@
 <param name="Замок">З ключем / Кодовий</param>
 <param name="Розмір">Комплект</param>
 <param name="Колір">Жёлтый</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="33703-Set-Sea-wave" available="false" group_id="33703-Set-Sea-wave">
+<url>https://sklad-valiz.com.ua/nabir-valiz-z-polipropilenu-snowball-33703-3-v-1-synii-33703-set-sea-wave/</url>
+<salePrice>7240</salePrice>
+<price>8550</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/28/64641405896894_+4c9b24ad48.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/28/34165583520532_+2a4b2d70ce.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/28/78691639840198_+3b2f91efc1.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/28/82467110079661_+c3c935b98d.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/28/70469338113529_+93750c7112.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/28/57469929983280_+d454161c25.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/28/40527181394301_+a1b16b24a8.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Набор чемоданов из полипропилена Snowball 33703 3 в 1 синий (33703-Set-Sea-wave)</name>
+<name_ua>Набір валіз з поліпропілену Snowball 33703 3 в 1 синій (33703-Set-Sea-wave)</name_ua>
+<vendor>Snowball</vendor>
+<vendorCode>33703-Set-Sea-wave</vendorCode>
+<description>Валізи Snowball 33703 виготовлені з міцного та гнучкого матеріалу, який витримує удари й навантаження та не тріскається навіть при неповному завантаженні. Усі моделі оснащені поворотними колесами 360 &amp;deg; , кодовим замком для захисту речей та продуманим внутрішнім простором із фіксаторами багажу. Розмір S - компактний варіант для коротких поїздок на 3-5 днів. Підходить для авіаперельотів як ручна поклажа, а також для подорожей потягом, автобусом чи автомобілем. Вага завантаження 12-15 кг. Розмір M - універсальний варіант для поїздок на 5-10 днів. Оптимальний для авіаперельотів як багаж, а також для подорожей потягом, автобусом чи автомобілем. Оснащений безшумними колесами для комфортного переміщення. Вага завантаження 18-20кг. Розмір L - максимально місткий варіант для подорожей від 10 днів та сімейних поїздок. Призначений для перевезення в багажному відділенні, а також підходить для потягів, автобусів та автомобілів. Посилені колеса забезпечують легке керування важким багажем. Вага завантаження 22-25кг.</description>
+<description_ua>Валізи Snowball 33703 виготовлені з міцного та гнучкого матеріалу, який витримує удари й навантаження та не тріскається навіть при неповному завантаженні. Усі моделі оснащені поворотними колесами 360 &amp;deg; , кодовим замком для захисту речей та продуманим внутрішнім простором із фіксаторами багажу. Розмір S - компактний варіант для коротких поїздок на 3-5 днів. Підходить для авіаперельотів як ручна поклажа, а також для подорожей потягом, автобусом чи автомобілем. Вага завантаження 12-15 кг. Розмір M - універсальний варіант для поїздок на 5-10 днів. Оптимальний для авіаперельотів як багаж, а також для подорожей потягом, автобусом чи автомобілем. Оснащений безшумними колесами для комфортного переміщення. Вага завантаження 18-20кг. Розмір L - максимально місткий варіант для подорожей від 10 днів та сімейних поїздок. Призначений для перевезення в багажному відділенні, а також підходить для потягів, автобусів та автомобілів. Посилені колеса забезпечують легке керування важким багажем. Вага завантаження 22-25кг.</description_ua>
+<param name="Колір">Синій</param>
+<param name="Тип">Комплект чемоданов</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">Комплект</param>
+<param name="Колір">Синій</param>
 <param name="Особливості">Висувна ручка</param>
 <param name="Тип коліс">Поворотні</param>
 <param name="Підходить для ручної поклажі">Ні</param>
