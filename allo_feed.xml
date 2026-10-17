@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-17 06:16">
+<yml_catalog date="2026-10-17 12:16">
 <shop>
 <name>Sklad Valiz</name>
 <company>Sklad Valiz</company>
@@ -98,36 +98,6 @@
 <param name="Особливості">Висувна ручка</param>
 <param name="Тип коліс">Поворотні</param>
 <param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="HIMAWARI-XS-Black" available="true" group_id="HIMAWARI-XS-Black">
-<url>https://sklad-valiz.com.ua/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black/</url>
-<price>1495</price>
-<currencyId>UAH</currencyId>
-<categoryId>1976</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black-59424941072692_+eb4c35c97d.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black-18652926031514_+7070b81e47.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black-24860922569716_+7af6052173.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black-19629262544885_+44d0b70137.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black-38290566565884_+171ab2f6fd.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black-17707071673497_+cb4114ab21.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black-21455391467160_+64be1b2fca.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Рюкзак для ручной клади HIMAWARI 17л черный (HIMAWARI-XS-Black)</name>
-<name_ua>Рюкзак для ручної поклажі HIMAWARI 17л чорний (HIMAWARI-XS-Black)</name_ua>
-<vendor>HIMAWARI</vendor>
-<vendorCode>HIMAWARI-XS-Black</vendorCode>
-<description>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description>
-<description_ua>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description_ua>
-<country_of_origin>Япония</country_of_origin>
-<param name="Колір">Чорний</param>
-<param name="Тип">Рюкзак</param>
-<param name="Матеріал">Нейлон</param>
-<param name="Кількість коліс">Без колес</param>
-<param name="Замок">Ні</param>
-<param name="Розмір">XS</param>
-<param name="Країна виробник">Япония</param>
 <param name="Стан">Новий</param>
 </offer>
 <offer id="HIMAWARI-XS-Blue-Beige" available="true" group_id="HIMAWARI-XS-Blue-Beige">
@@ -8239,6 +8209,36 @@
 <param name="Особливості">Висувна ручка</param>
 <param name="Тип коліс">Поворотні</param>
 <param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="HIMAWARI-XS-Black" available="false" group_id="HIMAWARI-XS-Black">
+<url>https://sklad-valiz.com.ua/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black/</url>
+<price>1495</price>
+<currencyId>UAH</currencyId>
+<categoryId>1976</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black-59424941072692_+eb4c35c97d.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black-18652926031514_+7070b81e47.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black-24860922569716_+7af6052173.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black-19629262544885_+44d0b70137.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black-38290566565884_+171ab2f6fd.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black-17707071673497_+cb4114ab21.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black-21455391467160_+64be1b2fca.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Рюкзак для ручной клади HIMAWARI 17л черный (HIMAWARI-XS-Black)</name>
+<name_ua>Рюкзак для ручної поклажі HIMAWARI 17л чорний (HIMAWARI-XS-Black)</name_ua>
+<vendor>HIMAWARI</vendor>
+<vendorCode>HIMAWARI-XS-Black</vendorCode>
+<description>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description>
+<description_ua>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description_ua>
+<country_of_origin>Япония</country_of_origin>
+<param name="Колір">Чорний</param>
+<param name="Тип">Рюкзак</param>
+<param name="Матеріал">Нейлон</param>
+<param name="Кількість коліс">Без колес</param>
+<param name="Замок">Ні</param>
+<param name="Розмір">XS</param>
+<param name="Країна виробник">Япония</param>
 <param name="Стан">Новий</param>
 </offer>
 <offer id="403020-XS-Black" available="false" group_id="403020-XS-Black">
