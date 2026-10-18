@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-18T05:06:13.103Z">
+<yml_catalog date="2026-10-18T21:06:13.143Z">
   <shop>
     <categories>
       <category id="1061" portal_id="Чемоданы">Валізи</category>
@@ -15597,7 +15597,7 @@
         <param name="Тип закриття">На блискавці</param>
       </offer>
       <offer id="DPC-Yellow-M" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чехол для чемодана дайвинг DPC-Yellow-M</name_ru>
         <name_ua>Чохол для валізи дайвінг DPC-Yellow-M</name_ua>
         <price>500</price>
@@ -16358,8 +16358,8 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="63703-L-Milk" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+      <offer id="63703-L-Milk" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан Madisson 63703 большой 100л кремовый (63703-L-Milk)</name_ru>
         <name_ua>Валіза Madisson 63703 велика 100л кремова (63703-L-Milk)</name_ua>
         <price>2253</price>
