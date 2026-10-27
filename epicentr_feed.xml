@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-27 00:11">
+<yml_catalog date="2026-10-27 06:11">
   <offers>
     <offer id="33703-L-Black" available="true">
       <name lang="ru">Чемодан с полипропилена Snowball 33703 большой 101л черный (33703-L-Black)</name>
@@ -5786,52 +5786,6 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="53103-L-Pink" available="true">
-      <name lang="ru">Чемодан из полипропилена Madisson 53103 большой 102л розовый (53103-L-Pink)</name>
-      <name lang="ua">Валіза з поліпропілену Madisson 53103 велика 102л рожева (53103-L-Pink)</name>
-      <price>2450</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
-      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан из полипропилена Madisson 53103 большой 102л серый (53103-L-Gray)</description>
-      <description lang="ua">Валіза з поліпропілену Madisson 53103 велика 102л сіра (53103-L-Gray)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/30/26809097706476_+0e8d1849e3.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/30/71324278298654_+b4f6801cec.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/30/48908898512285_+18eac068d6.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/30/65491679838698_+eae219a715.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/30/77243168937834_+d40626528d.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/30/79238576699849_+9b6881e6df.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/30/23110493481876_+6de53810fd.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <weight>4000</weight>
-      <param name="Вага" paramcode="150">4</param>
-      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
-      <param name="Об'єм" paramcode="104">102</param>
-      <height>740</height>
-      <param name="Висота" paramcode="110">74</param>
-      <width>500</width>
-      <param name="Ширина" paramcode="111">50</param>
-      <length>300</length>
-      <param name="Глибина" paramcode="112">30</param>
-      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
-      <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
     <offer id="53103-L-Blue" available="false">
       <name lang="ru">Чемодан из полипропилена Madisson 53103 большой 102л синий (53103-L-Blue)</name>
       <name lang="ua">Валіза з поліпропілену Madisson 53103 велика 102л синя (53103-L-Blue)</name>
@@ -5867,6 +5821,52 @@
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
       <param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
       <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="53103-L-Pink" available="false">
+      <name lang="ru">Чемодан из полипропилена Madisson 53103 большой 102л розовый (53103-L-Pink)</name>
+      <name lang="ua">Валіза з поліпропілену Madisson 53103 велика 102л рожева (53103-L-Pink)</name>
+      <price>2450</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
+      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан из полипропилена Madisson 53103 большой 102л серый (53103-L-Gray)</description>
+      <description lang="ua">Валіза з поліпропілену Madisson 53103 велика 102л сіра (53103-L-Gray)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/30/26809097706476_+0e8d1849e3.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/30/71324278298654_+b4f6801cec.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/30/48908898512285_+18eac068d6.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/30/65491679838698_+eae219a715.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/30/77243168937834_+d40626528d.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/30/79238576699849_+9b6881e6df.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/30/23110493481876_+6de53810fd.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <weight>4000</weight>
+      <param name="Вага" paramcode="150">4</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Об'єм" paramcode="104">102</param>
+      <height>740</height>
+      <param name="Висота" paramcode="110">74</param>
+      <width>500</width>
+      <param name="Ширина" paramcode="111">50</param>
+      <length>300</length>
+      <param name="Глибина" paramcode="112">30</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -8681,30 +8681,6 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="Catesigo-XS-Black" available="true">
-      <name lang="ru">Рюкзак для ручной клади Catesigo 34л черный (Catesigo-XS-Black)</name>
-      <name lang="ua">Рюкзак для ручної поклажі Catesigo 34л чорний (Catesigo-XS-Black)</name>
-      <price>1227</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Catesigo 34л черный (Catesigo-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Catesigo 34л чорний (Catesigo-XS-Black)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-catesigo-34l-chornyi-catesigo-xs-black-43717286749607_+132848b2c4.jpg</picture>
-      <param name="Об'єм" paramcode="104">34</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
-      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
     <offer id="Catesigo-XS-Grey" available="true">
       <name lang="ru">Рюкзак для ручной клади Catesigo 24л серый (Catesigo-XS-Grey)</name>
       <name lang="ua">Рюкзак для ручної поклажі Catesigo 24л сірий (Catesigo-XS-Grey)</name>
@@ -8718,6 +8694,30 @@
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
       <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
       <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="Catesigo-XS-Black" available="false">
+      <name lang="ru">Рюкзак для ручной клади Catesigo 34л черный (Catesigo-XS-Black)</name>
+      <name lang="ua">Рюкзак для ручної поклажі Catesigo 34л чорний (Catesigo-XS-Black)</name>
+      <price>1227</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <description lang="ru">Рюкзак для ручной клади Catesigo 34л черный (Catesigo-XS-Black)</description>
+      <description lang="ua">Рюкзак для ручної поклажі Catesigo 34л чорний (Catesigo-XS-Black)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-catesigo-34l-chornyi-catesigo-xs-black-43717286749607_+132848b2c4.jpg</picture>
+      <param name="Об'єм" paramcode="104">34</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -9587,6 +9587,52 @@
       <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="PHX01-L-Dark-green" available="true">
+      <name lang="ru">Чемодан из полипропилена Wings PHX01 большой 95л темно-зеленый (PHX01-L-Dark-green)</name>
+      <name lang="ua">Валіза з поліпропілену Wings PHX01 велика 95л темно-зелена (PHX01-L-Dark-green)</name>
+      <price>2300</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
+      <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан из полипропилена Wings PHX01 большой 39л темно-зеленый (PHX01-L-Dark-green)</description>
+      <description lang="ua">Валіза з поліпропілену Wings PHX01 велика 39л темно-зелена (PHX01-L-Dark-green)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green1237-16141048257112_+3fbbd4dd94.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green1237-70441656450055_+574bc0d41b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green1237-66400251226356_+d3cbf24ced.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green1237-65632184938721_+bbb2f9c194.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green1237-24439804393643_+97980a0cde.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green1237-45500109492758_+f6756c4b99.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green1237-27092778508702_+a30bc3b237.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <weight>0</weight>
+      <param name="Вага" paramcode="150">0</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Об'єм" paramcode="104">95</param>
+      <height>750</height>
+      <param name="Висота" paramcode="110">75</param>
+      <width>480</width>
+      <param name="Ширина" paramcode="111">48</param>
+      <length>300</length>
+      <param name="Глибина" paramcode="112">30</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
+      <param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -14881,7 +14927,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="42203-S-Purple" available="true">
+    <offer id="42203-S-Purple" available="false">
       <name lang="ru">Чемодан с расширением Madisson 42203 малый 39л фиолетовый (42203-S-Purple)</name>
       <name lang="ua">Валіза з розширенням Madisson 42203 мала 39л фіолетова (42203-S-Purple)</name>
       <price>1500</price>
@@ -19177,50 +19223,6 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="53103-S-Purple" available="true">
-      <name lang="ru">Чемодан для ручной клади Madisson 53103 малый 37л фиолетовый (53103-S-Purple)</name>
-      <name lang="ua">Валіза для ручної поклажі Madisson 53103 мала 37л фіолетова (53103-S-Purple)</name>
-      <price>1850</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
-      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан из полипропилена Madisson 53103 большой 102л серый (53103-L-Gray)</description>
-      <description lang="ua">Валіза з поліпропілену Madisson 53103 велика 102л сіра (53103-L-Gray)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/25/32792713527996_+65fcf81390.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/25/65445825605701_+5c029c5205.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/25/97365999032931_+88e0516c7c.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/25/27548456353065_+938f7c554b.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/25/14568799573352_+cc5d216b9a.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/25/38310466391835_+773f781152.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/25/48007589268212_+9232230291.jpg</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <weight>3000</weight>
-      <param name="Вага" paramcode="150">3</param>
-      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
-      <param name="Об'єм" paramcode="104">37</param>
-      <height>550</height>
-      <param name="Висота" paramcode="110">55</param>
-      <width>390</width>
-      <param name="Ширина" paramcode="111">39</param>
-      <length>210</length>
-      <param name="Глибина" paramcode="112">21</param>
-      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
     <offer id="53103-S-Pink" available="true">
       <name lang="ru">Чемодан для ручной клади Madisson 53103 малый 37л розовый (53103-S-Pink)</name>
       <name lang="ua">Валіза для ручної поклажі Madisson 53103 мала 37л рожева (53103-S-Pink)</name>
@@ -19256,6 +19258,50 @@
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
       <param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
       <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="53103-S-Purple" available="false">
+      <name lang="ru">Чемодан для ручной клади Madisson 53103 малый 37л фиолетовый (53103-S-Purple)</name>
+      <name lang="ua">Валіза для ручної поклажі Madisson 53103 мала 37л фіолетова (53103-S-Purple)</name>
+      <price>1850</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="644e81c30ab44c4ca0cf95c95f383037">MADISSON</vendor>
+      <param name="Бренд" paramcode="5" valuecode="644e81c30ab44c4ca0cf95c95f383037">MADISSON</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан из полипропилена Madisson 53103 большой 102л серый (53103-L-Gray)</description>
+      <description lang="ua">Валіза з поліпропілену Madisson 53103 велика 102л сіра (53103-L-Gray)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/25/32792713527996_+65fcf81390.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/25/65445825605701_+5c029c5205.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/25/97365999032931_+88e0516c7c.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/25/27548456353065_+938f7c554b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/25/14568799573352_+cc5d216b9a.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/25/38310466391835_+773f781152.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/25/48007589268212_+9232230291.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <weight>3000</weight>
+      <param name="Вага" paramcode="150">3</param>
+      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
+      <param name="Об'єм" paramcode="104">37</param>
+      <height>550</height>
+      <param name="Висота" paramcode="110">55</param>
+      <width>390</width>
+      <param name="Ширина" paramcode="111">39</param>
+      <length>210</length>
+      <param name="Глибина" paramcode="112">21</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="fra">Франція</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -23690,6 +23736,52 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
+    <offer id="PHX01-M-Dark-green" available="true">
+      <name lang="ru">Чемодан из полипропилена Wings PHX01 средний 60л темно-зеленый (PHX01-М-Dark-green)</name>
+      <name lang="ua">Валіза з поліпропілену Wings PHX01 середня 60л темно-зелена (PHX01-М-Dark-green)</name>
+      <price>2200</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
+      <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан из полипропилена Wings PHX01 средний 39л темно-зеленый (PHX01-М-Dark-green)</description>
+      <description lang="ua">Валіза з поліпропілену Wings PHX01 середня 39л темно-зелена (PHX01-М-Dark-green)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-wings-phx01-serednia-39l-temno-zelena-phx01-m-dark-green-31229581678612_+af15bdf611.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-wings-phx01-serednia-39l-temno-zelena-phx01-m-dark-green-26444756944810_+c148f64393.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-wings-phx01-serednia-39l-temno-zelena-phx01-m-dark-green-70638096939189_+e45a226bc0.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-wings-phx01-serednia-39l-temno-zelena-phx01-m-dark-green-35309229610394_+2794fbc41c.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-wings-phx01-serednia-39l-temno-zelena-phx01-m-dark-green-47917933626839_+fae4d9ad6b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-wings-phx01-serednia-39l-temno-zelena-phx01-m-dark-green-79160149133601_+64a231f4b0.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-wings-phx01-serednia-39l-temno-zelena-phx01-m-dark-green-49609828545400_+5b78438b4e.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <weight>0</weight>
+      <param name="Вага" paramcode="150">0</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Об'єм" paramcode="104">60</param>
+      <height>650</height>
+      <param name="Висота" paramcode="110">65</param>
+      <width>430</width>
+      <param name="Ширина" paramcode="111">43</param>
+      <length>260</length>
+      <param name="Глибина" paramcode="112">26</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
+      <param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
     <offer id="PHX01-S-Gray" available="true">
       <name lang="ru">Чемодан для ручной клади Wings PHX01 малый 38л серый (PHX01-S-Gray)</name>
       <name lang="ua">Валіза для ручної поклажі Wings PHX01 мала 38л сіра (PHX01-S-Gray)</name>
@@ -23700,8 +23792,8 @@
       <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
       <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан из полипропилена Wings PHX01 большой 95л синий (PHX01-L-Blue)</description>
-      <description lang="ua">Валіза з поліпропілену Wings PHX01 велика 95л синя (PHX01-L-Blue)</description>
+      <description lang="ru">Чемодан из полипропилена Wings PHX01, 39 л, темно-зеленый (PHX01-S-Dark-green)</description>
+      <description lang="ua">Валіза з поліпропілену Wings PHX01 мала 39л темно-зелена (PHX01-S-Dark-green)</description>
       <picture>https://sklad-valiz.com.ua/content/images/39/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-sira-phx01-s-gray-40529758604706_+6b0492e1fd.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/39/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-sira-phx01-s-gray-35777811793896_+f7e3e8fe46.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/39/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-sira-phx01-s-gray-91968609571790_+08508bf7b2.jpg</picture>
@@ -23746,8 +23838,8 @@
       <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
       <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан из полипропилена Wings PHX01 большой 95л синий (PHX01-L-Blue)</description>
-      <description lang="ua">Валіза з поліпропілену Wings PHX01 велика 95л синя (PHX01-L-Blue)</description>
+      <description lang="ru">Чемодан из полипропилена Wings PHX01, 39 л, темно-зеленый (PHX01-S-Dark-green)</description>
+      <description lang="ua">Валіза з поліпропілену Wings PHX01 мала 39л темно-зелена (PHX01-S-Dark-green)</description>
       <picture>https://sklad-valiz.com.ua/content/images/40/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-synia-phx01-s-blue-45641675764651_+0a62d19ec7.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/40/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-synia-phx01-s-blue-69906724095986_+4e46157cda.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/40/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-synia-phx01-s-blue-23056112285322_+d2fed53bce.jpg</picture>
@@ -23792,8 +23884,8 @@
       <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
       <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан из полипропилена Wings PHX01 большой 95л синий (PHX01-L-Blue)</description>
-      <description lang="ua">Валіза з поліпропілену Wings PHX01 велика 95л синя (PHX01-L-Blue)</description>
+      <description lang="ru">Чемодан из полипропилена Wings PHX01, 39 л, темно-зеленый (PHX01-S-Dark-green)</description>
+      <description lang="ua">Валіза з поліпропілену Wings PHX01 мала 39л темно-зелена (PHX01-S-Dark-green)</description>
       <picture>https://sklad-valiz.com.ua/content/images/41/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-bordova-phx01-s-burgundy-33182541176006_+99e69ffe0d.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/41/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-bordova-phx01-s-burgundy-39009984030728_+929d8fcbe0.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/41/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-bordova-phx01-s-burgundy-26293444094410_+999c8272fc.jpg</picture>
@@ -23838,8 +23930,8 @@
       <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
       <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан из полипропилена Wings PHX01 большой 95л синий (PHX01-L-Blue)</description>
-      <description lang="ua">Валіза з поліпропілену Wings PHX01 велика 95л синя (PHX01-L-Blue)</description>
+      <description lang="ru">Чемодан из полипропилена Wings PHX01, 39 л, темно-зеленый (PHX01-S-Dark-green)</description>
+      <description lang="ua">Валіза з поліпропілену Wings PHX01 мала 39л темно-зелена (PHX01-S-Dark-green)</description>
       <picture>https://sklad-valiz.com.ua/content/images/43/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-zhovta-phx01-s-yellow-28969327520780_+ff0e81e463.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/43/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-zhovta-phx01-s-yellow-49772522793367_+0d90cdd4cf.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/43/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-zhovta-phx01-s-yellow-35447433006754_+51ad7e84a6.jpg</picture>
@@ -23884,8 +23976,8 @@
       <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
       <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан из полипропилена Wings PHX01 большой 95л синий (PHX01-L-Blue)</description>
-      <description lang="ua">Валіза з поліпропілену Wings PHX01 велика 95л синя (PHX01-L-Blue)</description>
+      <description lang="ru">Чемодан из полипропилена Wings PHX01, 39 л, темно-зеленый (PHX01-S-Dark-green)</description>
+      <description lang="ua">Валіза з поліпропілену Wings PHX01 мала 39л темно-зелена (PHX01-S-Dark-green)</description>
       <picture>https://sklad-valiz.com.ua/content/images/44/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-buzkova-phx01-s-purple-32488285509604_+328bc71554.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/44/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-buzkova-phx01-s-purple-66174885594810_+aad8ac3193.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/44/valiza-dlia-ruchnoi-poklazhi-wings-phx01-mala-38l-buzkova-phx01-s-purple-35314925087512_+878ca1de09.jpg</picture>
@@ -23907,6 +23999,52 @@
       <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="PHX01-S-Dark-green" available="true">
+      <name lang="ru">Чемодан для ручной клади Wings PHX01 малый 39л темно-зеленый (PHX01-S-Dark-green)</name>
+      <name lang="ua">Валіза для ручної поклажі Wings PHX01 мала 39л темно-зелена (PHX01-S-Dark-green)</name>
+      <price>1700</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
+      <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан из полипропилена Wings PHX01, 39 л, темно-зеленый (PHX01-S-Dark-green)</description>
+      <description lang="ua">Валіза з поліпропілену Wings PHX01 мала 39л темно-зелена (PHX01-S-Dark-green)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-60560825459449_+9c47568be9.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-38522524796340_+c0991cda87.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-40998744450709_+0c2e7ed9cd.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-13179313664969_+b1fbcd4fdf.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-11523342097439_+73fe97ae16.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-29608321978501_+0c7899857d.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-15249637161669_+49df098781.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <weight>0</weight>
+      <param name="Вага" paramcode="150">0</param>
+      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
+      <param name="Об'єм" paramcode="104">38</param>
+      <height>550</height>
+      <param name="Висота" paramcode="110">55</param>
+      <width>400</width>
+      <param name="Ширина" paramcode="111">40</param>
+      <length>200</length>
+      <param name="Глибина" paramcode="112">20</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
+      <param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -24130,6 +24268,51 @@
       <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="PHX01-Set-Dark-green" available="true">
+      <name lang="ru">Набор чемоданов из полипропилена Wings PHX01 3 в 1 темно-зеленый (PHX01-Set-Dark-green)</name>
+      <name lang="ua">Набір валіз з поліпропілену Wings PHX01 3 в 1 темно-зелений (PHX01-Set-Dark-green)</name>
+      <price>5250</price>
+      <price_old>6200</price_old>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
+      <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан из полипропилена Wings PHX01 большой 95л синий (PHX01-L-Blue)</description>
+      <description lang="ua">Валіза з поліпропілену Wings PHX01 велика 95л синя (PHX01-L-Blue)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-46893803034392_+c275bac74c.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-89565367186666_+2006a21958.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-59369720193631_+b53084ae18.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-86192484287629_+461d2e801b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-21319040779501_+5d06ceb5c0.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-97348023471933_+3b13ba4736.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-78717883185433_+d0b1345bc6.jpg</picture>
+      <weight>0</weight>
+      <param name="Вага" paramcode="150">0</param>
+      <param name="Об'єм" paramcode="104">0</param>
+      <height>0</height>
+      <param name="Висота" paramcode="110">0</param>
+      <width>0</width>
+      <param name="Ширина" paramcode="111">0</param>
+      <length>0</length>
+      <param name="Глибина" paramcode="112">0</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
+      <param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -26846,39 +27029,230 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="PHX01-S-Dark-green" available="true">
-      <name lang="ru">Чемодан из полипропилена Wings PHX01, 39 л, темно-зеленый (PHX01-S-Dark-green)</name>
-      <name lang="ua">Валіза з поліпропілену Wings PHX01 мала 39л темно-зелена (PHX01-S-Dark-green)</name>
-      <price>1700</price>
+    <offer id="090-Blue" available="true">
+      <name lang="ru">Рюкзак-сумка для ручной клади 24л синий (090-Blue)</name>
+      <name lang="ua">Рюкзак-сумка для ручної поклажі 24л синій (090-Blue)</name>
+      <price>1820</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <description lang="ru">Рюкзак-сумка для ручной клади 24л серый (090-Grey)</description>
+      <description lang="ua">Рюкзак-сумка для ручної поклажі 24л сірий (090-Grey)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-synii-090-s-black-43479012526296_+ad45ad3da1.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-synii-090-s-black-31606476513914_+d9db394554.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-synii-090-s-black-72713757012372_+bf7d7d4afa.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-synii-090-s-black-36488600385803_+89b6a856a3.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-synii-090-s-black-31330862414554_+6aeb9b336c.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-synii-090-s-black-58365880171797_+04cf789796.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-synii-090-s-black-12058750701384_+9162dc18dc.jpg</picture>
+      <param name="Об'єм" paramcode="104">24</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+      <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="090-Grey" available="true">
+      <name lang="ru">Рюкзак-сумка для ручной клади 24л серый (090-Grey)</name>
+      <name lang="ua">Рюкзак-сумка для ручної поклажі 24л сірий (090-Grey)</name>
+      <price>1820</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <description lang="ru">Рюкзак-сумка для ручной клади 24л серый (090-Grey)</description>
+      <description lang="ua">Рюкзак-сумка для ручної поклажі 24л сірий (090-Grey)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-chornyi-090-s-black-41045054410974_+f4aa537a14.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-chornyi-090-s-black-38625165720926_+e875d6caa0.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-chornyi-090-s-black-69605283205255_+de73bfa925.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-chornyi-090-s-black-97227340980204_+b9e8ce47d9.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-chornyi-090-s-black-59529596437764_+4c7b65a57c.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-chornyi-090-s-black-16915769074208_+661e745b92.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-chornyi-090-s-black-89488453098389_+819348c360.jpg</picture>
+      <param name="Об'єм" paramcode="104">24</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="8774-Pink" available="true">
+      <name lang="ru">Дорожная сумка с креплением на чемодан 17л пудровая (8774-Pink)</name>
+      <name lang="ua">Дорожня сумка з кріпленням на валізу 17л пудрова (8774-Pink)</name>
+      <price>2455</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <description lang="ru">Дорожная сумка с креплением на чемодан 17л пудровая (8774-Pink)</description>
+      <description lang="ua">Дорожня сумка з кріпленням на валізу 17л пудрова (8774-Pink)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/35/dorozhnia-sumka-alex-mia-8774-pudrova-8774-s-pink-82222105561463_+bf0f07ec1d.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/35/dorozhnia-sumka-alex-mia-8774-pudrova-8774-s-pink-39864545266262_+b07d576108.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/35/dorozhnia-sumka-alex-mia-8774-pudrova-8774-s-pink-99505659538059_+922577609f.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/35/dorozhnia-sumka-alex-mia-8774-pudrova-8774-s-pink-22359321725266_+5136e535e6.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/35/dorozhnia-sumka-alex-mia-8774-pudrova-8774-s-pink-88289085788937_+65fc104306.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/35/dorozhnia-sumka-alex-mia-8774-pudrova-8774-s-pink-60463828175447_+0c4145f5cd.jpg</picture>
+      <weight>1000</weight>
+      <param name="Вага" paramcode="150">1</param>
+      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
+      <param name="Об'єм" paramcode="104">17</param>
+      <height>180</height>
+      <param name="Висота" paramcode="110">18</param>
+      <width>440</width>
+      <param name="Ширина" paramcode="111">44</param>
+      <length>210</length>
+      <param name="Глибина" paramcode="112">21</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
+      <param name="Матеріал" paramcode="52" valuecode="gaslt0maz3oaouua">поліестер</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="2504-S-Blue" available="true">
+      <name lang="ru">Чемодан с расширением Wings 2504 малый 38л синий (2504-S-Blue)</name>
+      <name lang="ua">Валіза з розширенням Wings 2504 мала 38л синя (2504-S-Blue)</name>
+      <price>1950</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
       <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
       <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан из полипропилена Wings PHX01, 39 л, темно-зеленый (PHX01-S-Dark-green)</description>
-      <description lang="ua">Валіза з поліпропілену Wings PHX01 мала 39л темно-зелена (PHX01-S-Dark-green)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-22313676240787_+d8d29de678.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-22792356780381_+a1cb5ceba0.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-26334356903541_+83502fb8d8.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-50276455161657_+8c0111cb1b.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-32444609878424_+fcf5d18a92.png</picture>
+      <description lang="ru">Чемодан с расширением Wings 2504 малый 38л синий (2504-S-Blue)</description>
+      <description lang="ua">Валіза з розширенням Wings 2504 мала 38л синя (2504-S-Blue)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/39/valiza-wings-2504-mala-40l-synia-2504-s-grey-13295583177324_+a37de63fc1.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/39/valiza-wings-2504-mala-40l-synia-2504-s-grey-29256604949359_+c8fd05144b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/39/valiza-wings-2504-mala-40l-synia-2504-s-grey-76185187325396_+6563b4c28f.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/39/valiza-wings-2504-mala-40l-synia-2504-s-grey-16934266797629_+53a0fc6306.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/39/valiza-wings-2504-mala-40l-synia-2504-s-grey-77549410769059_+3bab300390.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/39/valiza-wings-2504-mala-40l-synia-2504-s-grey-27293991392345_+e2c9a27cfd.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/39/valiza-wings-2504-mala-40l-synia-2504-s-grey-23018162717116_+702463e3c8.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <weight>0</weight>
-      <param name="Вага" paramcode="150">0</param>
+      <weight>3000</weight>
+      <param name="Вага" paramcode="150">3</param>
       <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
-      <param name="Об'єм" paramcode="104">39</param>
-      <height>560</height>
-      <param name="Висота" paramcode="110">56</param>
-      <width>410</width>
-      <param name="Ширина" paramcode="111">41</param>
-      <length>220</length>
-      <param name="Глибина" paramcode="112">22</param>
+      <param name="Об'єм" paramcode="104">38</param>
+      <height>570</height>
+      <param name="Висота" paramcode="110">57</param>
+      <width>360</width>
+      <param name="Ширина" paramcode="111">36</param>
+      <length>270</length>
+      <param name="Глибина" paramcode="112">27</param>
       <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de51262c">поліпропілен</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
-      <param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+      <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="2504-M-Blue" available="true">
+      <name lang="ru">Чемодан с расширением Wings 2504 средний 63л синий (2504-M-Blue)</name>
+      <name lang="ua">Валіза з розширенням Wings 2504 середня 63л синя (2504-M-Blue)</name>
+      <price>2750</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
+      <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан с расширением Wings 2504 средний 63л синий (2504-M-Blue)</description>
+      <description lang="ua">Валіза з розширенням Wings 2504 середня 63л синя (2504-M-Blue)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-19358671415920_+0270f2a896.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-50908880505527_+b43e47bdc1.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-85327327904450_+e45b955ba2.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-87102098234882_+6575f085e1.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-58885368950898_+67d27644f4.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-39109605723561_+383b41a918.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-78127752121261_+60c9ba7dd5.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <weight>4000</weight>
+      <param name="Вага" paramcode="150">4</param>
+      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
+      <param name="Об'єм" paramcode="104">63</param>
+      <height>660</height>
+      <param name="Висота" paramcode="110">66</param>
+      <width>420</width>
+      <param name="Ширина" paramcode="111">42</param>
+      <length>290</length>
+      <param name="Глибина" paramcode="112">29</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+      <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="2504-L-Blue" available="true">
+      <name lang="ru">Чемодан с расширением Wings 2504 большой 97л синий (2504-L-Blue)</name>
+      <name lang="ua">Валіза з розширенням Wings 2504 велика 97л синя (2504-L-Blue)</name>
+      <price>2850</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
+      <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Чемодан с расширением Wings 2504 большой 97л синий (2504-L-Blue)</description>
+      <description lang="ua">Валіза з розширенням Wings 2504 велика 97л синя (2504-L-Blue)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/41/valiza-wings-2504-velyka-70l-synia-2504-l-blue-55412041715251_+3d56a471a1.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/41/valiza-wings-2504-velyka-70l-synia-2504-l-blue-28488822992421_+68db4e06d5.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/41/valiza-wings-2504-velyka-70l-synia-2504-l-blue-30799704788154_+640e7723f8.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/41/valiza-wings-2504-velyka-70l-synia-2504-l-blue-29302568679274_+c8b3797f65.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/41/valiza-wings-2504-velyka-70l-synia-2504-l-blue-69575583534207_+8c99d8d7ca.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/41/valiza-wings-2504-velyka-70l-synia-2504-l-blue-21394609835794_+f6a951ab50.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/41/valiza-wings-2504-velyka-70l-synia-2504-l-blue-77310716668526_+cf60744e94.jpg</picture>
+      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
+      <weight>4000</weight>
+      <param name="Вага" paramcode="150">4</param>
+      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
+      <param name="Об'єм" paramcode="104">97</param>
+      <height>760</height>
+      <param name="Висота" paramcode="110">76</param>
+      <width>460</width>
+      <param name="Ширина" paramcode="111">46</param>
+      <length>340</length>
+      <param name="Глибина" paramcode="112">34</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+      <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -27105,6 +27479,50 @@
       <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+      <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="2504-Set-Blue" available="true">
+      <name lang="ru">Набор чемоданов с расширением Wings 2504 3 в 1 синий (2504-Set-Blue)</name>
+      <name lang="ua">Набір валіз з розширенням Wings 2504 3 в 1 синій (2504-Set-Blue)</name>
+      <price>6415</price>
+      <price_old>7550</price_old>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
+      <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
+      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <description lang="ru">Набор чемоданов с расширением Wings 2504 3 в 1 синий (2504-Set-Blue)</description>
+      <description lang="ua">Набір валіз з розширенням Wings 2504 3 в 1 синій (2504-Set-Blue)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/3/nabir-valiz-z-rozshyrenniam-wings-2504-3-v-1-synii-2504-set-blue-95084453720262_+1ec8b84cf2.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/nabir-valiz-z-rozshyrenniam-wings-2504-3-v-1-synii-2504-set-blue-66144227911299_+c42bd59e0d.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/nabir-valiz-z-rozshyrenniam-wings-2504-3-v-1-synii-2504-set-blue-89384658936491_+1b7fbb26c9.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/nabir-valiz-z-rozshyrenniam-wings-2504-3-v-1-synii-2504-set-blue-47146574795876_+efa84df827.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/nabir-valiz-z-rozshyrenniam-wings-2504-3-v-1-synii-2504-set-blue-89034098663825_+3bace2407e.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/nabir-valiz-z-rozshyrenniam-wings-2504-3-v-1-synii-2504-set-blue-94648109217921_+8b09c40040.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/nabir-valiz-z-rozshyrenniam-wings-2504-3-v-1-synii-2504-set-blue-72112478749475_+84f97b4c98.jpg</picture>
+      <weight>0</weight>
+      <param name="Вага" paramcode="150">0</param>
+      <param name="Об'єм" paramcode="104">0</param>
+      <height>0</height>
+      <param name="Висота" paramcode="110">0</param>
+      <width>0</width>
+      <param name="Ширина" paramcode="111">0</param>
+      <length>0</length>
+      <param name="Глибина" paramcode="112">0</param>
+      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
       <param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
       <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
