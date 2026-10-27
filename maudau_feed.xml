@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-26T22:06:13.292Z">
+<yml_catalog date="2026-10-27T06:06:13.527Z">
   <shop>
     <categories>
       <category id="1061" portal_id="Чемоданы">Валізи</category>
@@ -11,32 +11,6 @@
       <category id="1089" portal_id="Рюкзаки">Рюкзаки</category>
     </categories>
     <offers>
-      <offer id="HIMAWARI-XS-Gray-mint" available="true">
-        <quantity_in_stock>5</quantity_in_stock>
-        <name_ru>Рюкзак для ручной клади HIMAWARI 17л серо-мятный (HIMAWARI-XS-Gray-mint)</name_ru>
-        <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л сіро-мʼятний (HIMAWARI-XS-Gray-mint)</name_ua>
-        <price>1495</price>
-        <categoryId>1089</categoryId>
-        <vendor>HIMAWARI</vendor>
-        <country>Япония</country>
-        <description_ru>Рюкзак для ручной клади HIMAWARI 17л серо-мятный (HIMAWARI-XS-Gray-mint)</description_ru>
-        <description_ua>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint-65888016525829_+0e8407df02.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint-22621539249153_+48be7201ee.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint-44320782054616_+5cacc0db0a.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint-13449436387652_+db8641eaea.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint-84485117905640_+f662fe54e7.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint-55264289776894_+3c69d35ba0.jpg</picture>
-        <param name="Колір">Серый</param>
-        <param name="Тип">Рюкзак</param>
-        <param name="Матеріал корпусу">Нейлон</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">Без колес</param>
-        <param name="Вбудований замок">Без замку</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">М'який</param>
-      </offer>
       <offer id="HIMAWARI-XS-Blue-Beige" available="true">
         <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади HIMAWARI 17л голубовато-бежевый (HIMAWARI-XS-Blue-Beige)</name_ru>
@@ -402,7 +376,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="53103-M-Champagne" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Madisson 53103 средний 65л шампань (53103-M-Champagne)</name_ru>
         <name_ua>Валіза з поліпропілену Madisson 53103 середня 65л шампань (53103-M-Champagne)</name_ua>
         <price>2350</price>
@@ -503,34 +477,6 @@
         <picture>https://sklad-valiz.com.ua/content/images/24/95738141581015_+0249b35867.jpg</picture>
         <picture>https://sklad-valiz.com.ua/content/images/24/38433288961798_+2479997159.jpg</picture>
         <param name="Колір">Серый</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="53103-S-Purple" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан для ручной клади Madisson 53103 малый 37л фиолетовый (53103-S-Purple)</name_ru>
-        <name_ua>Валіза для ручної поклажі Madisson 53103 мала 37л фіолетова (53103-S-Purple)</name_ua>
-        <price>1850</price>
-        <categoryId>1061</categoryId>
-        <vendor>Madisson</vendor>
-        <country>Франція</country>
-        <description_ru>Чемодан для ручной клади Madisson 53103 малый 37л фиолетовый (53103-S-Purple)</description_ru>
-        <description_ua>Валіза Madisson 53103 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/25/32792713527996_+65fcf81390.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/25/65445825605701_+5c029c5205.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/25/97365999032931_+88e0516c7c.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/25/27548456353065_+938f7c554b.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/25/14568799573352_+cc5d216b9a.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/25/38310466391835_+773f781152.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/25/48007589268212_+9232230291.jpg</picture>
-        <param name="Колір">Сиреневый</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
         <param name="Стать">Унісекс</param>
@@ -679,7 +625,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="GDW01-L-Burgundy" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан с ABS пластика Wings GDW01 большой 97л бордовый (GDW01-L-Burgundy)</name_ru>
         <name_ua>Валіза з ABS пластику Wings GDW01 велика 97л бордова (GDW01-L-Burgundy)</name_ua>
         <price>2150</price>
@@ -754,34 +700,6 @@
         <param name="Колір">Красный</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">ABS-пластик</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="42203-S-Purple" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан с расширением Madisson 42203 малый 39л фиолетовый (42203-S-Purple)</name_ru>
-        <name_ua>Валіза з розширенням Madisson 42203 мала 39л фіолетова (42203-S-Purple)</name_ua>
-        <price>1500</price>
-        <categoryId>1061</categoryId>
-        <vendor>Madisson</vendor>
-        <country>Франція</country>
-        <description_ru>Чемодан с расширением Madisson 42203 малый 39л фиолетовый (42203-S-Purple)</description_ru>
-        <description_ua>Валіза з розширенням Madisson 42203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/26/31958530044215_+c3057f2b36.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/26/73681151800990_+64ed64afeb.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/26/77346982979214_+820de6c626.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/26/58428417321434_+cb95b2f0b7.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/26/34477126535995_+14441d47a6.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/26/96124357726235_+b49fcf4b5a.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/26/34824162401165_+7b953ee147.jpg</picture>
-        <param name="Колір">Сиреневый</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
         <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
@@ -1260,7 +1178,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="53103-Set-Champagne" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Madisson 53103 3 в 1 шампань (53103-Set-Champagne)</name_ru>
         <name_ua>Набір валіз з поліпропілену Madisson 53103 3 в 1 шампань (53103-Set-Champagne)</name_ua>
         <price>5625</price>
@@ -1596,7 +1514,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="19168-XS-Dark-green" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Wings 19168 мини 28 л зеленый (19168-XS-Dark-green)</name_ru>
         <name_ua>Валіза для ручної поклажі Wings 19168 міні 28 л зелена (19168-XS-Dark-green)</name_ua>
         <price>1013</price>
@@ -3053,7 +2971,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="51304-S-Gray" available="true">
-        <quantity_in_stock>18</quantity_in_stock>
+        <quantity_in_stock>19</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 малый 36л серый (51304-S-Gray)</name_ru>
         <name_ua>Валіза з розширенням Snowball 51304 мала 36л сіра (51304-S-Gray)</name_ua>
         <price>1850</price>
@@ -3081,7 +2999,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="51304-S-Champagne" available="true">
-        <quantity_in_stock>15</quantity_in_stock>
+        <quantity_in_stock>14</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 малый 36л шампань (51304-S-Champagne)</name_ru>
         <name_ua>Валіза з розширенням Snowball 51304 мала 36л шампань (51304-S-Champagne)</name_ua>
         <price>1850</price>
@@ -3109,7 +3027,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="51304-S-RoseGold" available="true">
-        <quantity_in_stock>15</quantity_in_stock>
+        <quantity_in_stock>14</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 малый 36л розовое золото (51304-S-RoseGold)</name_ru>
         <name_ua>Валіза з розширенням Snowball 51304 мала 36л рожеве золото (51304-S-RoseGold)</name_ua>
         <price>1850</price>
@@ -3277,7 +3195,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="51304-L-Gray" available="true">
-        <quantity_in_stock>17</quantity_in_stock>
+        <quantity_in_stock>16</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 большой 105л серый (51304-L-Gray)</name_ru>
         <name_ua>Валіза з розширенням Snowball 51304 велика 105л сіра (51304-L-Gray)</name_ua>
         <price>2450</price>
@@ -3860,25 +3778,6 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="Catesigo-XS-Black" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Рюкзак для ручной клади Catesigo 34л черный (Catesigo-XS-Black)</name_ru>
-        <name_ua>Рюкзак для ручної поклажі Catesigo 34л чорний (Catesigo-XS-Black)</name_ua>
-        <price>1227</price>
-        <categoryId>1089</categoryId>
-        <country>Китай</country>
-        <description_ru>Рюкзак для ручной клади Catesigo 34л черный (Catesigo-XS-Black)</description_ru>
-        <description_ua>Рюкзак Catesigo на 34л - ідеальний супутник для динамічного життя та подорожей. Його габарити (48х35х20 см) та продуманий функціонал забезпечують максимальний комфорт у будь-якій дорозі. Завдяки великій місткості із двома основними та трьома малими відсіками ви зможете акуратно спакувати всі необхідні речі. Якісний водонепроникний нейлон гарантує безпеку документів і техніки формату А4 навіть під час раптової зливи. Вбудований USB-роз&amp;#39;єм допоможе завжди залишатися на зв&amp;rsquo;язку в терміналах вокзалів чи під час тривалих прогулянок. Особлива кишеня &amp;laquo;антизлодій&amp;raquo; на спині надійно захистить ваші найцінніші речі від кишенькових злодіїв у натовпі. Численні внутрішні органайзери, фронтальні та бічні кишені дозволять миттєво знайти потрібну дрібницю на ходу. Комфорт під час тривалого носіння забезпечує ергономічна спинка-подушка з вентиляцією та додаткова грудна стяжка. Це надійний, місткий та стильний вибір для тих, хто звик тримати все під контролем і подорожувати організовано.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-catesigo-34l-chornyi-catesigo-xs-black-43717286749607_+132848b2c4.jpg</picture>
-        <param name="Колір">Черный</param>
-        <param name="Тип">Рюкзак</param>
-        <param name="Матеріал корпусу">Нейлон</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">Без колес</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">М'який</param>
       </offer>
       <offer id="Catesigo-XS-Grey" available="true">
         <quantity_in_stock>1</quantity_in_stock>
@@ -4795,7 +4694,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="PHX01-M-Burgundy" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Wings PHX01 средний 60л бордовый (PHX01-M-Burgundy)</name_ru>
         <name_ua>Валіза з поліпропілену Wings PHX01 середня 60л бордова (PHX01-M-Burgundy)</name_ua>
         <price>2200</price>
@@ -4823,7 +4722,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="PHX01-L-Gray" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Wings PHX01 большой 95л серый (PHX01-L-Gray)</name_ru>
         <name_ua>Валіза з поліпропілену Wings PHX01 велика 95л сіра (PHX01-L-Gray)</name_ua>
         <price>2300</price>
@@ -4906,13 +4805,13 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="PHX01-Set-Gray" available="true">
+      <offer id="PHX01-Set-Dark-green" available="true">
         <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 серый (PHX01-Set-Gray)</name_ru>
         <name_ua>Набір валіз з поліпропілену Wings PHX01 3 в 1 сірий (PHX01-Set-Gray)</name_ua>
         <price>5250</price>
         <old_price>6200</old_price>
-        <categoryId>1061</categoryId>
+        <categoryId>1092</categoryId>
         <vendor>Wings</vendor>
         <country>Польща</country>
         <description_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 серый (PHX01-Set-Gray)</description_ru>
@@ -4934,13 +4833,13 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="PHX01-Set-Blue" available="true">
+      <offer id="PHX01-Set-Dark-green" available="true">
         <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 синий (PHX01-Set-Blue)</name_ru>
         <name_ua>Набір валіз з поліпропілену Wings PHX01 3 в 1 синій (PHX01-Set-Blue)</name_ua>
         <price>5250</price>
         <old_price>6200</old_price>
-        <categoryId>1061</categoryId>
+        <categoryId>1092</categoryId>
         <vendor>Wings</vendor>
         <country>Польща</country>
         <description_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 синий (PHX01-Set-Blue)</description_ru>
@@ -4962,13 +4861,13 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="PHX01-Set-Burgundy" available="true">
+      <offer id="PHX01-Set-Dark-green" available="true">
         <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 бордовый (PHX01-Set-Burgundy)</name_ru>
         <name_ua>Набір валіз з поліпропілену Wings PHX01 3 в 1 бордовий (PHX01-Set-Burgundy)</name_ua>
         <price>5250</price>
         <old_price>6200</old_price>
-        <categoryId>1061</categoryId>
+        <categoryId>1092</categoryId>
         <vendor>Wings</vendor>
         <country>Польща</country>
         <description_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 бордовый (PHX01-Set-Burgundy)</description_ru>
@@ -5091,7 +4990,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="65903-S-Milk" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 65903 малый 39л кремовый (65903-S-Milk)</name_ru>
         <name_ua>Валіза з розширенням Carbon 65903 мала 39л кремова (65903-S-Milk)</name_ua>
         <price>1750</price>
@@ -5343,7 +5242,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="65903-Set-Milk" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Carbon 65903 4 в 1 кремовый (65903-Set-Milk)</name_ru>
         <name_ua>Набір валіз з розширенням Carbon 65903 4 в 1 кремовий (65903-Set-Milk)</name_ua>
         <price>7125</price>
@@ -5762,34 +5661,6 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="53103-L-Pink" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан из полипропилена Madisson 53103 большой 102л розовый (53103-L-Pink)</name_ru>
-        <name_ua>Валіза з поліпропілену Madisson 53103 велика 102л рожева (53103-L-Pink)</name_ua>
-        <price>2450</price>
-        <categoryId>1061</categoryId>
-        <vendor>Madisson</vendor>
-        <country>Франція</country>
-        <description_ru>Чемодан из полипропилена Madisson 53103 большой 102л розовый (53103-L-Pink)</description_ru>
-        <description_ua>Валіза Madisson 53103 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/30/26809097706476_+0e8d1849e3.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/30/71324278298654_+b4f6801cec.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/30/48908898512285_+18eac068d6.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/30/65491679838698_+eae219a715.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/30/77243168937834_+d40626528d.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/30/79238576699849_+9b6881e6df.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/30/23110493481876_+6de53810fd.jpg</picture>
-        <param name="Колір">Розовый</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Великі (90 - 100 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
       <offer id="Grant-XS-Black" available="true">
         <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Рюкзак для ручной клади Grant 35л черный (Grant-XS-Black)</name_ru>
@@ -5944,13 +5815,13 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
       </offer>
-      <offer id="PHX01-Set-Yellow" available="true">
+      <offer id="PHX01-Set-Dark-green" available="true">
         <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 желтый (PHX01-Set-Yellow)</name_ru>
         <name_ua>Набір валіз з поліпропілену Wings PHX01 3 в 1 жовтий (PHX01-Set-Yellow)</name_ua>
         <price>5250</price>
         <old_price>6200</old_price>
-        <categoryId>1061</categoryId>
+        <categoryId>1092</categoryId>
         <vendor>Wings</vendor>
         <country>Польща</country>
         <description_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 желтый (PHX01-Set-Yellow)</description_ru>
@@ -5972,13 +5843,13 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="PHX01-Set-Purple" available="true">
+      <offer id="PHX01-Set-Dark-green" available="true">
         <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 сиреневый (PHX01-Set-Purple)</name_ru>
         <name_ua>Набір валіз з поліпропілену Wings PHX01 3 в 1 бузковий (PHX01-Set-Purple)</name_ua>
         <price>5250</price>
         <old_price>6200</old_price>
-        <categoryId>1061</categoryId>
+        <categoryId>1092</categoryId>
         <vendor>Wings</vendor>
         <country>Польща</country>
         <description_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 сиреневый (PHX01-Set-Purple)</description_ru>
@@ -6503,7 +6374,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="17505-M-Black" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Дорожная сумка Catesigo 17505 средняя 33л черная (17505-M-Black)</name_ru>
         <name_ua>Дорожня сумка Catesigo 17505 середня 33л чорна (17505-M-Black)</name_ua>
         <price>880</price>
@@ -6653,7 +6524,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="6007-M-Blue" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Дорожная сумка Kaiman 6007 60л средняя синяя (6007-M-Blue)</name_ru>
         <name_ua>Дорожня сумка Kaiman 6007 60л середня синя (6007-M-Blue)</name_ua>
         <price>800</price>
@@ -6939,18 +6810,25 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
       </offer>
-      <offer id="090-s-blue" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Рюкзак-сумка 2в1 для ручной клади 090 24л синий (090-s-black)</name_ru>
-        <name_ua>Рюкзак-сумка 2в1 для ручної поклажі 090 24л синій (090-s-black)</name_ua>
+      <offer id="090-Grey" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Рюкзак-сумка для ручной клади 24л синий (090-Blue)</name_ru>
+        <name_ua>Рюкзак-сумка для ручної поклажі 24л синій (090-Blue)</name_ua>
         <price>1820</price>
         <categoryId>1089</categoryId>
-        <country>Китай</country>
-        <description_ru>Рюкзак-сумка 2в1 для ручной клади 090 24л синий (090-s-black)</description_ru>
-        <description_ua>Рюкзак-сумка 2в1 для ручної поклажі 090 24л синій (090-s-black)</description_ua>
+        <country>Україна</country>
+        <description_ru>Рюкзак-сумка для ручной клади 24л синий (090-Blue)</description_ru>
+        <description_ua>Рюкзак-сумка для ручної поклажі 090 - це стильний та функціональний аксесуар 2 в 1, створений для щоденного використання та комфортних подорожей. Завдяки продуманим габаритам модель ідеально відповідає вимогам до безкоштовної ручної поклажі більшості сучасних авіакомпаній. Виріб виготовлено з якісної водонепроникної тканини, яка надійно захищає техніку, документи та особисті речі від раптового дощу чи снігу. Лаконічний синьо-чорний дизайн робить цей аксесуар універсальним доповненням до будь-якого гардероба. Для швидкого доступу до необхідних дрібниць на передній панелі передбачено дві глибокі та зручні кишені. Головною особливістю моделі є її легка трансформація: плечові лямки за потреби ховаються у спеціальну приховану кишеньку. У комплекті також йде довгий знімний ремінь, який дозволяє комфортно носити аксесуар на плечі як класичну дорожню сумку. Розрахунковий корисний об&amp;#39;єм становить близько 24 літрів, чого цілком достатньо для комплекту одягу на кілька днів. Цей практичний та надійний рюкзак-сумка стане вашим незамінним супутником у динамічному міському житті та далеких поїздках.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-synii-090-s-black-43479012526296_+ad45ad3da1.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-synii-090-s-black-31606476513914_+d9db394554.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-synii-090-s-black-72713757012372_+bf7d7d4afa.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-synii-090-s-black-36488600385803_+89b6a856a3.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-synii-090-s-black-31330862414554_+6aeb9b336c.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-synii-090-s-black-58365880171797_+04cf789796.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/33/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-synii-090-s-black-12058750701384_+9162dc18dc.jpg</picture>
         <param name="Колір">Синий</param>
         <param name="Тип">Рюкзак</param>
-        <param name="Матеріал корпусу">Нейлон</param>
+        <param name="Матеріал корпусу">Поліестер</param>
         <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">Без колес</param>
         <param name="Вбудований замок">Без замку</param>
@@ -6958,18 +6836,25 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
       </offer>
-      <offer id="090-s-black" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Рюкзак-сумка 2в1 для ручной клади 090 24л черный (090-s-black)</name_ru>
-        <name_ua>Рюкзак-сумка 2в1 для ручної поклажі 090 24л чорний (090-s-black)</name_ua>
+      <offer id="090-Grey" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Рюкзак-сумка для ручной клади 24л серый (090-Grey)</name_ru>
+        <name_ua>Рюкзак-сумка для ручної поклажі 24л сірий (090-Grey)</name_ua>
         <price>1820</price>
         <categoryId>1089</categoryId>
-        <country>Китай</country>
-        <description_ru>Рюкзак-сумка 2в1 для ручной клади 090 24л черный (090-s-black)</description_ru>
-        <description_ua>Рюкзак-сумка 2в1 для ручної поклажі 090 24л чорний (090-s-black)</description_ua>
-        <param name="Колір">Черный</param>
+        <country>Україна</country>
+        <description_ru>Рюкзак-сумка для ручной клади 24л серый (090-Grey)</description_ru>
+        <description_ua>Рюкзак-сумка для ручної поклажі 090 - це стильний та функціональний аксесуар 2 в 1, створений для щоденного використання та комфортних подорожей. Завдяки продуманим габаритам модель ідеально відповідає вимогам до безкоштовної ручної поклажі більшості сучасних авіакомпаній. Виріб виготовлено з якісної водонепроникної тканини, яка надійно захищає техніку, документи та особисті речі від раптового дощу чи снігу. Лаконічний синьо-чорний дизайн робить цей аксесуар універсальним доповненням до будь-якого гардероба. Для швидкого доступу до необхідних дрібниць на передній панелі передбачено дві глибокі та зручні кишені. Головною особливістю моделі є її легка трансформація: плечові лямки за потреби ховаються у спеціальну приховану кишеньку. У комплекті також йде довгий знімний ремінь, який дозволяє комфортно носити аксесуар на плечі як класичну дорожню сумку. Розрахунковий корисний об&amp;#39;єм становить близько 24 літрів, чого цілком достатньо для комплекту одягу на кілька днів. Цей практичний та надійний рюкзак-сумка стане вашим незамінним супутником у динамічному міському житті та далеких поїздках.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-chornyi-090-s-black-41045054410974_+f4aa537a14.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-chornyi-090-s-black-38625165720926_+e875d6caa0.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-chornyi-090-s-black-69605283205255_+de73bfa925.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-chornyi-090-s-black-97227340980204_+b9e8ce47d9.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-chornyi-090-s-black-59529596437764_+4c7b65a57c.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-chornyi-090-s-black-16915769074208_+661e745b92.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/riukzak-sumka-2v1-dlia-ruchnoi-poklazhi-090-24l-chornyi-090-s-black-89488453098389_+819348c360.jpg</picture>
+        <param name="Колір">Серый</param>
         <param name="Тип">Рюкзак</param>
-        <param name="Матеріал корпусу">Нейлон</param>
+        <param name="Матеріал корпусу">Поліестер</param>
         <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">Без колес</param>
         <param name="Вбудований замок">Без замку</param>
@@ -6977,18 +6862,24 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
       </offer>
-      <offer id="8774-s-pink" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Дорожная сумка Alex Mia 8774 пудровая (8774-s-pink)</name_ru>
-        <name_ua>Дорожня сумка Alex Mia 8774 пудрова (8774-s-pink)</name_ua>
+      <offer id="8774-Pink" available="true">
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ru>Дорожная сумка с креплением на чемодан 17л пудровая (8774-Pink)</name_ru>
+        <name_ua>Дорожня сумка з кріпленням на валізу 17л пудрова (8774-Pink)</name_ua>
         <price>2455</price>
         <categoryId>1087</categoryId>
-        <country>Китай</country>
-        <description_ru>Дорожная сумка Alex Mia 8774 пудровая (8774-s-pink)</description_ru>
-        <description_ua>Дорожня сумка Alex Mia 8774 пудрова (8774-s-pink)</description_ua>
+        <country>Україна</country>
+        <description_ru>Дорожная сумка с креплением на чемодан 17л пудровая (8774-Pink)</description_ru>
+        <description_ua>Дорожня сумка 8774 - це витончений та надзвичайно практичний аксесуар у ніжному пудровому відтінку, створений для комфортних подорожей і занять спортом. Завдяки своїм компактним розмірам вона ідеально відповідає стандартам ручної поклажі, стаючи гармонійним доповненням до вашого основного багажу. Головною перевагою моделі є спеціальне кріплення на задній панелі, яке дозволяє надійно зафіксувати сумку на телескопічній ручці валізи. Для швидкого доступу до найважливіших речей на зовнішній стороні передбачена акуратна кишенька на магніті. Внутрішній простір складається з одного місткого відділення, доповненого бічними карманами для зручної організації дрібниць. У комплекті із сумкою йде довгий плечовий ремінь, який дозволяє легко та комфортно носити її на плечі. Корисний об&amp;#39;єм моделі становить близько 16,6 літра, що робить її оптимальною для форми у спортзал або речей на вікенд. Такий універсальний та стильний аксесуар забезпечить вам максимальний комфорт і легкість у кожній новій поїздці.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/35/dorozhnia-sumka-alex-mia-8774-pudrova-8774-s-pink-82222105561463_+bf0f07ec1d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/dorozhnia-sumka-alex-mia-8774-pudrova-8774-s-pink-39864545266262_+b07d576108.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/dorozhnia-sumka-alex-mia-8774-pudrova-8774-s-pink-99505659538059_+922577609f.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/dorozhnia-sumka-alex-mia-8774-pudrova-8774-s-pink-22359321725266_+5136e535e6.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/dorozhnia-sumka-alex-mia-8774-pudrova-8774-s-pink-88289085788937_+65fc104306.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/35/dorozhnia-sumka-alex-mia-8774-pudrova-8774-s-pink-60463828175447_+0c4145f5cd.jpg</picture>
         <param name="Колір">Розовый</param>
         <param name="Тип">Сумка дорожная</param>
-        <param name="Матеріал корпусу">Нейлон</param>
+        <param name="Матеріал корпусу">Поліестер</param>
         <param name="Стать">Жіночі</param>
         <param name="Кількість коліс">Без колес</param>
         <param name="Вбудований замок">Без замку</param>
@@ -6998,19 +6889,21 @@
       </offer>
       <offer id="PHX01-S-Dark-green" available="true">
         <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан из полипропилена Wings PHX01, 39 л, темно-зеленый (PHX01-S-Dark-green)</name_ru>
-        <name_ua>Валіза з поліпропілену Wings PHX01 мала 39л темно-зелена (PHX01-S-Dark-green)</name_ua>
+        <name_ru>Чемодан для ручной клади Wings PHX01 малый 39л темно-зеленый (PHX01-S-Dark-green)</name_ru>
+        <name_ua>Валіза для ручної поклажі Wings PHX01 мала 39л темно-зелена (PHX01-S-Dark-green)</name_ua>
         <price>1700</price>
         <categoryId>1061</categoryId>
         <vendor>Wings</vendor>
         <country>Польща</country>
-        <description_ru>Чемодан из полипропилена Wings PHX01, 39 л, темно-зеленый (PHX01-S-Dark-green)</description_ru>
+        <description_ru>Чемодан для ручной клади Wings PHX01 малый 39л темно-зеленый (PHX01-S-Dark-green)</description_ru>
         <description_ua>Валіза для ручної поклажі Wings PHX01 - це компактний та максимально допустимий розмір для ручної поклажі авіакомпаній. Підходить для коротких поїздок на 3-5 днів. Валізу можна брати в будь-який транспорт як ручну поклажу або основний багаж. Вона ідеально підходить для салону літака, полиць у поїздах, автобусах та багажника автомобіля, забезпечуючи зручність у поїздках. Матеріал поліпропілен - це найміцніший та найгнучкіший пластик, який не тріскається при ударах і дозволяє перевозити валізу навіть напівпорожньою. Валіза оснащена надійними колесами з поворотним механізмом, що забезпечують плавний та зручний рух у будь-якому напрямку. Має кодовий замок для безпечного перевезення речей та продуманий внутрішній простір із фіксаторами багажу. Вага завантаження 12-15 кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-22313676240787_+d8d29de678.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-22792356780381_+a1cb5ceba0.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-26334356903541_+83502fb8d8.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-50276455161657_+8c0111cb1b.png</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-32444609878424_+fcf5d18a92.png</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-60560825459449_+9c47568be9.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-38522524796340_+c0991cda87.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-40998744450709_+0c2e7ed9cd.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-13179313664969_+b1fbcd4fdf.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-11523342097439_+73fe97ae16.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-29608321978501_+0c7899857d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/36/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green-15249637161669_+49df098781.jpg</picture>
         <param name="Колір">Зелёный</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -7024,14 +6917,21 @@
       </offer>
       <offer id="PHX01-M-Dark-green" available="true">
         <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан из полипропилена Wings PHX01 средний 39л темно-зеленый (PHX01-М-Dark-green)</name_ru>
-        <name_ua>Валіза з поліпропілену Wings PHX01 середня 39л темно-зелена (PHX01-М-Dark-green)</name_ua>
+        <name_ru>Чемодан из полипропилена Wings PHX01 средний 60л темно-зеленый (PHX01-М-Dark-green)</name_ru>
+        <name_ua>Валіза з поліпропілену Wings PHX01 середня 60л темно-зелена (PHX01-М-Dark-green)</name_ua>
         <price>2200</price>
         <categoryId>1061</categoryId>
         <vendor>Wings</vendor>
         <country>Польща</country>
-        <description_ru>Чемодан из полипропилена Wings PHX01 средний 39л темно-зеленый (PHX01-М-Dark-green)</description_ru>
-        <description_ua>Валіза з поліпропілену Wings PHX01 середня 39л темно-зелена (PHX01-М-Dark-green)</description_ua>
+        <description_ru>Чемодан из полипропилена Wings PHX01 средний 60л темно-зеленый (PHX01-М-Dark-green)</description_ru>
+        <description_ua>Валіза з поліпропілену Wings PHX01 середня 60л темно-зелена (PHX01-М-Dark-green)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-wings-phx01-serednia-39l-temno-zelena-phx01-m-dark-green-31229581678612_+af15bdf611.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-wings-phx01-serednia-39l-temno-zelena-phx01-m-dark-green-26444756944810_+c148f64393.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-wings-phx01-serednia-39l-temno-zelena-phx01-m-dark-green-70638096939189_+e45a226bc0.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-wings-phx01-serednia-39l-temno-zelena-phx01-m-dark-green-35309229610394_+2794fbc41c.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-wings-phx01-serednia-39l-temno-zelena-phx01-m-dark-green-47917933626839_+fae4d9ad6b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-wings-phx01-serednia-39l-temno-zelena-phx01-m-dark-green-79160149133601_+64a231f4b0.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/37/valiza-z-polipropilenu-wings-phx01-serednia-39l-temno-zelena-phx01-m-dark-green-49609828545400_+5b78438b4e.jpg</picture>
         <param name="Колір">Зелёный</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -7039,20 +6939,27 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
-        <param name="Тип закриття">На клямках</param>
+        <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="PHX01-L-Dark-green" available="true">
         <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан из полипропилена Wings PHX01 большой 39л темно-зеленый (PHX01-L-Dark-green)</name_ru>
-        <name_ua>Валіза з поліпропілену Wings PHX01 велика 39л темно-зелена (PHX01-L-Dark-green)</name_ua>
+        <name_ru>Чемодан из полипропилена Wings PHX01 большой 95л темно-зеленый (PHX01-L-Dark-green)</name_ru>
+        <name_ua>Валіза з поліпропілену Wings PHX01 велика 95л темно-зелена (PHX01-L-Dark-green)</name_ua>
         <price>2300</price>
         <categoryId>1061</categoryId>
         <vendor>Wings</vendor>
         <country>Польща</country>
-        <description_ru>Чемодан из полипропилена Wings PHX01 большой 39л темно-зеленый (PHX01-L-Dark-green)</description_ru>
-        <description_ua>Валіза з поліпропілену Wings PHX01 велика 39л темно-зелена (PHX01-L-Dark-green)</description_ua>
+        <description_ru>Чемодан из полипропилена Wings PHX01 большой 95л темно-зеленый (PHX01-L-Dark-green)</description_ru>
+        <description_ua>Валіза з поліпропілену Wings PHX01 велика 95л темно-зелена (PHX01-L-Dark-green)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green1237-16141048257112_+3fbbd4dd94.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green1237-70441656450055_+574bc0d41b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green1237-66400251226356_+d3cbf24ced.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green1237-65632184938721_+bbb2f9c194.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green1237-24439804393643_+97980a0cde.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green1237-45500109492758_+f6756c4b99.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/38/valiza-z-polipropilenu-wings-phx01-velyka-39l-temno-zelena-phx01-l-dark-green1237-27092778508702_+a30bc3b237.jpg</picture>
         <param name="Колір">Зелёный</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
@@ -7060,24 +6967,32 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Великі (90 - 100 л)</param>
-        <param name="Тип закриття">На клямках</param>
+        <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="2504-S-Blue" available="true">
         <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Wings 2504 suitcase, 40L, blue (2504-S-Bluе)</name_ru>
-        <name_ua>Валіза  Wings 2504 мала 40л синя (2504-S-Bluе)</name_ua>
+        <name_ru>Чемодан с расширением Wings 2504 малый 38л синий (2504-S-Blue)</name_ru>
+        <name_ua>Валіза з розширенням Wings 2504 мала 38л синя (2504-S-Blue)</name_ua>
         <price>1950</price>
-        <categoryId>1082</categoryId>
+        <categoryId>1084</categoryId>
         <vendor>Wings</vendor>
         <country>Польща</country>
-        <description_ru>Wings 2504 suitcase, 40L, blue (2504-S-Bluе)</description_ru>
-        <description_ua>Валіза  Wings 2504 мала 40л синя (2504-S-Bluе)</description_ua>
+        <description_ru>Чемодан с расширением Wings 2504 малый 38л синий (2504-S-Blue)</description_ru>
+        <description_ua>Валіза з розширенням Wings 2504 в розмірі S - це ідеальний та компактний варіант, створений для коротких поїздок, вікендів або відряджень тривалістю 3-5 днів. Завдяки своїм мінімальним габаритам вона чудово підходить під критерії ручної поклажі більшості авіакомпаній, дозволяючи тримати речі завжди поруч і економити на багажних зборах. Модель виготовлена з високоміцного оксфорду, який вирізняється еластичністю, стійкістю до вологи та механічних пошкоджень у дорозі. Надійний внутрішній каркас дозволяє валізі відмінно тримати форму, надійно захищаючи ваш багаж від примх транспортування. Вона оснащена посиленою системою з 4 великих поліуретанових коліс на підшипниках для максимальної маневреності та плавного ходу. Для зручності переміщення в терміналах чи на перонах передбачена надійна телескопічна ручка з фіксацією. Продуманий внутрішній простір із фіксаторами та місткі зовнішні кишені допоможуть акуратно розкласти всі необхідні дрібниці та документи. Приємним бонусом є функція розширення на 5 см, яка виручить, якщо після шопінгу вам знадобиться трохи більше місця. Для безпеки вмісту валіза оснащена вбудованим кодовим замком, а оптимальна вага її завантаження становить до 7-10 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/39/valiza-wings-2504-mala-40l-synia-2504-s-grey-13295583177324_+a37de63fc1.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/valiza-wings-2504-mala-40l-synia-2504-s-grey-29256604949359_+c8fd05144b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/valiza-wings-2504-mala-40l-synia-2504-s-grey-76185187325396_+6563b4c28f.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/valiza-wings-2504-mala-40l-synia-2504-s-grey-16934266797629_+53a0fc6306.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/valiza-wings-2504-mala-40l-synia-2504-s-grey-77549410769059_+3bab300390.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/valiza-wings-2504-mala-40l-synia-2504-s-grey-27293991392345_+e2c9a27cfd.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/valiza-wings-2504-mala-40l-synia-2504-s-grey-23018162717116_+702463e3c8.jpg</picture>
         <param name="Колір">Синий</param>
         <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліестер</param>
+        <param name="Матеріал корпусу">Текстиль</param>
         <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
         <param name="Тип закриття">На блискавці</param>
@@ -7086,42 +7001,56 @@
       </offer>
       <offer id="2504-M-Blue" available="true">
         <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Wings 2504 medium suitcase 70L blue (2504-M-Bluе)</name_ru>
-        <name_ua>Валіза Wings 2504 середня 70л синя (2504-M-Bluе)</name_ua>
+        <name_ru>Чемодан с расширением Wings 2504 средний 63л синий (2504-M-Blue)</name_ru>
+        <name_ua>Валіза з розширенням Wings 2504 середня 63л синя (2504-M-Blue)</name_ua>
         <price>2750</price>
-        <categoryId>1061</categoryId>
+        <categoryId>1083</categoryId>
         <vendor>Wings</vendor>
         <country>Польща</country>
-        <description_ru>Wings 2504 medium suitcase 70L blue (2504-M-Bluе)</description_ru>
-        <description_ua>Валіза Wings 2504 середня 70л синя (2504-M-Bluе)</description_ua>
+        <description_ru>Чемодан с расширением Wings 2504 средний 63л синий (2504-M-Blue)</description_ru>
+        <description_ua>Валіза з розширенням Wings 2504 в розмірі М - це універсальний варіант, створений для середньострокових подорожей тривалістю від 4 до 9 днів. Завдяки своїм оптимальним габаритам вона ідеально підходить для здачі в багаж. Модель виготовлена з високоміцного оксфорду, який вирізняється легкістю, еластичністю та стійкістю до вологи. Надійний внутрішній каркас дозволяє валізі відмінно тримати форму навіть при щільному наповненні, захищаючи ваші речі. Вона оснащена посиленою системою з 4 великих поліуретанових коліс на металевих підшипниках для плавного руху. Для зручності переміщення передбачена телескопічна ручка з фіксацією. Продуманий внутрішній простір із фіксаторами та велика кількість зовнішніх кишень допоможуть ідеально організувати багаж. Функція розширення на 5 см дозволить легко збільшити об&amp;#39;єм, якщо на зворотному шляху з&amp;#39;являться сувеніри. Для безпеки передбачено вбудований кодовий замок, а рекомендована вага завантаження становить 15-18 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-19358671415920_+0270f2a896.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-50908880505527_+b43e47bdc1.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-85327327904450_+e45b955ba2.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-87102098234882_+6575f085e1.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-58885368950898_+67d27644f4.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-39109605723561_+383b41a918.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/40/valiza-wings-2504-serednia-70l-synia-2504-m-grey-78127752121261_+60c9ba7dd5.jpg</picture>
         <param name="Колір">Синий</param>
         <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліестер</param>
+        <param name="Матеріал корпусу">Текстиль</param>
         <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Об'єм">Середні (50 – 89.9 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="2504-L-Blue" available="true">
         <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Wings 2504 large suitcase 70L blue (2504-L-Blue)</name_ru>
-        <name_ua>Валіза Wings 2504 велика 70л синя (2504-L-Blue)</name_ua>
+        <name_ru>Чемодан с расширением Wings 2504 большой 97л синий (2504-L-Blue)</name_ru>
+        <name_ua>Валіза з розширенням Wings 2504 велика 97л синя (2504-L-Blue)</name_ua>
         <price>2850</price>
-        <categoryId>1061</categoryId>
+        <categoryId>1082</categoryId>
         <vendor>Wings</vendor>
         <country>Польща</country>
-        <description_ru>Wings 2504 large suitcase 70L blue (2504-L-Blue)</description_ru>
-        <description_ua>Валіза Wings 2504 велика 70л синя (2504-L-Blue)</description_ua>
+        <description_ru>Чемодан с расширением Wings 2504 большой 97л синий (2504-L-Blue)</description_ru>
+        <description_ua>Валіза з розширенням Wings 2504 в розмірі L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Валіза виготовлена з високоміцного оксфорду, який вирізняється легкістю, еластичністю та стійкістю до вологи й пошкоджень. Надійний внутрішній каркас дозволяє валізі відмінно тримати форму навіть при щільному наповненні, захищаючи ваші речі під час транспортування. Модель оснащена посиленою системою з 4 великих поліуретанових коліс на металевих підшипниках, що гарантує надійність при русі по будь-яких поверхнях. Для зручності передбачена телескопічна ручка з фіксацією. Продуманий внутрішній простір із фіксаторами та велика кількість зовнішніх кишень допоможуть ідеально організувати багаж, а функція розширення на 5 см дозволить збільшити об&amp;#39;єм, якщо це необхідно. Для безпеки передбачено вбудований кодовий замок. Вага завантаження становить 22-25 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/41/valiza-wings-2504-velyka-70l-synia-2504-l-blue-55412041715251_+3d56a471a1.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/41/valiza-wings-2504-velyka-70l-synia-2504-l-blue-28488822992421_+68db4e06d5.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/41/valiza-wings-2504-velyka-70l-synia-2504-l-blue-30799704788154_+640e7723f8.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/41/valiza-wings-2504-velyka-70l-synia-2504-l-blue-29302568679274_+c8b3797f65.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/41/valiza-wings-2504-velyka-70l-synia-2504-l-blue-69575583534207_+8c99d8d7ca.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/41/valiza-wings-2504-velyka-70l-synia-2504-l-blue-21394609835794_+f6a951ab50.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/41/valiza-wings-2504-velyka-70l-synia-2504-l-blue-77310716668526_+cf60744e94.jpg</picture>
         <param name="Колір">Синий</param>
         <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліестер</param>
+        <param name="Матеріал корпусу">Текстиль</param>
         <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Великі (90 - 100 л)</param>
+        <param name="Об'єм">Гігантські (більше 100 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
         <param name="Матеріал коліс">Поліуретан</param>
@@ -7402,25 +7331,61 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="403020-XS-Black" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Рюкзак для ручной клади 403020 24л черный (403020-XS-Black)</name_ru>
-        <name_ua>Рюкзак для ручної поклажі 403020 24л чорний (403020-XS-Black)</name_ua>
-        <price>1700</price>
-        <categoryId>1089</categoryId>
-        <country>Китай</country>
-        <description_ru>Рюкзак для ручной клади 403020 24л черный (403020-XS-Black)</description_ru>
-        <description_ua>Цей універсальний рюкзак ідеально підходить під стандарти безкоштовної ручної поклажі лоукостерів, як-от Ryanair та Wizz Air. Він виготовлений із міцного водонепроникного нейлону 840D, що надійно захищає речі від вологи. Завдяки відкриттю на 180° за принципом валізи, пакувати одяг та аксесуари максимально зручно. Всередині передбачено захищене відділення для ноутбука, сітчасті органайзери та потайні кишені для безпеки документів. Ортопедична дихаюча спинка та ергономічні лямки забезпечують комфорт навіть під час тривалих пересувань. Також рюкзак оснащений бічною кишенею для пляшки та спеціальним кріпленням на ручку валізи. Це стильне та функціональне рішення для подорожей, бізнесу чи щоденного використання в місті.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/38/riukzak-dlia-ruchnoi-poklazhi-403020-24l-chornyi-403020-xs-black-60067536935924_+79a7acd662.jpg</picture>
-        <param name="Колір">Черный</param>
-        <param name="Тип">Рюкзак</param>
-        <param name="Матеріал корпусу">Нейлон</param>
+      <offer id="PHX01-Set-Dark-green" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 темно-зеленый (PHX01-Set-Dark-green)</name_ru>
+        <name_ua>Набір валіз з поліпропілену Wings PHX01 3 в 1 темно-зелений (PHX01-Set-Dark-green)</name_ua>
+        <price>5250</price>
+        <old_price>6200</old_price>
+        <categoryId>1092</categoryId>
+        <vendor>Wings</vendor>
+        <country>Польща</country>
+        <description_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 темно-зеленый (PHX01-Set-Dark-green)</description_ru>
+        <description_ua>Валізи з поліпропілену Wings PHX01 - це ідеальний вибір для будь-яких подорожей, від коротких вікендів до тривалих сімейних відпусток. Набір містить три моделі різних розмірів, що робить його універсальним для пересування літаком, поїздом чи автомобілем. При цьому найменшу валізу можна брати на борт літака як ручну поклажу. Корпус виготовлений зі поліпропілену - надзвичайно гнучкого та міцного матеріалу, який не розбивається від сильних ударів під час завантаження. Надійний захист речей від негоди гарантує спеціальна блискавка, що не піддається впливу води та вологи. Кожна валіза оснащена надійними подвійними колесами з поворотним механізмом на 360 градусів, що забезпечують плавний та зручний рух у будь-якому напрямку. Вбудований кодовий замок гарантує максимальну безпеку та спокій під час перевезення ваших особистих речей. Продуманий внутрішній простір розділений на два зручні відділи з перегородкою та ременями для надійної фіксації багажу. Телескопічна алюмінієва ручка фіксується у кількох положеннях, дозволяючи легко підлаштувати її під свій зріст. Вага завантаження: розмір S - 12-15 кг, розмір М - 18-20 кг, розмір L - 22-25 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-46893803034392_+c275bac74c.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-89565367186666_+2006a21958.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-59369720193631_+b53084ae18.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-86192484287629_+461d2e801b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-21319040779501_+5d06ceb5c0.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-97348023471933_+3b13ba4736.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-78717883185433_+d0b1345bc6.jpg</picture>
+        <param name="Колір">Зелёный</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
         <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">Без колес</param>
-        <param name="Вбудований замок">Без замку</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="2504-Set-Blue" available="true">
+        <quantity_in_stock>3</quantity_in_stock>
+        <name_ru>Набор чемоданов с расширением Wings 2504 3 в 1 синий (2504-Set-Blue)</name_ru>
+        <name_ua>Набір валіз з розширенням Wings 2504 3 в 1 синій (2504-Set-Blue)</name_ua>
+        <price>6415</price>
+        <old_price>7550</old_price>
+        <categoryId>1092</categoryId>
+        <vendor>Wings</vendor>
+        <country>Польща</country>
+        <description_ru>Набор чемоданов с расширением Wings 2504 3 в 1 синий (2504-Set-Blue)</description_ru>
+        <description_ua>Набір валіз з розширенням Wings 2504 - це ідеальне та комплексне рішення для сімейних подорожей або поїздок будь-якої тривалості. Набір містить три оптимальні розміри, що дозволяє легко обрати правильну валізу як для короткого вікенду, так і для тривалої відпустки. Усі моделі виготовлені з високоміцного оксфорду, який вирізняється еластичністю, стійкістю до вологи та пошкоджень. Надійний внутрішній каркас забезпечує збереження форми кожної валізи навіть при максимальному наповненні, захищаючи ваші речі. Посилена система з 4 великих поліуретанових коліс на металевих підшипниках гарантує плавний та безшумний рух по будь-яких поверхнях. Для комфортного транспортування передбачені ергономічні телескопічні ручки з надійною фіксацією. Продумана організація простору з фіксаторами та великою кількістю зовнішніх кишень допоможе ідеально розкласти весь багаж. Важливою перевагою кожної моделі є функція розширення на 5 см, яка дозволяє миттєво збільшити корисний об&amp;#39;єм. Для безпеки вмісту в дорозі кожна валіза оснащена надійним вбудованим кодовим замком. Практичним бонусом є те, що під час зберігання валізи компактно складаються одна в одну.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/3/nabir-valiz-z-rozshyrenniam-wings-2504-3-v-1-synii-2504-set-blue-95084453720262_+1ec8b84cf2.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/nabir-valiz-z-rozshyrenniam-wings-2504-3-v-1-synii-2504-set-blue-66144227911299_+c42bd59e0d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/nabir-valiz-z-rozshyrenniam-wings-2504-3-v-1-synii-2504-set-blue-89384658936491_+1b7fbb26c9.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/nabir-valiz-z-rozshyrenniam-wings-2504-3-v-1-synii-2504-set-blue-47146574795876_+efa84df827.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/nabir-valiz-z-rozshyrenniam-wings-2504-3-v-1-synii-2504-set-blue-89034098663825_+3bace2407e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/nabir-valiz-z-rozshyrenniam-wings-2504-3-v-1-synii-2504-set-blue-94648109217921_+8b09c40040.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/3/nabir-valiz-z-rozshyrenniam-wings-2504-3-v-1-synii-2504-set-blue-72112478749475_+84f97b4c98.jpg</picture>
+        <param name="Колір">Синий</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Текстиль</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
+        <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="402520-XS-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -7841,6 +7806,34 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="53103-S-Purple" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан для ручной клади Madisson 53103 малый 37л фиолетовый (53103-S-Purple)</name_ru>
+        <name_ua>Валіза для ручної поклажі Madisson 53103 мала 37л фіолетова (53103-S-Purple)</name_ua>
+        <price>1850</price>
+        <categoryId>1061</categoryId>
+        <vendor>Madisson</vendor>
+        <country>Франція</country>
+        <description_ru>Чемодан для ручной клади Madisson 53103 малый 37л фиолетовый (53103-S-Purple)</description_ru>
+        <description_ua>Валіза Madisson 53103 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/25/32792713527996_+65fcf81390.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/65445825605701_+5c029c5205.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/97365999032931_+88e0516c7c.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/27548456353065_+938f7c554b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/14568799573352_+cc5d216b9a.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/38310466391835_+773f781152.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/25/48007589268212_+9232230291.jpg</picture>
+        <param name="Колір">Сиреневый</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
@@ -8740,6 +8733,34 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="42203-S-Purple" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан с расширением Madisson 42203 малый 39л фиолетовый (42203-S-Purple)</name_ru>
+        <name_ua>Валіза з розширенням Madisson 42203 мала 39л фіолетова (42203-S-Purple)</name_ua>
+        <price>1500</price>
+        <categoryId>1061</categoryId>
+        <vendor>Madisson</vendor>
+        <country>Франція</country>
+        <description_ru>Чемодан с расширением Madisson 42203 малый 39л фиолетовый (42203-S-Purple)</description_ru>
+        <description_ua>Валіза з розширенням Madisson 42203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/26/31958530044215_+c3057f2b36.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/26/73681151800990_+64ed64afeb.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/26/77346982979214_+820de6c626.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/26/58428417321434_+cb95b2f0b7.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/26/34477126535995_+14441d47a6.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/26/96124357726235_+b49fcf4b5a.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/26/34824162401165_+7b953ee147.jpg</picture>
+        <param name="Колір">Сиреневый</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="42203-S-DarkBlue" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -12336,6 +12357,25 @@
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
       </offer>
+      <offer id="Catesigo-XS-Black" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади Catesigo 34л черный (Catesigo-XS-Black)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі Catesigo 34л чорний (Catesigo-XS-Black)</name_ua>
+        <price>1227</price>
+        <categoryId>1089</categoryId>
+        <country>Китай</country>
+        <description_ru>Рюкзак для ручной клади Catesigo 34л черный (Catesigo-XS-Black)</description_ru>
+        <description_ua>Рюкзак Catesigo на 34л - ідеальний супутник для динамічного життя та подорожей. Його габарити (48х35х20 см) та продуманий функціонал забезпечують максимальний комфорт у будь-якій дорозі. Завдяки великій місткості із двома основними та трьома малими відсіками ви зможете акуратно спакувати всі необхідні речі. Якісний водонепроникний нейлон гарантує безпеку документів і техніки формату А4 навіть під час раптової зливи. Вбудований USB-роз&amp;#39;єм допоможе завжди залишатися на зв&amp;rsquo;язку в терміналах вокзалів чи під час тривалих прогулянок. Особлива кишеня &amp;laquo;антизлодій&amp;raquo; на спині надійно захистить ваші найцінніші речі від кишенькових злодіїв у натовпі. Численні внутрішні органайзери, фронтальні та бічні кишені дозволять миттєво знайти потрібну дрібницю на ходу. Комфорт під час тривалого носіння забезпечує ергономічна спинка-подушка з вентиляцією та додаткова грудна стяжка. Це надійний, місткий та стильний вибір для тих, хто звик тримати все під контролем і подорожувати організовано.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-catesigo-34l-chornyi-catesigo-xs-black-43717286749607_+132848b2c4.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Нейлон</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
       <offer id="65803-Set-Gray" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Carbon 65803 3 в 1 серый (65803-Set-Gray)</name_ru>
@@ -12432,6 +12472,34 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Середні (50 – 89.9 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="53103-L-Pink" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан из полипропилена Madisson 53103 большой 102л розовый (53103-L-Pink)</name_ru>
+        <name_ua>Валіза з поліпропілену Madisson 53103 велика 102л рожева (53103-L-Pink)</name_ua>
+        <price>2450</price>
+        <categoryId>1061</categoryId>
+        <vendor>Madisson</vendor>
+        <country>Франція</country>
+        <description_ru>Чемодан из полипропилена Madisson 53103 большой 102л розовый (53103-L-Pink)</description_ru>
+        <description_ua>Валіза Madisson 53103 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/30/26809097706476_+0e8d1849e3.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/30/71324278298654_+b4f6801cec.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/30/48908898512285_+18eac068d6.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/30/65491679838698_+eae219a715.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/30/77243168937834_+d40626528d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/30/79238576699849_+9b6881e6df.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/30/23110493481876_+6de53810fd.jpg</picture>
+        <param name="Колір">Розовый</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Великі (90 - 100 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
@@ -14204,7 +14272,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-S-Black" available="true">
-        <quantity_in_stock>25</quantity_in_stock>
+        <quantity_in_stock>24</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Snowball 33703 малый 36л черный (33703-S-Black)</name_ru>
         <name_ua>Валіза для ручної поклажі Snowball 33703 мала 36л чорна (33703-S-Black)</name_ua>
         <price>1725</price>
@@ -16854,7 +16922,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="53103-S-Blue" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Madisson 53103 малый 37л синий (53103-S-Blue)</name_ru>
         <name_ua>Валіза для ручної поклажі Madisson 53103 мала 37л синя (53103-S-Blue)</name_ua>
         <price>1850</price>
@@ -16999,6 +17067,52 @@
         <picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black-17707071673497_+cb4114ab21.jpg</picture>
         <picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chornyi-himawari-xs-black-21455391467160_+64be1b2fca.jpg</picture>
         <param name="Колір">Черный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Нейлон</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="403020-XS-Black" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади 403020 24л черный (403020-XS-Black)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі 403020 24л чорний (403020-XS-Black)</name_ua>
+        <price>1700</price>
+        <categoryId>1089</categoryId>
+        <country>Китай</country>
+        <description_ru>Рюкзак для ручной клади 403020 24л черный (403020-XS-Black)</description_ru>
+        <description_ua>Цей універсальний рюкзак ідеально підходить під стандарти безкоштовної ручної поклажі лоукостерів, як-от Ryanair та Wizz Air. Він виготовлений із міцного водонепроникного нейлону 840D, що надійно захищає речі від вологи. Завдяки відкриттю на 180° за принципом валізи, пакувати одяг та аксесуари максимально зручно. Всередині передбачено захищене відділення для ноутбука, сітчасті органайзери та потайні кишені для безпеки документів. Ортопедична дихаюча спинка та ергономічні лямки забезпечують комфорт навіть під час тривалих пересувань. Також рюкзак оснащений бічною кишенею для пляшки та спеціальним кріпленням на ручку валізи. Це стильне та функціональне рішення для подорожей, бізнесу чи щоденного використання в місті.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/38/riukzak-dlia-ruchnoi-poklazhi-403020-24l-chornyi-403020-xs-black-60067536935924_+79a7acd662.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Нейлон</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="HIMAWARI-XS-Gray-mint" available="true">
+        <quantity_in_stock>5</quantity_in_stock>
+        <name_ru>Рюкзак для ручной клади HIMAWARI 17л серо-мятный (HIMAWARI-XS-Gray-mint)</name_ru>
+        <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л сіро-мʼятний (HIMAWARI-XS-Gray-mint)</name_ua>
+        <price>1495</price>
+        <categoryId>1089</categoryId>
+        <vendor>HIMAWARI</vendor>
+        <country>Япония</country>
+        <description_ru>Рюкзак для ручной клади HIMAWARI 17л серо-мятный (HIMAWARI-XS-Gray-mint)</description_ru>
+        <description_ua>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint-65888016525829_+0e8407df02.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint-22621539249153_+48be7201ee.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint-44320782054616_+5cacc0db0a.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint-13449436387652_+db8641eaea.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint-84485117905640_+f662fe54e7.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-siro-miatnyi-himawari-xs-gray-mint-55264289776894_+3c69d35ba0.jpg</picture>
+        <param name="Колір">Серый</param>
         <param name="Тип">Рюкзак</param>
         <param name="Матеріал корпусу">Нейлон</param>
         <param name="Стать">Унісекс</param>
