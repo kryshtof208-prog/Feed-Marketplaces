@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-29 18:11">
+<yml_catalog date="2026-10-30 06:11">
   <offers>
     <offer id="33703-L-Champagne" available="true">
       <name lang="ru">Чемодан из полипропилена Snowball 33703 большой 101л шампань (33703-L-Champagne)</name>
@@ -542,7 +542,7 @@
     <offer id="CKT01-L-LightBlue" available="true">
       <name lang="ru">Чемодан Wings COCKATIEL большой голубой (CKT01-L-LightBlue)</name>
       <name lang="ua">Валіза Wings COCKATIEL велика блакитна (CKT01-L-LightBlue)</name>
-      <price>3150</price>
+      <price>3300</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
@@ -589,7 +589,7 @@
     <offer id="CKT01-L-WhitePink" available="false">
       <name lang="ru">Чемодан Wings COCKATIEL большой розовый (CKT01-L-WhitePink)</name>
       <name lang="ua">Валіза Wings COCKATIEL велика рожева (CKT01-L-WhitePink)</name>
-      <price>3150</price>
+      <price>3300</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
@@ -636,7 +636,7 @@
     <offer id="CKT01-L-WhitePurple" available="false">
       <name lang="ru">Чемодан Wings COCKATIEL большой фиалковый (CKT01-L-WhitePurple)</name>
       <name lang="ua">Валіза Wings COCKATIEL велика фіалкова (CKT01-L-WhitePurple)</name>
-      <price>3150</price>
+      <price>3300</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
@@ -22284,7 +22284,7 @@
     <offer id="CKT01-M-LightBlue" available="false">
       <name lang="ru">Чемодан Wings COCKATIEL средний голубой (CKT01-M-LightBlue)</name>
       <name lang="ua">Валіза Wings COCKATIEL середня блакитна (CKT01-M-LightBlue)</name>
-      <price>3100</price>
+      <price>3200</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
@@ -22331,7 +22331,7 @@
     <offer id="CKT01-M-WhitePink" available="false">
       <name lang="ru">Чемодан Wings COCKATIEL средний розовый (CKT01-M-WhitePink)</name>
       <name lang="ua">Валіза Wings COCKATIEL середня рожева (CKT01-M-WhitePink)</name>
-      <price>3100</price>
+      <price>3200</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
@@ -22378,7 +22378,7 @@
     <offer id="CKT01-M-WhitePurple" available="false">
       <name lang="ru">Чемодан Wings COCKATIEL средний фиалковый (CKT01-M-WhitePurple)</name>
       <name lang="ua">Валіза Wings COCKATIEL середня фіалкова (CKT01-M-WhitePurple)</name>
-      <price>3100</price>
+      <price>3200</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
@@ -22423,7 +22423,7 @@
     <offer id="CKT01-S-LightBlue" available="false">
       <name lang="ru">Чемодан Wings COCKATIEL малый голубой (CKT01-S-LightBlue)</name>
       <name lang="ua">Валіза Wings COCKATIEL мала блакитна (CKT01-S-LightBlue)</name>
-      <price>2450</price>
+      <price>2500</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
@@ -22470,7 +22470,7 @@
     <offer id="CKT01-S-WhitePink" available="false">
       <name lang="ru">Чемодан Wings COCKATIEL малый розовый (CKT01-S-WhitePink)</name>
       <name lang="ua">Валіза Wings COCKATIEL мала рожева (CKT01-S-WhitePink)</name>
-      <price>2450</price>
+      <price>2500</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
@@ -22517,7 +22517,7 @@
     <offer id="CKT01-S-WhitePurple" available="false">
       <name lang="ru">Чемодан Wings COCKATIEL малый фиалковый (CKT01-S-WhitePurple)</name>
       <name lang="ua">Валіза Wings COCKATIEL мала фіалкова (CKT01-S-WhitePurple)</name>
-      <price>2450</price>
+      <price>2500</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
@@ -25646,8 +25646,8 @@
       <price>1073</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Grant 35л серый (Grant-XS-Grey)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Grant 35л сірий (Grant-XS-Grey)</description>
+      <description lang="ru">Рюкзак для ручной клади Grant 35л черный (Grant-XS-Black)</description>
+      <description lang="ua">Рюкзак для ручної поклажі Grant 35л чорний (Grant-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/35/riukzak-dlia-ruchnoi-poklazhi-grant-35l-siryi-grant-xs-grey-73596287183473_+7fbe026956.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/35/riukzak-dlia-ruchnoi-poklazhi-grant-35l-siryi-grant-xs-grey-75632785035244_+815afcccb4.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/35/riukzak-dlia-ruchnoi-poklazhi-grant-35l-siryi-grant-xs-grey-86778259729996_+0e368fa354.jpg</picture>
@@ -25676,8 +25676,8 @@
       <price>1365</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади GoldBe 35л черный (GoldBe-XS-Black)</description>
-      <description lang="ua">Рюкзак для ручної поклажі GoldBe 35л чорний (GoldBe-XS-Black)</description>
+      <description lang="ru">Рюкзак для ручной клади GoldBe 35л хаки (GoldBe-XS-Khaki)</description>
+      <description lang="ua">Рюкзак для ручної поклажі GoldBe 35л хакі (GoldBe-XS-Khaki)</description>
       <picture>https://sklad-valiz.com.ua/content/images/36/riukzak-dlia-ruchnoi-poklazhi-goldbe-35l-chornyi-goldbe-xs-black-54647558282665_+d016c700e4.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/36/riukzak-dlia-ruchnoi-poklazhi-goldbe-35l-chornyi-goldbe-xs-black-12871885865434_+dff670cff5.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/36/riukzak-dlia-ruchnoi-poklazhi-goldbe-35l-chornyi-goldbe-xs-black-97196485371497_+1482622974.jpg</picture>
@@ -25764,8 +25764,8 @@
       <price>4545</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
-      <description lang="ru">Рюкзак для ручной клади Ozuko 35л серый (Ozuko-XS-Grey)</description>
-      <description lang="ua">Рюкзак для ручної поклажі Ozuko 35л сірий (Ozuko-XS-Grey)</description>
+      <description lang="ru">Рюкзак для ручной клади Ozuko 35л черный (Ozuko-XS-Black)</description>
+      <description lang="ua">Рюкзак для ручної поклажі Ozuko 35л чорний (Ozuko-XS-Black)</description>
       <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-ozuko-35l-siryi-ozuko-xs-grey-75502976128152_+b09ae6e4c9.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-ozuko-35l-siryi-ozuko-xs-grey-96996311163917_+b695c2bfc9.jpg</picture>
       <picture>https://sklad-valiz.com.ua/content/images/39/riukzak-dlia-ruchnoi-poklazhi-ozuko-35l-siryi-ozuko-xs-grey-99985723808779_+0c35987a55.jpg</picture>
