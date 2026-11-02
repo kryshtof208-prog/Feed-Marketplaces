@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-02 00:11">
+<yml_catalog date="2026-11-02 06:11">
   <offers>
     <offer id="33703-L-Champagne" available="true">
       <name lang="ru">Чемодан из полипропилена Snowball 33703 большой 101л шампань (33703-L-Champagne)</name>
@@ -1211,44 +1211,6 @@
       <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
       <param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
       <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
-    <offer id="WN01-L-Silver" available="false">
-      <name lang="ru">Чемодан Wings WN01 большой 97 л серебряный (WN01-L-Silver)</name>
-      <name lang="ua">Валіза Wings WN01 велика 97 л срібна (WN01-L-Silver)</name>
-      <price>2750</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
-      <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Wings WN01 большой 97л шампань (WN01-L-Champagne)</description>
-      <description lang="ua">Валіза Wings WN01 велика 97л шампань (WN01-L-Champagne)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/5/valiza-wings-wn01-velyka-97-l-sribna-wn01-l-silver-73734287698755_+bca05af3ec.png</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <weight>4000</weight>
-      <param name="Вага" paramcode="150">4</param>
-      <param name="Розмір" paramcode="13291" valuecode="31eaf6494cd67259dd886705af575215">великі</param>
-      <param name="Об'єм" paramcode="104">97</param>
-      <height>760</height>
-      <param name="Висота" paramcode="110">76</param>
-      <width>500</width>
-      <param name="Ширина" paramcode="111">50</param>
-      <length>300</length>
-      <param name="Глибина" paramcode="112">30</param>
-      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -4772,7 +4734,7 @@
     <offer id="scales-TL000180-56" available="true">
       <name lang="ru">Весы для чемодана TL000180-56 (scales-TL000180-56)</name>
       <name lang="ua">Ваги для валізи TL000180-56 (scales-TL000180-56)</name>
-      <price>575</price>
+      <price>657</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <description lang="ru">Весы для чемодана TL000180-56 (scales-TL000180-56)</description>
@@ -4854,8 +4816,7 @@
     <offer id="TL096339-20-XS-Blue" available="false">
       <name lang="ru">Рюкзак для ручной клади Travelite 12л синий (TL096339-20-XS-Blue)</name>
       <name lang="ua">Рюкзак для ручної поклажі Travelite 12л синій (TL096339-20-XS-Blue)</name>
-      <price>1976</price>
-      <price_old>2470</price_old>
+      <price>2525</price>
       <category code="5442">Валізи</category>
       <attribute_set code="5442">Валізи</attribute_set>
       <description lang="ru">Рюкзак для ручной клади Travelite 12л синий (TL096339-20-XS-Blue)</description>
@@ -24563,13 +24524,9 @@
       <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
       <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Wings WN01 большой 97л шампань (WN01-L-Champagne)</description>
-      <description lang="ua">Валіза Wings WN01 велика 97л шампань (WN01-L-Champagne)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/22/87367770548879_+2af1ca494a.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/22/23505878311261_+55e2ba3876.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/22/55803039744401_+cb7b081ce4.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/22/37010182699287_+63a574a463.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/22/48296469926506_+705ec21b42.png</picture>
+      <description lang="ru">Кейс для чемодана из поликарбоната Wings WN01 15л серебряный (WN01PC-BC-Silver)</description>
+      <description lang="ua">Кейс для валізи з полікарбонату Wings WN01 15л срібний (WN01PC-BC-Silver)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/25/21478347446689_+b440b4578b.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="wrurwvuqlygwmcqd">кейс-пілот</param>
       <weight>1000</weight>
       <param name="Вага" paramcode="150">1</param>
@@ -24583,7 +24540,7 @@
       <param name="Глибина" paramcode="112">18</param>
       <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de512534">полікарбонат</param>
       <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
       <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
@@ -24607,11 +24564,9 @@
       <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
       <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Wings WN01 большой 97л шампань (WN01-L-Champagne)</description>
-      <description lang="ua">Валіза Wings WN01 велика 97л шампань (WN01-L-Champagne)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/23/15138383436673_+0c6b5107cb.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/23/67052187484006_+54ddc9d4a4.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/23/41258578676600_+f6e35e564e.jpg</picture>
+      <description lang="ru">Кейс для чемодана из поликарбоната Wings WN01 15л серебряный (WN01PC-BC-Silver)</description>
+      <description lang="ua">Кейс для валізи з полікарбонату Wings WN01 15л срібний (WN01PC-BC-Silver)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/25/21478347446689_+b440b4578b.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="wrurwvuqlygwmcqd">кейс-пілот</param>
       <weight>1000</weight>
       <param name="Вага" paramcode="150">1</param>
@@ -24625,7 +24580,7 @@
       <param name="Глибина" paramcode="112">18</param>
       <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de512534">полікарбонат</param>
       <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
       <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
@@ -24649,13 +24604,9 @@
       <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
       <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Wings WN01 большой 97л шампань (WN01-L-Champagne)</description>
-      <description lang="ua">Валіза Wings WN01 велика 97л шампань (WN01-L-Champagne)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/24/98502612235350_+867ea48de6.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/24/81865747359727_+dd7bafa2e9.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/24/25381833826033_+b38e7f2b78.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/24/36055676601771_+c4a0b3b426.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/24/84650023011952_+3b526e3575.jpg</picture>
+      <description lang="ru">Кейс для чемодана из поликарбоната Wings WN01 15л серебряный (WN01PC-BC-Silver)</description>
+      <description lang="ua">Кейс для валізи з полікарбонату Wings WN01 15л срібний (WN01PC-BC-Silver)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/25/21478347446689_+b440b4578b.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="wrurwvuqlygwmcqd">кейс-пілот</param>
       <weight>1000</weight>
       <param name="Вага" paramcode="150">1</param>
@@ -24669,7 +24620,7 @@
       <param name="Глибина" paramcode="112">18</param>
       <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de512534">полікарбонат</param>
       <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
       <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
@@ -24693,13 +24644,9 @@
       <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
       <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Wings WN01 большой 97л шампань (WN01-L-Champagne)</description>
-      <description lang="ua">Валіза Wings WN01 велика 97л шампань (WN01-L-Champagne)</description>
+      <description lang="ru">Кейс для чемодана из поликарбоната Wings WN01 15л серебряный (WN01PC-BC-Silver)</description>
+      <description lang="ua">Кейс для валізи з полікарбонату Wings WN01 15л срібний (WN01PC-BC-Silver)</description>
       <picture>https://sklad-valiz.com.ua/content/images/25/21478347446689_+b440b4578b.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/25/29409792105966_+c7baa8a4a1.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/25/39075142933882_+f91c5673b1.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/25/95348817226216_+0bfa9593a1.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/25/95966775154726_+77709f826e.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="wrurwvuqlygwmcqd">кейс-пілот</param>
       <weight>1000</weight>
       <param name="Вага" paramcode="150">1</param>
@@ -24713,7 +24660,7 @@
       <param name="Глибина" paramcode="112">18</param>
       <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de512534">полікарбонат</param>
       <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
       <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
@@ -24737,10 +24684,9 @@
       <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
       <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Wings WN01 большой 97л шампань (WN01-L-Champagne)</description>
-      <description lang="ua">Валіза Wings WN01 велика 97л шампань (WN01-L-Champagne)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/26/77323558247651_+314e707b4e.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/26/44332089399798_+38e46dbc55.jpg</picture>
+      <description lang="ru">Кейс для чемодана из поликарбоната Wings WN01 15л серебряный (WN01PC-BC-Silver)</description>
+      <description lang="ua">Кейс для валізи з полікарбонату Wings WN01 15л срібний (WN01PC-BC-Silver)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/27/83927242879915_+1a5b0a51ba.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="wrurwvuqlygwmcqd">кейс-пілот</param>
       <weight>1000</weight>
       <param name="Вага" paramcode="150">1</param>
@@ -24754,7 +24700,7 @@
       <param name="Глибина" paramcode="112">18</param>
       <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de512534">полікарбонат</param>
       <param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
       <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
@@ -24778,10 +24724,9 @@
       <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
       <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Wings WN01 большой 97л шампань (WN01-L-Champagne)</description>
-      <description lang="ua">Валіза Wings WN01 велика 97л шампань (WN01-L-Champagne)</description>
+      <description lang="ru">Кейс для чемодана из поликарбоната Wings WN01 15л серебряный (WN01PC-BC-Silver)</description>
+      <description lang="ua">Кейс для валізи з полікарбонату Wings WN01 15л срібний (WN01PC-BC-Silver)</description>
       <picture>https://sklad-valiz.com.ua/content/images/27/83927242879915_+1a5b0a51ba.jpg</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/27/85871451910474_+448a8fdd38.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="wrurwvuqlygwmcqd">кейс-пілот</param>
       <weight>1000</weight>
       <param name="Вага" paramcode="150">1</param>
@@ -24795,47 +24740,9 @@
       <param name="Глибина" paramcode="112">18</param>
       <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de512534">полікарбонат</param>
       <param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
       <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
-    <offer id="WN01-BC-Silver" available="false">
-      <name lang="ru">Кейс для чемодана Wings WN01 15 л серебряный (WN01-BC-Silver)</name>
-      <name lang="ua">Кейс для валізи Wings WN01 15 л срібний (WN01-BC-Silver)</name>
-      <price>1250</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
-      <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Wings WN01 большой 97л шампань (WN01-L-Champagne)</description>
-      <description lang="ua">Валіза Wings WN01 велика 97л шампань (WN01-L-Champagne)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/2/keis-dlia-valizy-wings-wn01-15-l-sribnyi-wn01-bc-silver-89708543019677_+6377484ae9.png</picture>
-      <param name="Вид" paramcode="51" valuecode="wrurwvuqlygwmcqd">кейс-пілот</param>
-      <weight>1000</weight>
-      <param name="Вага" paramcode="150">1</param>
-      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
-      <param name="Об'єм" paramcode="104">15</param>
-      <height>300</height>
-      <param name="Висота" paramcode="110">30</param>
-      <width>350</width>
-      <param name="Ширина" paramcode="111">35</param>
-      <length>180</length>
-      <param name="Глибина" paramcode="112">18</param>
-      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -24857,9 +24764,13 @@
       <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
       <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Wings WN01 большой 97л шампань (WN01-L-Champagne)</description>
-      <description lang="ua">Валіза Wings WN01 велика 97л шампань (WN01-L-Champagne)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/2/keis-dlia-valizy-z-polikarbonatu-wings-wn01-15l-sribnyi-wn01pc-bc-silver-63884510575233_+0acdd83801.jpg</picture>
+      <description lang="ru">Кейс для чемодана из поликарбоната Wings WN01 15л серебряный (WN01PC-BC-Silver)</description>
+      <description lang="ua">Кейс для валізи з полікарбонату Wings WN01 15л срібний (WN01PC-BC-Silver)</description>
+      <picture>https://sklad-valiz.com.ua/content/images/2/keis-dlia-valizy-z-polikarbonatu-wings-wn01-15l-sribnyi-wn01pc-bc-silver-42353281012333_+48b61fe6c4.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/2/keis-dlia-valizy-z-polikarbonatu-wings-wn01-15l-sribnyi-wn01pc-bc-silver-31744870958227_+9d1c78accb.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/2/keis-dlia-valizy-z-polikarbonatu-wings-wn01-15l-sribnyi-wn01pc-bc-silver-42166798603532_+4339b5c789.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/2/keis-dlia-valizy-z-polikarbonatu-wings-wn01-15l-sribnyi-wn01pc-bc-silver-70975134321613_+a80724e874.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/2/keis-dlia-valizy-z-polikarbonatu-wings-wn01-15l-sribnyi-wn01pc-bc-silver-15109114958895_+6b1f677f3f.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="wrurwvuqlygwmcqd">кейс-пілот</param>
       <weight>1000</weight>
       <param name="Вага" paramcode="150">1</param>
@@ -24873,7 +24784,7 @@
       <param name="Глибина" paramcode="112">18</param>
       <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
+      <param name="Матеріал" paramcode="52" valuecode="59474de512534">полікарбонат</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -25107,44 +25018,6 @@
       <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
       <param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
       <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
-    <offer id="WN01-M-Silver" available="false">
-      <name lang="ru">Чемодан Wings WN01 средний 63 л серебряный (WN01-M-Silver)</name>
-      <name lang="ua">Валіза Wings WN01 середня 63 л срібна (WN01-M-Silver)</name>
-      <price>2700</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
-      <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Wings WN01 большой 97л шампань (WN01-L-Champagne)</description>
-      <description lang="ua">Валіза Wings WN01 велика 97л шампань (WN01-L-Champagne)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-wings-wn01-serednia-63-l-sribna-wn01-m-silver-37444924315517_+bf70f17253.png</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <weight>3000</weight>
-      <param name="Вага" paramcode="150">3</param>
-      <param name="Розмір" paramcode="13291" valuecode="ca5a15bac6451c6c073d8e2b2b05aeda">середні</param>
-      <param name="Об'єм" paramcode="104">63</param>
-      <height>660</height>
-      <param name="Висота" paramcode="110">66</param>
-      <width>440</width>
-      <param name="Ширина" paramcode="111">44</param>
-      <length>260</length>
-      <param name="Глибина" paramcode="112">26</param>
-      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -25463,44 +25336,6 @@
       <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
       <param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
       <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
-    <offer id="WN01-S-Silver" available="false">
-      <name lang="ru">Чемодан для ручной клади Wings WN01 малый 33 л серебряный (WN01-S-Silver)</name>
-      <name lang="ua">Валіза для ручної поклажі Wings WN01 мала 33 л срібна (WN01-S-Silver)</name>
-      <price>2050</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <vendor code="hkpphtpoqpxibqxr">Wings</vendor>
-      <param name="Бренд" paramcode="5" valuecode="hkpphtpoqpxibqxr">Wings</param>
-      <param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <description lang="ru">Чемодан Wings WN01 большой 97л шампань (WN01-L-Champagne)</description>
-      <description lang="ua">Валіза Wings WN01 велика 97л шампань (WN01-L-Champagne)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-dlia-ruchnoi-poklazhi-wings-wn01-mala-33-l-sribna-wn01-s-silver-36517859496472_+4d1901028f.png</picture>
-      <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
-      <weight>3000</weight>
-      <param name="Вага" paramcode="150">3</param>
-      <param name="Розмір" paramcode="13291" valuecode="7d3a885601d88db9c5747d015bbfe1bc">маленькі</param>
-      <param name="Об'єм" paramcode="104">38</param>
-      <height>550</height>
-      <param name="Висота" paramcode="110">55</param>
-      <width>400</width>
-      <param name="Ширина" paramcode="111">40</param>
-      <length>220</length>
-      <param name="Глибина" paramcode="112">22</param>
-      <param name="Стать" paramcode="2469" valuecode="591f86e853d83">жіночі</param>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="pol">Польща</param>
-      <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
