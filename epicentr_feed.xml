@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-06 18:11">
+<yml_catalog date="2026-11-07 12:11">
   <offers>
     <offer id="33703-L-Black" available="true">
       <name lang="ru">Чемодан с полипропилена Snowball 33703 большой 101л черный (33703-L-Black)</name>
@@ -1567,6 +1567,29 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
+    <offer id="NPC-Blue-L" available="true">
+      <name lang="ru">Чехол для чемодана неопрен синий NPC-Blue-L</name>
+      <name lang="ua">Чохол для валізи неопрен синій NPC-Blue-L</name>
+      <price>600</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <description lang="ru">Чехол для чемодана неопрен NPC-Black-L</description>
+      <description lang="ua">Чохол для валізи неопрен NPC-Black-L</description>
+      <picture>https://sklad-valiz.com.ua/content/images/29/23293247821950_+232c40ff7a.jpg</picture>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+      <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
     <offer id="NPC-Fuchsia-M" available="true">
       <name lang="ru">Чехол для чемодана неопрен фуксия NPC-Fuchsia-M</name>
       <name lang="ua">Чохол для валізи неопрен фуксія NPC-Fuchsia-M</name>
@@ -1579,6 +1602,29 @@
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
       <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
+      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
+      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
+      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
+      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
+      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
+      <param name="Кількість коліс" paramcode="4130">4</param>
+      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
+      <param name="Кількість відділень" paramcode="6930">2</param>
+    </offer>
+    <offer id="NPC-Dark-Green-M" available="true">
+      <name lang="ru">Чехол для чемодана неопрен темно-зеленый NPC-Dark-Green-M</name>
+      <name lang="ua">Чохол для валізи неопрен темно-зелений NPC-Dark-Green-M</name>
+      <price>600</price>
+      <category code="5442">Валізи</category>
+      <attribute_set code="5442">Валізи</attribute_set>
+      <description lang="ru">Чехол для чемодана неопрен NPC-Black-L</description>
+      <description lang="ua">Чохол для валізи неопрен NPC-Black-L</description>
+      <picture>https://sklad-valiz.com.ua/content/images/44/chokhol-dlia-valizy-neopren-temno-zelenyi-npc-dark-green-m-61611075024005_+a3586220ca.jpg</picture>
+      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
+      <param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
       <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
       <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
       <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
@@ -1668,52 +1714,6 @@
       <description lang="ru">Чехол для чемодана неопрен NPC-Black-L</description>
       <description lang="ua">Чохол для валізи неопрен NPC-Black-L</description>
       <picture>https://sklad-valiz.com.ua/content/images/48/chokhol-dlia-valizy-neopren-temno-zelenyi-npc-dark-green-l-49144155258896_+4ce4d3d5aa.jpg</picture>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
-      <param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
-    <offer id="NPC-Blue-L" available="false">
-      <name lang="ru">Чехол для чемодана неопрен синий NPC-Blue-L</name>
-      <name lang="ua">Чохол для валізи неопрен синій NPC-Blue-L</name>
-      <price>600</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <description lang="ru">Чехол для чемодана неопрен NPC-Black-L</description>
-      <description lang="ua">Чохол для валізи неопрен NPC-Black-L</description>
-      <picture>https://sklad-valiz.com.ua/content/images/29/23293247821950_+232c40ff7a.jpg</picture>
-      <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
-      <param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
-      <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
-      <param name="Матеріал коліс" paramcode="2300" valuecode="1b832dd43b538c9db53248af37b5a805">поліуретан</param>
-      <param name="Тип коліс" paramcode="4531" valuecode="b09af7994e166efd9587acd52670f34c">поворотні</param>
-      <param name="Декор" paramcode="4818" valuecode="ukggm16z1hxewonl">без декору</param>
-      <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-      <param name="Форма продажу" paramcode="12907" valuecode="2a9ad02757fd4d35f234b682b245b270">поштучно</param>
-      <param name="Наявність коліс" paramcode="12262" valuecode="4b2b9dc1b320fdbe2ba647d345c79736">з колесами</param>
-      <param name="Тип ручки" paramcode="4566" valuecode="e47e3303ed2c355e4f1effadb98e636f">телескопічна</param>
-      <param name="Кількість коліс" paramcode="4130">4</param>
-      <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
-      <param name="Кількість відділень" paramcode="6930">2</param>
-    </offer>
-    <offer id="NPC-Dark-Green-M" available="false">
-      <name lang="ru">Чехол для чемодана неопрен темно-зеленый NPC-Dark-Green-M</name>
-      <name lang="ua">Чохол для валізи неопрен темно-зелений NPC-Dark-Green-M</name>
-      <price>600</price>
-      <category code="5442">Валізи</category>
-      <attribute_set code="5442">Валізи</attribute_set>
-      <description lang="ru">Чехол для чемодана неопрен NPC-Black-L</description>
-      <description lang="ua">Чохол для валізи неопрен NPC-Black-L</description>
-      <picture>https://sklad-valiz.com.ua/content/images/44/chokhol-dlia-valizy-neopren-temno-zelenyi-npc-dark-green-m-61611075024005_+a3586220ca.jpg</picture>
       <param name="Країна-виробник" paramcode="country_of_origin" valuecode="ukr">Україна</param>
       <param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
       <param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
@@ -3685,12 +3685,13 @@
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
       <description lang="ru">Чемодан с расширением Airtex 647 большой 105л серый (647-L-Gray)</description>
       <description lang="ua">Валіза з розширенням Airtex 647 велика 105л сіра (647-L-Gray)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/4/35809751890422_+7505c05ace.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/4/86366540509598_+37ea8712be.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/4/68724216326068_+1ec3ebe7c0.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/4/33667891498768_+77af9c20f2.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/4/20367115727596_+7abcdd8d2e.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/4/66782553396426_+165158a874.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-68279339310766_+dbad69cd36.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-61853120032159_+a94235bf79.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-94627678449106_+c5ebe8ea40.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-81229659598544_+bd46165a48.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-41521376613504_+77a4b65bc8.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-43053297153350_+9f5703bdec.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-79126270077344_+bd47b7e396.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <weight>5000</weight>
       <param name="Вага" paramcode="150">5</param>
@@ -3730,12 +3731,13 @@
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
       <description lang="ru">Чемодан с расширением Airtex 647 большой 105л серый (647-L-Gray)</description>
       <description lang="ua">Валіза з розширенням Airtex 647 велика 105л сіра (647-L-Gray)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/4/35809751890422_+7505c05ace.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/4/86366540509598_+37ea8712be.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/4/68724216326068_+1ec3ebe7c0.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/4/33667891498768_+77af9c20f2.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/4/20367115727596_+7abcdd8d2e.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/4/66782553396426_+165158a874.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-76272006035077_+2c369511b9.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-76817082582527_+6912349778.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-88678686892376_+dcf7e71a3d.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-16137710865724_+c2e50a9c49.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-90106772321140_+332f6a4e67.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-71259119481882_+06cb48a908.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/4/valiza-airtex-647-velyka-105l-sira-647-l-gray-46982512507660_+acce055226.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <weight>5000</weight>
       <param name="Вага" paramcode="150">5</param>
@@ -4523,7 +4525,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="22103-XS-Black" available="true">
+    <offer id="22103-XS-Black" available="false">
       <name lang="ru">Рюкзак для ручной клади Snowball 24л черный (22103-XS-Black)</name>
       <name lang="ua">Рюкзак для ручної поклажі Snowball 24л чорний (22103-XS-Black)</name>
       <price>3270</price>
@@ -20082,12 +20084,13 @@
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
       <description lang="ru">Чемодан с расширением Airtex 647 средний 72л серый (647-M-Gray)</description>
       <description lang="ua">Валіза з розширенням Airtex 647 середня 72л сіра (647-M-Gray)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/3/79710539915513_+45cb0420d4.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/3/47440951287029_+f6424cb698.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/3/89442936344579_+c56abe5158.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/3/14161229629847_+3acc0dd348.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/3/41362220246378_+49a3011ea0.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/3/37686568957872_+89e8078876.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-33011368661525_+231b0fa64e.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-79960773807477_+ccf01accf2.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-61810496999592_+c75de482af.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-59741935979742_+c9e7fabca1.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-35831010181754_+4b0fc83da7.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-21413744575713_+144f0ea7e0.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/3/valiza-airtex-647-serednia-72l-sira-647-m-gray-89891596162782_+714ad4b436.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <weight>4000</weight>
       <param name="Вага" paramcode="150">4</param>
@@ -20127,12 +20130,13 @@
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
       <description lang="ru">Чемодан с расширением Airtex 647 средний 72л серый (647-M-Gray)</description>
       <description lang="ua">Валіза з розширенням Airtex 647 середня 72л сіра (647-M-Gray)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/3/79710539915513_+45cb0420d4.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/3/47440951287029_+f6424cb698.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/3/89442936344579_+c56abe5158.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/3/14161229629847_+3acc0dd348.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/3/41362220246378_+49a3011ea0.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/3/37686568957872_+89e8078876.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-89831030667937_+73323613c0.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-77180202213850_+df3b740908.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-45198648403472_+34a04ede8b.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-29578742837802_+995ab7881e.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-33396727527479_+4dfe18b37d.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-91648184536864_+7def07e826.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-48085420703076_+aaae909536.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <weight>4000</weight>
       <param name="Вага" paramcode="150">4</param>
@@ -20172,12 +20176,13 @@
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
       <description lang="ru">Чемодан с отделением для ноутбука Airtex 647 малый 40л серый (647-S-Gray)</description>
       <description lang="ua">Валіза з відділенням для ноутбуку Airtex 647 мала 40л сіра (647-S-Gray)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/5/95593219484704_+e636c358e4.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/5/69145110140445_+f52ce14868.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/5/38917767174177_+a63170b148.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/5/77517948729572_+9c7ff3b316.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/5/90764705163604_+ccd6bc8377.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/5/42818947632113_+72701e058b.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-36086568490614_+470f2dea9d.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-49049897601794_+204bd41d87.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-22927441244659_+af2ceda300.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-48062331191721_+1b409b333e.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-23379320591050_+f23d98b9a8.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-50909746133177_+75ca9d6c65.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/5/valiza-airtex-647-mala-40l-sira-647-s-gray-44072187065842_+bf1ca664ca.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <weight>3000</weight>
       <param name="Вага" paramcode="150">3</param>
@@ -20217,12 +20222,13 @@
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
       <description lang="ru">Чемодан с отделением для ноутбука Airtex 647 малый 40л серый (647-S-Gray)</description>
       <description lang="ua">Валіза з відділенням для ноутбуку Airtex 647 мала 40л сіра (647-S-Gray)</description>
-      <picture>https://sklad-valiz.com.ua/content/images/5/95593219484704_+e636c358e4.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/5/69145110140445_+f52ce14868.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/5/38917767174177_+a63170b148.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/5/77517948729572_+9c7ff3b316.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/5/90764705163604_+ccd6bc8377.png</picture>
-      <picture>https://sklad-valiz.com.ua/content/images/5/42818947632113_+72701e058b.png</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-viddilenniam-dlia-noutbuku-airtex-647-mala-40l-chorna-647-s-black-84049832299973_+5d95197585.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-viddilenniam-dlia-noutbuku-airtex-647-mala-40l-chorna-647-s-black-53050784436129_+5023c592cd.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-viddilenniam-dlia-noutbuku-airtex-647-mala-40l-chorna-647-s-black-27472656606633_+846c2c2185.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-viddilenniam-dlia-noutbuku-airtex-647-mala-40l-chorna-647-s-black-84082042207281_+1bc9235df2.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-viddilenniam-dlia-noutbuku-airtex-647-mala-40l-chorna-647-s-black-29396631209543_+8489780dca.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-viddilenniam-dlia-noutbuku-airtex-647-mala-40l-chorna-647-s-black-73933554450863_+9938823826.jpg</picture>
+      <picture>https://sklad-valiz.com.ua/content/images/8/valiza-z-viddilenniam-dlia-noutbuku-airtex-647-mala-40l-chorna-647-s-black-23695265907725_+02d2abba01.jpg</picture>
       <param name="Вид" paramcode="51" valuecode="59474de50d086">валіза класична</param>
       <weight>3000</weight>
       <param name="Вага" paramcode="150">3</param>
@@ -26495,7 +26501,7 @@
       <param name="Вид застібки" paramcode="4790" valuecode="2944a4d50b2c51a63d1de3ea03a827b4">блискавка</param>
       <param name="Кількість відділень" paramcode="6930">2</param>
     </offer>
-    <offer id="66101-XS-Silver" available="true">
+    <offer id="66101-XS-Silver" available="false">
       <name lang="ru">Чемодан для лоукоста Carbon мини 20л серебряный (66101-XS-Silver)</name>
       <name lang="ua">Валіза для лоукосту Carbon міні 20л срібна (66101-XS-Silver)</name>
       <price>1490</price>
