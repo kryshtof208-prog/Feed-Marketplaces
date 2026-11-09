@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-09 12:16">
+<yml_catalog date="2026-11-09 18:16">
 <shop>
 <name>Sklad Valiz</name>
 <company>Sklad Valiz</company>
@@ -2063,33 +2063,6 @@
 <param name="Підходить для ручної поклажі">Так</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="49403-M-Gray" available="true" group_id="49403-M-Gray">
-<url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-snowball-49403-serednia-69l-sira-49403-m-gray/</url>
-<price>4950</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/28/valiza-z-rozshyrenniam-snowball-49403-serednia-69l-sira-49403-m-gray-13973850328141_+70abfdf2a4.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан с расширением Snowball 49403 средний 69л серый (49403-M-Gray)</name>
-<name_ua>Валіза з розширенням Snowball 49403 середня 69л сіра (49403-M-Gray)</name_ua>
-<vendor>Snowball</vendor>
-<vendorCode>49403-M-Gray</vendorCode>
-<description>-</description>
-<description_ua>-</description_ua>
-<country_of_origin>Франція</country_of_origin>
-<param name="Колір">Сірий</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Поліпропілен</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">M</param>
-<param name="Країна виробник">Франція</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Ні</param>
-<param name="Стан">Новий</param>
-</offer>
 <offer id="49403-L-Gray" available="true" group_id="49403-L-Gray">
 <url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-snowball-49403-velyka-113l-sira-49403-l-gray/</url>
 <price>5300</price>
@@ -2558,39 +2531,6 @@
 <description_ua>Валіза з поліпропілену Snowball 43803 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
 <country_of_origin>Франція</country_of_origin>
 <param name="Колір">Білий</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Поліпропілен</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">L</param>
-<param name="Країна виробник">Франція</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Ні</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="43803-L-Black" available="true" group_id="43803-L-Black">
-<url>https://sklad-valiz.com.ua/valiza-z-polipropilenu-snowball-43803-velyka-116l-chorna-43803-l-black/</url>
-<price>3900</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/28/77598465496977_+59f15df3a4.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/28/30741094384802_+5b3859f5ac.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/28/13826578300981_+99d7507ddf.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/28/54213548664749_+0404db3a9c.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/28/65598021069302_+ff9a089a0e.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/28/20866602897114_+06acc03c73.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/28/71941043769879_+9cf3292e02.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан из полипропилена Snowball 43803 большой 116л черный (43803-L-Black)</name>
-<name_ua>Валіза з поліпропілену Snowball 43803 велика 116л чорна (43803-L-Black)</name_ua>
-<vendor>Snowball</vendor>
-<vendorCode>43803-L-Black</vendorCode>
-<description>Валіза з поліпропілену Snowball 43803 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description>
-<description_ua>Валіза з поліпропілену Snowball 43803 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-<country_of_origin>Франція</country_of_origin>
-<param name="Колір">Чорний</param>
 <param name="Тип">Валізи</param>
 <param name="Матеріал">Поліпропілен</param>
 <param name="Кількість коліс">4 колеса</param>
@@ -7778,39 +7718,6 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="647-L-Black" available="true" group_id="647-L-Black">
-<url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black/</url>
-<price>5800</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-68279339310766_+dbad69cd36.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-61853120032159_+a94235bf79.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-94627678449106_+c5ebe8ea40.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-81229659598544_+bd46165a48.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-41521376613504_+77a4b65bc8.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-43053297153350_+9f5703bdec.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-79126270077344_+bd47b7e396.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан с расширением Airtex 647 большой 105л черный (647-L-Black)</name>
-<name_ua>Валіза з розширенням Airtex 647 велика 105л чорна (647-L-Black)</name_ua>
-<vendor>Airtex</vendor>
-<vendorCode>647-L-Black</vendorCode>
-<description>Валіза з розширенням Airtex 647 в розмірі L - це втілення максимальної місткості та статусного дизайну для тривалих подорожей від 10 днів або великих сімейних поїздок. Головною особливістю моделі є інтегрована система розширення, яка дозволяє значно збільшити корисний об&amp;rsquo;єм для додаткових речей або подарунків. Корпус виготовлено з високомолекулярного поліпропілену преміумкласу, що гарантує феноменальну міцність і гнучкість під екстремальним тиском у багажному відсіку. Валіза оснащена посиленою безшумною колісною системою з амортизацією, яка забезпечує легке й плавне керування навіть при максимальному завантаженні. Для безкомпромісного захисту вмісту передбачено вбудований у корпус кодовий замок із функцією TSA. Внутрішній простір оздоблено розкішним зносостійким текстилем із продуманою системою перегородок та еластичних фіксаторів для ідеального порядку. Ергономічна телескопічна ручка з авіаційного алюмінію має кілька рівнів фіксації, підлаштовуючись під ваш зріст для максимального комфорту. Це ідеальний вибір для тих, хто подорожує масштабно, не відмовляючи собі в комфорті та естетиці. Вага завантаження становить 22-25кг.</description>
-<description_ua>Валіза з розширенням Airtex 647 в розмірі L - це втілення максимальної місткості та статусного дизайну для тривалих подорожей від 10 днів або великих сімейних поїздок. Головною особливістю моделі є інтегрована система розширення, яка дозволяє значно збільшити корисний об&amp;rsquo;єм для додаткових речей або подарунків. Корпус виготовлено з високомолекулярного поліпропілену преміумкласу, що гарантує феноменальну міцність і гнучкість під екстремальним тиском у багажному відсіку. Валіза оснащена посиленою безшумною колісною системою з амортизацією, яка забезпечує легке й плавне керування навіть при максимальному завантаженні. Для безкомпромісного захисту вмісту передбачено вбудований у корпус кодовий замок із функцією TSA. Внутрішній простір оздоблено розкішним зносостійким текстилем із продуманою системою перегородок та еластичних фіксаторів для ідеального порядку. Ергономічна телескопічна ручка з авіаційного алюмінію має кілька рівнів фіксації, підлаштовуючись під ваш зріст для максимального комфорту. Це ідеальний вибір для тих, хто подорожує масштабно, не відмовляючи собі в комфорті та естетиці. Вага завантаження становить 22-25кг.</description_ua>
-<country_of_origin>Франція</country_of_origin>
-<param name="Колір">Чорний</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Поліпропілен</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">L</param>
-<param name="Країна виробник">Франція</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Ні</param>
-<param name="Стан">Новий</param>
-</offer>
 <offer id="WN01PC-BC-Silver" available="true" group_id="WN01PC-BC-Silver">
 <url>https://sklad-valiz.com.ua/keis-dlia-valizy-z-polikarbonatu-wings-wn01-15l-sribnyi-wn01pc-bc-silver/</url>
 <price>1250</price>
@@ -12366,6 +12273,33 @@
 <param name="Підходить для ручної поклажі">Так</param>
 <param name="Стан">Новий</param>
 </offer>
+<offer id="49403-M-Gray" available="false" group_id="49403-M-Gray">
+<url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-snowball-49403-serednia-69l-sira-49403-m-gray/</url>
+<price>4950</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/28/valiza-z-rozshyrenniam-snowball-49403-serednia-69l-sira-49403-m-gray-13973850328141_+70abfdf2a4.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан с расширением Snowball 49403 средний 69л серый (49403-M-Gray)</name>
+<name_ua>Валіза з розширенням Snowball 49403 середня 69л сіра (49403-M-Gray)</name_ua>
+<vendor>Snowball</vendor>
+<vendorCode>49403-M-Gray</vendorCode>
+<description>-</description>
+<description_ua>-</description_ua>
+<country_of_origin>Франція</country_of_origin>
+<param name="Колір">Сірий</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">M</param>
+<param name="Країна виробник">Франція</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
 <offer id="49403-M-Champagne" available="false" group_id="49403-M-Champagne">
 <url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-snowball-49403-serednia-69l-shampan-49403-m-champagne/</url>
 <price>4950</price>
@@ -12857,6 +12791,39 @@
 <param name="Замок">Кодовий</param>
 <param name="Розмір">M</param>
 <param name="Країна виробник">Україна</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="43803-L-Black" available="false" group_id="43803-L-Black">
+<url>https://sklad-valiz.com.ua/valiza-z-polipropilenu-snowball-43803-velyka-116l-chorna-43803-l-black/</url>
+<price>3900</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/28/77598465496977_+59f15df3a4.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/28/30741094384802_+5b3859f5ac.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/28/13826578300981_+99d7507ddf.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/28/54213548664749_+0404db3a9c.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/28/65598021069302_+ff9a089a0e.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/28/20866602897114_+06acc03c73.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/28/71941043769879_+9cf3292e02.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан из полипропилена Snowball 43803 большой 116л черный (43803-L-Black)</name>
+<name_ua>Валіза з поліпропілену Snowball 43803 велика 116л чорна (43803-L-Black)</name_ua>
+<vendor>Snowball</vendor>
+<vendorCode>43803-L-Black</vendorCode>
+<description>Валіза з поліпропілену Snowball 43803 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description>
+<description_ua>Валіза з поліпропілену Snowball 43803 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+<country_of_origin>Франція</country_of_origin>
+<param name="Колір">Чорний</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">L</param>
+<param name="Країна виробник">Франція</param>
 <param name="Особливості">Висувна ручка</param>
 <param name="Тип коліс">Поворотні</param>
 <param name="Підходить для ручної поклажі">Ні</param>
@@ -14553,6 +14520,39 @@
 <param name="Підходить для ручної поклажі">Так</param>
 <param name="Стан">Новий</param>
 </offer>
+<offer id="647-L-Black" available="false" group_id="647-L-Black">
+<url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black/</url>
+<price>5800</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-68279339310766_+dbad69cd36.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-61853120032159_+a94235bf79.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-94627678449106_+c5ebe8ea40.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-81229659598544_+bd46165a48.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-41521376613504_+77a4b65bc8.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-43053297153350_+9f5703bdec.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/10/valiza-z-rozshyrenniam-airtex-647-velyka-105l-chorna-647-l-black-79126270077344_+bd47b7e396.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан с расширением Airtex 647 большой 105л черный (647-L-Black)</name>
+<name_ua>Валіза з розширенням Airtex 647 велика 105л чорна (647-L-Black)</name_ua>
+<vendor>Airtex</vendor>
+<vendorCode>647-L-Black</vendorCode>
+<description>Валіза з розширенням Airtex 647 в розмірі L - це втілення максимальної місткості та статусного дизайну для тривалих подорожей від 10 днів або великих сімейних поїздок. Головною особливістю моделі є інтегрована система розширення, яка дозволяє значно збільшити корисний об&amp;rsquo;єм для додаткових речей або подарунків. Корпус виготовлено з високомолекулярного поліпропілену преміумкласу, що гарантує феноменальну міцність і гнучкість під екстремальним тиском у багажному відсіку. Валіза оснащена посиленою безшумною колісною системою з амортизацією, яка забезпечує легке й плавне керування навіть при максимальному завантаженні. Для безкомпромісного захисту вмісту передбачено вбудований у корпус кодовий замок із функцією TSA. Внутрішній простір оздоблено розкішним зносостійким текстилем із продуманою системою перегородок та еластичних фіксаторів для ідеального порядку. Ергономічна телескопічна ручка з авіаційного алюмінію має кілька рівнів фіксації, підлаштовуючись під ваш зріст для максимального комфорту. Це ідеальний вибір для тих, хто подорожує масштабно, не відмовляючи собі в комфорті та естетиці. Вага завантаження становить 22-25кг.</description>
+<description_ua>Валіза з розширенням Airtex 647 в розмірі L - це втілення максимальної місткості та статусного дизайну для тривалих подорожей від 10 днів або великих сімейних поїздок. Головною особливістю моделі є інтегрована система розширення, яка дозволяє значно збільшити корисний об&amp;rsquo;єм для додаткових речей або подарунків. Корпус виготовлено з високомолекулярного поліпропілену преміумкласу, що гарантує феноменальну міцність і гнучкість під екстремальним тиском у багажному відсіку. Валіза оснащена посиленою безшумною колісною системою з амортизацією, яка забезпечує легке й плавне керування навіть при максимальному завантаженні. Для безкомпромісного захисту вмісту передбачено вбудований у корпус кодовий замок із функцією TSA. Внутрішній простір оздоблено розкішним зносостійким текстилем із продуманою системою перегородок та еластичних фіксаторів для ідеального порядку. Ергономічна телескопічна ручка з авіаційного алюмінію має кілька рівнів фіксації, підлаштовуючись під ваш зріст для максимального комфорту. Це ідеальний вибір для тих, хто подорожує масштабно, не відмовляючи собі в комфорті та естетиці. Вага завантаження становить 22-25кг.</description_ua>
+<country_of_origin>Франція</country_of_origin>
+<param name="Колір">Чорний</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">L</param>
+<param name="Країна виробник">Франція</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
 <offer id="33703-L-Black" available="true" group_id="33703-L-Black">
 <url>https://sklad-valiz.com.ua/valiza-snowball-33703-velyka-101l-chorna-33703-l-black/</url>
 <salePrice>2678</salePrice>
@@ -15670,7 +15670,7 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="49403-M-White" available="true" group_id="49403-M-White">
+<offer id="49403-M-White" available="false" group_id="49403-M-White">
 <url>https://sklad-valiz.com.ua/valiza-snowball-49403-serednia-bila-49403-m-white/</url>
 <price>4950</price>
 <currencyId>UAH</currencyId>
