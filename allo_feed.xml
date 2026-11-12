@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-12 12:16">
+<yml_catalog date="2026-11-12 18:16">
 <shop>
 <name>Sklad Valiz</name>
 <company>Sklad Valiz</company>
@@ -15,7 +15,6 @@
 <offers>
 <offer id="2501-S-Grey" available="true" group_id="2501-S-Grey">
 <url>https://sklad-valiz.com.ua/valiza-wings-2501-mala-38l-sira-2501-s-grey/</url>
-<salePrice>1360</salePrice>
 <price>1700</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -48,6 +47,7 @@
 </offer>
 <offer id="53103-L-Champagne" available="true" group_id="53103-L-Champagne">
 <url>https://sklad-valiz.com.ua/valiza-madisson-53103-velyka-102l-shampan-53103-l-champagne/</url>
+<salePrice>2205</salePrice>
 <price>2450</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -81,6 +81,7 @@
 </offer>
 <offer id="53103-L-Gray" available="true" group_id="53103-L-Gray">
 <url>https://sklad-valiz.com.ua/valiza-madisson-53103-velyka-102l-sira-53103-l-gray/</url>
+<salePrice>2205</salePrice>
 <price>2450</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -624,7 +625,6 @@
 </offer>
 <offer id="2011-XS-Black" available="true" group_id="2011-XS-Black">
 <url>https://sklad-valiz.com.ua/valiza-wings-2011-mini-28l-chorna-2011-xs-black/</url>
-<salePrice>996</salePrice>
 <price>1200</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -657,7 +657,6 @@
 </offer>
 <offer id="2011-XS-Coffee" available="true" group_id="2011-XS-Coffee">
 <url>https://sklad-valiz.com.ua/valiza-wings-2011-mini-28l-kavova-2011-xs-coffee/</url>
-<salePrice>996</salePrice>
 <price>1200</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -690,6 +689,7 @@
 </offer>
 <offer id="20303-L-Red" available="true" group_id="20303-L-Red">
 <url>https://sklad-valiz.com.ua/valiza-snowball-20303-velyka-108l-chervona-20303-l-red/</url>
+<salePrice>3960</salePrice>
 <price>4400</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -789,6 +789,7 @@
 </offer>
 <offer id="49403-L-Red" available="true" group_id="49403-L-Red">
 <url>https://sklad-valiz.com.ua/valiza-snowball-49403-velyka-113l-chervona-49403-l-red/</url>
+<salePrice>4770</salePrice>
 <price>5300</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -976,7 +977,6 @@
 </offer>
 <offer id="YUA2-XS-Can-Kara" available="true" group_id="YUA2-XS-Can-Kara">
 <url>https://sklad-valiz.com.ua/dytiacha-valiza-yua2-mini-25l-blakytna-yua2-xs-can-kara/</url>
-<salePrice>1575</salePrice>
 <price>1750</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -1022,8 +1022,8 @@
 <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л сірий (HIMAWARI-XS-Gray)</name_ua>
 <vendor>HIMAWARI</vendor>
 <vendorCode>HIMAWARI-XS-Gray</vendorCode>
-<description>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description>
-<description_ua>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description_ua>
+<description>Рюкзак для лоукосту HIMAWARI - це ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу. Вага завантаження 5-7кг.</description>
+<description_ua>Рюкзак для лоукосту HIMAWARI - це ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу. Вага завантаження 5-7кг.</description_ua>
 <country_of_origin>Япония</country_of_origin>
 <param name="Колір">Сірий</param>
 <param name="Тип">Рюкзак</param>
@@ -1046,8 +1046,8 @@
 <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л синій (HIMAWARI-XS-Blue)</name_ua>
 <vendor>HIMAWARI</vendor>
 <vendorCode>HIMAWARI-XS-Blue</vendorCode>
-<description>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description>
-<description_ua>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description_ua>
+<description>Рюкзак для лоукосту HIMAWARI - це ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу. Вага завантаження 5-7кг.</description>
+<description_ua>Рюкзак для лоукосту HIMAWARI - це ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу. Вага завантаження 5-7кг.</description_ua>
 <country_of_origin>Япония</country_of_origin>
 <param name="Колір">Синій</param>
 <param name="Тип">Рюкзак</param>
@@ -1223,6 +1223,7 @@
 </offer>
 <offer id="33703-L-Yellow" available="true" group_id="33703-L-Yellow">
 <url>https://sklad-valiz.com.ua/valiza-snowball-33703-velyka-101l-zhovta-33703-l-yellow/</url>
+<salePrice>2678</salePrice>
 <price>3150</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -1247,39 +1248,6 @@
 <param name="Матеріал">Поліпропілен</param>
 <param name="Кількість коліс">4 колеса</param>
 <param name="Замок">Кодовий</param>
-<param name="Розмір">L</param>
-<param name="Країна виробник">Франція</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Ні</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="49203-L-Black" available="true" group_id="49203-L-Black">
-<url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black/</url>
-<price>4800</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/49/43319709355444_+87179f1015.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/49/25268682043347_+eb0be4f0c3.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/49/77003731969716_+31b761f470.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/49/46477341562804_+207638097f.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/49/96052879379753_+ecb914d4ef.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/49/16391082064171_+19cd3a523b.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/49/12055402460316_+970c9b397c.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан с расширением Snowball 49203 большой 109л черный (49203-L-Black)</name>
-<name_ua>Валіза з розширенням Snowball 49203 велика 109л чорна (49203-L-Black)</name_ua>
-<vendor>Snowball</vendor>
-<vendorCode>49203-L-Black</vendorCode>
-<description>Валіза з розширенням Snowball 49203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description>
-<description_ua>Валіза з розширенням Snowball 49203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-<country_of_origin>Франція</country_of_origin>
-<param name="Колір">Чорний</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Поліпропілен</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
 <param name="Розмір">L</param>
 <param name="Країна виробник">Франція</param>
 <param name="Особливості">Висувна ручка</param>
@@ -1421,7 +1389,6 @@
 </offer>
 <offer id="19168-XS-Grey" available="true" group_id="19168-XS-Grey">
 <url>https://sklad-valiz.com.ua/valiza-dlia-ruchnoi-poklazhi-wings-19168-mini-28-l-sira-19168-xs-grey/</url>
-<salePrice>1013</salePrice>
 <price>1350</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -1454,7 +1421,6 @@
 </offer>
 <offer id="19168-XS-Champagne" available="true" group_id="19168-XS-Champagne">
 <url>https://sklad-valiz.com.ua/valiza-dlia-ruchnoi-poklazhi-wings-19168-mini-28-l-shampan-19168-xs-champagne/</url>
-<salePrice>1013</salePrice>
 <price>1350</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -1487,7 +1453,6 @@
 </offer>
 <offer id="19168-XS-Dark-green" available="true" group_id="19168-XS-Dark-green">
 <url>https://sklad-valiz.com.ua/valiza-dlia-ruchnoi-poklazhi-wings-19168-mini-28-l-zelena-19168-xs-dark-green/</url>
-<salePrice>1013</salePrice>
 <price>1350</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -1520,7 +1485,6 @@
 </offer>
 <offer id="160PC-XS-Silver" available="true" group_id="160PC-XS-Silver">
 <url>https://sklad-valiz.com.ua/valiza-dlia-ruchnoi-poklazhi-wings-160pc-mini-28l-sribna-160pc-xs-silver/</url>
-<salePrice>1125</salePrice>
 <price>1500</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -1651,6 +1615,7 @@
 </offer>
 <offer id="20303-L-Black" available="true" group_id="20303-L-Black">
 <url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-snowball-20303-velyka-108l-chorna-20303-l-black/</url>
+<salePrice>3960</salePrice>
 <price>4400</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -1684,7 +1649,6 @@
 </offer>
 <offer id="2011-XS-Champagne" available="true" group_id="2011-XS-Champagne">
 <url>https://sklad-valiz.com.ua/valiza-dlia-ruchnoi-poklazhi-wings-2011-mini-28l-shampan-2011-xs-champagne/</url>
-<salePrice>996</salePrice>
 <price>1200</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -1717,6 +1681,7 @@
 </offer>
 <offer id="GDW01-L-Dark-blue" available="true" group_id="GDW01-L-Dark-blue">
 <url>https://sklad-valiz.com.ua/valiza-wings-gdw01-velyka-97l-synia-gdw01-l-dark-blue/</url>
+<salePrice>1935</salePrice>
 <price>2150</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -1837,7 +1802,6 @@
 </offer>
 <offer id="131-S-Beige" available="true" group_id="131-S-Beige">
 <url>https://sklad-valiz.com.ua/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-bezheva-131-s-beige/</url>
-<salePrice>1360</salePrice>
 <price>1600</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -1904,6 +1868,7 @@
 </offer>
 <offer id="131-L-LightBlue" available="true" group_id="131-L-LightBlue">
 <url>https://sklad-valiz.com.ua/valiza-fashion-131-velyka-92l-blakytna-131-l-lightblue/</url>
+<salePrice>1980</salePrice>
 <price>2200</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -1970,7 +1935,6 @@
 </offer>
 <offer id="131-L-Beige" available="true" group_id="131-L-Beige">
 <url>https://sklad-valiz.com.ua/valiza-fashion-131-velyka-92l-bezheva-131-l-beige/</url>
-<salePrice>1870</salePrice>
 <price>2200</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -2110,12 +2074,12 @@
 <picture>https://sklad-valiz.com.ua/content/images/37/riukzak-dlia-ruchnoi-poklazhi-himawari-17l-chervonyi-himawari-xs-red-70280970195137_+973a14fece.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>Рюкзак для ручной клади HIMAWARI 17л красный (HIMAWARI-XS-Red)</name>
-<name_ua>Рюкзак для ручної поклажі HIMAWARI 17л червоний (HIMAWARI-XS-Red)</name_ua>
+<name>Рюкзак для лоукоста 17л красный (HIMAWARI-XS-Red)</name>
+<name_ua>Рюкзак для лоукосту 17л червоний (HIMAWARI-XS-Red)</name_ua>
 <vendor>HIMAWARI</vendor>
 <vendorCode>HIMAWARI-XS-Red</vendorCode>
-<description>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description>
-<description_ua>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description_ua>
+<description>Рюкзак для лоукосту HIMAWARI - це ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу. Вага завантаження 5-7кг.</description>
+<description_ua>Рюкзак для лоукосту HIMAWARI - це ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу. Вага завантаження 5-7кг.</description_ua>
 <country_of_origin>Япония</country_of_origin>
 <param name="Колір">Червоний</param>
 <param name="Тип">Рюкзак</param>
@@ -2320,43 +2284,8 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="49203-Set-Black" available="true" group_id="49203-Set-Black">
-<url>https://sklad-valiz.com.ua/nabir-valiz-z-rozshyrenniam-snowball-49203-3-v-1-chornyi-49203-set-black/</url>
-<salePrice>10720</salePrice>
-<price>12600</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/11/58525483923997_+cb1e22589a.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/11/86157025078004_+e56dbf15df.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/11/96967413861092_+ce241f2c30.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/11/43597028614673_+faec9a3d44.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/11/85143275203325_+f512f7cf07.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/11/88268894614080_+d34f25307d.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/11/41519048958310_+5beeaf45b1.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Набор чемоданов с расширением Snowball 49203 3 в 1 черный (49203-Set-Black)</name>
-<name_ua>Набір валіз з розширенням Snowball 49203 3 в 1 чорний (49203-Set-Black)</name_ua>
-<vendor>Snowball</vendor>
-<vendorCode>49203-Set-Black</vendorCode>
-<description>Валіза з розширенням Snowball 49203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description>
-<description_ua>Валіза з розширенням Snowball 49203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-<country_of_origin>Франція</country_of_origin>
-<param name="Колір">Чорний</param>
-<param name="Тип">Комплект чемоданов</param>
-<param name="Матеріал">Поліпропілен</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">Комплект</param>
-<param name="Країна виробник">Франція</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Ні</param>
-<param name="Стан">Новий</param>
-</offer>
 <offer id="42203-S-Dark-green" available="true" group_id="42203-S-Dark-green">
 <url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-madisson-42203-mala-39l-zelena-42203-s-dark-green/</url>
-<salePrice>1350</salePrice>
 <price>1500</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -2741,6 +2670,7 @@
 </offer>
 <offer id="33703-L-RoseGold" available="true" group_id="33703-L-RoseGold">
 <url>https://sklad-valiz.com.ua/valiza-z-polipropilenu-snowball-33703-velyka-101l-rozheve-zoloto-33703-l-rosegold/</url>
+<salePrice>2678</salePrice>
 <price>3150</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -3162,7 +3092,6 @@
 </offer>
 <offer id="160PC-XS-Black" available="true" group_id="160PC-XS-Black">
 <url>https://sklad-valiz.com.ua/valiza-dlia-loukostu-wings-160pc-mini-23l-chorna-160pc-xs-black/</url>
-<salePrice>1125</salePrice>
 <price>1500</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -3194,7 +3123,6 @@
 </offer>
 <offer id="160PC-XS-Dark-green" available="true" group_id="160PC-XS-Dark-green">
 <url>https://sklad-valiz.com.ua/valiza-dlia-loukostu-wings-160pc-mini-23l-zelena-160pc-xs-dark-green/</url>
-<salePrice>1125</salePrice>
 <price>1500</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -3226,7 +3154,6 @@
 </offer>
 <offer id="160PC-XS-RoseGold" available="true" group_id="160PC-XS-RoseGold">
 <url>https://sklad-valiz.com.ua/valiza-dlia-loukostu-wings-160pc-mini-23l-rozheve-zoloto-160pc-xs-rosegold/</url>
-<salePrice>1125</salePrice>
 <price>1500</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -4547,6 +4474,7 @@
 </offer>
 <offer id="7898-L-Milk" available="true" group_id="7898-L-Milk">
 <url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-carbon-7898-velyka-98l-kremova-7898-l-milk/</url>
+<salePrice>2745</salePrice>
 <price>3050</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -4682,7 +4610,6 @@
 </offer>
 <offer id="6018-BC-Grey" available="true" group_id="6018-BC-Grey">
 <url>https://sklad-valiz.com.ua/keis-dlia-valiz-wings-6018-bc-8l-siryi-6018-bc-grey/</url>
-<salePrice>700</salePrice>
 <price>875</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -4709,7 +4636,6 @@
 </offer>
 <offer id="6018-BC-Burgundy" available="true" group_id="6018-BC-Burgundy">
 <url>https://sklad-valiz.com.ua/keis-dlia-valiz-wings-6018-vs-8l-bordovyi-6018-bc-burgundy/</url>
-<salePrice>700</salePrice>
 <price>875</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -7800,39 +7726,6 @@
 <param name="Кількість коліс">4 колеса</param>
 <param name="Замок">З ключем / Кодовий</param>
 <param name="Розмір">M</param>
-<param name="Країна виробник">Польща</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Ні</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="WN01PC-L-Silver" available="true" group_id="WN01PC-L-Silver">
-<url>https://sklad-valiz.com.ua/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver/</url>
-<price>2750</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-21476711198503_+277b2cfd45.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-34056131185611_+86cb757c6f.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-56329259935608_+be7a7b8b2f.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-19230695639027_+d13d2d4266.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-73479102730019_+c2cec9f56d.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-53204595540244_+e22d191279.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-78001760619578_+dff11e72c6.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан из поликарбоната Wings WN01 большой 97л серебряный (WN01PC-L-Silver)</name>
-<name_ua>Валіза з полікарбонату Wings WN01 велика 97л срібна (WN01PC-L-Silver)</name_ua>
-<vendor>Wings</vendor>
-<vendorCode>WN01PC-L-Silver</vendorCode>
-<description>Валіза з полікарбонату Wings WN01 в розмірі L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Завдяки використанню 100% полікарбонату валіза поєднує в собі виняткову міцність та гнучкість корпусних деталей. Така еластичність гарантує максимальну довговічність та надійний захист ваших речей у найекстремальніших умовах. Валіза оснащена посиленою системою поворотних коліс, що дозволяє плавно маневрувати навіть при повному завантаженні. Для безпеки передбачено вбудований кодовий замок, а продуманий внутрішній простір із фіксаторами допоможе акуратно організувати багаж. Вага завантаження становить 22-25 кг.</description>
-<description_ua>Валіза з полікарбонату Wings WN01 в розмірі L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Завдяки використанню 100% полікарбонату валіза поєднує в собі виняткову міцність та гнучкість корпусних деталей. Така еластичність гарантує максимальну довговічність та надійний захист ваших речей у найекстремальніших умовах. Валіза оснащена посиленою системою поворотних коліс, що дозволяє плавно маневрувати навіть при повному завантаженні. Для безпеки передбачено вбудований кодовий замок, а продуманий внутрішній простір із фіксаторами допоможе акуратно організувати багаж. Вага завантаження становить 22-25 кг.</description_ua>
-<country_of_origin>Польща</country_of_origin>
-<param name="Колір">Сріблястий / Сірий</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Полікарбонат</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">L</param>
 <param name="Країна виробник">Польща</param>
 <param name="Особливості">Висувна ручка</param>
 <param name="Тип коліс">Поворотні</param>
@@ -10950,6 +10843,39 @@
 <param name="Підходить для ручної поклажі">Так</param>
 <param name="Стан">Новий</param>
 </offer>
+<offer id="49203-L-Black" available="false" group_id="49203-L-Black">
+<url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-snowball-49203-velyka-109-l-chorna-49203-l-black/</url>
+<price>4800</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/49/43319709355444_+87179f1015.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/49/25268682043347_+eb0be4f0c3.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/49/77003731969716_+31b761f470.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/49/46477341562804_+207638097f.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/49/96052879379753_+ecb914d4ef.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/49/16391082064171_+19cd3a523b.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/49/12055402460316_+970c9b397c.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан с расширением Snowball 49203 большой 109л черный (49203-L-Black)</name>
+<name_ua>Валіза з розширенням Snowball 49203 велика 109л чорна (49203-L-Black)</name_ua>
+<vendor>Snowball</vendor>
+<vendorCode>49203-L-Black</vendorCode>
+<description>Валіза з розширенням Snowball 49203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description>
+<description_ua>Валіза з розширенням Snowball 49203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+<country_of_origin>Франція</country_of_origin>
+<param name="Колір">Чорний</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">L</param>
+<param name="Країна виробник">Франція</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
 <offer id="5398-L-Yellow" available="false" group_id="5398-L-Yellow">
 <url>https://sklad-valiz.com.ua/valiza-wings-5398-velyka-97-l-zhovta-5398-l-yellow/</url>
 <price>1900</price>
@@ -11396,6 +11322,7 @@
 </offer>
 <offer id="19168-L-Champagne" available="false" group_id="19168-L-Champagne">
 <url>https://sklad-valiz.com.ua/valiza-wings-19168-velyka-97-l-shampan-19168-l-champagne/</url>
+<salePrice>2340</salePrice>
 <price>2600</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -12441,6 +12368,40 @@
 <param name="Матеріал">Поліпропілен</param>
 <param name="Кількість коліс">4 колеса</param>
 <param name="Замок">Кодовий</param>
+<param name="Розмір">Комплект</param>
+<param name="Країна виробник">Франція</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="49203-Set-Black" available="false" group_id="49203-Set-Black">
+<url>https://sklad-valiz.com.ua/nabir-valiz-z-rozshyrenniam-snowball-49203-3-v-1-chornyi-49203-set-black/</url>
+<salePrice>10720</salePrice>
+<price>12600</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/11/58525483923997_+cb1e22589a.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/11/86157025078004_+e56dbf15df.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/11/96967413861092_+ce241f2c30.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/11/43597028614673_+faec9a3d44.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/11/85143275203325_+f512f7cf07.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/11/88268894614080_+d34f25307d.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/11/41519048958310_+5beeaf45b1.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Набор чемоданов с расширением Snowball 49203 3 в 1 черный (49203-Set-Black)</name>
+<name_ua>Набір валіз з розширенням Snowball 49203 3 в 1 чорний (49203-Set-Black)</name_ua>
+<vendor>Snowball</vendor>
+<vendorCode>49203-Set-Black</vendorCode>
+<description>Валіза з розширенням Snowball 49203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description>
+<description_ua>Валіза з розширенням Snowball 49203 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+<country_of_origin>Франція</country_of_origin>
+<param name="Колір">Чорний</param>
+<param name="Тип">Комплект чемоданов</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
 <param name="Розмір">Комплект</param>
 <param name="Країна виробник">Франція</param>
 <param name="Особливості">Висувна ручка</param>
@@ -14509,9 +14470,41 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
+<offer id="WN01PC-L-Silver" available="false" group_id="WN01PC-L-Silver">
+<url>https://sklad-valiz.com.ua/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver/</url>
+<price>2750</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-21476711198503_+277b2cfd45.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-34056131185611_+86cb757c6f.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-56329259935608_+be7a7b8b2f.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-19230695639027_+d13d2d4266.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-73479102730019_+c2cec9f56d.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-53204595540244_+e22d191279.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-78001760619578_+dff11e72c6.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан из поликарбоната Wings WN01 большой 97л серебряный (WN01PC-L-Silver)</name>
+<name_ua>Валіза з полікарбонату Wings WN01 велика 97л срібна (WN01PC-L-Silver)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>WN01PC-L-Silver</vendorCode>
+<description>Валіза з полікарбонату Wings WN01 в розмірі L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Завдяки використанню 100% полікарбонату валіза поєднує в собі виняткову міцність та гнучкість корпусних деталей. Така еластичність гарантує максимальну довговічність та надійний захист ваших речей у найекстремальніших умовах. Валіза оснащена посиленою системою поворотних коліс, що дозволяє плавно маневрувати навіть при повному завантаженні. Для безпеки передбачено вбудований кодовий замок, а продуманий внутрішній простір із фіксаторами допоможе акуратно організувати багаж. Вага завантаження становить 22-25 кг.</description>
+<description_ua>Валіза з полікарбонату Wings WN01 в розмірі L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Завдяки використанню 100% полікарбонату валіза поєднує в собі виняткову міцність та гнучкість корпусних деталей. Така еластичність гарантує максимальну довговічність та надійний захист ваших речей у найекстремальніших умовах. Валіза оснащена посиленою системою поворотних коліс, що дозволяє плавно маневрувати навіть при повному завантаженні. Для безпеки передбачено вбудований кодовий замок, а продуманий внутрішній простір із фіксаторами допоможе акуратно організувати багаж. Вага завантаження становить 22-25 кг.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Сріблястий / Сірий</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Полікарбонат</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">L</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
 <offer id="33703-L-Black" available="true" group_id="33703-L-Black">
 <url>https://sklad-valiz.com.ua/valiza-snowball-33703-velyka-101l-chorna-33703-l-black/</url>
-<salePrice>2678</salePrice>
 <price>3150</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -14579,6 +14572,7 @@
 </offer>
 <offer id="33703-L-Grey" available="true" group_id="33703-L-Grey">
 <url>https://sklad-valiz.com.ua/valiza-snowball-33703-velyka-101l-sira-33703-l-grey/</url>
+<salePrice>2678</salePrice>
 <price>3150</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -14827,6 +14821,7 @@
 </offer>
 <offer id="94103-L-Silver" available="true" group_id="94103-L-Silver">
 <url>https://sklad-valiz.com.ua/valiza-snowball-94103-velyka-105l-sribna-94103-l-silver/</url>
+<salePrice>5220</salePrice>
 <price>5800</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -15003,6 +14998,7 @@
 </offer>
 <offer id="HWF01-L-Champagne" available="true" group_id="HWF01-L-Champagne">
 <url>https://sklad-valiz.com.ua/valiza-wings-hwf01-velyka-97l-shampan-hwf01-l-champagne/</url>
+<salePrice>2700</salePrice>
 <price>3000</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -15994,7 +15990,6 @@
 </offer>
 <offer id="33703-S-Black" available="true" group_id="33703-S-Black">
 <url>https://sklad-valiz.com.ua/valiza-snowball-33703-mala-36l-chorna-33703-s-black/</url>
-<salePrice>1725</salePrice>
 <price>2300</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -16028,7 +16023,6 @@
 </offer>
 <offer id="33703-S-Champagne" available="true" group_id="33703-S-Champagne">
 <url>https://sklad-valiz.com.ua/valiza-snowball-33703-mala-36l-shampan-33703-s-champagne/</url>
-<salePrice>1725</salePrice>
 <price>2300</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -16264,7 +16258,6 @@
 </offer>
 <offer id="44603-S-Champagne" available="false" group_id="44603-S-Champagne">
 <url>https://sklad-valiz.com.ua/valiza-madisson-44603-mala-38l-shampan-44603-s-champagne/</url>
-<salePrice>1105</salePrice>
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -16825,7 +16818,6 @@
 </offer>
 <offer id="AVC01-BC-Black" available="true" group_id="AVC01-BC-Black">
 <url>https://sklad-valiz.com.ua/dorozhnia-sumka-wings-avc01-20l-chorna-avc01-bc-black/</url>
-<salePrice>870</salePrice>
 <price>1450</price>
 <currencyId>UAH</currencyId>
 <categoryId>2016</categoryId>
@@ -16970,7 +16962,6 @@
 </offer>
 <offer id="0508-BC-Champagne-S" available="true" group_id="0508-BC-Champagne-S">
 <url>https://sklad-valiz.com.ua/keis-dlia-valiz-carbon-0508-bc-malyi-13l-shampan-0508-bc-champagne-s/</url>
-<salePrice>600</salePrice>
 <price>750</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -17287,7 +17278,6 @@
 </offer>
 <offer id="63703-L-Milk" available="false" group_id="63703-L-Milk">
 <url>https://sklad-valiz.com.ua/valiza-madisson-63703-velyka-100l-kremova-63703-l-milk/</url>
-<salePrice>2253</salePrice>
 <price>2650</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -18051,8 +18041,8 @@
 <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л чорний (HIMAWARI-XS-Black)</name_ua>
 <vendor>HIMAWARI</vendor>
 <vendorCode>HIMAWARI-XS-Black</vendorCode>
-<description>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description>
-<description_ua>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description_ua>
+<description>Рюкзак для лоукосту HIMAWARI - це ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу. Вага завантаження 5-7кг.</description>
+<description_ua>Рюкзак для лоукосту HIMAWARI - це ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу. Вага завантаження 5-7кг.</description_ua>
 <country_of_origin>Япония</country_of_origin>
 <param name="Колір">Чорний</param>
 <param name="Тип">Рюкзак</param>
@@ -18103,8 +18093,8 @@
 <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л сіро-мʼятний (HIMAWARI-XS-Gray-mint)</name_ua>
 <vendor>HIMAWARI</vendor>
 <vendorCode>HIMAWARI-XS-Gray-mint</vendorCode>
-<description>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description>
-<description_ua>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description_ua>
+<description>Рюкзак для лоукосту HIMAWARI - це ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу. Вага завантаження 5-7кг.</description>
+<description_ua>Рюкзак для лоукосту HIMAWARI - це ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу. Вага завантаження 5-7кг.</description_ua>
 <country_of_origin>Япония</country_of_origin>
 <param name="Колір">Сірий</param>
 <param name="Тип">Рюкзак</param>
@@ -18129,8 +18119,8 @@
 <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л блакитно-бежевий (HIMAWARI-XS-Blue-Beige)</name_ua>
 <vendor>HIMAWARI</vendor>
 <vendorCode>HIMAWARI-XS-Blue-Beige</vendorCode>
-<description>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description>
-<description_ua>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description_ua>
+<description>Рюкзак для лоукосту HIMAWARI - це ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу. Вага завантаження 5-7кг.</description>
+<description_ua>Рюкзак для лоукосту HIMAWARI - це ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу. Вага завантаження 5-7кг.</description_ua>
 <country_of_origin>Япония</country_of_origin>
 <param name="Колір">Бежевий</param>
 <param name="Тип">Рюкзак</param>
@@ -18155,8 +18145,8 @@
 <name_ua>Рюкзак для ручної поклажі HIMAWARI 17л бежевий (HIMAWARI-XS-Beige)</name_ua>
 <vendor>HIMAWARI</vendor>
 <vendorCode>HIMAWARI-XS-Beige</vendorCode>
-<description>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description>
-<description_ua>Ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу.</description_ua>
+<description>Рюкзак для лоукосту HIMAWARI - це ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу. Вага завантаження 5-7кг.</description>
+<description_ua>Рюкзак для лоукосту HIMAWARI - це ідеальне поєднання стилю та функціональності для тих, хто постійно в русі. Завдяки вшитому дротовому каркасу основне відділення тримає форму, що дозволяє миттєво знайти потрібну річ. Ваші гаджети та дрібниці будуть впорядковані у продуманих кишенях, включаючи захисне місце для ноутбука до 14,1. Міцний водонепроникний нейлон надійно захистить вміст від раптового дощу, а вбудований USB-порт дозволить заряджати телефон прямо на ходу. Особлива конструкція з верхньою ручкою дає змогу використовувати рюкзак як сумку. Крім того, подорожі стануть комфортнішими завдяки спеціальному кріпленню на валізу. Вага завантаження 5-7кг.</description_ua>
 <country_of_origin>Япония</country_of_origin>
 <param name="Колір">Бежевий</param>
 <param name="Тип">Рюкзак</param>
@@ -18672,6 +18662,7 @@
 </offer>
 <offer id="2501-L-Grey" available="true" group_id="2501-L-Grey">
 <url>https://sklad-valiz.com.ua/valiza-wings-2501-velyka-97l-sira-2501-l-grey/</url>
+<salePrice>2790</salePrice>
 <price>3100</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
@@ -18804,7 +18795,6 @@
 </offer>
 <offer id="2501-S-Blue" available="true" group_id="2501-S-Blue">
 <url>https://sklad-valiz.com.ua/valiza-wings-2501-mala-38l-synia-2501-s-blue/</url>
-<salePrice>1360</salePrice>
 <price>1700</price>
 <currencyId>UAH</currencyId>
 <categoryId>4134</categoryId>
