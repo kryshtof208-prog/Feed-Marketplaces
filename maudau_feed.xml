@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-11T22:06:13.365Z">
+<yml_catalog date="2026-11-12T22:06:13.057Z">
   <shop>
     <categories>
       <category id="1061" portal_id="Чемоданы">Валізи</category>
@@ -258,23 +258,6 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="160-M-White" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан Wings 160 средний 63л белый (160-M-White)</name_ru>
-        <name_ua>Валіза Wings 160 середня 63л біла (160-M-White)</name_ua>
-        <price>1800</price>
-        <categoryId>1061</categoryId>
-        <vendor>Wings</vendor>
-        <description_ru>Чемодан Wings 160 средний 63л белый (160-M-White)</description_ru>
-        <description_ua>Розмір L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Поєднання ABS-пластику та полікарбонату забезпечує золоту середину між жорсткістю та легкістю. Полікарбонат додає корпусу стійкості до ударів та подряпин, а ABS-пластик допомагає валізі чудово тримати форму. Такий тандем матеріалів гарантує довговічність та надійний захист ваших речей. Валіза оснащена посиленою системою поворотних коліс, що дозволяє плавно маневрувати навіть при повному завантаженні. Для безпеки передбачено вбудований кодовий замок, а продуманий внутрішній простір із фіксаторами допоможе акуратно організувати багаж. Вага завантаження становить 22&amp;ndash;25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/37/valiza-wings-160-serednia-63l-bila-160-m-white-33587448558250_+f75d094344.jpg</picture>
-        <param name="Колір">Белый</param>
-        <param name="Тип">Валізи</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Середні (50 – 89.9 л)</param>
-      </offer>
       <offer id="647-S-Gray" available="true">
         <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан с отделением для ноутбука Airtex 647 малый 40л серый (647-S-Gray)</name_ru>
@@ -414,7 +397,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="GDW01-L-Burgundy" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан с ABS пластика Wings GDW01 большой 97л бордовый (GDW01-L-Burgundy)</name_ru>
         <name_ua>Валіза з ABS пластику Wings GDW01 велика 97л бордова (GDW01-L-Burgundy)</name_ua>
         <price>2150</price>
@@ -689,7 +672,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="49403-L-Red" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 49403 большой 113л красный (49403-L-Red)</name_ru>
         <name_ua>Валіза з розширенням Snowball 49403 велика 113л червона (49403-L-Red)</name_ua>
         <price>4770</price>
@@ -774,7 +757,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="49403-Set-Red" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Snowball 49403 3 в 1 красный (49403-Set-Red)</name_ru>
         <name_ua>Набір валіз з розширенням Snowball 49403 3 в 1 червоний (49403-Set-Red)</name_ua>
         <price>11780</price>
@@ -963,6 +946,34 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="53103-Set-Gray" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Набор чемоданов из полипропилена Madisson 53103 3 в 1 серый (53103-Set-Gray)</name_ru>
+        <name_ua>Набір валіз з поліпропілену Madisson 53103 3 в 1 сірий (53103-Set-Gray)</name_ua>
+        <price>5625</price>
+        <old_price>6650</old_price>
+        <categoryId>1061</categoryId>
+        <vendor>Madisson</vendor>
+        <country>Франція</country>
+        <description_ru>Набор чемоданов из полипропилена Madisson 53103 3 в 1 серый (53103-Set-Gray)</description_ru>
+        <description_ua>Валіза Madisson 53103 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-madisson-53103-3v1-siryi-53103-3-gray-92288182577647_+dabba3b075.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-madisson-53103-3v1-siryi-53103-3-gray-49007491831235_+b377856cfe.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-madisson-53103-3v1-siryi-53103-3-gray-46662284948585_+dccac82bd5.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-madisson-53103-3v1-siryi-53103-3-gray-98486894574107_+2e8f86e393.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-madisson-53103-3v1-siryi-53103-3-gray-15529748869870_+5977df1a52.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-madisson-53103-3v1-siryi-53103-3-gray-59577916589044_+e04f9c5799.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-madisson-53103-3v1-siryi-53103-3-gray-73221939449448_+004298774e.jpg</picture>
+        <param name="Колір">Серый</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="53103-Set-Champagne" available="true">
         <quantity_in_stock>3</quantity_in_stock>
@@ -2109,7 +2120,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="20303-Set-Black" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Snowball 20303 3 в 1 черный (20303-Set-Black)</name_ru>
         <name_ua>Набір валіз з поліпропілену Snowball 20303 3 в 1 чорний (20303-Set-Black)</name_ua>
         <price>10185</price>
@@ -2729,7 +2740,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="51304-L-RoseGold" available="true">
-        <quantity_in_stock>14</quantity_in_stock>
+        <quantity_in_stock>13</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 большой 105л розовое золото (51304-L-RoseGold)</name_ru>
         <name_ua>Валіза з розширенням Snowball 51304 велика 105л рожеве золото (51304-L-RoseGold)</name_ua>
         <price>2450</price>
@@ -2785,7 +2796,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="51304-L-Gray" available="true">
-        <quantity_in_stock>14</quantity_in_stock>
+        <quantity_in_stock>15</quantity_in_stock>
         <name_ru>Чемодан с расширением Snowball 51304 большой 105л серый (51304-L-Gray)</name_ru>
         <name_ua>Валіза з розширенням Snowball 51304 велика 105л сіра (51304-L-Gray)</name_ua>
         <price>2450</price>
@@ -3059,7 +3070,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-Set-Grey" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Snowball 33703 3 в 1 серый (33703-Set-Grey)</name_ru>
         <name_ua>Набір валіз з поліпропілену Snowball 33703 3 в 1 сірий (33703-Set-Grey)</name_ua>
         <price>7240</price>
@@ -3679,7 +3690,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="65803-M-Black" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан с расширением Carbon 65803 средний 67л черный (65803-M-Black)</name_ru>
         <name_ua>Валіза з розширенням Carbon 65803 середня 67л чорна (65803-M-Black)</name_ua>
         <price>2400</price>
@@ -3701,7 +3712,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="65803-Set-Black" available="true">
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Carbon 65803 3 в 1 черный (65803-Set-Black)</name_ru>
         <name_ua>Набір валіз з розширенням Carbon 65803 3 в 1 чорний (65803-Set-Black)</name_ua>
         <price>4585</price>
@@ -4020,7 +4031,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="7898-Set-Champagne" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Carbon 7898 3 в 1 шампань (7898-Set-Champagne)</name_ru>
         <name_ua>Набір валіз з розширенням Carbon 7898 3 в 1 шампань (7898-Set-Champagne)</name_ua>
         <price>6915</price>
@@ -4664,7 +4675,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="65903-Set-Gray" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Carbon 65903 4 в 1 серый (65903-Set-Gray)</name_ru>
         <name_ua>Набір валіз з розширенням Carbon 65903 4 в 1 сірий (65903-Set-Gray)</name_ua>
         <price>7125</price>
@@ -4972,7 +4983,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="1403-Set-Black" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Carbon 1403 3 в 1 черный (1403-Set-Black)</name_ru>
         <name_ua>Набір валіз з поліпропілену Carbon 1403 3 в 1 чорний (1403-Set-Black)</name_ua>
         <price>5210</price>
@@ -4990,6 +5001,34 @@
         <picture>https://sklad-valiz.com.ua/content/images/25/nabir-valiz-z-polipropilenu-carbon-1403-3-v-1-chornyi-1403-set-black-60272067437481_+3890a9b1e1.jpg</picture>
         <picture>https://sklad-valiz.com.ua/content/images/25/nabir-valiz-z-polipropilenu-carbon-1403-3-v-1-chornyi-1403-set-black-17824073361410_+5e70ad1408.jpg</picture>
         <param name="Колір">Черный</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="1403-Set-Champagne" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Набор чемоданов из полипропилена Carbon 1403 3 в 1 шампань (1403-Set-Champagne)</name_ru>
+        <name_ua>Набір валіз з поліпропілену Carbon 1403 3 в 1 шампань (1403-Set-Champagne)</name_ua>
+        <price>5210</price>
+        <old_price>6200</old_price>
+        <categoryId>1061</categoryId>
+        <vendor>Carbon</vendor>
+        <country>Україна</country>
+        <description_ru>Набор чемоданов из полипропилена Carbon 1403 3 в 1 шампань (1403-Set-Champagne)</description_ru>
+        <description_ua>Валізи Carbon 1403 виготовлені з міцного та гнучкого матеріалу, який витримує удари й навантаження та не тріскається навіть при неповному завантаженні. Усі моделі оснащені подвійними колесами з обертанням на 360°, кодовим замком для захисту речей та продуманим внутрішнім простором із фіксаторами багажу. Розмір S - компактний варіант для коротких поїздок на 3-5 днів. Підходить для авіаперельотів як ручна поклажа, а також для подорожей потягом, автобусом чи автомобілем. Вага завантаження 12-15 кг. Розмір M - універсальний варіант для поїздок на 5-10 днів. Оптимальний для авіаперельотів як багаж, а також для подорожей потягом, автобусом чи автомобілем. Оснащений безшумними колесами для комфортного переміщення. Вага завантаження 18-20кг. Розмір L - максимально місткий варіант для подорожей від 10 днів та сімейних поїздок. Призначений для перевезення в багажному відділенні, а також підходить для потягів, автобусів та автомобілів. Посилені колеса забезпечують легке керування важким багажем. Вага завантаження 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/26/nabir-valiz-z-polipropilenu-carbon-1403-3-v-1-shampan-1403-set-champagne-39341605067213_+96c0fa5c1b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/26/nabir-valiz-z-polipropilenu-carbon-1403-3-v-1-shampan-1403-set-champagne-78281116295977_+4edf62c289.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/26/nabir-valiz-z-polipropilenu-carbon-1403-3-v-1-shampan-1403-set-champagne-70837122575296_+49a23fe6bf.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/26/nabir-valiz-z-polipropilenu-carbon-1403-3-v-1-shampan-1403-set-champagne-56911019956417_+fb40600422.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/26/nabir-valiz-z-polipropilenu-carbon-1403-3-v-1-shampan-1403-set-champagne-50163188308206_+9c94e3a623.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/26/nabir-valiz-z-polipropilenu-carbon-1403-3-v-1-shampan-1403-set-champagne-60768780509531_+ead78ff12d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/26/nabir-valiz-z-polipropilenu-carbon-1403-3-v-1-shampan-1403-set-champagne-64694442354643_+94923c7293.jpg</picture>
+        <param name="Колір">Шампань</param>
         <param name="Тип">Набори валіз</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
         <param name="Стать">Унісекс</param>
@@ -5228,6 +5267,34 @@
         <picture>https://sklad-valiz.com.ua/content/images/41/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-zhovtyi-phx01-set-yellow-46130774251150_+593e1f06c7.jpg</picture>
         <picture>https://sklad-valiz.com.ua/content/images/41/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-zhovtyi-phx01-set-yellow-78855108113907_+950cf14df8.jpg</picture>
         <param name="Колір">Жёлтый</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="PHX01-Set-Purple" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 сиреневый (PHX01-Set-Purple)</name_ru>
+        <name_ua>Набір валіз з поліпропілену Wings PHX01 3 в 1 бузковий (PHX01-Set-Purple)</name_ua>
+        <price>5250</price>
+        <old_price>6200</old_price>
+        <categoryId>1092</categoryId>
+        <vendor>Wings</vendor>
+        <country>Польща</country>
+        <description_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 сиреневый (PHX01-Set-Purple)</description_ru>
+        <description_ua>Валізи з поліпропілену Wings PHX01 - це ідеальний вибір для будь-яких подорожей, від коротких вікендів до тривалих сімейних відпусток. Набір містить три моделі різних розмірів, що робить його універсальним для пересування літаком, поїздом чи автомобілем. При цьому найменшу валізу можна брати на борт літака як ручну поклажу. Корпус виготовлений зі поліпропілену - надзвичайно гнучкого та міцного матеріалу, який не розбивається від сильних ударів під час завантаження. Надійний захист речей від негоди гарантує спеціальна блискавка, що не піддається впливу води та вологи. Кожна валіза оснащена надійними подвійними колесами з поворотним механізмом на 360 градусів, що забезпечують плавний та зручний рух у будь-якому напрямку. Вбудований кодовий замок гарантує максимальну безпеку та спокій під час перевезення ваших особистих речей. Продуманий внутрішній простір розділений на два зручні відділи з перегородкою та ременями для надійної фіксації багажу. Телескопічна алюмінієва ручка фіксується у кількох положеннях, дозволяючи легко підлаштувати її під свій зріст. Вага завантаження: розмір S - 12-15 кг, розмір М - 18-20 кг, розмір L - 22-25 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/42/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-buzkovyi-phx01-set-purple-16775958008751_+9a8f9050a0.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/42/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-buzkovyi-phx01-set-purple-76492087475473_+375c2044c6.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/42/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-buzkovyi-phx01-set-purple-83083905120470_+22a91801d2.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/42/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-buzkovyi-phx01-set-purple-40426865543350_+843e737c8b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/42/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-buzkovyi-phx01-set-purple-63244150639137_+1d4fd08449.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/42/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-buzkovyi-phx01-set-purple-72841045789653_+00ab48d85a.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/42/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-buzkovyi-phx01-set-purple-55759422638616_+23063e68bb.jpg</picture>
+        <param name="Колір">Сиреневый</param>
         <param name="Тип">Набори валіз</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
         <param name="Стать">Унісекс</param>
@@ -6609,6 +6676,34 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
+      <offer id="PHX01-Set-Dark-green" available="true">
+        <quantity_in_stock>1</quantity_in_stock>
+        <name_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 темно-зеленый (PHX01-Set-Dark-green)</name_ru>
+        <name_ua>Набір валіз з поліпропілену Wings PHX01 3 в 1 темно-зелений (PHX01-Set-Dark-green)</name_ua>
+        <price>5250</price>
+        <old_price>6200</old_price>
+        <categoryId>1092</categoryId>
+        <vendor>Wings</vendor>
+        <country>Польща</country>
+        <description_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 темно-зеленый (PHX01-Set-Dark-green)</description_ru>
+        <description_ua>Валізи з поліпропілену Wings PHX01 - це ідеальний вибір для будь-яких подорожей, від коротких вікендів до тривалих сімейних відпусток. Набір містить три моделі різних розмірів, що робить його універсальним для пересування літаком, поїздом чи автомобілем. При цьому найменшу валізу можна брати на борт літака як ручну поклажу. Корпус виготовлений зі поліпропілену - надзвичайно гнучкого та міцного матеріалу, який не розбивається від сильних ударів під час завантаження. Надійний захист речей від негоди гарантує спеціальна блискавка, що не піддається впливу води та вологи. Кожна валіза оснащена надійними подвійними колесами з поворотним механізмом на 360 градусів, що забезпечують плавний та зручний рух у будь-якому напрямку. Вбудований кодовий замок гарантує максимальну безпеку та спокій під час перевезення ваших особистих речей. Продуманий внутрішній простір розділений на два зручні відділи з перегородкою та ременями для надійної фіксації багажу. Телескопічна алюмінієва ручка фіксується у кількох положеннях, дозволяючи легко підлаштувати її під свій зріст. Вага завантаження: розмір S - 12-15 кг, розмір М - 18-20 кг, розмір L - 22-25 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-46893803034392_+c275bac74c.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-89565367186666_+2006a21958.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-59369720193631_+b53084ae18.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-86192484287629_+461d2e801b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-21319040779501_+5d06ceb5c0.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-97348023471933_+3b13ba4736.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-78717883185433_+d0b1345bc6.jpg</picture>
+        <param name="Колір">Зелёный</param>
+        <param name="Тип">Набори валіз</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
       <offer id="2504-Set-Blue" available="true">
         <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Wings 2504 3 в 1 синий (2504-Set-Blue)</name_ru>
@@ -7759,6 +7854,23 @@
         <description_ua>Розмір L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Поєднання ABS-пластику та полікарбонату забезпечує золоту середину між жорсткістю та легкістю. Полікарбонат додає корпусу стійкості до ударів та подряпин, а ABS-пластик допомагає валізі чудово тримати форму. Такий тандем матеріалів гарантує довговічність та надійний захист ваших речей. Валіза оснащена посиленою системою поворотних коліс, що дозволяє плавно маневрувати навіть при повному завантаженні. Для безпеки передбачено вбудований кодовий замок, а продуманий внутрішній простір із фіксаторами допоможе акуратно організувати багаж. Вага завантаження становить 22&amp;ndash;25кг.</description_ua>
         <picture>https://sklad-valiz.com.ua/content/images/36/valiza-wings-160-serednia-63l-temno-zelena-160-m-dark-green-44639647516703_+e930e33121.jpg</picture>
         <param name="Колір">Зелёный</param>
+        <param name="Тип">Валізи</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Середні (50 – 89.9 л)</param>
+      </offer>
+      <offer id="160-M-White" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан Wings 160 средний 63л белый (160-M-White)</name_ru>
+        <name_ua>Валіза Wings 160 середня 63л біла (160-M-White)</name_ua>
+        <price>1800</price>
+        <categoryId>1061</categoryId>
+        <vendor>Wings</vendor>
+        <description_ru>Чемодан Wings 160 средний 63л белый (160-M-White)</description_ru>
+        <description_ua>Розмір L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Поєднання ABS-пластику та полікарбонату забезпечує золоту середину між жорсткістю та легкістю. Полікарбонат додає корпусу стійкості до ударів та подряпин, а ABS-пластик допомагає валізі чудово тримати форму. Такий тандем матеріалів гарантує довговічність та надійний захист ваших речей. Валіза оснащена посиленою системою поворотних коліс, що дозволяє плавно маневрувати навіть при повному завантаженні. Для безпеки передбачено вбудований кодовий замок, а продуманий внутрішній простір із фіксаторами допоможе акуратно організувати багаж. Вага завантаження становить 22&amp;ndash;25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/37/valiza-wings-160-serednia-63l-bila-160-m-white-33587448558250_+f75d094344.jpg</picture>
+        <param name="Колір">Белый</param>
         <param name="Тип">Валізи</param>
         <param name="Стать">Унісекс</param>
         <param name="Кількість коліс">4 шт</param>
@@ -9200,34 +9312,6 @@
         <picture>https://sklad-valiz.com.ua/content/images/33/nabir-valiz-madisson-53103-3v1-fioletovyi-53103-3-purple-85153787843702_+3381cf84f8.jpg</picture>
         <picture>https://sklad-valiz.com.ua/content/images/33/nabir-valiz-madisson-53103-3v1-fioletovyi-53103-3-purple-36998115521526_+5030780dc6.jpg</picture>
         <param name="Колір">Сиреневый</param>
-        <param name="Тип">Набори валіз</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="53103-Set-Gray" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Набор чемоданов из полипропилена Madisson 53103 3 в 1 серый (53103-Set-Gray)</name_ru>
-        <name_ua>Набір валіз з поліпропілену Madisson 53103 3 в 1 сірий (53103-Set-Gray)</name_ua>
-        <price>5625</price>
-        <old_price>6650</old_price>
-        <categoryId>1061</categoryId>
-        <vendor>Madisson</vendor>
-        <country>Франція</country>
-        <description_ru>Набор чемоданов из полипропилена Madisson 53103 3 в 1 серый (53103-Set-Gray)</description_ru>
-        <description_ua>Валіза Madisson 53103 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-madisson-53103-3v1-siryi-53103-3-gray-92288182577647_+dabba3b075.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-madisson-53103-3v1-siryi-53103-3-gray-49007491831235_+b377856cfe.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-madisson-53103-3v1-siryi-53103-3-gray-46662284948585_+dccac82bd5.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-madisson-53103-3v1-siryi-53103-3-gray-98486894574107_+2e8f86e393.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-madisson-53103-3v1-siryi-53103-3-gray-15529748869870_+5977df1a52.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-madisson-53103-3v1-siryi-53103-3-gray-59577916589044_+e04f9c5799.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/34/nabir-valiz-madisson-53103-3v1-siryi-53103-3-gray-73221939449448_+004298774e.jpg</picture>
-        <param name="Колір">Серый</param>
         <param name="Тип">Набори валіз</param>
         <param name="Матеріал корпусу">Поліпропілен</param>
         <param name="Стать">Унісекс</param>
@@ -12230,34 +12314,6 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="1403-Set-Champagne" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Набор чемоданов из полипропилена Carbon 1403 3 в 1 шампань (1403-Set-Champagne)</name_ru>
-        <name_ua>Набір валіз з поліпропілену Carbon 1403 3 в 1 шампань (1403-Set-Champagne)</name_ua>
-        <price>5210</price>
-        <old_price>6200</old_price>
-        <categoryId>1061</categoryId>
-        <vendor>Carbon</vendor>
-        <country>Україна</country>
-        <description_ru>Набор чемоданов из полипропилена Carbon 1403 3 в 1 шампань (1403-Set-Champagne)</description_ru>
-        <description_ua>Валізи Carbon 1403 виготовлені з міцного та гнучкого матеріалу, який витримує удари й навантаження та не тріскається навіть при неповному завантаженні. Усі моделі оснащені подвійними колесами з обертанням на 360°, кодовим замком для захисту речей та продуманим внутрішнім простором із фіксаторами багажу. Розмір S - компактний варіант для коротких поїздок на 3-5 днів. Підходить для авіаперельотів як ручна поклажа, а також для подорожей потягом, автобусом чи автомобілем. Вага завантаження 12-15 кг. Розмір M - універсальний варіант для поїздок на 5-10 днів. Оптимальний для авіаперельотів як багаж, а також для подорожей потягом, автобусом чи автомобілем. Оснащений безшумними колесами для комфортного переміщення. Вага завантаження 18-20кг. Розмір L - максимально місткий варіант для подорожей від 10 днів та сімейних поїздок. Призначений для перевезення в багажному відділенні, а також підходить для потягів, автобусів та автомобілів. Посилені колеса забезпечують легке керування важким багажем. Вага завантаження 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/26/nabir-valiz-z-polipropilenu-carbon-1403-3-v-1-shampan-1403-set-champagne-39341605067213_+96c0fa5c1b.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/26/nabir-valiz-z-polipropilenu-carbon-1403-3-v-1-shampan-1403-set-champagne-78281116295977_+4edf62c289.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/26/nabir-valiz-z-polipropilenu-carbon-1403-3-v-1-shampan-1403-set-champagne-70837122575296_+49a23fe6bf.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/26/nabir-valiz-z-polipropilenu-carbon-1403-3-v-1-shampan-1403-set-champagne-56911019956417_+fb40600422.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/26/nabir-valiz-z-polipropilenu-carbon-1403-3-v-1-shampan-1403-set-champagne-50163188308206_+9c94e3a623.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/26/nabir-valiz-z-polipropilenu-carbon-1403-3-v-1-shampan-1403-set-champagne-60768780509531_+ead78ff12d.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/26/nabir-valiz-z-polipropilenu-carbon-1403-3-v-1-shampan-1403-set-champagne-64694442354643_+94923c7293.jpg</picture>
-        <param name="Колір">Шампань</param>
-        <param name="Тип">Набори валіз</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
       <offer id="53103-M-Pink" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Madisson 53103 средний 65л розовый (53103-M-Pink)</name_ru>
@@ -12419,34 +12475,6 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">М'який</param>
-      </offer>
-      <offer id="PHX01-Set-Purple" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 сиреневый (PHX01-Set-Purple)</name_ru>
-        <name_ua>Набір валіз з поліпропілену Wings PHX01 3 в 1 бузковий (PHX01-Set-Purple)</name_ua>
-        <price>5250</price>
-        <old_price>6200</old_price>
-        <categoryId>1092</categoryId>
-        <vendor>Wings</vendor>
-        <country>Польща</country>
-        <description_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 сиреневый (PHX01-Set-Purple)</description_ru>
-        <description_ua>Валізи з поліпропілену Wings PHX01 - це ідеальний вибір для будь-яких подорожей, від коротких вікендів до тривалих сімейних відпусток. Набір містить три моделі різних розмірів, що робить його універсальним для пересування літаком, поїздом чи автомобілем. При цьому найменшу валізу можна брати на борт літака як ручну поклажу. Корпус виготовлений зі поліпропілену - надзвичайно гнучкого та міцного матеріалу, який не розбивається від сильних ударів під час завантаження. Надійний захист речей від негоди гарантує спеціальна блискавка, що не піддається впливу води та вологи. Кожна валіза оснащена надійними подвійними колесами з поворотним механізмом на 360 градусів, що забезпечують плавний та зручний рух у будь-якому напрямку. Вбудований кодовий замок гарантує максимальну безпеку та спокій під час перевезення ваших особистих речей. Продуманий внутрішній простір розділений на два зручні відділи з перегородкою та ременями для надійної фіксації багажу. Телескопічна алюмінієва ручка фіксується у кількох положеннях, дозволяючи легко підлаштувати її під свій зріст. Вага завантаження: розмір S - 12-15 кг, розмір М - 18-20 кг, розмір L - 22-25 кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/42/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-buzkovyi-phx01-set-purple-16775958008751_+9a8f9050a0.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/42/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-buzkovyi-phx01-set-purple-76492087475473_+375c2044c6.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/42/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-buzkovyi-phx01-set-purple-83083905120470_+22a91801d2.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/42/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-buzkovyi-phx01-set-purple-40426865543350_+843e737c8b.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/42/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-buzkovyi-phx01-set-purple-63244150639137_+1d4fd08449.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/42/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-buzkovyi-phx01-set-purple-72841045789653_+00ab48d85a.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/42/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-buzkovyi-phx01-set-purple-55759422638616_+23063e68bb.jpg</picture>
-        <param name="Колір">Сиреневый</param>
-        <param name="Тип">Набори валіз</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="2011-Set-Champagne" available="false">
         <quantity_in_stock>0</quantity_in_stock>
@@ -12643,34 +12671,6 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="PHX01-Set-Dark-green" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 темно-зеленый (PHX01-Set-Dark-green)</name_ru>
-        <name_ua>Набір валіз з поліпропілену Wings PHX01 3 в 1 темно-зелений (PHX01-Set-Dark-green)</name_ua>
-        <price>5250</price>
-        <old_price>6200</old_price>
-        <categoryId>1092</categoryId>
-        <vendor>Wings</vendor>
-        <country>Польща</country>
-        <description_ru>Набор чемоданов из полипропилена Wings PHX01 3 в 1 темно-зеленый (PHX01-Set-Dark-green)</description_ru>
-        <description_ua>Валізи з поліпропілену Wings PHX01 - це ідеальний вибір для будь-яких подорожей, від коротких вікендів до тривалих сімейних відпусток. Набір містить три моделі різних розмірів, що робить його універсальним для пересування літаком, поїздом чи автомобілем. При цьому найменшу валізу можна брати на борт літака як ручну поклажу. Корпус виготовлений зі поліпропілену - надзвичайно гнучкого та міцного матеріалу, який не розбивається від сильних ударів під час завантаження. Надійний захист речей від негоди гарантує спеціальна блискавка, що не піддається впливу води та вологи. Кожна валіза оснащена надійними подвійними колесами з поворотним механізмом на 360 градусів, що забезпечують плавний та зручний рух у будь-якому напрямку. Вбудований кодовий замок гарантує максимальну безпеку та спокій під час перевезення ваших особистих речей. Продуманий внутрішній простір розділений на два зручні відділи з перегородкою та ременями для надійної фіксації багажу. Телескопічна алюмінієва ручка фіксується у кількох положеннях, дозволяючи легко підлаштувати її під свій зріст. Вага завантаження: розмір S - 12-15 кг, розмір М - 18-20 кг, розмір L - 22-25 кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-46893803034392_+c275bac74c.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-89565367186666_+2006a21958.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-59369720193631_+b53084ae18.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-86192484287629_+461d2e801b.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-21319040779501_+5d06ceb5c0.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-97348023471933_+3b13ba4736.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/2/nabir-valiz-z-polipropilenu-wings-phx01-3-v-1-temno-zelenyi-phx01-set-dark-green-78717883185433_+d0b1345bc6.jpg</picture>
-        <param name="Колір">Зелёный</param>
-        <param name="Тип">Набори валіз</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
       <offer id="647-L-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан с расширением Airtex 647 большой 105л черный (647-L-Black)</name_ru>
@@ -12785,7 +12785,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-L-Grey" available="true">
-        <quantity_in_stock>9</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Snowball 33703 большой 101л серый (33703-L-Grey)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 велика 101л сіра (33703-L-Grey)</name_ua>
         <price>2678</price>
@@ -13146,7 +13146,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="HWF01-L-Champagne" available="true">
-        <quantity_in_stock>16</quantity_in_stock>
+        <quantity_in_stock>15</quantity_in_stock>
         <name_ru>Чемодан Wings HWF01 большой 97л шампань (HWF01-L-Champagne)</name_ru>
         <name_ua>Валіза Wings HWF01 велика 97л шампань (HWF01-L-Champagne)</name_ua>
         <price>2700</price>
@@ -14011,7 +14011,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-S-Champagne" available="true">
-        <quantity_in_stock>16</quantity_in_stock>
+        <quantity_in_stock>15</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Snowball 33703 малый 36л шампань (33703-S-Champagne)</name_ru>
         <name_ua>Валіза для ручної поклажі Snowball 33703 мала 36л шампань (33703-S-Champagne)</name_ua>
         <price>2300</price>
@@ -15696,7 +15696,7 @@
         <param name="Матеріал корпусу">Поліестер</param>
       </offer>
       <offer id="ORG7-Beige" available="true">
-        <quantity_in_stock>9</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name_ru>Комплект органайзеров бежевый ORG7-Beige</name_ru>
         <name_ua>Комплект органайзерів бежевий ORG7-Beige</name_ua>
         <price>570</price>
@@ -16969,7 +16969,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="SKU402-BC-Beige" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Дорожня сумка SKU402 32л бежева (SKU402-BC-Beige)</name_ru>
         <name_ua>Дорожня сумка SKU402 32л бежева (SKU402-BC-Beige)</name_ua>
         <price>1100</price>
