@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 06:16">
+<yml_catalog date="2026-11-13 12:16">
 <shop>
 <name>Sklad Valiz</name>
 <company>Sklad Valiz</company>
@@ -2404,6 +2404,33 @@
 <param name="Підходить для ручної поклажі">Так</param>
 <param name="Стан">Новий</param>
 </offer>
+<offer id="65803-BC-Coffee" available="true" group_id="65803-BC-Coffee">
+<url>https://sklad-valiz.com.ua/keis-dlia-valizy-z-polipropilenu-carbon-65803-12l-kavovyi-65803-bc-coffee/</url>
+<price>950</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/24/keis-dlia-valizy-z-polipropilenu-carbon-65803-12l-kavovyi-65803-bc-coffee-84657646246103_+5f789a5dea.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Кейс для чемодана из полипропилена Carbon 65803 12л кофейный (65803-BC-Coffee)</name>
+<name_ua>Кейс для валізи з поліпропілену Carbon 65803 12л кавовий (65803-BC-Coffee)</name_ua>
+<vendor>Carbon</vendor>
+<vendorCode>65803-BC-Coffee</vendorCode>
+<description>Валіза з розширенням Carbon 65803 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360&amp;deg;, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description>
+<description_ua>Валіза з розширенням Carbon 65803 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360&amp;deg;, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description_ua>
+<country_of_origin>Україна</country_of_origin>
+<param name="Колір">Коричневий</param>
+<param name="Тип">Кейс</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">Без колес</param>
+<param name="Замок">Ні</param>
+<param name="Розмір">XS</param>
+<param name="Країна виробник">Україна</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
 <offer id="43803-L-White" available="true" group_id="43803-L-White">
 <url>https://sklad-valiz.com.ua/valiza-z-polipropilenu-snowball-43803-velyka-116l-bila-43803-l-white/</url>
 <price>3900</price>
@@ -3247,6 +3274,39 @@
 <param name="Особливості">Висувна ручка</param>
 <param name="Тип коліс">Поворотні</param>
 <param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="160PC-L-RoseGold" available="true" group_id="160PC-L-RoseGold">
+<url>https://sklad-valiz.com.ua/valiza-z-polikarbonatu-wings-160pc-velyka-97l-rozheve-zoloto-160pc-l-rosegold/</url>
+<price>2800</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/19/80709687294665_+6d745c7d34.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/30055873393121_+3d63c5481c.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/12707853696965_+fbc72eba15.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/24396010965130_+47899c619a.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/83433768209683_+074ce8cb88.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/70867048706201_+cdde37b39e.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/19/52888090982541_+6cd1ca4fc8.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан из поликарбоната Wings 160PC большой 97л розовое золото (160PC-L-RoseGold)</name>
+<name_ua>Валіза з полікарбонату Wings 160PC велика 97л рожеве золото (160PC-L-RoseGold)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>160PC-L-RoseGold</vendorCode>
+<description>Валіза з полікарбонату Wings 160PC в розмірі Л - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Завдяки використанню 100% полікарбонату валіза поєднує в собі виняткову міцність та гнучкість корпусних деталей. Така еластичність гарантує максимальну довговічність та надійний захист ваших речей у найекстремальніших умовах. Валіза оснащена посиленою системою поворотних коліс, що дозволяє плавно маневрувати навіть при повному завантаженні. Для безпеки передбачено вбудований кодовий замок, а продуманий внутрішній простір із фіксаторами допоможе акуратно організувати багаж. Вага завантаження становить 22-25 кг.</description>
+<description_ua>Валіза з полікарбонату Wings 160PC в розмірі Л - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Завдяки використанню 100% полікарбонату валіза поєднує в собі виняткову міцність та гнучкість корпусних деталей. Така еластичність гарантує максимальну довговічність та надійний захист ваших речей у найекстремальніших умовах. Валіза оснащена посиленою системою поворотних коліс, що дозволяє плавно маневрувати навіть при повному завантаженні. Для безпеки передбачено вбудований кодовий замок, а продуманий внутрішній простір із фіксаторами допоможе акуратно організувати багаж. Вага завантаження становить 22-25 кг.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Рожеве золото</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Полікарбонат</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">L</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
 <offer id="33703-Set-Champagne" available="true" group_id="33703-Set-Champagne">
@@ -7732,6 +7792,39 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
+<offer id="WN01PC-L-Silver" available="true" group_id="WN01PC-L-Silver">
+<url>https://sklad-valiz.com.ua/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver/</url>
+<price>2750</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-21476711198503_+277b2cfd45.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-34056131185611_+86cb757c6f.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-56329259935608_+be7a7b8b2f.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-19230695639027_+d13d2d4266.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-73479102730019_+c2cec9f56d.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-53204595540244_+e22d191279.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-78001760619578_+dff11e72c6.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан из поликарбоната Wings WN01 большой 97л серебряный (WN01PC-L-Silver)</name>
+<name_ua>Валіза з полікарбонату Wings WN01 велика 97л срібна (WN01PC-L-Silver)</name_ua>
+<vendor>Wings</vendor>
+<vendorCode>WN01PC-L-Silver</vendorCode>
+<description>Валіза з полікарбонату Wings WN01 в розмірі L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Завдяки використанню 100% полікарбонату валіза поєднує в собі виняткову міцність та гнучкість корпусних деталей. Така еластичність гарантує максимальну довговічність та надійний захист ваших речей у найекстремальніших умовах. Валіза оснащена посиленою системою поворотних коліс, що дозволяє плавно маневрувати навіть при повному завантаженні. Для безпеки передбачено вбудований кодовий замок, а продуманий внутрішній простір із фіксаторами допоможе акуратно організувати багаж. Вага завантаження становить 22-25 кг.</description>
+<description_ua>Валіза з полікарбонату Wings WN01 в розмірі L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Завдяки використанню 100% полікарбонату валіза поєднує в собі виняткову міцність та гнучкість корпусних деталей. Така еластичність гарантує максимальну довговічність та надійний захист ваших речей у найекстремальніших умовах. Валіза оснащена посиленою системою поворотних коліс, що дозволяє плавно маневрувати навіть при повному завантаженні. Для безпеки передбачено вбудований кодовий замок, а продуманий внутрішній простір із фіксаторами допоможе акуратно організувати багаж. Вага завантаження становить 22-25 кг.</description_ua>
+<country_of_origin>Польща</country_of_origin>
+<param name="Колір">Сріблястий / Сірий</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Полікарбонат</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">З ключем / Кодовий</param>
+<param name="Розмір">L</param>
+<param name="Країна виробник">Польща</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Ні</param>
+<param name="Стан">Новий</param>
+</offer>
 <offer id="WN01PC-BC-Champagne" available="true" group_id="WN01PC-BC-Champagne">
 <url>https://sklad-valiz.com.ua/keis-dlia-valizy-z-polikarbonatu-wings-wn01-15l-shampan-wn01pc-bc-champagne/</url>
 <price>1250</price>
@@ -9460,118 +9553,6 @@
 <param name="Особливості">Висувна ручка</param>
 <param name="Тип коліс">Поворотні</param>
 <param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="Bear-XS-Purple" available="false" group_id="Bear-XS-Purple">
-<url>https://sklad-valiz.com.ua/riukzak-dlia-ruchnoi-poklazhi-bear-30l-fioletovyi-bear-xs-purple/</url>
-<price>1400</price>
-<currencyId>UAH</currencyId>
-<categoryId>1976</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/22/77832235500835_+46fa0a8855.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/22/40806080992707_+5dba9bda92.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/22/94492541106002_+9623b44a1f.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/22/21839303620519_+0fcfc0d9e2.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/22/81455518409239_+4c117f6800.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/22/46283516195532_+6433a89565.png</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Рюкзак для ручной клади Bear 30л фиолетовый (Bear-XS-Purple)</name>
-<name_ua>Рюкзак для ручної поклажі Bear 30л фіолетовий (Bear-XS-Purple)</name_ua>
-<vendorCode>Bear-XS-Purple</vendorCode>
-<description>Цей стильний рюкзак створений для максимального комфорту в подорожі та повсякденному житті. За параметрами підходить для ручної поклажі в салон літака. Лаконічний та сучасний дизайн моделі легко поєднується з будь-яким гардеробом. Надійна конструкція трансформера дозволяє носити виріб як класичний наплічник або як зручну сумку за міцну верхню ручку. Спеціальне внутрішнє захищене відділення гарантує безпечне транспортування ноутбука з діагоналлю екрана до 15.6 дюймів. Регульовані м&amp;#39;які плечові ремені рівномірно розподіляють вагу та мінімізують навантаження на вашу спину. Численні внутрішні та зовнішні кишені допомагають підтримувати ідеальний порядок серед речей і гаджетів. Модель чудово підходить для навчання в коледжі, офісної роботи, тривалих подорожей чи відпочинку. Практичні матеріали та якісна фурнітура забезпечують тривалий термін служби виробу навіть за щоденного використання.</description>
-<description_ua>Цей стильний рюкзак створений для максимального комфорту в подорожі та повсякденному житті. За параметрами підходить для ручної поклажі в салон літака. Лаконічний та сучасний дизайн моделі легко поєднується з будь-яким гардеробом. Надійна конструкція трансформера дозволяє носити виріб як класичний наплічник або як зручну сумку за міцну верхню ручку. Спеціальне внутрішнє захищене відділення гарантує безпечне транспортування ноутбука з діагоналлю екрана до 15.6 дюймів. Регульовані м&amp;#39;які плечові ремені рівномірно розподіляють вагу та мінімізують навантаження на вашу спину. Численні внутрішні та зовнішні кишені допомагають підтримувати ідеальний порядок серед речей і гаджетів. Модель чудово підходить для навчання в коледжі, офісної роботи, тривалих подорожей чи відпочинку. Практичні матеріали та якісна фурнітура забезпечують тривалий термін служби виробу навіть за щоденного використання.</description_ua>
-<country_of_origin>Китай</country_of_origin>
-<param name="Колір">Сиреневый</param>
-<param name="Тип">Рюкзак</param>
-<param name="Матеріал">Нейлон</param>
-<param name="Кількість коліс">Без колес</param>
-<param name="Замок">Ні</param>
-<param name="Розмір">XS</param>
-<param name="Країна виробник">Китай</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="Bear-XS-Green" available="false" group_id="Bear-XS-Green">
-<url>https://sklad-valiz.com.ua/riukzak-dlia-ruchnoi-poklazhi-bear-30l-zelenyi-bear-xs-green/</url>
-<price>1400</price>
-<currencyId>UAH</currencyId>
-<categoryId>1976</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/23/17368205764781_+2a32030579.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/23/86304003585882_+e067620a41.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/23/75058566409833_+922124d849.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/23/56930694504678_+7895da6d50.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/23/86245209683163_+ff14577b06.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/23/77597674534711_+c708893001.png</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Рюкзак для ручной клади Bear 30л зеленый (Bear-XS-Green)</name>
-<name_ua>Рюкзак для ручної поклажі Bear 30л зелений (Bear-XS-Green)</name_ua>
-<vendorCode>Bear-XS-Green</vendorCode>
-<description>Цей стильний рюкзак створений для максимального комфорту в подорожі та повсякденному житті. За параметрами підходить для ручної поклажі в салон літака. Лаконічний та сучасний дизайн моделі легко поєднується з будь-яким гардеробом. Надійна конструкція трансформера дозволяє носити виріб як класичний наплічник або як зручну сумку за міцну верхню ручку. Спеціальне внутрішнє захищене відділення гарантує безпечне транспортування ноутбука з діагоналлю екрана до 15.6 дюймів. Регульовані м&amp;#39;які плечові ремені рівномірно розподіляють вагу та мінімізують навантаження на вашу спину. Численні внутрішні та зовнішні кишені допомагають підтримувати ідеальний порядок серед речей і гаджетів. Модель чудово підходить для навчання в коледжі, офісної роботи, тривалих подорожей чи відпочинку. Практичні матеріали та якісна фурнітура забезпечують тривалий термін служби виробу навіть за щоденного використання.</description>
-<description_ua>Цей стильний рюкзак створений для максимального комфорту в подорожі та повсякденному житті. За параметрами підходить для ручної поклажі в салон літака. Лаконічний та сучасний дизайн моделі легко поєднується з будь-яким гардеробом. Надійна конструкція трансформера дозволяє носити виріб як класичний наплічник або як зручну сумку за міцну верхню ручку. Спеціальне внутрішнє захищене відділення гарантує безпечне транспортування ноутбука з діагоналлю екрана до 15.6 дюймів. Регульовані м&amp;#39;які плечові ремені рівномірно розподіляють вагу та мінімізують навантаження на вашу спину. Численні внутрішні та зовнішні кишені допомагають підтримувати ідеальний порядок серед речей і гаджетів. Модель чудово підходить для навчання в коледжі, офісної роботи, тривалих подорожей чи відпочинку. Практичні матеріали та якісна фурнітура забезпечують тривалий термін служби виробу навіть за щоденного використання.</description_ua>
-<country_of_origin>Китай</country_of_origin>
-<param name="Колір">Зелёный</param>
-<param name="Тип">Рюкзак</param>
-<param name="Матеріал">Нейлон</param>
-<param name="Кількість коліс">Без колес</param>
-<param name="Замок">Ні</param>
-<param name="Розмір">XS</param>
-<param name="Країна виробник">Китай</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="MINIMAL-XS-Black" available="false" group_id="MINIMAL-XS-Black">
-<url>https://sklad-valiz.com.ua/riukzak-dlia-ruchnoi-poklazhi-minimal-30l-chornyi-minimal-xs-black/</url>
-<price>1400</price>
-<currencyId>UAH</currencyId>
-<categoryId>1976</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/24/91027610032165_+64a09b5da5.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/24/88475314506267_+627224c6c1.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/24/53922017236984_+51ec05275f.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/24/98242200106699_+e033ee084a.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/24/34595470182586_+96ad7b0ad8.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/24/66677974083840_+9d6edbd1f9.png</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Рюкзак для ручной клади MINIMAL 30л черный (MINIMAL-XS-Black)</name>
-<name_ua>Рюкзак для ручної поклажі MINIMAL 30л чорний (MINIMAL-XS-Black)</name_ua>
-<vendorCode>MINIMAL-XS-Black</vendorCode>
-<description>Стильний рюкзак вдало поєднує мінімалістичний дизайн та максимальну практичність. Завдяки продуманій конструкції модель легко перетворюється на елегантну сумку за допомогою міцної верхньої ручки та підходить для ручної поклажі в літак. Спеціальне захищене внутрішнє відділення дозволяє безпечно транспортувати ноутбук із діагоналлю до 15.6 дюймів. Численні місткі відділення та приховані кишені допомагають акуратно впорядкувати документи, гаджети та особисті речі. Регульовані м&amp;rsquo;які плечові ремені гарантують анатомічно правильний розподіл навантаження на спину. Модель ідеально підходить для динамічного ритму навчання в коледжі, офісної роботи або тривалих подорожей. Якісні матеріали роблять виріб стійким до зношування і придатним навіть для літнього пляжного відпочинку. Універсальність, ергономічність та витончений стиль роблять цей рюкзак незамінним супутником.</description>
-<description_ua>Стильний рюкзак вдало поєднує мінімалістичний дизайн та максимальну практичність. Завдяки продуманій конструкції модель легко перетворюється на елегантну сумку за допомогою міцної верхньої ручки та підходить для ручної поклажі в літак. Спеціальне захищене внутрішнє відділення дозволяє безпечно транспортувати ноутбук із діагоналлю до 15.6 дюймів. Численні місткі відділення та приховані кишені допомагають акуратно впорядкувати документи, гаджети та особисті речі. Регульовані м&amp;rsquo;які плечові ремені гарантують анатомічно правильний розподіл навантаження на спину. Модель ідеально підходить для динамічного ритму навчання в коледжі, офісної роботи або тривалих подорожей. Якісні матеріали роблять виріб стійким до зношування і придатним навіть для літнього пляжного відпочинку. Універсальність, ергономічність та витончений стиль роблять цей рюкзак незамінним супутником.</description_ua>
-<country_of_origin>Китай</country_of_origin>
-<param name="Колір">Чорний</param>
-<param name="Тип">Рюкзак</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Кількість коліс">Без колес</param>
-<param name="Замок">Ні</param>
-<param name="Розмір">XS</param>
-<param name="Країна виробник">Китай</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="MINIMAL-XS-Beige" available="false" group_id="MINIMAL-XS-Beige">
-<url>https://sklad-valiz.com.ua/riukzak-dlia-ruchnoi-poklazhi-minimal-30l-bezhevyi-minimal-xs-beige/</url>
-<price>1400</price>
-<currencyId>UAH</currencyId>
-<categoryId>1976</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/25/25368023122095_+07e7390963.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/25/98100291378825_+703dd3b64f.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/25/16720912766570_+6f2a2fbdda.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/25/58998366869678_+9b25c1fdde.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/25/20698857640140_+51ec3f880c.png</picture>
-<picture>https://sklad-valiz.com.ua/content/images/25/21945360030384_+f1a803a2ec.png</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Рюкзак для ручной клади MINIMAL 30л бежевый (MINIMAL-XS-Beige)</name>
-<name_ua>Рюкзак для ручної поклажі MINIMAL 30л бежевий (MINIMAL-XS-Beige)</name_ua>
-<vendorCode>MINIMAL-XS-Beige</vendorCode>
-<description>Стильний рюкзак вдало поєднує мінімалістичний дизайн та максимальну практичність. Завдяки продуманій конструкції модель легко перетворюється на елегантну сумку за допомогою міцної верхньої ручки та підходить для ручної поклажі в літак. Спеціальне захищене внутрішнє відділення дозволяє безпечно транспортувати ноутбук із діагоналлю до 15.6 дюймів. Численні місткі відділення та приховані кишені допомагають акуратно впорядкувати документи, гаджети та особисті речі. Регульовані м&amp;rsquo;які плечові ремені гарантують анатомічно правильний розподіл навантаження на спину. Модель ідеально підходить для динамічного ритму навчання в коледжі, офісної роботи або тривалих подорожей. Якісні матеріали роблять виріб стійким до зношування і придатним навіть для літнього пляжного відпочинку. Універсальність, ергономічність та витончений стиль роблять цей рюкзак незамінним супутником.</description>
-<description_ua>Стильний рюкзак вдало поєднує мінімалістичний дизайн та максимальну практичність. Завдяки продуманій конструкції модель легко перетворюється на елегантну сумку за допомогою міцної верхньої ручки та підходить для ручної поклажі в літак. Спеціальне захищене внутрішнє відділення дозволяє безпечно транспортувати ноутбук із діагоналлю до 15.6 дюймів. Численні місткі відділення та приховані кишені допомагають акуратно впорядкувати документи, гаджети та особисті речі. Регульовані м&amp;rsquo;які плечові ремені гарантують анатомічно правильний розподіл навантаження на спину. Модель ідеально підходить для динамічного ритму навчання в коледжі, офісної роботи або тривалих подорожей. Якісні матеріали роблять виріб стійким до зношування і придатним навіть для літнього пляжного відпочинку. Універсальність, ергономічність та витончений стиль роблять цей рюкзак незамінним супутником.</description_ua>
-<country_of_origin>Китай</country_of_origin>
-<param name="Колір">Бежевий</param>
-<param name="Тип">Рюкзак</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Кількість коліс">Без колес</param>
-<param name="Замок">Ні</param>
-<param name="Розмір">XS</param>
-<param name="Країна виробник">Китай</param>
 <param name="Стан">Новий</param>
 </offer>
 <offer id="42203-S-Purple" available="false" group_id="42203-S-Purple">
@@ -12667,33 +12648,6 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="65803-BC-Coffee" available="false" group_id="65803-BC-Coffee">
-<url>https://sklad-valiz.com.ua/keis-dlia-valizy-z-polipropilenu-carbon-65803-12l-kavovyi-65803-bc-coffee/</url>
-<price>950</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/24/keis-dlia-valizy-z-polipropilenu-carbon-65803-12l-kavovyi-65803-bc-coffee-84657646246103_+5f789a5dea.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Кейс для чемодана из полипропилена Carbon 65803 12л кофейный (65803-BC-Coffee)</name>
-<name_ua>Кейс для валізи з поліпропілену Carbon 65803 12л кавовий (65803-BC-Coffee)</name_ua>
-<vendor>Carbon</vendor>
-<vendorCode>65803-BC-Coffee</vendorCode>
-<description>Валіза з розширенням Carbon 65803 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360&amp;deg;, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description>
-<description_ua>Валіза з розширенням Carbon 65803 в розмірі M - це універсальний варіант середнього об&amp;rsquo;єму, що ідеально підходить для поїздок на 5-10 днів. Валіза призначена для здачі в багажне відділення, забезпечуючи оптимальний баланс між місткістю та маневреністю. Матеріал поліпропілен гарантує максимальну міцність і гнучкість: корпус не тріскається від навантажень і зберігає форму, навіть якщо валіза заповнена не повністю. Модель оснащена надійними безшумними колесами, що обертаються на 360&amp;deg;, вбудованим кодовим замком для безпеки та продуманим внутрішнім простором із перегородками та еластичними фіксаторами. Вага завантаження становить 18&amp;ndash;20 кг.</description_ua>
-<country_of_origin>Україна</country_of_origin>
-<param name="Колір">Коричневий</param>
-<param name="Тип">Кейс</param>
-<param name="Матеріал">Поліпропілен</param>
-<param name="Кількість коліс">Без колес</param>
-<param name="Замок">Ні</param>
-<param name="Розмір">XS</param>
-<param name="Країна виробник">Україна</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
 <offer id="65803-S-Coffee" available="false" group_id="65803-S-Coffee">
 <url>https://sklad-valiz.com.ua/valiza-z-rozshyrenniam-carbon-65803-mala-40l-kavova-65803-s-coffee/</url>
 <price>1900</price>
@@ -13263,39 +13217,6 @@
 <description_ua>Валіза з полікарбонату Wings 160PC в розмірі Л - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Завдяки використанню 100% полікарбонату валіза поєднує в собі виняткову міцність та гнучкість корпусних деталей. Така еластичність гарантує максимальну довговічність та надійний захист ваших речей у найекстремальніших умовах. Валіза оснащена посиленою системою поворотних коліс, що дозволяє плавно маневрувати навіть при повному завантаженні. Для безпеки передбачено вбудований кодовий замок, а продуманий внутрішній простір із фіксаторами допоможе акуратно організувати багаж. Вага завантаження становить 22-25 кг.</description_ua>
 <country_of_origin>Польща</country_of_origin>
 <param name="Колір">Чорний</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Полікарбонат</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">L</param>
-<param name="Країна виробник">Польща</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Ні</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="160PC-L-RoseGold" available="false" group_id="160PC-L-RoseGold">
-<url>https://sklad-valiz.com.ua/valiza-z-polikarbonatu-wings-160pc-velyka-97l-rozheve-zoloto-160pc-l-rosegold/</url>
-<price>2800</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/19/80709687294665_+6d745c7d34.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/19/30055873393121_+3d63c5481c.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/19/12707853696965_+fbc72eba15.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/19/24396010965130_+47899c619a.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/19/83433768209683_+074ce8cb88.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/19/70867048706201_+cdde37b39e.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/19/52888090982541_+6cd1ca4fc8.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан из поликарбоната Wings 160PC большой 97л розовое золото (160PC-L-RoseGold)</name>
-<name_ua>Валіза з полікарбонату Wings 160PC велика 97л рожеве золото (160PC-L-RoseGold)</name_ua>
-<vendor>Wings</vendor>
-<vendorCode>160PC-L-RoseGold</vendorCode>
-<description>Валіза з полікарбонату Wings 160PC в розмірі Л - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Завдяки використанню 100% полікарбонату валіза поєднує в собі виняткову міцність та гнучкість корпусних деталей. Така еластичність гарантує максимальну довговічність та надійний захист ваших речей у найекстремальніших умовах. Валіза оснащена посиленою системою поворотних коліс, що дозволяє плавно маневрувати навіть при повному завантаженні. Для безпеки передбачено вбудований кодовий замок, а продуманий внутрішній простір із фіксаторами допоможе акуратно організувати багаж. Вага завантаження становить 22-25 кг.</description>
-<description_ua>Валіза з полікарбонату Wings 160PC в розмірі Л - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Завдяки використанню 100% полікарбонату валіза поєднує в собі виняткову міцність та гнучкість корпусних деталей. Така еластичність гарантує максимальну довговічність та надійний захист ваших речей у найекстремальніших умовах. Валіза оснащена посиленою системою поворотних коліс, що дозволяє плавно маневрувати навіть при повному завантаженні. Для безпеки передбачено вбудований кодовий замок, а продуманий внутрішній простір із фіксаторами допоможе акуратно організувати багаж. Вага завантаження становить 22-25 кг.</description_ua>
-<country_of_origin>Польща</country_of_origin>
-<param name="Колір">Рожеве золото</param>
 <param name="Тип">Валізи</param>
 <param name="Матеріал">Полікарбонат</param>
 <param name="Кількість коліс">4 колеса</param>
@@ -14465,39 +14386,6 @@
 <param name="Замок">З ключем / Кодовий</param>
 <param name="Розмір">L</param>
 <param name="Країна виробник">Франція</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Ні</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="WN01PC-L-Silver" available="false" group_id="WN01PC-L-Silver">
-<url>https://sklad-valiz.com.ua/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver/</url>
-<price>2750</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-21476711198503_+277b2cfd45.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-34056131185611_+86cb757c6f.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-56329259935608_+be7a7b8b2f.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-19230695639027_+d13d2d4266.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-73479102730019_+c2cec9f56d.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-53204595540244_+e22d191279.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/14/valiza-z-polikarbonatu-wings-wn01-velyka-97l-sribna-wn01pc-l-silver-78001760619578_+dff11e72c6.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан из поликарбоната Wings WN01 большой 97л серебряный (WN01PC-L-Silver)</name>
-<name_ua>Валіза з полікарбонату Wings WN01 велика 97л срібна (WN01PC-L-Silver)</name_ua>
-<vendor>Wings</vendor>
-<vendorCode>WN01PC-L-Silver</vendorCode>
-<description>Валіза з полікарбонату Wings WN01 в розмірі L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Завдяки використанню 100% полікарбонату валіза поєднує в собі виняткову міцність та гнучкість корпусних деталей. Така еластичність гарантує максимальну довговічність та надійний захист ваших речей у найекстремальніших умовах. Валіза оснащена посиленою системою поворотних коліс, що дозволяє плавно маневрувати навіть при повному завантаженні. Для безпеки передбачено вбудований кодовий замок, а продуманий внутрішній простір із фіксаторами допоможе акуратно організувати багаж. Вага завантаження становить 22-25 кг.</description>
-<description_ua>Валіза з полікарбонату Wings WN01 в розмірі L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Завдяки використанню 100% полікарбонату валіза поєднує в собі виняткову міцність та гнучкість корпусних деталей. Така еластичність гарантує максимальну довговічність та надійний захист ваших речей у найекстремальніших умовах. Валіза оснащена посиленою системою поворотних коліс, що дозволяє плавно маневрувати навіть при повному завантаженні. Для безпеки передбачено вбудований кодовий замок, а продуманий внутрішній простір із фіксаторами допоможе акуратно організувати багаж. Вага завантаження становить 22-25 кг.</description_ua>
-<country_of_origin>Польща</country_of_origin>
-<param name="Колір">Сріблястий / Сірий</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Полікарбонат</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">З ключем / Кодовий</param>
-<param name="Розмір">L</param>
-<param name="Країна виробник">Польща</param>
 <param name="Особливості">Висувна ручка</param>
 <param name="Тип коліс">Поворотні</param>
 <param name="Підходить для ручної поклажі">Ні</param>
@@ -18181,30 +18069,6 @@
 <param name="Країна виробник">Китай</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="402520-XS-Khaki" available="false" group_id="402520-XS-Khaki">
-<url>https://sklad-valiz.com.ua/riukzak-dlia-ruchnoi-poklazhi-402520-20l-khaki-402520-xs-khaki/</url>
-<price>2200</price>
-<currencyId>UAH</currencyId>
-<categoryId>1976</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/43/riukzak-dlia-ruchnoi-poklazhi-402520-20l-khaki-402520-xs-khaki-76873633454463_+aefa4933c5.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/43/riukzak-dlia-ruchnoi-poklazhi-402520-20l-khaki-402520-xs-khaki-28612899222398_+6768417d40.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Рюкзак для ручной клади 402520 20л хаки (402520-XS-Khaki)</name>
-<name_ua>Рюкзак для ручної поклажі 402520 20л хакі (402520-XS-Khaki)</name_ua>
-<vendorCode>402520-XS-Khaki</vendorCode>
-<description>Цей універсальний рюкзак ідеально підходить під стандарти безкоштовної ручної поклажі лоукостерів, як-от Ryanair та Wizz Air. Він виготовлений із міцного водонепроникного нейлону 840D, що надійно захищає речі від вологи. Завдяки відкриттю на 180&amp;deg; за принципом валізи, пакувати одяг та аксесуари максимально зручно. Всередині передбачено захищене відділення для ноутбука, сітчасті органайзери та потайні кишені для безпеки документів. Ортопедична дихаюча спинка та ергономічні лямки забезпечують комфорт навіть під час тривалих пересувань. Також рюкзак оснащений бічною кишенею для пляшки та спеціальним кріпленням на ручку валізи. Це стильне та функціональне рішення для подорожей, бізнесу чи щоденного використання в місті.</description>
-<description_ua>Цей універсальний рюкзак ідеально підходить під стандарти безкоштовної ручної поклажі лоукостерів, як-от Ryanair та Wizz Air. Він виготовлений із міцного водонепроникного нейлону 840D, що надійно захищає речі від вологи. Завдяки відкриттю на 180&amp;deg; за принципом валізи, пакувати одяг та аксесуари максимально зручно. Всередині передбачено захищене відділення для ноутбука, сітчасті органайзери та потайні кишені для безпеки документів. Ортопедична дихаюча спинка та ергономічні лямки забезпечують комфорт навіть під час тривалих пересувань. Також рюкзак оснащений бічною кишенею для пляшки та спеціальним кріпленням на ручку валізи. Це стильне та функціональне рішення для подорожей, бізнесу чи щоденного використання в місті.</description_ua>
-<country_of_origin>Китай</country_of_origin>
-<param name="Колір">Зелёный</param>
-<param name="Тип">Рюкзак</param>
-<param name="Матеріал">Нейлон</param>
-<param name="Кількість коліс">Без колес</param>
-<param name="Замок">Ні</param>
-<param name="Розмір">XS</param>
-<param name="Країна виробник">Китай</param>
-<param name="Стан">Новий</param>
-</offer>
 <offer id="4522-XS-Black" available="false" group_id="4522-XS-Black">
 <url>https://sklad-valiz.com.ua/riukzak-dlia-ruchnoi-poklazhi-4522-26l-khaki-4522-xs-khaki/</url>
 <price>2500</price>
@@ -18247,87 +18111,6 @@
 <description_ua>Компактний рюкзак розроблений спеціально під стандарти малої ручної поклажі лоукостів. Модель виготовлена з щільного водовідштовхувального матеріалу з PU-покриттям, а ущільнені стінки та посилене дно надійно тримають форму. Внутрішній простір оптимізовано для ноутбука до 15.6&amp;Prime; та організовано за допомогою системи функціональних кишень. Для безпеки ваших речей передбачено потайне відділення на спинці, а для дрібниць - швидкий доступ через кишеню на лямці. Максимальний комфорт забезпечують дихаюча спинка, м&amp;rsquo;які лямки та нагрудна стяжка, що правильно розподіляє вагу. Бокові кишені зручні для води чи парасолі, а спеціальне кріплення дозволяє легко зафіксувати рюкзак на ручці валізи. Використання преміальної фурнітури гарантує довговічність навіть при інтенсивних поїздках. Це продумане рішення для подорожей без стресу, де кожен сантиметр працює на вас.</description_ua>
 <country_of_origin>Україна</country_of_origin>
 <param name="Колір">Чорний</param>
-<param name="Тип">Рюкзак</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Кількість коліс">Без колес</param>
-<param name="Замок">Ні</param>
-<param name="Розмір">XS</param>
-<param name="Країна виробник">Україна</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="Leon-XS-Grey" available="false" group_id="Leon-XS-Grey">
-<url>https://sklad-valiz.com.ua/riukzak-dlia-ruchnoi-poklazhi-leon-24l-siryi-leon-xs-grey/</url>
-<price>2700</price>
-<currencyId>UAH</currencyId>
-<categoryId>1976</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/46/riukzak-dlia-ruchnoi-poklazhi-leon-24l-siryi-leon-xs-grey-37280970132366_+ea6911b44f.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/46/riukzak-dlia-ruchnoi-poklazhi-leon-24l-siryi-leon-xs-grey-94065732104924_+95d110c109.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/46/riukzak-dlia-ruchnoi-poklazhi-leon-24l-siryi-leon-xs-grey-19144521207074_+49566f4349.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/46/riukzak-dlia-ruchnoi-poklazhi-leon-24l-siryi-leon-xs-grey-68508419687305_+57dfa194fd.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/46/riukzak-dlia-ruchnoi-poklazhi-leon-24l-siryi-leon-xs-grey-23678863055456_+c998ca5dd1.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Рюкзак для ручной клади Leon 24л серый (Leon-XS-Grey)</name>
-<name_ua>Рюкзак для ручної поклажі Leon 24л сірий (Leon-XS-Grey)</name_ua>
-<vendorCode>Leon-XS-Grey</vendorCode>
-<description>Компактний рюкзак розроблений спеціально під стандарти малої ручної поклажі лоукостів. Модель виготовлена з щільного водовідштовхувального матеріалу з PU-покриттям, а ущільнені стінки та посилене дно надійно тримають форму. Внутрішній простір оптимізовано для ноутбука до 15.6&amp;Prime; та організовано за допомогою системи функціональних кишень. Для безпеки ваших речей передбачено потайне відділення на спинці, а для дрібниць - швидкий доступ через кишеню на лямці. Максимальний комфорт забезпечують дихаюча спинка, м&amp;rsquo;які лямки та нагрудна стяжка, що правильно розподіляє вагу. Бокові кишені зручні для води чи парасолі, а спеціальне кріплення дозволяє легко зафіксувати рюкзак на ручці валізи. Використання преміальної фурнітури гарантує довговічність навіть при інтенсивних поїздках. Це продумане рішення для подорожей без стресу, де кожен сантиметр працює на вас.</description>
-<description_ua>Компактний рюкзак розроблений спеціально під стандарти малої ручної поклажі лоукостів. Модель виготовлена з щільного водовідштовхувального матеріалу з PU-покриттям, а ущільнені стінки та посилене дно надійно тримають форму. Внутрішній простір оптимізовано для ноутбука до 15.6&amp;Prime; та організовано за допомогою системи функціональних кишень. Для безпеки ваших речей передбачено потайне відділення на спинці, а для дрібниць - швидкий доступ через кишеню на лямці. Максимальний комфорт забезпечують дихаюча спинка, м&amp;rsquo;які лямки та нагрудна стяжка, що правильно розподіляє вагу. Бокові кишені зручні для води чи парасолі, а спеціальне кріплення дозволяє легко зафіксувати рюкзак на ручці валізи. Використання преміальної фурнітури гарантує довговічність навіть при інтенсивних поїздках. Це продумане рішення для подорожей без стресу, де кожен сантиметр працює на вас.</description_ua>
-<country_of_origin>Україна</country_of_origin>
-<param name="Колір">Сірий</param>
-<param name="Тип">Рюкзак</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Кількість коліс">Без колес</param>
-<param name="Замок">Ні</param>
-<param name="Розмір">XS</param>
-<param name="Країна виробник">Україна</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="Bagland-XS-Blue" available="false" group_id="Bagland-XS-Blue">
-<url>https://sklad-valiz.com.ua/riukzak-dlia-ruchnoi-poklazhi-bagland-20l-synii-bagland-xs-blue/</url>
-<price>2190</price>
-<currencyId>UAH</currencyId>
-<categoryId>1976</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/47/riukzak-dlia-ruchnoi-poklazhi-bagland-20l-synii-bagland-xs-blue-83995948163497_+cfbe9e7949.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/47/riukzak-dlia-ruchnoi-poklazhi-bagland-20l-synii-bagland-xs-blue-51295580533276_+987adf0eb8.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/47/riukzak-dlia-ruchnoi-poklazhi-bagland-20l-synii-bagland-xs-blue-23454679929025_+49578a5cf0.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/47/riukzak-dlia-ruchnoi-poklazhi-bagland-20l-synii-bagland-xs-blue-51627520399711_+f1097e6a38.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/47/riukzak-dlia-ruchnoi-poklazhi-bagland-20l-synii-bagland-xs-blue-30161909345171_+0bae466d05.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Рюкзак для ручной клади Bagland 20л синий (Bagland-XS-Blue)</name>
-<name_ua>Рюкзак для ручної поклажі Bagland 20л синій (Bagland-XS-Blue)</name_ua>
-<vendorCode>Bagland-XS-Blue</vendorCode>
-<description>Цей місткий рюкзак - ідеальна альтернатива дорожній сумці, розроблена спеціально для коротких поїздок та перельотів. Основне відділення з органайзерами доповнене окремим захищеним відсіком для ноутбука чи планшета до 15 дюймів. Зовнішня система зберігання включає три фронтальні та дві бокові кишені для швидкого доступу до речей. Для безпеки цінностей на спинці передбачено спеціальне відділення &amp;laquo;Антикрадій&amp;raquo;. Модель виготовлена зі зносостійкої водовідштовхувальної тканини з використанням надійної фурнітури. Особлива увага приділена здоров&amp;rsquo;ю: ортопедична спинка з вентильованими вставками забезпечує комфорт навіть при повному завантаженні. Завдяки поєднанню стильного дизайну та функціональності, цей наплічник став фаворитом серед мандрівників. Це надійний супутник, що вмістить усе необхідне для вашої подорожі.</description>
-<description_ua>Цей місткий рюкзак - ідеальна альтернатива дорожній сумці, розроблена спеціально для коротких поїздок та перельотів. Основне відділення з органайзерами доповнене окремим захищеним відсіком для ноутбука чи планшета до 15 дюймів. Зовнішня система зберігання включає три фронтальні та дві бокові кишені для швидкого доступу до речей. Для безпеки цінностей на спинці передбачено спеціальне відділення &amp;laquo;Антикрадій&amp;raquo;. Модель виготовлена зі зносостійкої водовідштовхувальної тканини з використанням надійної фурнітури. Особлива увага приділена здоров&amp;rsquo;ю: ортопедична спинка з вентильованими вставками забезпечує комфорт навіть при повному завантаженні. Завдяки поєднанню стильного дизайну та функціональності, цей наплічник став фаворитом серед мандрівників. Це надійний супутник, що вмістить усе необхідне для вашої подорожі.</description_ua>
-<country_of_origin>Україна</country_of_origin>
-<param name="Колір">Синій</param>
-<param name="Тип">Рюкзак</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Кількість коліс">Без колес</param>
-<param name="Замок">Ні</param>
-<param name="Розмір">XS</param>
-<param name="Країна виробник">Україна</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="Bagland-XS-Grey" available="false" group_id="Bagland-XS-Grey">
-<url>https://sklad-valiz.com.ua/riukzak-dlia-ruchnoi-poklazhi-bagland-20l-siryi-bagland-xs-grey/</url>
-<price>2190</price>
-<currencyId>UAH</currencyId>
-<categoryId>1976</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/48/riukzak-dlia-ruchnoi-poklazhi-bagland-20l-siryi-bagland-xs-grey-76425277115196_+ca9fc40d4a.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/48/riukzak-dlia-ruchnoi-poklazhi-bagland-20l-siryi-bagland-xs-grey-72194677220086_+52302c99fd.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/48/riukzak-dlia-ruchnoi-poklazhi-bagland-20l-siryi-bagland-xs-grey-32063754584443_+deb473b0e6.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/48/riukzak-dlia-ruchnoi-poklazhi-bagland-20l-siryi-bagland-xs-grey-56059786150045_+8736739e38.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/48/riukzak-dlia-ruchnoi-poklazhi-bagland-20l-siryi-bagland-xs-grey-31971460249032_+f328027366.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Рюкзак для ручной клади Bagland 20л серый (Bagland-XS-Grey)</name>
-<name_ua>Рюкзак для ручної поклажі Bagland 20л сірий (Bagland-XS-Grey)</name_ua>
-<vendorCode>Bagland-XS-Grey</vendorCode>
-<description>Цей місткий рюкзак - ідеальна альтернатива дорожній сумці, розроблена спеціально для коротких поїздок та перельотів. Основне відділення з органайзерами доповнене окремим захищеним відсіком для ноутбука чи планшета до 15 дюймів. Зовнішня система зберігання включає три фронтальні та дві бокові кишені для швидкого доступу до речей. Для безпеки цінностей на спинці передбачено спеціальне відділення &amp;laquo;Антикрадій&amp;raquo;. Модель виготовлена зі зносостійкої водовідштовхувальної тканини з використанням надійної фурнітури. Особлива увага приділена здоров&amp;rsquo;ю: ортопедична спинка з вентильованими вставками забезпечує комфорт навіть при повному завантаженні. Завдяки поєднанню стильного дизайну та функціональності, цей наплічник став фаворитом серед мандрівників. Це надійний супутник, що вмістить усе необхідне для вашої подорожі.</description>
-<description_ua>Цей місткий рюкзак - ідеальна альтернатива дорожній сумці, розроблена спеціально для коротких поїздок та перельотів. Основне відділення з органайзерами доповнене окремим захищеним відсіком для ноутбука чи планшета до 15 дюймів. Зовнішня система зберігання включає три фронтальні та дві бокові кишені для швидкого доступу до речей. Для безпеки цінностей на спинці передбачено спеціальне відділення &amp;laquo;Антикрадій&amp;raquo;. Модель виготовлена зі зносостійкої водовідштовхувальної тканини з використанням надійної фурнітури. Особлива увага приділена здоров&amp;rsquo;ю: ортопедична спинка з вентильованими вставками забезпечує комфорт навіть при повному завантаженні. Завдяки поєднанню стильного дизайну та функціональності, цей наплічник став фаворитом серед мандрівників. Це надійний супутник, що вмістить усе необхідне для вашої подорожі.</description_ua>
-<country_of_origin>Україна</country_of_origin>
-<param name="Колір">Сірий</param>
 <param name="Тип">Рюкзак</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Кількість коліс">Без колес</param>
