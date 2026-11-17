@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-17 06:16">
+<yml_catalog date="2026-11-17 12:16">
 <shop>
 <name>Sklad Valiz</name>
 <company>Sklad Valiz</company>
@@ -7426,37 +7426,6 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="66101-XS-RoseGold" available="true" group_id="66101-XS-RoseGold">
-<url>https://sklad-valiz.com.ua/valiza-dlia-loukostu-carbon-mini-20l-rozheve-zoloto-66101-xs-rosegold/</url>
-<price>1490</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/49/valiza-dlia-loukostu-carbon-mini-20l-rozheve-zoloto-66101-xs-rosegold-35452114151085_+7abff1d01d.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/49/valiza-dlia-loukostu-carbon-mini-20l-rozheve-zoloto-66101-xs-rosegold-14183451601608_+f073a06213.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/49/valiza-dlia-loukostu-carbon-mini-20l-rozheve-zoloto-66101-xs-rosegold-22087699627544_+2945440f42.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/49/valiza-dlia-loukostu-carbon-mini-20l-rozheve-zoloto-66101-xs-rosegold-33621920596041_+5f706540d1.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/49/valiza-dlia-loukostu-carbon-mini-20l-rozheve-zoloto-66101-xs-rosegold-73213589304254_+ec7bcf1bc0.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/49/valiza-dlia-loukostu-carbon-mini-20l-rozheve-zoloto-66101-xs-rosegold-41035633007270_+4fda4bf914.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/49/valiza-dlia-loukostu-carbon-mini-20l-rozheve-zoloto-66101-xs-rosegold-12596130470689_+4cd39f4fc9.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан для лоукоста Carbon мини 20л розовое золото (66101-XS-RoseGold)</name>
-<name_ua>Валіза для лоукосту Carbon міні 20л рожеве золото (66101-XS-RoseGold)</name_ua>
-<vendor>Carbon</vendor>
-<vendorCode>66101-XS-RoseGold</vendorCode>
-<country_of_origin>Україна</country_of_origin>
-<param name="Колір">Рожеве золото</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Пластик</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">Кодовий</param>
-<param name="Розмір">XS</param>
-<param name="Країна виробник">Україна</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
-<param name="Стан">Новий</param>
-</offer>
 <offer id="131-S-Champagne" available="true" group_id="131-S-Champagne">
 <url>https://sklad-valiz.com.ua/valiza-dlia-ruchnoi-poklazhi-fashion-131-mala-35l-shampan-131-s-champagne/</url>
 <price>1600</price>
@@ -14298,6 +14267,37 @@
 <param name="Підходить для ручної поклажі">Так</param>
 <param name="Стан">Новий</param>
 </offer>
+<offer id="66101-XS-RoseGold" available="false" group_id="66101-XS-RoseGold">
+<url>https://sklad-valiz.com.ua/valiza-dlia-loukostu-carbon-mini-20l-rozheve-zoloto-66101-xs-rosegold/</url>
+<price>1490</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/49/valiza-dlia-loukostu-carbon-mini-20l-rozheve-zoloto-66101-xs-rosegold-35452114151085_+7abff1d01d.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/49/valiza-dlia-loukostu-carbon-mini-20l-rozheve-zoloto-66101-xs-rosegold-14183451601608_+f073a06213.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/49/valiza-dlia-loukostu-carbon-mini-20l-rozheve-zoloto-66101-xs-rosegold-22087699627544_+2945440f42.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/49/valiza-dlia-loukostu-carbon-mini-20l-rozheve-zoloto-66101-xs-rosegold-33621920596041_+5f706540d1.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/49/valiza-dlia-loukostu-carbon-mini-20l-rozheve-zoloto-66101-xs-rosegold-73213589304254_+ec7bcf1bc0.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/49/valiza-dlia-loukostu-carbon-mini-20l-rozheve-zoloto-66101-xs-rosegold-41035633007270_+4fda4bf914.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/49/valiza-dlia-loukostu-carbon-mini-20l-rozheve-zoloto-66101-xs-rosegold-12596130470689_+4cd39f4fc9.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан для лоукоста Carbon мини 20л розовое золото (66101-XS-RoseGold)</name>
+<name_ua>Валіза для лоукосту Carbon міні 20л рожеве золото (66101-XS-RoseGold)</name_ua>
+<vendor>Carbon</vendor>
+<vendorCode>66101-XS-RoseGold</vendorCode>
+<country_of_origin>Україна</country_of_origin>
+<param name="Колір">Рожеве золото</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Пластик</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">XS</param>
+<param name="Країна виробник">Україна</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
 <offer id="66101-XS-Silver" available="false" group_id="66101-XS-Silver">
 <url>https://sklad-valiz.com.ua/valiza-dlia-loukostu-carbon-mini-20l-sribna-66101-xs-silver/</url>
 <price>1490</price>
@@ -17760,7 +17760,7 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="53103-S-Blue" available="true" group_id="53103-S-Blue">
+<offer id="53103-S-Blue" available="false" group_id="53103-S-Blue">
 <url>https://sklad-valiz.com.ua/valiza-madisson-53103-mala-37l-synia-53103-s-blue/</url>
 <price>1850</price>
 <currencyId>UAH</currencyId>
