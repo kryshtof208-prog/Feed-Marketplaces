@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-18 06:16">
+<yml_catalog date="2026-11-18 18:16">
 <shop>
 <name>Sklad Valiz</name>
 <company>Sklad Valiz</company>
@@ -5723,39 +5723,6 @@
 <param name="Особливості">Висувна ручка</param>
 <param name="Тип коліс">Поворотні</param>
 <param name="Підходить для ручної поклажі">Ні</param>
-<param name="Стан">Новий</param>
-</offer>
-<offer id="53103-S-Pink" available="true" group_id="53103-S-Pink">
-<url>https://sklad-valiz.com.ua/valiza-dlia-ruchnoi-poklazhi-madisson-53103-mala-37l-rozheva-53103-s-pink/</url>
-<price>1850</price>
-<currencyId>UAH</currencyId>
-<categoryId>4134</categoryId>
-<picture>https://sklad-valiz.com.ua/content/images/28/65658451952449_+f1980f9d0b.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/28/89314009740903_+1a0b9bd59d.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/28/25939850939862_+af72dbc68e.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/28/40290016685779_+0199275965.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/28/57504908091392_+ab961a3e0a.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/28/96130862413984_+c5493c27c0.jpg</picture>
-<picture>https://sklad-valiz.com.ua/content/images/28/95141059640905_+df9e7a2279.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чемодан для ручной клади Madisson 53103 малый 37л розовый (53103-S-Pink)</name>
-<name_ua>Валіза для ручної поклажі Madisson 53103 мала 37л рожева (53103-S-Pink)</name_ua>
-<vendor>Madisson</vendor>
-<vendorCode>53103-S-Pink</vendorCode>
-<description>Валіза Madisson 53103 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description>
-<description_ua>Валіза Madisson 53103 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-<country_of_origin>Франція</country_of_origin>
-<param name="Колір">Рожевий</param>
-<param name="Тип">Валізи</param>
-<param name="Матеріал">Поліпропілен</param>
-<param name="Кількість коліс">4 колеса</param>
-<param name="Замок">Кодовий</param>
-<param name="Розмір">S</param>
-<param name="Країна виробник">Франція</param>
-<param name="Особливості">Висувна ручка</param>
-<param name="Тип коліс">Поворотні</param>
-<param name="Підходить для ручної поклажі">Так</param>
 <param name="Стан">Новий</param>
 </offer>
 <offer id="Grant-XS-Black" available="true" group_id="Grant-XS-Black">
@@ -13922,6 +13889,39 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
+<offer id="53103-S-Pink" available="false" group_id="53103-S-Pink">
+<url>https://sklad-valiz.com.ua/valiza-dlia-ruchnoi-poklazhi-madisson-53103-mala-37l-rozheva-53103-s-pink/</url>
+<price>1850</price>
+<currencyId>UAH</currencyId>
+<categoryId>4134</categoryId>
+<picture>https://sklad-valiz.com.ua/content/images/28/65658451952449_+f1980f9d0b.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/28/89314009740903_+1a0b9bd59d.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/28/25939850939862_+af72dbc68e.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/28/40290016685779_+0199275965.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/28/57504908091392_+ab961a3e0a.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/28/96130862413984_+c5493c27c0.jpg</picture>
+<picture>https://sklad-valiz.com.ua/content/images/28/95141059640905_+df9e7a2279.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Чемодан для ручной клади Madisson 53103 малый 37л розовый (53103-S-Pink)</name>
+<name_ua>Валіза для ручної поклажі Madisson 53103 мала 37л рожева (53103-S-Pink)</name_ua>
+<vendor>Madisson</vendor>
+<vendorCode>53103-S-Pink</vendorCode>
+<description>Валіза Madisson 53103 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description>
+<description_ua>Валіза Madisson 53103 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+<country_of_origin>Франція</country_of_origin>
+<param name="Колір">Рожевий</param>
+<param name="Тип">Валізи</param>
+<param name="Матеріал">Поліпропілен</param>
+<param name="Кількість коліс">4 колеса</param>
+<param name="Замок">Кодовий</param>
+<param name="Розмір">S</param>
+<param name="Країна виробник">Франція</param>
+<param name="Особливості">Висувна ручка</param>
+<param name="Тип коліс">Поворотні</param>
+<param name="Підходить для ручної поклажі">Так</param>
+<param name="Стан">Новий</param>
+</offer>
 <offer id="53103-M-Pink" available="false" group_id="53103-M-Pink">
 <url>https://sklad-valiz.com.ua/valiza-z-polipropilenu-madisson-53103-serednia-65l-rozheva-53103-m-pink/</url>
 <price>2350</price>
@@ -14393,7 +14393,7 @@
 <param name="Підходить для ручної поклажі">Ні</param>
 <param name="Стан">Новий</param>
 </offer>
-<offer id="33703-L-Black" available="false" group_id="33703-L-Black">
+<offer id="33703-L-Black" available="true" group_id="33703-L-Black">
 <url>https://sklad-valiz.com.ua/valiza-snowball-33703-velyka-101l-chorna-33703-l-black/</url>
 <price>3150</price>
 <currencyId>UAH</currencyId>
