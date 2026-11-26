@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-26T14:06:12.966Z">
+<yml_catalog date="2026-11-26T22:06:13.141Z">
   <shop>
     <categories>
       <category id="1061" portal_id="Чемоданы">Валізи</category>
@@ -1491,7 +1491,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="131-S-LightBlue" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Fashion 131 малый 35л голубая (131-S-LightBlue)</name_ru>
         <name_ua>Валіза для ручної поклажі Fashion 131 мала 35л блакитна (131-S-LightBlue)</name_ua>
         <price>1440</price>
@@ -2297,34 +2297,6 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="43803-S-White" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан для ручной клади Snowball 43803 малый 34л белый (43803-S-White)</name_ru>
-        <name_ua>Валіза для ручної поклажі Snowball 43803 мала 34л біла (43803-S-White)</name_ua>
-        <price>2900</price>
-        <categoryId>1061</categoryId>
-        <vendor>Snowball</vendor>
-        <country>Франція</country>
-        <description_ru>Чемодан для ручной клади Snowball 43803 малый 34л белый (43803-S-White)</description_ru>
-        <description_ua>Валіза з поліпропілену Snowball 43803 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/31/15151008424193_+6faa45842c.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/31/79523647763931_+ca94456c42.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/31/88240486849674_+80018af97c.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/31/35000697635578_+cf6d21aa3e.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/31/86511320851102_+1f7c573088.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/31/65176119383974_+472b0b1514.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/31/60814717126734_+dd05cfcad4.jpg</picture>
-        <param name="Колір">Белый</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
       <offer id="43803-S-Black" available="true">
         <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Чемодан для ручной клади Snowball 43803 малый 34л черный (43803-S-Black)</name_ru>
@@ -2791,7 +2763,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="160PC-XS-Black" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Чемодан для лоукоста Wings 160PC мини 23л черный (160PC-XS-Black)</name_ru>
         <name_ua>Валіза для лоукосту Wings 160PC міні 23л чорна (160PC-XS-Black)</name_ua>
         <price>1050</price>
@@ -2958,7 +2930,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-Set-Champagne" available="true">
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name_ru>Набор чемоданов из полипропилена Snowball 33703 3 в 1 шампань (33703-Set-Champagne)</name_ru>
         <name_ua>Набір валіз з поліпропілену Snowball 33703 3 в 1 шампань (33703-Set-Champagne)</name_ua>
         <price>7240</price>
@@ -3412,8 +3384,26 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
+      <offer id="Catesigo-XS-Black" available="true">
+        <quantity_in_stock>3</quantity_in_stock>
+        <name_ru>Рюкзак с отделением для ноутбука 34л черный (Catesigo-XS-Black)</name_ru>
+        <name_ua>Рюкзак з відділенням для ноутбуку 34л чорний (Catesigo-XS-Black)</name_ua>
+        <price>1227</price>
+        <categoryId>1089</categoryId>
+        <country>Китай</country>
+        <description_ru>Рюкзак с отделением для ноутбука 34л черный (Catesigo-XS-Black)</description_ru>
+        <description_ua>Рюкзак Catesigo на 34л - ідеальний супутник для динамічного життя та подорожей. Його габарити (48х35х20 см) та продуманий функціонал забезпечують максимальний комфорт у будь-якій дорозі. Завдяки великій місткості із двома основними та трьома малими відсіками ви зможете акуратно спакувати всі необхідні речі. Якісний водонепроникний нейлон гарантує безпеку документів і техніки формату А4 навіть під час раптової зливи. Вбудований USB-роз&amp;#39;єм допоможе завжди залишатися на зв&amp;rsquo;язку в терміналах вокзалів чи під час тривалих прогулянок. Особлива кишеня &amp;laquo;антизлодій&amp;raquo; на спині надійно захистить ваші найцінніші речі від кишенькових злодіїв у натовпі. Численні внутрішні органайзери, фронтальні та бічні кишені дозволять миттєво знайти потрібну дрібницю на ходу. Комфорт під час тривалого носіння забезпечує ергономічна спинка-подушка з вентиляцією та додаткова грудна стяжка. Це надійний, місткий та стильний вибір для тих, хто звик тримати все під контролем і подорожувати організовано.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-catesigo-34l-chornyi-catesigo-xs-black-43717286749607_+132848b2c4.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Рюкзак</param>
+        <param name="Матеріал корпусу">Нейлон</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+      </offer>
       <offer id="Catesigo-XS-Grey" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Рюкзак с отделением для ноутбука 24л серый (Catesigo-XS-Grey)</name_ru>
         <name_ua>Рюкзак з відділенням для ноутбуку 24л сірий (Catesigo-XS-Grey)</name_ua>
         <price>1227</price>
@@ -5104,7 +5094,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="Grant-XS-Black" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name_ru>Рюкзак с креплением к чемодану 35л черный (Grant-XS-Black)</name_ru>
         <name_ua>Рюкзак з кріпленням до валізи 35л чорний (Grant-XS-Black)</name_ua>
         <price>1073</price>
@@ -5801,7 +5791,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="17505-M-Black" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Дорожная сумка Catesigo 17505 средняя 33л черная (17505-M-Black)</name_ru>
         <name_ua>Дорожня сумка Catesigo 17505 середня 33л чорна (17505-M-Black)</name_ua>
         <price>880</price>
@@ -5825,7 +5815,7 @@
         <param name="Корпус">М'який</param>
       </offer>
       <offer id="17505-M-Blue" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name_ru>Дорожная сумка Catesigo 17505 средняя 33л синяя (17505-M-Blue)</name_ru>
         <name_ua>Дорожня сумка Catesigo 17505 середня 33л синя (17505-M-Blue)</name_ua>
         <price>880</price>
@@ -5991,6 +5981,33 @@
         <picture>https://sklad-valiz.com.ua/content/images/22/dorozhnia-sumka-kaiman-6007-60l-serednia-synia-6007-m-blue-25027834102910_+68e17a4c6e.jpeg</picture>
         <picture>https://sklad-valiz.com.ua/content/images/22/dorozhnia-sumka-kaiman-6007-60l-serednia-synia-6007-m-blue-73562250079840_+524a99bca9.jpeg</picture>
         <param name="Колір">Синий</param>
+        <param name="Тип">Сумка дорожная</param>
+        <param name="Матеріал корпусу">Нейлон</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">Без колес</param>
+        <param name="Вбудований замок">Без замку</param>
+        <param name="Об'єм">Середні (50 – 89.9 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">М'який</param>
+      </offer>
+      <offer id="6007-M-Black" available="true">
+        <quantity_in_stock>3</quantity_in_stock>
+        <name_ru>Дорожная сумка Kaiman 6007 60л средняя черная (6007-M-Black)</name_ru>
+        <name_ua>Дорожня сумка Kaiman 6007 60л середня чорна (6007-M-Black)</name_ua>
+        <price>800</price>
+        <categoryId>1087</categoryId>
+        <vendor>Kaiman</vendor>
+        <country>Китай</country>
+        <description_ru>Дорожная сумка Kaiman 6007 60л средняя черная (6007-M-Black)</description_ru>
+        <description_ua>Дорожня сумка Kaiman 6007 60л середня чорна (6007-M-Black)</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/23/dorozhnia-sumka-kaiman-6007-60l-serednia-chorna-6007-m-black-97762930836463_+f9a0f4353f.jpeg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/23/dorozhnia-sumka-kaiman-6007-60l-serednia-chorna-6007-m-black-52514663374449_+f6bb63b31f.jpeg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/23/dorozhnia-sumka-kaiman-6007-60l-serednia-chorna-6007-m-black-20378742609115_+df6e9c49a7.jpeg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/23/dorozhnia-sumka-kaiman-6007-60l-serednia-chorna-6007-m-black-40765222333461_+8758c19c58.jpeg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/23/dorozhnia-sumka-kaiman-6007-60l-serednia-chorna-6007-m-black-45819989814132_+41eef1f378.jpeg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/23/dorozhnia-sumka-kaiman-6007-60l-serednia-chorna-6007-m-black-59077891601936_+2676919d60.jpeg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/23/dorozhnia-sumka-kaiman-6007-60l-serednia-chorna-6007-m-black-27565362440391_+e46546935e.jpeg</picture>
+        <param name="Колір">Черный</param>
         <param name="Тип">Сумка дорожная</param>
         <param name="Матеріал корпусу">Нейлон</param>
         <param name="Стать">Унісекс</param>
@@ -6423,7 +6440,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="2504-M-Blue" available="true">
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name_ru>Чемодан с расширением Wings 2504 средний 63л синий (2504-M-Blue)</name_ru>
         <name_ua>Валіза з розширенням Wings 2504 середня 63л синя (2504-M-Blue)</name_ua>
         <price>2750</price>
@@ -6451,7 +6468,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="2504-L-Blue" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чемодан с расширением Wings 2504 большой 97л синий (2504-L-Blue)</name_ru>
         <name_ua>Валіза з розширенням Wings 2504 велика 97л синя (2504-L-Blue)</name_ua>
         <price>2850</price>
@@ -6779,34 +6796,6 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="647-M-Black" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан с расширением Airtex 647 средний 72л черный (647-M-Black)</name_ru>
-        <name_ua>Валіза з розширенням Airtex 647 середня 72л чорна (647-M-Black)</name_ua>
-        <price>5300</price>
-        <categoryId>1061</categoryId>
-        <vendor>Airtex</vendor>
-        <country>Франція</country>
-        <description_ru>Чемодан с расширением Airtex 647 средний 72л черный (647-M-Black)</description_ru>
-        <description_ua>Валіза з розширенням Airtex 647 в розмірі М - оптимальний середній варіант, розрахований на повноцінні індивідуальні подорожі або сімейні поїздки тривалістю до 10 днів. Ця модель призначена для здачі в багажне відділення авіалайнерів або зручного розміщення в поїздах та авто. Матеріал 100% поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує значний зовнішній тиск у багажному відсіку літака і не деформується навіть у разі неповного завантаження. Для захисту від атмосферних факторів і стороннього втручання валіза оснащена вологозахищеною зламостійкою блискавкою &amp;laquo;антизлодій&amp;raquo; та вбудованим кодовим замком із системою TSA. Завдяки чотирьом подвійним поліуретановим колесам, що обертаються на 360 градусів на металевих підшипниках, забезпечується безшумний та плавний рух важкого багажу. Ергономічний внутрішній простір продуманий до дрібниць: він розділений на два відділи, де передбачені притискні ремені, щільна перегородка на блискавці та функціональні кишені для дрібниць і цінних речей. Додаткова вбудована система розширення дозволяє за потреби збільшити товщину валізи на 5 см та суттєво наростити корисний об&amp;#39;єм для сувенірів і додаткового одягу.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-89831030667937_+73323613c0.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-77180202213850_+df3b740908.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-45198648403472_+34a04ede8b.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-29578742837802_+995ab7881e.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-33396727527479_+4dfe18b37d.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-91648184536864_+7def07e826.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-48085420703076_+aaae909536.jpg</picture>
-        <param name="Колір">Черный</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Поліпропілен</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Середні (50 – 89.9 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
@@ -7291,34 +7280,6 @@
         <picture>https://sklad-valiz.com.ua/content/images/28/valiza-z-polikarbonatu-wings-wn01-velyka-97l-kremova-wn01pc-l-creme-27466783615264_+553eb84acf.jpg</picture>
         <picture>https://sklad-valiz.com.ua/content/images/28/valiza-z-polikarbonatu-wings-wn01-velyka-97l-kremova-wn01pc-l-creme-75375320474191_+37e21664d0.jpg</picture>
         <param name="Колір">Кремовий</param>
-        <param name="Тип">Валізи</param>
-        <param name="Матеріал корпусу">Полікарбонат</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">4 шт</param>
-        <param name="Вбудований замок">Кодовий</param>
-        <param name="Об'єм">Великі (90 - 100 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">Жорсткий</param>
-        <param name="Матеріал коліс">Поліуретан</param>
-      </offer>
-      <offer id="WN01PC-L-RoseGold" available="true">
-        <quantity_in_stock>1</quantity_in_stock>
-        <name_ru>Чемодан из поликарбоната Wings WN01 большой 97л розовое золото (WN01PC-L-RoseGold)</name_ru>
-        <name_ua>Валіза з полікарбонату Wings WN01 велика 97л рожеве золото (WN01PC-L-RoseGold)</name_ua>
-        <price>2750</price>
-        <categoryId>1061</categoryId>
-        <vendor>Wings</vendor>
-        <country>Польща</country>
-        <description_ru>Чемодан из поликарбоната Wings WN01 большой 97л розовое золото (WN01PC-L-RoseGold)</description_ru>
-        <description_ua>Валіза з полікарбонату Wings WN01 в розмірі L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Завдяки використанню 100% полікарбонату валіза поєднує в собі виняткову міцність та гнучкість корпусних деталей. Така еластичність гарантує максимальну довговічність та надійний захист ваших речей у найекстремальніших умовах. Валіза оснащена посиленою системою поворотних коліс, що дозволяє плавно маневрувати навіть при повному завантаженні. Для безпеки передбачено вбудований кодовий замок, а продуманий внутрішній простір із фіксаторами допоможе акуратно організувати багаж. Вага завантаження становить 22-25 кг.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-polikarbonatu-wings-wn01-velyka-97l-rozheve-zoloto-wn01pc-l-rosegold-29158701836043_+8eb16c4ec2.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-polikarbonatu-wings-wn01-velyka-97l-rozheve-zoloto-wn01pc-l-rosegold-59555929077395_+f8e50b7d8d.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-polikarbonatu-wings-wn01-velyka-97l-rozheve-zoloto-wn01pc-l-rosegold-98370019273528_+db2cc5af80.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-polikarbonatu-wings-wn01-velyka-97l-rozheve-zoloto-wn01pc-l-rosegold-23382556292680_+956b218b5d.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-polikarbonatu-wings-wn01-velyka-97l-rozheve-zoloto-wn01pc-l-rosegold-52839910937112_+2e99ffa6d2.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-polikarbonatu-wings-wn01-velyka-97l-rozheve-zoloto-wn01pc-l-rosegold-95675061628479_+9a2236d01d.jpg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-polikarbonatu-wings-wn01-velyka-97l-rozheve-zoloto-wn01pc-l-rosegold-27954540805784_+680319d104.jpg</picture>
-        <param name="Колір">Рожево-золотий</param>
         <param name="Тип">Валізи</param>
         <param name="Матеріал корпусу">Полікарбонат</param>
         <param name="Стать">Унісекс</param>
@@ -11114,6 +11075,34 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
+      <offer id="43803-S-White" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан для ручной клади Snowball 43803 малый 34л белый (43803-S-White)</name_ru>
+        <name_ua>Валіза для ручної поклажі Snowball 43803 мала 34л біла (43803-S-White)</name_ua>
+        <price>2900</price>
+        <categoryId>1061</categoryId>
+        <vendor>Snowball</vendor>
+        <country>Франція</country>
+        <description_ru>Чемодан для ручной клади Snowball 43803 малый 34л белый (43803-S-White)</description_ru>
+        <description_ua>Валіза з поліпропілену Snowball 43803 в розмірі L - максимально місткий варіант для тривалих подорожей від 10 днів або великих сімейних поїздок. Валіза призначена для здачі в багажне відділення і дозволяє взяти з собою все необхідне, не обмежуючи себе у речах. Матеріал поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує величезний тиск інших сумок у багажному відсіку та не тріскається навіть при неповному завантаженні. Модель оснащена посиленими поворотними колесами для легкого керування важким багажем, вбудованим кодовим замком для захисту вмісту та ергономічним внутрішнім простором із надійними фіксаторами. Вага завантаження становить 22-25кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/31/15151008424193_+6faa45842c.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/31/79523647763931_+ca94456c42.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/31/88240486849674_+80018af97c.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/31/35000697635578_+cf6d21aa3e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/31/86511320851102_+1f7c573088.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/31/65176119383974_+472b0b1514.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/31/60814717126734_+dd05cfcad4.jpg</picture>
+        <param name="Колір">Белый</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Маленькі (до 50 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
       <offer id="33703-M-Sea-wave" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Snowball 33703 средний 69л синий (33703-M-Sea-wave)</name_ru>
@@ -11901,24 +11890,6 @@
         <param name="Об'єм">Маленькі (до 50 л)</param>
         <param name="Тип закриття">На блискавці</param>
       </offer>
-      <offer id="Catesigo-XS-Black" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Рюкзак с отделением для ноутбука 34л черный (Catesigo-XS-Black)</name_ru>
-        <name_ua>Рюкзак з відділенням для ноутбуку 34л чорний (Catesigo-XS-Black)</name_ua>
-        <price>1227</price>
-        <categoryId>1089</categoryId>
-        <country>Китай</country>
-        <description_ru>Рюкзак с отделением для ноутбука 34л черный (Catesigo-XS-Black)</description_ru>
-        <description_ua>Рюкзак Catesigo на 34л - ідеальний супутник для динамічного життя та подорожей. Його габарити (48х35х20 см) та продуманий функціонал забезпечують максимальний комфорт у будь-якій дорозі. Завдяки великій місткості із двома основними та трьома малими відсіками ви зможете акуратно спакувати всі необхідні речі. Якісний водонепроникний нейлон гарантує безпеку документів і техніки формату А4 навіть під час раптової зливи. Вбудований USB-роз&amp;#39;єм допоможе завжди залишатися на зв&amp;rsquo;язку в терміналах вокзалів чи під час тривалих прогулянок. Особлива кишеня &amp;laquo;антизлодій&amp;raquo; на спині надійно захистить ваші найцінніші речі від кишенькових злодіїв у натовпі. Численні внутрішні органайзери, фронтальні та бічні кишені дозволять миттєво знайти потрібну дрібницю на ходу. Комфорт під час тривалого носіння забезпечує ергономічна спинка-подушка з вентиляцією та додаткова грудна стяжка. Це надійний, місткий та стильний вибір для тих, хто звик тримати все під контролем і подорожувати організовано.</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/3/riukzak-dlia-ruchnoi-poklazhi-catesigo-34l-chornyi-catesigo-xs-black-43717286749607_+132848b2c4.jpg</picture>
-        <param name="Колір">Черный</param>
-        <param name="Тип">Рюкзак</param>
-        <param name="Матеріал корпусу">Нейлон</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">Без колес</param>
-        <param name="Об'єм">Маленькі (до 50 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-      </offer>
       <offer id="15108-XS-Beige" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Рюкзак для лоукоста 16л бежевый (15108-XS-Beige)</name_ru>
@@ -12394,33 +12365,6 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
-      <offer id="6007-M-Black" available="false">
-        <quantity_in_stock>0</quantity_in_stock>
-        <name_ru>Дорожная сумка Kaiman 6007 60л средняя черная (6007-M-Black)</name_ru>
-        <name_ua>Дорожня сумка Kaiman 6007 60л середня чорна (6007-M-Black)</name_ua>
-        <price>800</price>
-        <categoryId>1087</categoryId>
-        <vendor>Kaiman</vendor>
-        <country>Китай</country>
-        <description_ru>Дорожная сумка Kaiman 6007 60л средняя черная (6007-M-Black)</description_ru>
-        <description_ua>Дорожня сумка Kaiman 6007 60л середня чорна (6007-M-Black)</description_ua>
-        <picture>https://sklad-valiz.com.ua/content/images/23/dorozhnia-sumka-kaiman-6007-60l-serednia-chorna-6007-m-black-97762930836463_+f9a0f4353f.jpeg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/23/dorozhnia-sumka-kaiman-6007-60l-serednia-chorna-6007-m-black-52514663374449_+f6bb63b31f.jpeg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/23/dorozhnia-sumka-kaiman-6007-60l-serednia-chorna-6007-m-black-20378742609115_+df6e9c49a7.jpeg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/23/dorozhnia-sumka-kaiman-6007-60l-serednia-chorna-6007-m-black-40765222333461_+8758c19c58.jpeg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/23/dorozhnia-sumka-kaiman-6007-60l-serednia-chorna-6007-m-black-45819989814132_+41eef1f378.jpeg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/23/dorozhnia-sumka-kaiman-6007-60l-serednia-chorna-6007-m-black-59077891601936_+2676919d60.jpeg</picture>
-        <picture>https://sklad-valiz.com.ua/content/images/23/dorozhnia-sumka-kaiman-6007-60l-serednia-chorna-6007-m-black-27565362440391_+e46546935e.jpeg</picture>
-        <param name="Колір">Черный</param>
-        <param name="Тип">Сумка дорожная</param>
-        <param name="Матеріал корпусу">Нейлон</param>
-        <param name="Стать">Унісекс</param>
-        <param name="Кількість коліс">Без колес</param>
-        <param name="Вбудований замок">Без замку</param>
-        <param name="Об'єм">Середні (50 – 89.9 л)</param>
-        <param name="Тип закриття">На блискавці</param>
-        <param name="Корпус">М'який</param>
-      </offer>
       <offer id="65903-Set-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Набор чемоданов с расширением Carbon 65903 4 в 1 черный (65903-Set-Black)</name_ru>
@@ -12589,6 +12533,34 @@
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
+      <offer id="647-M-Black" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан с расширением Airtex 647 средний 72л черный (647-M-Black)</name_ru>
+        <name_ua>Валіза з розширенням Airtex 647 середня 72л чорна (647-M-Black)</name_ua>
+        <price>5300</price>
+        <categoryId>1061</categoryId>
+        <vendor>Airtex</vendor>
+        <country>Франція</country>
+        <description_ru>Чемодан с расширением Airtex 647 средний 72л черный (647-M-Black)</description_ru>
+        <description_ua>Валіза з розширенням Airtex 647 в розмірі М - оптимальний середній варіант, розрахований на повноцінні індивідуальні подорожі або сімейні поїздки тривалістю до 10 днів. Ця модель призначена для здачі в багажне відділення авіалайнерів або зручного розміщення в поїздах та авто. Матеріал 100% поліпропілен забезпечує виняткову міцність та гнучкість: корпус витримує значний зовнішній тиск у багажному відсіку літака і не деформується навіть у разі неповного завантаження. Для захисту від атмосферних факторів і стороннього втручання валіза оснащена вологозахищеною зламостійкою блискавкою &amp;laquo;антизлодій&amp;raquo; та вбудованим кодовим замком із системою TSA. Завдяки чотирьом подвійним поліуретановим колесам, що обертаються на 360 градусів на металевих підшипниках, забезпечується безшумний та плавний рух важкого багажу. Ергономічний внутрішній простір продуманий до дрібниць: він розділений на два відділи, де передбачені притискні ремені, щільна перегородка на блискавці та функціональні кишені для дрібниць і цінних речей. Додаткова вбудована система розширення дозволяє за потреби збільшити товщину валізи на 5 см та суттєво наростити корисний об&amp;#39;єм для сувенірів і додаткового одягу.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-89831030667937_+73323613c0.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-77180202213850_+df3b740908.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-45198648403472_+34a04ede8b.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-29578742837802_+995ab7881e.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-33396727527479_+4dfe18b37d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-91648184536864_+7def07e826.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/9/valiza-z-rozshyrenniam-airtex-647-serednia-72l-chorna-647-m-black-48085420703076_+aaae909536.jpg</picture>
+        <param name="Колір">Черный</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Поліпропілен</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Середні (50 – 89.9 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
       <offer id="647-L-Black" available="false">
         <quantity_in_stock>0</quantity_in_stock>
         <name_ru>Чемодан с расширением Airtex 647 большой 105л черный (647-L-Black)</name_ru>
@@ -12613,6 +12585,34 @@
         <param name="Кількість коліс">4 шт</param>
         <param name="Вбудований замок">Кодовий</param>
         <param name="Об'єм">Гігантські (більше 100 л)</param>
+        <param name="Тип закриття">На блискавці</param>
+        <param name="Корпус">Жорсткий</param>
+        <param name="Матеріал коліс">Поліуретан</param>
+      </offer>
+      <offer id="WN01PC-L-RoseGold" available="false">
+        <quantity_in_stock>0</quantity_in_stock>
+        <name_ru>Чемодан из поликарбоната Wings WN01 большой 97л розовое золото (WN01PC-L-RoseGold)</name_ru>
+        <name_ua>Валіза з полікарбонату Wings WN01 велика 97л рожеве золото (WN01PC-L-RoseGold)</name_ua>
+        <price>2750</price>
+        <categoryId>1061</categoryId>
+        <vendor>Wings</vendor>
+        <country>Польща</country>
+        <description_ru>Чемодан из поликарбоната Wings WN01 большой 97л розовое золото (WN01PC-L-RoseGold)</description_ru>
+        <description_ua>Валіза з полікарбонату Wings WN01 в розмірі L - ідеальний варіант для тривалих відпусток від 10 днів або сімейних подорожей. Ця модель створена для здачі в багаж, пропонуючи максимальний об&amp;rsquo;єм, щоб ви могли взяти всі необхідні речі без жодних компромісів. Завдяки використанню 100% полікарбонату валіза поєднує в собі виняткову міцність та гнучкість корпусних деталей. Така еластичність гарантує максимальну довговічність та надійний захист ваших речей у найекстремальніших умовах. Валіза оснащена посиленою системою поворотних коліс, що дозволяє плавно маневрувати навіть при повному завантаженні. Для безпеки передбачено вбудований кодовий замок, а продуманий внутрішній простір із фіксаторами допоможе акуратно організувати багаж. Вага завантаження становить 22-25 кг.</description_ua>
+        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-polikarbonatu-wings-wn01-velyka-97l-rozheve-zoloto-wn01pc-l-rosegold-29158701836043_+8eb16c4ec2.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-polikarbonatu-wings-wn01-velyka-97l-rozheve-zoloto-wn01pc-l-rosegold-59555929077395_+f8e50b7d8d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-polikarbonatu-wings-wn01-velyka-97l-rozheve-zoloto-wn01pc-l-rosegold-98370019273528_+db2cc5af80.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-polikarbonatu-wings-wn01-velyka-97l-rozheve-zoloto-wn01pc-l-rosegold-23382556292680_+956b218b5d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-polikarbonatu-wings-wn01-velyka-97l-rozheve-zoloto-wn01pc-l-rosegold-52839910937112_+2e99ffa6d2.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-polikarbonatu-wings-wn01-velyka-97l-rozheve-zoloto-wn01pc-l-rosegold-95675061628479_+9a2236d01d.jpg</picture>
+        <picture>https://sklad-valiz.com.ua/content/images/29/valiza-z-polikarbonatu-wings-wn01-velyka-97l-rozheve-zoloto-wn01pc-l-rosegold-27954540805784_+680319d104.jpg</picture>
+        <param name="Колір">Рожево-золотий</param>
+        <param name="Тип">Валізи</param>
+        <param name="Матеріал корпусу">Полікарбонат</param>
+        <param name="Стать">Унісекс</param>
+        <param name="Кількість коліс">4 шт</param>
+        <param name="Вбудований замок">Кодовий</param>
+        <param name="Об'єм">Великі (90 - 100 л)</param>
         <param name="Тип закриття">На блискавці</param>
         <param name="Корпус">Жорсткий</param>
         <param name="Матеріал коліс">Поліуретан</param>
@@ -13254,7 +13254,7 @@
         <param name="Матеріал коліс">Поліуретан</param>
       </offer>
       <offer id="33703-M-Champagne" available="true">
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name_ru>Чемодан из полипропилена Snowball 33703 средний 69л шампань (33703-М-Champagne)</name_ru>
         <name_ua>Валіза з поліпропілену Snowball 33703 середня 69л шампань (33703-М-Champagne)</name_ua>
         <price>3100</price>
@@ -14953,7 +14953,7 @@
         <param name="Тип закриття">На блискавці</param>
       </offer>
       <offer id="NPC-Black-L" available="true">
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name_ru>Чехол для чемодана неопрен NPC-Black-L</name_ru>
         <name_ua>Чохол для валізи неопрен NPC-Black-L</name_ua>
         <price>600</price>
